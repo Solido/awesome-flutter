@@ -54,13 +54,13 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Begin with
 
-- [Zero to One with Flutter](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) by [Mikkel Ravn](https://medium.com/@mravn)
-- [FLUTTER from Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) A full serie of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
+- [Zero to One with Flutter](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) - by [Mikkel Ravn](https://medium.com/@mravn)
+- [FLUTTER from Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) - A full serie of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
 
 ### Misc
 
-- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) by [Kevin Segaud](https://twitter.com/kevin_segaud)
-- [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) by [Mikkel Ravn](https://medium.com/@mravn)
+- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) - by [Kevin Segaud](https://twitter.com/kevin_segaud)
+- [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) - by [Mikkel Ravn](https://medium.com/@mravn)
 
 ### Tutorial
 
@@ -69,16 +69,18 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 ### Advanced
 
 - [Flutter with Dart Streams](https://gitlab.com/brianegan/flutter_stream_friends) - by Brian Egan
-- [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/26/flutter-notification.html) French by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/26/flutter-notification.html) - French by [Erick Ghaumez](https://twitter.com/rxlabz)
 
 
 ### Howtos
 
-- [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) - by [Erick Ghaumez](https://twitter.com/rxlabz)
 
 ## Components
 
-- [Image Picker](https://github.com/flutter/image_picker)
+- [Image Picker](https://github.com/flutter/image_picker) - by [Collin Jackson](http://www.collinjackson.com)
+
+### System
 
 ### UI
 

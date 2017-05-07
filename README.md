@@ -135,7 +135,11 @@ Plugins / IOS - Android  additions
 - [FriendlyChat](https://github.com/flutter/friendlychat-flutter) - An Offline/Firebase chat
 
 ## Frameworks
+- [Flutter Flux](https://github.com/jimbeveridge/flutter_flux/blob/master/README.md) A Flux implementation for Flutter
+- [GreenCat](https://github.com/alexeieleusis/greencat) Redux for Flutter
 
+### Web
+- [Butterfly](https://github.com/yjbanov/butterfly) A web framework for Dart based on Flutter's widget model
 
 ## Tutorials
 

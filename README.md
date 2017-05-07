@@ -85,7 +85,6 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 - [Flutter Markdown](https://github.com/flutter/flutter/tree/master/packages/flutter_markdown) - A markdown renderer for Flutter. It supports the original format, but no inline html.
 - [Time Ago](https://github.com/andresaraujo/timeago.dart) - by [Andres Araujo](http://andresaraujo.co) who start publishing it *2 years ago* ;)
 
-
 ### Analytics
 
 - [Usage ★24](https://github.com/dart-lang/usage) - A Google Analytics wrapper for command-line, web, and Flutter apps.
@@ -153,6 +152,7 @@ Plugins / IOS - Android  additions
 
 ### Web
 - [Butterfly](https://github.com/yjbanov/butterfly) - A web framework for Dart based on Flutter's widget model
+- [Angel & Flutter](https://github.com/angel-example/flutter) - Simple todo app with Flutter and an Angel backend by [Tobe O](http://thosakwe.com)
 
 ## Tutorials
 

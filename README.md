@@ -87,7 +87,8 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Analytics
 
-- [Usage ★24](https://github.com/dart-lang/usage) - A Google Analytics wrapper for command-line, web, and Flutter apps.
+- [Usage](https://github.com/dart-lang/usage) - A Google Analytics wrapper for command-line, web, and Flutter apps.
+- [Firebase Analytics](https://github.com/flutter/firebase_analytics) Firebase Analytics for Flutter
 
 ### Build & Development
 

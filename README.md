@@ -8,13 +8,14 @@ An awesome style list that curates the best Flutter libraries, tools, tutorials,
 
 <div style="text-align: center"><table><tr>
     <td style="text-align: center">
-        <img src="https://www1-lw.xda-cdn.com/files/2017/03/Google-IO-2017-Agenda-Page-Updated-with-Scheduled-Sessions.png" width="200">
+        <img src="https://www1-lw.xda-cdn.com/files/2017/03/Google-IO-2017-Agenda-Page-Updated-with-Scheduled-Sessions.png" width="250">
         <a href="https://events.google.com/io/schedule/?section=may-19&sid=496d01fb-2139-4fd6-84b2-e585d1a20e61&track=firebase">
         <br/>
         Single Codebase, Two Apps with Flutter and Firebase
         </a>
     </td>
     <td style="text-align: center">
+    <img src="https://www1-lw.xda-cdn.com/files/2017/03/Google-IO-2017-Agenda-Page-Updated-with-Scheduled-Sessions.png" width="250">
         <a href="https://events.google.com/io/schedule/?section=may-19&sid=fed907cf-4b51-4337-8ee0-43bca96dec08">
         <br/>
         Prototyping to Production: Bridging the Gap with a Common Tool

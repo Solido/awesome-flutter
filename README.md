@@ -162,7 +162,7 @@ Plugins / IOS - Android  additions
 
 ### Web
 - [Butterfly](https://github.com/yjbanov/butterfly) - A web framework for Dart based on Flutter's widget model
-- [Angel & Flutter](https://github.com/angel-example/flutter) - Simple todo app with Flutter and an Angel backend by [Tobe O](http://thosakwe.com)
+- [Angel & Flutter](https://github.com/angel-example/flutter) - Simple todo app with Flutter and an Angel backend by [Tobe Osakwe](http://thosakwe.com)
 
 ## Tutorials
 

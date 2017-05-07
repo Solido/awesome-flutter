@@ -114,6 +114,8 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Monetization
 
+-[Users want to display ads in their Flutter apps](https://github.com/flutter/flutter/issues/8098)
+
 ### Animation
 
 - [Lottie](https://github.com/fabiomsr/lottie-flutter) After Effect for Flutter ???

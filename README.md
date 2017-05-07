@@ -138,7 +138,7 @@ Plugins / IOS - Android  additions
 
 ## Tutorials
 
-- [FLUTTER from Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) A full serie of 4 articles by [Chema Rubio] (https://twitter.com/develodroid)
+- [FLUTTER from Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) A full serie of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
 
 ## Problem & Solution
 

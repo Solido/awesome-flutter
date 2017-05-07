@@ -164,6 +164,10 @@ Plugins / IOS - Android  additions
 - [Encode/Decode Json request](https://www.youtube.com/watch?v=JuQbAKPIYnw&t=83s) - by [Brandon Donnelson](https://twitter.com/branflake2267)
 - [Hero Widget](https://www.youtube.com/watch?v=0oq6Ofh2WNg) - by [Brandon Donnelson](https://twitter.com/branflake2267)
 
+### Enjoy
+
+- [Flutter Birth](https://www.youtube.com/watch?time_continue=2&v=U7qtl7lVKXQ) - Animated graph of Flutter commit - by [Brandon Donnelson](https://twitter.com/branflake2267)
+
 ### Talks
 
 - [Flutter Keynote 2016](https://www.youtube.com/watch?v=Mx-AllVZ1VY) - Keynote: Flutter (Dart Developer Summit 2016) by Eric Seidel

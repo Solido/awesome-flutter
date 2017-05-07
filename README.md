@@ -101,6 +101,8 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Media
 
+- [Audio Plugin](https://github.com/rxlabz/flutter_audio) Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Video Player](https://github.com/rxlabz/flutter_videoplayer) Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
 
 ### Storage
 
@@ -127,8 +129,6 @@ Plugins / IOS - Android  additions
 
 - [Flutter Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins
 - [Share Plugin](https://github.com/xster/flutter-plugin-share)
-- [Audio Plugin](https://github.com/rxlabz/flutter_audio) Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
-- [Video Player](https://github.com/rxlabz/flutter_videoplayer) Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
 
 ## Open Source Demo & App
 

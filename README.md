@@ -87,6 +87,8 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Styling
 
+- [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) by [Collin Jackson](http://www.collinjackson.com)
+
 ### System
 
 - [Sky Engine](https://github.com/flutter/engine) Where magic begins

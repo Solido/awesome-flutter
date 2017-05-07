@@ -140,6 +140,10 @@ Plugins / IOS - Android  additions
 - [Share Plugin](https://github.com/xster/flutter-plugin-share)
 - [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Flutters plugins filter in Dart Pub Repository
 
+### Swift
+
+- [Plugin Swift Template](https://github.com/rxlabz/FlutterSwiftPlugin-template) - by [Erick Ghaumez](https://twitter.com/rxlabz)
+
 ## Open Source Apps
 
 - [FriendlyChat](https://github.com/flutter/friendlychat-flutter) - An Offline/Firebase chat

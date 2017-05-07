@@ -144,6 +144,7 @@ Plugins / IOS - Android  additions
 
 - [FriendlyChat](https://github.com/flutter/friendlychat-flutter) - An Offline/Firebase chat
 - [Flutter News](https://github.com/andresaraujo/flutter_news) - A Hacker News client by [Andres Araujo](http://andresaraujo.co)
+- [Cooking App](https://github.com/oscarcpozas/cooking-app-flutter) - by Óscar Caballero in the kitchen
 
 ### Games
 

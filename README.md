@@ -6,7 +6,9 @@
     <td style="text-align: center">
         <img src="https://cdn-images-1.medium.com/max/1600/1*te0NUsn8_bj0S1VyvF_awA.gif" />
     </td>
-   
+    <td style="text-align: center">
+        <img src="https://cloud.githubusercontent.com/assets/1295961/25781521/5e2a9738-333b-11e7-825d-a6672b1f0b73.gif" />
+    </td>
 </tr></table></div>
 
 

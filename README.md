@@ -57,14 +57,6 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 - [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) by [Erick Ghaumez](https://twitter.com/rxlabz)
 
-### Assorted
-
-
-### Continuous Integration
-
-### Internals
-
-
 ## Components
 
 - [Image Picker](https://github.com/flutter/image_picker)
@@ -97,6 +89,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### System
 
+- [Sky Engine](https://github.com/flutter/engine) Where magic begins
 
 ### Web
 
@@ -123,7 +116,6 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 - [Lottie](https://github.com/fabiomsr/lottie-flutter) - After Effect for Flutter ???
 
 ## Utilities 
-
 
 ## Seeds
 
@@ -153,13 +145,7 @@ Plugins / IOS - Android  additions
 
 ## Problem & Solution
 
-
 ## Books
-
-Books - free and commercial (but only good ones).
-
-
-Books - for sale.
 
 
 ## Videos

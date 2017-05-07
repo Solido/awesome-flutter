@@ -2,6 +2,14 @@
 
 <img src="https://flutter.io/images/flutter-mark-square-100.png" alt="Build Status" />
 
+<div style="text-align: center"><table><tr>
+    <td style="text-align: center">
+        <img src="https://cdn-images-1.medium.com/max/1600/1*te0NUsn8_bj0S1VyvF_awA.gif" />
+    </td>
+   
+</tr></table></div>
+
+
 An awesome style list that curates the best Flutter libraries, tools, tutorials, articles and more. PRs are welcome!
 
 ## Coming Events

@@ -1,5 +1,6 @@
 # Awesome Flutter
 
+An awesome style list that curates the best Flutter libraries, tools, tutorials, articles and more. PRs are welcome!
 <img src="https://flutter.io/images/flutter-mark-square-100.png" alt="Build Status" />
 
 <div style="text-align: center"><table><tr>
@@ -10,9 +11,6 @@
         <img src="https://cloud.githubusercontent.com/assets/1295961/25781521/5e2a9738-333b-11e7-825d-a6672b1f0b73.gif" />
     </td>
 </tr></table></div>
-
-
-An awesome style list that curates the best Flutter libraries, tools, tutorials, articles and more. PRs are welcome!
 
 ## Coming Events
 

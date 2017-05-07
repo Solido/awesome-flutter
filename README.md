@@ -98,6 +98,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 - [Flutter Markdown](https://github.com/flutter/flutter/tree/master/packages/flutter_markdown) - A markdown renderer for Flutter. It supports the original format, but no inline html.
 - [Time Ago](https://github.com/andresaraujo/timeago.dart) - by [Andres Araujo](http://andresaraujo.co) who start publishing it *2 years ago* ;)
+- [Image Placeholder](https://github.com/FaisalAbid/pluto) - While large images load, show a fallback asset by [Faisal Abid](https://twitter.com/FaisalAbid)
 
 ### Analytics
 

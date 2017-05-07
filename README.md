@@ -35,7 +35,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 - [Navigation](#navigation)
 - [Utilities](#utilities)
 - [Seeds](#seeds)
-- [Libraries](#libraries)
+- [Plugins](#plugins)
 - [Open Source Apps](#open-source-apps)
 - [Frameworks](#frameworks)
 - [Tutorials](#tutorials)
@@ -127,7 +127,6 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ## Seeds
 
-
 ## Plugins
 
 Plugins / IOS - Android  additions
@@ -136,16 +135,17 @@ Plugins / IOS - Android  additions
 - [Share Plugin](https://github.com/xster/flutter-plugin-share)
 - [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Flutters plugins filter in Dart Pub Repository
 
-## Open Source Demo & App
+## Open Source Apps
 
 - [FriendlyChat](https://github.com/flutter/friendlychat-flutter) - An Offline/Firebase chat
+- [Flutter News](https://github.com/andresaraujo/flutter_news) - A Hacker News client by [Andres Araujo](http://andresaraujo.co)
 
 ## Frameworks
-- [Flutter Flux](https://github.com/jimbeveridge/flutter_flux/blob/master/README.md) A Flux implementation for Flutter
-- [GreenCat](https://github.com/alexeieleusis/greencat) Redux for Flutter
+- [Flutter Flux](https://github.com/jimbeveridge/flutter_flux) - A Flux implementation for Flutter
+- [GreenCat](https://github.com/alexeieleusis/greencat) - Redux for Flutter
 
 ### Web
-- [Butterfly](https://github.com/yjbanov/butterfly) A web framework for Dart based on Flutter's widget model
+- [Butterfly](https://github.com/yjbanov/butterfly) - A web framework for Dart based on Flutter's widget model
 
 ## Tutorials
 

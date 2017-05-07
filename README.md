@@ -62,12 +62,14 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 - [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) by [Kevin Segaud](https://twitter.com/kevin_segaud)
 - [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) by [Mikkel Ravn](https://medium.com/@mravn)
 
+### Tutorial
+
+- [Coding an Android App](https://code.tutsplus.com/tutorials/developing-an-android-app-with-flutter--cms-28270) by [Ashraff Hathibelagal](https://github.com/hathibelagal)
+
 ### Advanced
 
 - [Flutter with Dart Streams](https://gitlab.com/brianegan/flutter_stream_friends) - by Brian Egan
 - [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/26/flutter-notification.html) French by [Erick Ghaumez](https://twitter.com/rxlabz)
-
-### Reference
 
 
 ### Howtos

@@ -4,14 +4,19 @@
 
 An awesome style list that curates the best Flutter libraries, tools, tutorials, articles and more. PRs are welcome!
 
-## Buzzing
+## Coming Events
 
 <div style="text-align: center"><table><tr>
     <td style="text-align: center">
         <a href="https://events.google.com/io/schedule/?section=may-19&sid=496d01fb-2139-4fd6-84b2-e585d1a20e61&track=firebase">
-        <img src="https://i.ytimg.com/vi/0oq6Ofh2WNg/hqdefault.jpg?custom=true&w=246&h=138&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sadloWHetbrmsmBqGNKwOAuL9B8" width="138"/>
         <br/>
         Single Codebase, Two Apps with Flutter and Firebase
+        </a>
+    </td>
+    <td style="text-align: center">
+        <a href="https://events.google.com/io/schedule/?section=may-19&sid=fed907cf-4b51-4337-8ee0-43bca96dec08">
+        <br/>
+        Prototyping to Production: Bridging the Gap with a Common Tool
         </a>
     </td>
 </tr></table></div>

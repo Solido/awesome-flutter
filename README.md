@@ -39,15 +39,15 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ## Articles
 
-- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) by Kevin Segaud('https://twitter.com/kevin_segaud')
-- [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/26/flutter-notification.html) French by Erick Ghaumez(https://twitter.com/rxlabz)
+- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) by [Kevin Segaud]('https://twitter.com/kevin_segaud')
+- [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/26/flutter-notification.html) French by [Erick Ghaumez](https://twitter.com/rxlabz)
 
 ### Reference
 
 
 ### Howtos
 
-- [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) by Erick Ghaumez(https://twitter.com/rxlabz)
+- [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) by [Erick Ghaumez](https://twitter.com/rxlabz)
 
 ### Assorted
 
@@ -121,8 +121,8 @@ Plugins / IOS - Android  additions
 
 - [Flutter Plugins] (https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins
 - [Share Plugin](https://github.com/xster/flutter-plugin-share)
-- [Audio Plugin](https://github.com/rxlabz/flutter_audio) Beta by Erick Ghaumez(https://twitter.com/rxlabz)
-- [Video Player](https://github.com/rxlabz/flutter_videoplayer) Beta by Erick Ghaumez(https://twitter.com/rxlabz)
+- [Audio Plugin](https://github.com/rxlabz/flutter_audio) Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Video Player](https://github.com/rxlabz/flutter_videoplayer) Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
 
 ## Open Source Demo & App
 
@@ -159,3 +159,4 @@ Books - for sale.
 
 
 ## Blogs
+

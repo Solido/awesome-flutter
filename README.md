@@ -73,7 +73,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 - [Flutter Route](https://github.com/goposse/flutter-router) - Router.define "/users/:id" by [POSSE PRODUCTIONS LLC.](http://goposse.com)
 
 #### Navigation/Routing Articles
-- [Stocks Demo](https://github.com/flutter/flutter/blob/master/examples/stocks/lib/main.dart#L82) Using onGenerateRoute()
+- [Stocks Demo](https://github.com/flutter/flutter/blob/master/examples/stocks/lib/main.dart#L82) - Using onGenerateRoute()
 
 #### Navigation Demos
 - [🔥Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo app for the material design widgets and other features provided by Flutter.
@@ -101,8 +101,8 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Media
 
-- [Audio Plugin](https://github.com/rxlabz/flutter_audio) Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
-- [Video Player](https://github.com/rxlabz/flutter_videoplayer) Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Audio Plugin](https://github.com/rxlabz/flutter_audio) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Video Player](https://github.com/rxlabz/flutter_videoplayer) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
 
 ### Storage
 
@@ -114,11 +114,11 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Monetization
 
--[Users want to display ads in their Flutter apps](https://github.com/flutter/flutter/issues/8098)
+- [Users want to display ads in their Flutter apps](https://github.com/flutter/flutter/issues/8098)
 
 ### Animation
 
-- [Lottie](https://github.com/fabiomsr/lottie-flutter) After Effect for Flutter ???
+- [Lottie](https://github.com/fabiomsr/lottie-flutter) - After Effect for Flutter ???
 
 ## Utilities 
 

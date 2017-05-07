@@ -30,7 +30,6 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 ## Sections
 
 - [Articles](#articles)
-- [Internals](#internals)
 - [Components](#components)
 - [Navigation](#navigation)
 - [Utilities](#utilities)
@@ -76,6 +75,8 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 ### Text & Rich Content
 
 - [Flutter Markdown](https://github.com/flutter/flutter/tree/master/packages/flutter_markdown) - A markdown renderer for Flutter. It supports the original format, but no inline html.
+- [Time Ago](https://github.com/andresaraujo/timeago.dart) - [Andres Araujo](http://andresaraujo.co) who start publishing it *2 years ago* ;)
+
 
 ### Analytics
 

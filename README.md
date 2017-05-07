@@ -134,6 +134,7 @@ Plugins / IOS - Android  additions
 
 - [Flutter Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins
 - [Share Plugin](https://github.com/xster/flutter-plugin-share)
+- [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Flutters plugins filter in Dart Pub Repository
 
 ## Open Source Demo & App
 

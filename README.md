@@ -128,6 +128,8 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ## Utilities 
 
+- [Dobx](https://github.com/dobx/dobx) - A micro library inspired by vue's observables by [David Yu](https://gitlab.com/dyu)
+
 ## Seeds
 
 ## Plugins

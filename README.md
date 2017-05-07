@@ -39,7 +39,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ## Articles
 
-- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) by [Kevin Segaud]('https://twitter.com/kevin_segaud')
+- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) by [Kevin Segaud](https://twitter.com/kevin_segaud)
 - [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/26/flutter-notification.html) French by [Erick Ghaumez](https://twitter.com/rxlabz)
 
 ### Reference
@@ -148,8 +148,8 @@ Books - for sale.
 
 ## Videos
 
-- [Encode/Decode Json request](https://www.youtube.com/watch?v=JuQbAKPIYnw&t=83s) - by Brandon Donnelson
-- [Hero Widget](https://www.youtube.com/watch?v=0oq6Ofh2WNg) - by Brandon Donnelson
+- [Encode/Decode Json request](https://www.youtube.com/watch?v=JuQbAKPIYnw&t=83s) - by [Brandon Donnelson](https://twitter.com/branflake2267)
+- [Hero Widget](https://www.youtube.com/watch?v=0oq6Ofh2WNg) - by [Brandon Donnelson](https://twitter.com/branflake2267)
 
 ### Talks
 

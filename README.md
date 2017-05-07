@@ -143,6 +143,10 @@ Plugins / IOS - Android  additions
 - [FriendlyChat](https://github.com/flutter/friendlychat-flutter) - An Offline/Firebase chat
 - [Flutter News](https://github.com/andresaraujo/flutter_news) - A Hacker News client by [Andres Araujo](http://andresaraujo.co)
 
+### Games
+
+- [Flutter Game Demo](https://github.com/vlidholt/game) - Demo game for Flutter and Flutter Sprites by Viktor Lidholt
+
 ## Frameworks
 - [Flutter Flux](https://github.com/jimbeveridge/flutter_flux) - A Flux implementation for Flutter
 - [GreenCat](https://github.com/alexeieleusis/greencat) - Redux for Flutter

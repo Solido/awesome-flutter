@@ -45,7 +45,6 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 - [Plugins](#plugins)
 - [Open Source Apps](#open-source-apps)
 - [Frameworks](#frameworks)
-- [Tutorials](#tutorials)
 - [Books](#books)
 - [Videos](#videos)
 - [Blogs](#blogs)
@@ -53,11 +52,20 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ## Articles
 
-- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) by [Kevin Segaud](https://twitter.com/kevin_segaud)
-- [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/26/flutter-notification.html) French by [Erick Ghaumez](https://twitter.com/rxlabz)
+### Begin with
+
 - [Zero to One with Flutter](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) by [Mikkel Ravn](https://medium.com/@mravn)
+- [FLUTTER from Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) A full serie of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
+
+### Misc
+
+- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) by [Kevin Segaud](https://twitter.com/kevin_segaud)
 - [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) by [Mikkel Ravn](https://medium.com/@mravn)
 
+### Advanced
+
+- [Flutter with Dart Streams](https://gitlab.com/brianegan/flutter_stream_friends) - by Brian Egan
+- [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/26/flutter-notification.html) French by [Erick Ghaumez](https://twitter.com/rxlabz)
 
 ### Reference
 
@@ -165,10 +173,6 @@ Plugins / IOS - Android  additions
 ### Web
 - [Butterfly](https://github.com/yjbanov/butterfly) - A web framework for Dart based on Flutter's widget model
 - [Angel & Flutter](https://github.com/angel-example/flutter) - Simple todo app with Flutter and an Angel backend by [Tobe Osakwe](http://thosakwe.com)
-
-## Tutorials
-
-- [FLUTTER from Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) A full serie of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
 
 ## Problem & Solution
 

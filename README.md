@@ -93,7 +93,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 ### Build & Development
 
 - [Flutter Plugin for Intellij](https://github.com/flutter/flutter-intellij)
-- [Travis for Flutter](https://github.com/yjbanov/flutter_travis_sample) - by Yegor
+- [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) - by Yegor
 
 ### Styling
 

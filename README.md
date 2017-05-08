@@ -54,8 +54,8 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Begin with
 
-- [Zero to One with Flutter](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) - by [Mikkel Ravn](https://medium.com/@mravn)
 - [FLUTTER from Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) - A full serie of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
+- [Zero to One with Flutter](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) - by [Mikkel Ravn](https://medium.com/@mravn)
 
 ### Misc
 
@@ -146,6 +146,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 ## Utilities 
 
 - [Dobx](https://github.com/dobx/dobx) - A micro library inspired by vue's observables by [David Yu](https://gitlab.com/dyu)
+- [EventSource](https://github.com/stevenroose/dart-eventsource) - Server Sent Event by [Steven Roose](http://stevenroose.org)
 
 ## Seeds
 

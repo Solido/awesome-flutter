@@ -5,11 +5,15 @@ An awesome style list that curates the best Flutter libraries, tools, tutorials,
 
 <div style="text-align: center"><table><tr>
     <td style="text-align: center">
-        <img src="https://cdn-images-1.medium.com/max/1600/1*te0NUsn8_bj0S1VyvF_awA.gif" />
+        <img src="https://cdn-images-1.medium.com/max/1600/1*te0NUsn8_bj0S1VyvF_awA.gif" width="200" />
     </td>
     <td style="text-align: center">
-        <img src="https://cloud.githubusercontent.com/assets/1295961/25781521/5e2a9738-333b-11e7-825d-a6672b1f0b73.gif" />
+        <img src="https://cloud.githubusercontent.com/assets/1295961/25781521/5e2a9738-333b-11e7-825d-a6672b1f0b73.gif" width="200"/>
     </td>
+    <td style="text-align: center">
+        <img src="https://cloud.githubusercontent.com/assets/1295961/25817980/5d9033ca-3429-11e7-8cb3-7c939cba80ba.gif" width="200"/>
+    </td>
+   
 </tr></table></div>
 
 ## Coming Events

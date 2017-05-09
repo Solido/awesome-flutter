@@ -16,23 +16,23 @@ An awesome style list that curates the best Flutter libraries, tools, tutorials,
    
 </tr></table></div>
 
+## General Introduction Video
+
+<a href="https://www.youtube.com/watch?v=0ijVuVtu6a4">
+<img width="500" alt="screen shot 2017-05-09 at 14 24 22" src="https://cloud.githubusercontent.com/assets/1295961/25850635/566cea6c-34c3-11e7-846e-aea01f4ef94a.png">
+<br>
+Droidcon Italy 2017 // A new hope - Eugenio Marletti & Sebastiano Poggi
+</a>
+
 ## Coming Events
 
-<div style="text-align: center"><table><tr>
-    <td style="text-align: center">
-        <img src="https://www1-lw.xda-cdn.com/files/2017/03/Google-IO-2017-Agenda-Page-Updated-with-Scheduled-Sessions.png" width="250">
-        <a href="https://events.google.com/io/schedule/?section=may-19&sid=496d01fb-2139-4fd6-84b2-e585d1a20e61&track=firebase">
-        <br/>
-        Single Codebase, Two Apps with Flutter and Firebase
-        </a>
-    </td>
+<table><tr>
     <td style="text-align: center">
     <img src="https://www1-lw.xda-cdn.com/files/2017/03/Google-IO-2017-Agenda-Page-Updated-with-Scheduled-Sessions.png" width="250">
+    <a href="https://events.google.com/io/schedule/?section=may-19&sid=496d01fb-2139-4fd6-84b2-e585d1a20e61&track=firebase">
+        <br/>1. Single Codebase, Two Apps with Flutter and Firebase</a>
         <a href="https://events.google.com/io/schedule/?section=may-19&sid=fed907cf-4b51-4337-8ee0-43bca96dec08">
-        <br/>
-        Prototyping to Production: Bridging the Gap with a Common Tool
-        </a>
-    </td>
+        <br/>2. Prototyping to Production: Bridging the Gap with a Common Tool </a></td>
 </tr></table></div>
 
 

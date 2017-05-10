@@ -46,7 +46,7 @@ Droidcon Italy 2017 // A new hope - Eugenio Marletti & Sebastiano Poggi
 
 Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieone.com.
 
-## Sections
+## Contents
 
 - [Articles](#articles)
 - [Components](#components)

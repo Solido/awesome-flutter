@@ -136,8 +136,6 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 - [Sky Engine](https://github.com/flutter/engine) - Engine behind Flutter
 
-### Web
-
 ### Media
 
 - [Audio Plugin](https://github.com/rxlabz/flutter_audio) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
@@ -147,9 +145,6 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 ### Storage
 
 - [Firebase Storage](https://github.com/flutter/firebase_storage)
-
-### Integrations
-
 
 ### Monetization
 
@@ -225,8 +220,8 @@ Plugins / IOS - Android  additions
 ## Bonus
 
 ### Misc
-- [First Video as Sky](https://www.youtube.com/watch?v=PnIWl33YMwA) - by Eric Seidel
-- [Flutter Birth](https://www.youtube.com/watch?time_continue=2&v=U7qtl7lVKXQ) - Animated graph of Flutter commit - by [Brandon Donnelson](https://twitter.com/branflake2267). What's happening at 2:38 ? Brandon told me it's the Intellij Plugin.
+- [First video presenting Sky](https://www.youtube.com/watch?v=PnIWl33YMwA) - by Eric Seidel
+- [Flutter birth](https://www.youtube.com/watch?time_continue=2&v=U7qtl7lVKXQ) - Animated graph of Flutter commit - by [Brandon Donnelson](https://twitter.com/branflake2267). What's happening at 2:38 ? Brandon told me it's the Intellij Plugin.
 
 ### Published Apps
 - [Newsvoice](https://itunes.apple.com/se/app/newsvoice/id1208421834?l=en&mt=8) - Newsvoice shows all the news and perspectives from high quality sources in one place.

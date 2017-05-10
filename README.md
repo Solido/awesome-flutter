@@ -66,22 +66,22 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Begin with
 
-- [FLUTTER from Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) - A full serie of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
-- [Zero to One with Flutter](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) - by [Mikkel Ravn](https://medium.com/@mravn)
+- [FLUTTER from Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) - Full serie of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
+- [Zero to One with Flutter](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn)
 
 ### Misc
 
-- [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) - by [Mikkel Ravn](https://medium.com/@mravn)
+- [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn)
 
 ### Tutorial
 
-- [Coding an Android App](https://code.tutsplus.com/tutorials/developing-an-android-app-with-flutter--cms-28270) by [Ashraff Hathibelagal](https://github.com/hathibelagal)
+- [Coding an Android App](https://code.tutsplus.com/tutorials/developing-an-android-app-with-flutter--cms-28270) - Setup and first app by [Ashraff Hathibelagal](https://github.com/hathibelagal)
 
 ### Advanced
 
 - [Rx Search](https://github.com/ReactiveX/rxdart/tree/master/example/flutter/github_search) - Using RxDart to animate a Search Widget.
 - [Flutter with Dart Streams](https://gitlab.com/brianegan/flutter_stream_friends) - by Brian Egan
-- [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/26/flutter-notification.html) - French by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/26/flutter-notification.html) - by [Erick Ghaumez](https://twitter.com/rxlabz) (French)
 
 ### Howtos
 
@@ -97,7 +97,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### UI
 
-- [Image Picker](https://github.com/flutter/image_picker) - by [Collin Jackson](http://www.collinjackson.com)
+- [Image Picker](https://github.com/flutter/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
 
 ### Navigation
 - [Flutter Route](https://github.com/goposse/flutter-router) - Router.define "/users/:id" by [POSSE PRODUCTIONS LLC.](http://goposse.com)
@@ -113,19 +113,19 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Text & Rich Content
 
-- [Flutter Markdown](https://github.com/flutter/flutter/tree/master/packages/flutter_markdown) - A markdown renderer for Flutter. It supports the original format, but no inline html.
+- [Flutter Markdown](https://github.com/flutter/flutter/tree/master/packages/flutter_markdown) - Markdown renderer for Flutter. It supports the original format, but no inline html.
 - [Time Ago](https://github.com/andresaraujo/timeago.dart) - by [Andres Araujo](http://andresaraujo.co) who start publishing it *2 years ago* ;)
 - [Image Placeholder](https://github.com/FaisalAbid/pluto) - While large images load, show a fallback asset by [Faisal Abid](https://twitter.com/FaisalAbid)
 
 ### Analytics
 
-- [Usage](https://github.com/dart-lang/usage) - A Google Analytics wrapper for command-line, web, and Flutter apps.
+- [Usage](https://github.com/dart-lang/usage) - Google Analytics wrapper for command-line, web, and Flutter apps.
 - [Firebase Analytics](https://github.com/flutter/firebase_analytics) Firebase Analytics for Flutter
 
 ### Build & Development
 
 - [Flutter Plugin for Intellij](https://github.com/flutter/flutter-intellij)
-- [Observatory](https://flutter.io/debugging/#dart-observatory-statement-level-single-stepping-debugger-and-profiler) A Profiler for Dart Apps, allocated memory, fragmentation, leaks, timing.
+- [Observatory](https://flutter.io/debugging/#dart-observatory-statement-level-single-stepping-debugger-and-profiler) Profiler for Dart Apps, allocated memory, fragmentation, leaks, timing.
 - [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) - by [Yegor Jbanov](https://twitter.com/yegorjbanov)
 
 ### Styling
@@ -134,7 +134,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### System
 
-- [Sky Engine](https://github.com/flutter/engine) Where magic begins
+- [Sky Engine](https://github.com/flutter/engine) - Engine behind Flutter
 
 ### Web
 
@@ -142,7 +142,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 - [Audio Plugin](https://github.com/rxlabz/flutter_audio) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Video Player](https://github.com/rxlabz/flutter_videoplayer) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
-- [WebP/WebM](https://github.com/flutter/flutter/issues/9857)
+- [WebP/WebM](https://github.com/flutter/flutter/issues/9857) - Currently in progress
 
 ### Storage
 
@@ -161,7 +161,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ## Utilities 
 
-- [Dobx](https://github.com/dobx/dobx) - A micro library inspired by vue's observables by [David Yu](https://gitlab.com/dyu)
+- [Dobx](https://github.com/dobx/dobx) - Micro library inspired by vue's observables by [David Yu](https://gitlab.com/dyu)
 - [EventSource](https://github.com/stevenroose/dart-eventsource) - Server Sent Event by [Steven Roose](http://stevenroose.org)
 
 ## Seeds
@@ -181,9 +181,9 @@ Plugins / IOS - Android  additions
 
 ## Open Source Apps
 
-- [FriendlyChat](https://github.com/flutter/friendlychat-flutter) - An Offline/Firebase chat
-- [Flutter News](https://github.com/andresaraujo/flutter_news) - A Hacker News client by [Andres Araujo](http://andresaraujo.co)
-- [Flitter](https://github.com/dart-flitter/flitter) - A Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It use the Redux and Jaguar !
+- [FriendlyChat](https://github.com/flutter/friendlychat-flutter) - Offline/Firebase chat
+- [Flutter News](https://github.com/andresaraujo/flutter_news) - Hacker News client by [Andres Araujo](http://andresaraujo.co)
+- [Flitter](https://github.com/dart-flitter/flitter) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It use the Redux and Jaguar !
 - [Cooking App](https://github.com/oscarcpozas/cooking-app-flutter) - by Óscar Caballero in the kitchen
 
 ### Games
@@ -194,14 +194,14 @@ Plugins / IOS - Android  additions
 
 ### Flux / Redux
 
-- [Flutter Flux](https://github.com/jimbeveridge/flutter_flux) - A Flux implementation for Flutter
-- [GreenCat](https://github.com/alexeieleusis/greencat) - A port of Redux to Dart, including Redux Thunk
+- [Flutter Flux](https://github.com/jimbeveridge/flutter_flux) - Flux implementation for Flutter
+- [GreenCat](https://github.com/alexeieleusis/greencat) - Port of Redux to Dart, including Redux Thunk
 - [Redux](https://pub.dartlang.org/packages/redux) - Redux for Flutter
-- [WFlux](https://github.com/Workiva/w_flux) - A Dart app architecture library with uni-directional data flow inspired by RefluxJS and Facebook's Flux.
+- [WFlux](https://github.com/Workiva/w_flux) - Dart app architecture library with uni-directional data flow inspired by RefluxJS and Facebook's Flux.
 
 ### Web
 
-- [Butterfly](https://github.com/yjbanov/butterfly) - A web framework for Dart based on Flutter's widget model
+- [Butterfly](https://github.com/yjbanov/butterfly) - Web framework for Dart based on Flutter's widget model
 - [Angel & Flutter](https://github.com/angel-example/flutter) - Simple todo app with Flutter and an Angel backend by [Tobe Osakwe](http://thosakwe.com)
 
 ## Problem & Solution
@@ -230,7 +230,7 @@ Plugins / IOS - Android  additions
 
 ### Published Apps
 - [Newsvoice](https://itunes.apple.com/se/app/newsvoice/id1208421834?l=en&mt=8) - Newsvoice shows all the news and perspectives from high quality sources in one place.
-- [Bendometer](https://itunes.apple.com/us/app/bendometer/id772557902?mt=8) - A "harmonica tuner". Learn how to play bends on your harmonica.
+- [Bendometer](https://itunes.apple.com/us/app/bendometer/id772557902?mt=8) - "Harmonica tuner". Learn how to play bends on your harmonica.
 
 ### Jobs
 - [Lefty.io](https://lefty.io/jobs/frontend) - Possibly one of the first companies to hire @flutterio devs !

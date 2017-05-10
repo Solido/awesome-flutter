@@ -63,7 +63,6 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Misc
 
-- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) - by [Kevin Segaud](https://twitter.com/kevin_segaud)
 - [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) - by [Mikkel Ravn](https://medium.com/@mravn)
 
 ### Tutorial
@@ -98,6 +97,11 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 - [🔥Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo app for the material design widgets and other features provided by Flutter.
 - [Posse Gallery](https://github.com/flutter/posse_gallery) by [POSSE PRODUCTIONS LLC.](http://goposse.com)
 
+### Auth
+
+- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) - by [Kevin Segaud](https://twitter.com/kevin_segaud)
+- [Google Sign-In](https://github.com/flutter/google_sign_in)
+
 ### Text & Rich Content
 
 - [Flutter Markdown](https://github.com/flutter/flutter/tree/master/packages/flutter_markdown) - A markdown renderer for Flutter. It supports the original format, but no inline html.
@@ -125,11 +129,11 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Web
 
-
 ### Media
 
 - [Audio Plugin](https://github.com/rxlabz/flutter_audio) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Video Player](https://github.com/rxlabz/flutter_videoplayer) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [WebP/WebM](https://github.com/flutter/flutter/issues/9857)
 
 ### Storage
 

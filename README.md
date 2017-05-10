@@ -72,6 +72,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Advanced
 
+- [Rx Search](https://github.com/ReactiveX/rxdart/tree/master/example/flutter/github_search) - Using RxDart to animate a Search Widget.
 - [Flutter with Dart Streams](https://gitlab.com/brianegan/flutter_stream_friends) - by Brian Egan
 - [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/26/flutter-notification.html) - French by [Erick Ghaumez](https://twitter.com/rxlabz)
 

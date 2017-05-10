@@ -1,7 +1,7 @@
-# Awesome Flutter
+<img src="https://flutter.io/images/flutter-mark-square-100.png" alt="Build Status" />
+# Awesome Flutter, getting you effective quickly
 
 An awesome style list that curates the best Flutter libraries, tools, tutorials, articles and more. PRs are welcome!
-<img src="https://flutter.io/images/flutter-mark-square-100.png" alt="Build Status" />
 
 <div style="text-align: center"><table><tr>
     <td style="text-align: center">
@@ -75,7 +75,6 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 - [Flutter with Dart Streams](https://gitlab.com/brianegan/flutter_stream_friends) - by Brian Egan
 - [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/26/flutter-notification.html) - French by [Erick Ghaumez](https://twitter.com/rxlabz)
 
-
 ### Howtos
 
 - [Animate List Addition](https://github.com/flutter/friendlychat-flutter/blob/master/full/lib/main.dart#L70) - Animation of an element added to a list
@@ -87,8 +86,6 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 - [🔥Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo app for the material design widgets and other features provided by Flutter.
 - [Posse Gallery](https://github.com/flutter/posse_gallery) by [POSSE PRODUCTIONS LLC.](http://goposse.com)
-
-### System
 
 ### UI
 

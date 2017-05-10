@@ -52,6 +52,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 - [Books](#books)
 - [Videos](#videos)
 - [Blogs](#blogs)
+- [Bonus](#bonus)
 
 
 ## Articles
@@ -101,6 +102,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 - [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) - by [Kevin Segaud](https://twitter.com/kevin_segaud)
 - [Google Sign-In](https://github.com/flutter/google_sign_in)
+- [Firebase Auth](https://github.com/flutter/firebase_auth)
 
 ### Text & Rich Content
 
@@ -141,7 +143,6 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Integrations
 
-- [Firebase Auth](https://github.com/flutter/firebase_auth)
 
 ### Monetization
 
@@ -174,6 +175,7 @@ Plugins / IOS - Android  additions
 
 - [FriendlyChat](https://github.com/flutter/friendlychat-flutter) - An Offline/Firebase chat
 - [Flutter News](https://github.com/andresaraujo/flutter_news) - A Hacker News client by [Andres Araujo](http://andresaraujo.co)
+- [Flitter](https://github.com/dart-flitter/flitter) - A Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It use the Redux and Jaguar !
 - [Cooking App](https://github.com/oscarcpozas/cooking-app-flutter) - by Óscar Caballero in the kitchen
 
 ### Games
@@ -198,16 +200,24 @@ Plugins / IOS - Android  additions
 - [Encode/Decode Json request](https://www.youtube.com/watch?v=JuQbAKPIYnw&t=83s) - by [Brandon Donnelson](https://twitter.com/branflake2267)
 - [Hero Widget](https://www.youtube.com/watch?v=0oq6Ofh2WNg) - by [Brandon Donnelson](https://twitter.com/branflake2267)
 
-### Enjoy
-
-- [Flutter Birth](https://www.youtube.com/watch?time_continue=2&v=U7qtl7lVKXQ) - Animated graph of Flutter commit - by [Brandon Donnelson](https://twitter.com/branflake2267). What's happening at 2:38 ? Brandon told me it's the Intellij Plugin.
-
 ### Talks
 
-- [Flutter Keynote 2016](https://www.youtube.com/watch?v=Mx-AllVZ1VY) - Keynote: Flutter (Dart Developer Summit 2016) by Eric Seidel
+- [Flutter Keynote 2016](https://www.youtube.com/watch?v=Mx-AllVZ1VY) - Keynote: Flutter (Dart Developer Summit 2016) - by Eric Seidel
 
 ### Training & tutorials
 
-
 ## Blogs
+
+## Bonus
+
+### Misc
+- [First Video as Sky](https://www.youtube.com/watch?v=PnIWl33YMwA) - by Eric Seidel
+- [Flutter Birth](https://www.youtube.com/watch?time_continue=2&v=U7qtl7lVKXQ) - Animated graph of Flutter commit - by [Brandon Donnelson](https://twitter.com/branflake2267). What's happening at 2:38 ? Brandon told me it's the Intellij Plugin.
+
+### Published Apps
+- (Newsvoice)[https://itunes.apple.com/se/app/newsvoice/id1208421834?l=en&mt=8] - Newsvoice shows all the news and perspectives from high quality sources in one place.
+
+### Jobs
+- [Lefty.io](https://lefty.io/jobs/frontend) - Possibly one of the first companies to hire @flutterio devs !
+
 

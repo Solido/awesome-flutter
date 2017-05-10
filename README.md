@@ -83,21 +83,22 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ## Components
 
-- [Image Picker](https://github.com/flutter/image_picker) - by [Collin Jackson](http://www.collinjackson.com)
+### Demonstrations
+
+- [🔥Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo app for the material design widgets and other features provided by Flutter.
+- [Posse Gallery](https://github.com/flutter/posse_gallery) by [POSSE PRODUCTIONS LLC.](http://goposse.com)
 
 ### System
 
 ### UI
+
+- [Image Picker](https://github.com/flutter/image_picker) - by [Collin Jackson](http://www.collinjackson.com)
 
 ### Navigation
 - [Flutter Route](https://github.com/goposse/flutter-router) - Router.define "/users/:id" by [POSSE PRODUCTIONS LLC.](http://goposse.com)
 
 #### Navigation/Routing Articles
 - [Stocks Demo](https://github.com/flutter/flutter/blob/master/examples/stocks/lib/main.dart#L82) - Using onGenerateRoute()
-
-#### Navigation Demos
-- [🔥Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo app for the material design widgets and other features provided by Flutter.
-- [Posse Gallery](https://github.com/flutter/posse_gallery) by [POSSE PRODUCTIONS LLC.](http://goposse.com)
 
 ### Auth
 
@@ -186,9 +187,12 @@ Plugins / IOS - Android  additions
 
 ## Frameworks
 
+### Flux / Redux
+
 - [Flutter Flux](https://github.com/jimbeveridge/flutter_flux) - A Flux implementation for Flutter
 - [GreenCat](https://github.com/alexeieleusis/greencat) - A port of Redux to Dart, including Redux Thunk
 - [Redux](https://pub.dartlang.org/packages/redux) - Redux for Flutter
+- [WFlux](https://github.com/Workiva/w_flux) - A Dart app architecture library with uni-directional data flow inspired by RefluxJS and Facebook's Flux.
 
 ### Web
 

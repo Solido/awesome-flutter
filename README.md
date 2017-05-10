@@ -102,6 +102,9 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 ### Navigation
 - [Flutter Route](https://github.com/goposse/flutter-router) - Router.define "/users/:id" by [POSSE PRODUCTIONS LLC.](http://goposse.com)
 
+### Fuchsia
+- [Armadillo](https://github.com/fuchsia-mirror/sysui) - Armadillo Mega Widgets
+
 #### Navigation/Routing Articles
 - [Stocks Demo](https://github.com/flutter/flutter/blob/master/examples/stocks/lib/main.dart#L82) - Using onGenerateRoute()
 
@@ -199,11 +202,6 @@ Plugins / IOS - Android  additions
 - [Butterfly](https://github.com/yjbanov/butterfly) - Web framework for Dart based on Flutter's widget model
 - [Angel & Flutter](https://github.com/angel-example/flutter) - Simple todo app with Flutter and an Angel backend by [Tobe Osakwe](http://thosakwe.com)
 
-## Problem & Solution
-
-## Books
-
-
 ## Videos
 
 - [Encode/Decode Json request](https://www.youtube.com/watch?v=JuQbAKPIYnw&t=83s) - by [Brandon Donnelson](https://twitter.com/branflake2267)
@@ -214,8 +212,6 @@ Plugins / IOS - Android  additions
 - [Flutter Keynote 2016](https://www.youtube.com/watch?v=Mx-AllVZ1VY) - Keynote: Flutter (Dart Developer Summit 2016) - by Eric Seidel
 
 ### Training & tutorials
-
-## Blogs
 
 ## Bonus
 

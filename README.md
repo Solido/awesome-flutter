@@ -187,7 +187,8 @@ Plugins / IOS - Android  additions
 ## Frameworks
 
 - [Flutter Flux](https://github.com/jimbeveridge/flutter_flux) - A Flux implementation for Flutter
-- [GreenCat](https://github.com/alexeieleusis/greencat) - Redux for Flutter
+- [GreenCat](https://github.com/alexeieleusis/greencat) - A port of Redux to Dart, including Redux Thunk
+- [Redux](https://pub.dartlang.org/packages/redux) - Redux for Flutter
 
 ### Web
 

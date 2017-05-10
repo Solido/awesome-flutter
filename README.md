@@ -1,7 +1,8 @@
-# Awesome Flutter, getting you effective quickly
-<img src="https://flutter.io/images/flutter-mark-square-100.png" alt="Build Status" />
+# Awesome Flutter, getting you effective quickly [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An awesome style list that curates the best Flutter libraries, tools, tutorials, articles and more. PRs are welcome!
+[<img src="https://flutter.io/images/flutter-mark-square-100.png" align="right" width="100">](http://flutter.io)
+
+> An awesome style list that curates the best [Flutter](http://flutter.io) libraries, tools, tutorials, articles and more.
 
 <div style="text-align: center"><table><tr>
     <td style="text-align: center">

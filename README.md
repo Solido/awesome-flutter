@@ -1,5 +1,5 @@
-<img src="https://flutter.io/images/flutter-mark-square-100.png" alt="Build Status" />
 # Awesome Flutter, getting you effective quickly
+<img src="https://flutter.io/images/flutter-mark-square-100.png" alt="Build Status" />
 
 An awesome style list that curates the best Flutter libraries, tools, tutorials, articles and more. PRs are welcome!
 

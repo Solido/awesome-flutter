@@ -78,6 +78,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Howtos
 
+- [Animate List Addition](https://github.com/flutter/friendlychat-flutter/blob/master/full/lib/main.dart#L70) - Animation of an element added to a list
 - [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) - by [Erick Ghaumez](https://twitter.com/rxlabz)
 
 ## Components
@@ -184,10 +185,12 @@ Plugins / IOS - Android  additions
 - [Flutter Game Demo](https://github.com/vlidholt/game) - Demo game for Flutter and Flutter Sprites by Viktor Lidholt
 
 ## Frameworks
+
 - [Flutter Flux](https://github.com/jimbeveridge/flutter_flux) - A Flux implementation for Flutter
 - [GreenCat](https://github.com/alexeieleusis/greencat) - Redux for Flutter
 
 ### Web
+
 - [Butterfly](https://github.com/yjbanov/butterfly) - A web framework for Dart based on Flutter's widget model
 - [Angel & Flutter](https://github.com/angel-example/flutter) - Simple todo app with Flutter and an Angel backend by [Tobe Osakwe](http://thosakwe.com)
 

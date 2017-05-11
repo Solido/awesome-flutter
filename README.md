@@ -127,7 +127,6 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Build & Development
 
-- [Flutter Plugin for Intellij](https://github.com/flutter/flutter-intellij)
 - [Mutisya](http://mutisya.com/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya)
 - [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) - by [Yegor Jbanov](https://twitter.com/yegorjbanov)
 

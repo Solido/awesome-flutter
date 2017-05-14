@@ -193,8 +193,7 @@ Plugins / IOS - Android  additions
 
 - [Flutter Flux](https://github.com/jimbeveridge/flutter_flux) - Flux implementation for Flutter
 - [GreenCat](https://github.com/alexeieleusis/greencat) - Port of Redux to Dart, including Redux Thunk
-- [Redux](https://pub.dartlang.org/packages/redux) - Redux for Flutter
-- [WFlux](https://github.com/Workiva/w_flux) - Dart app architecture library with uni-directional data flow inspired by RefluxJS and Facebook's Flux.
+- [Flutter built redux](https://github.com/davidmarne/flutter_built_redux) - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne)
 
 ### Web
 

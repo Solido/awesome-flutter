@@ -93,14 +93,14 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 ### Demonstrations
 
 - [🔥Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo app for the material design widgets and other features provided by Flutter.
-- [Posse Gallery](https://github.com/flutter/posse_gallery) by [POSSE PRODUCTIONS LLC.](http://goposse.com)
+- [Posse Gallery](https://github.com/flutter/posse_gallery) by [Posse](http://goposse.com)
 
 ### UI
 
 - [Image Picker](https://github.com/flutter/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
 
 ### Navigation
-- [Flutter Route](https://github.com/goposse/flutter-router) - Router.define "/users/:id" by [POSSE PRODUCTIONS LLC.](http://goposse.com)
+- [Fluro](https://github.com/goposse/fluro) - Router.define "/users/:id" by [Posse](http://goposse.com)
 
 ### Fuchsia
 - [Armadillo](https://github.com/fuchsia-mirror/sysui) - Armadillo Mega Widgets

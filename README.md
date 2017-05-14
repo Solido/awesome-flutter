@@ -98,12 +98,10 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 ### UI
 
 - [Image Picker](https://github.com/flutter/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
+- [Zoomable Image](https://github.com/perlatus/flutter_zoomable_image) - By Perlatus
 
 ### Navigation
 - [Fluro](https://github.com/goposse/fluro) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [POSSE PRODUCTIONS LLC.](http://goposse.com)
-
-### Fuchsia
-- [Armadillo](https://github.com/fuchsia-mirror/sysui) - Armadillo Mega Widgets
 
 #### Navigation/Routing Articles
 - [Stocks Demo](https://github.com/flutter/flutter/blob/master/examples/stocks/lib/main.dart#L82) - Using onGenerateRoute()
@@ -209,6 +207,9 @@ Plugins / IOS - Android  additions
 ### Training & tutorials
 
 ## Bonus
+
+### Fuchsia
+- [🔥Armadillo](https://github.com/fuchsia-mirror/sysui) - Armadillo Mega Widgets for Fuchsia OS
 
 ### Misc
 - [First video presenting Sky](https://www.youtube.com/watch?v=PnIWl33YMwA) - by Eric Seidel

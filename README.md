@@ -141,6 +141,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 - [Audio Plugin](https://github.com/rxlabz/flutter_audio) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Video Player](https://github.com/rxlabz/flutter_videoplayer) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Video Launcher](https://github.com/rxlabz/flutter_video_launcher) - by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [WebP/WebM](https://github.com/flutter/flutter/issues/9857) - Currently in progress
 
 ### Storage
@@ -220,9 +221,6 @@ Plugins / IOS - Android  additions
 ### Published Apps
 - [Newsvoice](https://itunes.apple.com/se/app/newsvoice/id1208421834?l=en&mt=8) - Newsvoice shows all the news and perspectives from high quality sources in one place.
 - [Bendometer](https://itunes.apple.com/us/app/bendometer/id772557902?mt=8) - "Harmonica tuner". Learn how to play bends on your harmonica.
-
-### Jobs
-- [Lefty.io](https://lefty.io/jobs/frontend) - Possibly one of the first companies to hire @flutterio devs !
 
 ## License
 

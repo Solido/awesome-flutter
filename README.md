@@ -93,7 +93,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 ### Demonstrations
 
 - [🔥Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo app for the material design widgets and other features provided by Flutter.
-- [Posse Gallery](https://github.com/flutter/posse_gallery) by [POSSE PRODUCTIONS LLC.](http://goposse.com)
+- [Posse Gallery](https://github.com/flutter/posse_gallery) by [Posse](http://goposse.com)
 
 ### UI
 

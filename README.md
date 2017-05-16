@@ -98,12 +98,11 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 ### UI
 
 - [Image Picker](https://github.com/flutter/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
+- [Nectar Fading Image](https://github.com/Solido/Flutter-Nectar) - Add a fading effect before displaying images loaded by network by [Robert Felker](https://www.linkedin.com/in/robert-felker-62b17111)
+- [Zoomable Image](https://github.com/perlatus/flutter_zoomable_image) - By Perlatus
 
 ### Navigation
-- [Fluro](https://github.com/goposse/fluro) - Router.define "/users/:id" by [Posse](http://goposse.com)
-
-### Fuchsia
-- [Armadillo](https://github.com/fuchsia-mirror/sysui) - Armadillo Mega Widgets
+- [Fluro](https://github.com/goposse/fluro) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [POSSE PRODUCTIONS LLC.](http://goposse.com)
 
 #### Navigation/Routing Articles
 - [Stocks Demo](https://github.com/flutter/flutter/blob/master/examples/stocks/lib/main.dart#L82) - Using onGenerateRoute()
@@ -142,6 +141,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 - [Audio Plugin](https://github.com/rxlabz/flutter_audio) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Video Player](https://github.com/rxlabz/flutter_videoplayer) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Video Launcher](https://github.com/rxlabz/flutter_video_launcher) - by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [WebP/WebM](https://github.com/flutter/flutter/issues/9857) - Currently in progress
 
 ### Storage
@@ -178,7 +178,8 @@ Plugins / IOS - Android  additions
 
 ## Open Source Apps
 
-- [FriendlyChat](https://github.com/flutter/friendlychat-flutter) - Offline/Firebase chat
+- [FriendlyChat](https://github.com/flutter/friendlychat-flutter) - Offline/Firebase chat by a team of Googlers
+- [Meme Chat](https://github.com/efortuna/memechat) - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers
 - [Flutter News](https://github.com/andresaraujo/flutter_news) - Hacker News client by [Andres Araujo](http://andresaraujo.co)
 - [Flitter](https://github.com/dart-flitter/flitter) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It use the Redux and Jaguar !
 - [Cooking App](https://github.com/oscarcpozas/cooking-app-flutter) - by Óscar Caballero in the kitchen
@@ -193,8 +194,7 @@ Plugins / IOS - Android  additions
 
 - [Flutter Flux](https://github.com/jimbeveridge/flutter_flux) - Flux implementation for Flutter
 - [GreenCat](https://github.com/alexeieleusis/greencat) - Port of Redux to Dart, including Redux Thunk
-- [Redux](https://pub.dartlang.org/packages/redux) - Redux for Flutter
-- [WFlux](https://github.com/Workiva/w_flux) - Dart app architecture library with uni-directional data flow inspired by RefluxJS and Facebook's Flux.
+- [Flutter built redux](https://github.com/davidmarne/flutter_built_redux) - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne)
 
 ### Web
 
@@ -211,6 +211,9 @@ Plugins / IOS - Android  additions
 
 ## Bonus
 
+### Fuchsia
+- [🔥Armadillo](https://github.com/fuchsia-mirror/sysui) - Armadillo Mega Widgets for Fuchsia OS
+
 ### Misc
 - [First video presenting Sky](https://www.youtube.com/watch?v=PnIWl33YMwA) - by Eric Seidel
 - [Flutter birth](https://www.youtube.com/watch?time_continue=2&v=U7qtl7lVKXQ) - Animated graph of Flutter commit - by [Brandon Donnelson](https://twitter.com/branflake2267). What's happening at 2:38 ? Brandon told me it's the Intellij Plugin.
@@ -218,9 +221,6 @@ Plugins / IOS - Android  additions
 ### Published Apps
 - [Newsvoice](https://itunes.apple.com/se/app/newsvoice/id1208421834?l=en&mt=8) - Newsvoice shows all the news and perspectives from high quality sources in one place.
 - [Bendometer](https://itunes.apple.com/us/app/bendometer/id772557902?mt=8) - "Harmonica tuner". Learn how to play bends on your harmonica.
-
-### Jobs
-- [Lefty.io](https://lefty.io/jobs/frontend) - Possibly one of the first companies to hire @flutterio devs !
 
 ## License
 

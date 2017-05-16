@@ -102,7 +102,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 - [Zoomable Image](https://github.com/perlatus/flutter_zoomable_image) - By Perlatus
 
 ### Navigation
-- [Fluro](https://github.com/goposse/fluro) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [POSSE PRODUCTIONS LLC.](http://goposse.com)
+- [Fluro](https://github.com/goposse/fluro) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
 
 #### Navigation/Routing Articles
 - [Stocks Demo](https://github.com/flutter/flutter/blob/master/examples/stocks/lib/main.dart#L82) - Using onGenerateRoute()

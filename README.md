@@ -176,6 +176,10 @@ Plugins / IOS - Android  additions
 
 - [Plugin Swift Template](https://github.com/rxlabz/FlutterSwiftPlugin-template) - by [Erick Ghaumez](https://twitter.com/rxlabz)
 
+### Misc
+
+- [Battery](https://pub.dartlang.org/packages/battery) - Access various information about the battery
+
 ## Open Source Apps
 
 - [FriendlyChat](https://github.com/flutter/friendlychat-flutter) - Offline/Firebase chat by a team of Googlers

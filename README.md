@@ -161,6 +161,12 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 - [Dobx](https://github.com/dobx/dobx) - Micro library inspired by vue's observables by [David Yu](https://gitlab.com/dyu)
 - [EventSource](https://github.com/stevenroose/dart-eventsource) - Server Sent Event by [Steven Roose](http://stevenroose.org)
 
+### IDE
+
+- [Intellij Plugin](https://flutter.io/intellij-setup) - Flutter on Intellij and Webstorm
+- [Dart Code](https://marketplace.visualstudio.com/items?itemName=DanTup.dart-code) - Plugin to get Dart with Visual Studio Code by [Danny Tuppeny](https://twitter.com/DanTup)
+- [VSCode Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=franzsilva.fs-flutter-snippets) - Translated from IntelliJ IDEA Official Snippets by Franz Silva
+
 ## Seeds
 
 ## Plugins

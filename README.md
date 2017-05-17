@@ -76,6 +76,8 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 ### Tutorial
 
 - [Coding an Android App](https://code.tutsplus.com/tutorials/developing-an-android-app-with-flutter--cms-28270) - Setup and first app by [Ashraff Hathibelagal](https://github.com/hathibelagal)
+- [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs with Flutter by Google Code Labs
+- [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase Flutter by Google Code Labs
 
 ### Advanced
 

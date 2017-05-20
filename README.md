@@ -90,7 +90,6 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 ### UI
 
 - [Image Picker](https://github.com/flutter/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
-- [Nectar Fading Image](https://github.com/Solido/Flutter-Nectar) - Add a fading effect before displaying images loaded by network by [Robert Felker](https://www.linkedin.com/in/robert-felker-62b17111)
 - [Zoomable Image](https://github.com/perlatus/flutter_zoomable_image) - By Perlatus
 
 ### Navigation

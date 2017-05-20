@@ -50,15 +50,6 @@ Droidcon Italy 2017 // A new hope - Eugenio Marletti & Sebastiano Poggi
 
 ## Events
 
-<table><tr>
-    <td style="text-align: center">
-    <img src="https://www1-lw.xda-cdn.com/files/2017/03/Google-IO-2017-Agenda-Page-Updated-with-Scheduled-Sessions.png" width="250">
-    <a href="https://events.google.com/io/schedule/?section=may-19&sid=496d01fb-2139-4fd6-84b2-e585d1a20e61&track=firebase">
-        <br/>1. Single Codebase, Two Apps with Flutter and Firebase</a>
-        <a href="https://events.google.com/io/schedule/?section=may-19&sid=fed907cf-4b51-4337-8ee0-43bca96dec08">
-        <br/>2. Prototyping to Production: Bridging the Gap with a Common Tool </a></td>
-</tr></table></div>
-
 Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieone.com.
 
 ## Articles
@@ -212,11 +203,10 @@ Plugins / IOS - Android  additions
 - [Butterfly](https://github.com/yjbanov/butterfly) - Web framework for Dart based on Flutter's widget model
 - [Angel & Flutter](https://github.com/angel-example/flutter) - Simple todo app with Flutter and an Angel backend by [Tobe Osakwe](http://thosakwe.com)
 
-## Videos
+## Videos 
 - [Flutter Talks](https://www.youtube.com/playlist?list=PLW08AvVvHDpHFQjXnjv4CKPyAdFLPMW4q&disable_polymer=true) - Extensive list of Flutter videos in a dedicated Youtube Channel by [Brandon Donnelson](https://twitter.com/branflake2267), Dart Developer Summit and others.
 
-### Talks
-- [Flutter Keynote 2016](https://www.youtube.com/watch?v=Mx-AllVZ1VY) - Keynote: Flutter (Dart Developer Summit 2016) - by Eric Seidel
+- [Dart Streams - Flutter](https://www.youtube.com/playlist?list=PLlpxjI4sVd-zZ1jpJHJMSHGiWInsvwwf_) - Flutter dedicated channel on Dart-Streams 
 
 ### Training & tutorials
 
@@ -226,7 +216,6 @@ Plugins / IOS - Android  additions
 - [🔥Armadillo](https://github.com/fuchsia-mirror/sysui) - Armadillo Mega Widgets for Fuchsia OS
 
 ### Misc
-- [First video presenting Sky](https://www.youtube.com/watch?v=PnIWl33YMwA) - by Eric Seidel
 - [Flutter birth](https://www.youtube.com/watch?time_continue=2&v=U7qtl7lVKXQ) - Animated graph of Flutter commit - by [Brandon Donnelson](https://twitter.com/branflake2267). What's happening at 2:38 ? Brandon told me it's the Intellij Plugin.
 
 ### Published Apps

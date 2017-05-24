@@ -79,6 +79,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 - [Animate List Addition](https://github.com/flutter/friendlychat-flutter/blob/master/full/lib/main.dart#L70) - Animation of an element added to a list
 - [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) - by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Test Flutter on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov)
 
 ## Components
 

@@ -131,7 +131,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Media
 
-- [Audio Plugin](https://github.com/rxlabz/flutter_audio) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Audio Plugin](https://github.com/rxlabz/audioplayer) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Video Player](https://github.com/rxlabz/flutter_videoplayer) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Video Launcher](https://github.com/rxlabz/flutter_video_launcher) - by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [WebP/WebM](https://github.com/flutter/flutter/issues/9857) - Currently in progress

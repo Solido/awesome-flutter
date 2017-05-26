@@ -116,8 +116,8 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 ### Analytics
 
 - [Usage](https://github.com/dart-lang/usage) - Google Analytics wrapper for command-line, web, and Flutter apps.
-- [Firebase Analytics](https://github.com/flutter/firebase_analytics) Firebase Analytics for Flutter
-- [Segment.com Analytics](https://github.com/FaisalAbid/segment-analytics-flutter) Segment.com wrapper for Flutter by [Faisal Abid](https://twitter.com/FaisalAbid)
+- [Firebase Analytics](https://github.com/flutter/plugins/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API
+- [Segment.com Analytics](https://github.com/FaisalAbid/segment-analytics-flutter) - Make your Segment.com analytics a breeze! by [Faisal Abid](https://twitter.com/FaisalAbid)
 
 ### Build & Development
 

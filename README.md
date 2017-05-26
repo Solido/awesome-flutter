@@ -89,6 +89,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 - [🔥Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo app for the material design widgets and other features provided by Flutter.
 - [Posse Gallery](https://github.com/flutter/posse_gallery) by [Posse](http://goposse.com)
+- [Google Maps (android only example)](https://github.com/FaisalAbid/flutter-google-maps) by [Faisal Abid](https://www.twitter.com/FaisalAbid)
 
 ### UI
 

@@ -81,8 +81,12 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 - [Animate List Addition](https://github.com/flutter/friendlychat-flutter/blob/master/full/lib/main.dart#L70) - Animation of an element added to a list
 - [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) - by [Erick Ghaumez](https://twitter.com/rxlabz)
-- [Test Flutter on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov)
 - [Google Map for Android](https://github.com/FaisalAbid/flutter-google-maps) - Launching Google maps from Android by [Faisal Abid](https://twitter.com/FaisalAbid)
+
+#### Build Automation
+
+- [Test Flutter on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov)
 
 ## Components
 

@@ -92,7 +92,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Demonstrations
 
-- [🔥Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo app for the material design widgets and other features provided by Flutter.
+- [Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo app for the material design widgets and other features provided by Flutter.
 - [Posse Gallery](https://github.com/flutter/posse_gallery) by [Posse](http://goposse.com)
 
 ### UI
@@ -101,7 +101,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 - [Zoomable Image](https://github.com/perlatus/flutter_zoomable_image) - By Perlatus
 
 ### Navigation
-- [🔥Fluro](https://github.com/goposse/fluro) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
+- [Fluro](https://github.com/goposse/fluro) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
 
 #### Navigation/Routing Articles
 - [Stocks Demo](https://github.com/flutter/flutter/blob/master/examples/stocks/lib/main.dart#L82) - Using onGenerateRoute()
@@ -196,8 +196,8 @@ Plugins / IOS - Android  additions
 - [Flutter News](https://github.com/andresaraujo/flutter_news) - Hacker News client by [Andres Araujo](http://andresaraujo.co)
 - [Flitter](https://github.com/dart-flitter/flitter) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It use the Redux and Jaguar !
 - [Cooking App](https://github.com/oscarcpozas/cooking-app-flutter) - by Óscar Caballero in the kitchen
-- [Lime](https://github.com/fablue/lime-flutter) - Lime social network by Sebastian Sellmair
-- [Flitch](https://github.com/matanlurey/flitch) - Twitch client for Flutter by [Matan Lurey](https://twitter.com/matanlurey).
+- 🔥[Lime](https://github.com/fablue/lime-flutter) - Lime social network by Sebastian Sellmair
+- 🔥[Flitch](https://github.com/matanlurey/flitch) - Twitch client for Flutter by [Matan Lurey](https://twitter.com/matanlurey).
 
 ### Games
 
@@ -226,7 +226,7 @@ Plugins / IOS - Android  additions
 ## Bonus
 
 ### Fuchsia
-- [🔥Armadillo](https://github.com/fuchsia-mirror/sysui) - Armadillo Mega Widgets for Fuchsia OS
+- [Armadillo](https://github.com/fuchsia-mirror/sysui) - Armadillo Mega Widgets for Fuchsia OS
 
 ### Misc
 - [Flutter birth](https://www.youtube.com/watch?time_continue=2&v=U7qtl7lVKXQ) - Animated graph of Flutter commit - by [Brandon Donnelson](https://twitter.com/branflake2267). What's happening at 2:38 ? Brandon told me it's the Intellij Plugin.

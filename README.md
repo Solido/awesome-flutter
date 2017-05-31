@@ -130,6 +130,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Styling
 
+- [Flutterial](https://github.com/rxlabz/flutterial) - Flutter Material Theme explorer by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) by [Collin Jackson](http://www.collinjackson.com)
 
 ### System
@@ -195,8 +196,8 @@ Plugins / IOS - Android  additions
 - [Flutter News](https://github.com/andresaraujo/flutter_news) - Hacker News client by [Andres Araujo](http://andresaraujo.co)
 - [Flitter](https://github.com/dart-flitter/flitter) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It use the Redux and Jaguar !
 - [Cooking App](https://github.com/oscarcpozas/cooking-app-flutter) - by Óscar Caballero in the kitchen
-- 🔥[Lime](https://github.com/fablue/lime-flutter) - Lime social network by Sebastian Sellmair
-- 🔥[Flitch](https://github.com/matanlurey/flitch) - Twitch client for Flutter by [Matan Lurey](https://twitter.com/matanlurey).
+- [Lime](https://github.com/fablue/lime-flutter) - Lime social network by Sebastian Sellmair
+- [Flitch](https://github.com/matanlurey/flitch) - Twitch client for Flutter by [Matan Lurey](https://twitter.com/matanlurey).
 
 ### Games
 

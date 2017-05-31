@@ -79,7 +79,6 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Howtos
 
-- [Animate List Addition](https://github.com/flutter/friendlychat-flutter/blob/master/full/lib/main.dart#L70) - Animation of an element added to a list
 - [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) - by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Google Map for Android](https://github.com/FaisalAbid/flutter-google-maps) - Launching Google maps from Android by [Faisal Abid](https://twitter.com/FaisalAbid)
 

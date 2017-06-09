@@ -98,6 +98,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 - [Image Picker](https://github.com/flutter/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
 - [Zoomable Image](https://github.com/perlatus/flutter_zoomable_image) - By Perlatus
+- [SpriteWidget](https://pub.dartlang.org/packages/spritewidget) -  Toolkit for building complex, high performance animations and 2D games by Viktor Lidholt
 
 ### Navigation
 - [Fluro](https://github.com/goposse/fluro) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)

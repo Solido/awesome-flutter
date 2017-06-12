@@ -148,7 +148,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 #### Voice
 
--[Speech_Recognition](https://github.com/rxlabz/speech_recognition) - by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Speech Recognition](https://github.com/rxlabz/speech_recognition) - by [Erick Ghaumez](https://twitter.com/rxlabz)
 
 ### Storage
 

@@ -146,6 +146,10 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 - [Video Launcher](https://github.com/rxlabz/flutter_video_launcher) - by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [WebP/WebM](https://github.com/flutter/flutter/issues/9857) - Currently in progress
 
+#### Voice
+
+-[Speech_Recognition](https://github.com/rxlabz/speech_recognition) - by [Erick Ghaumez](https://twitter.com/rxlabz)
+
 ### Storage
 
 - [Firebase Storage](https://github.com/flutter/firebase_storage)

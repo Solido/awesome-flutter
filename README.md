@@ -184,10 +184,6 @@ Plugins / IOS - Android  additions
 - [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Flutters plugins filter in Dart Pub Repository
 
 
-### Swift
-
-- [Plugin Swift Template](https://github.com/rxlabz/FlutterSwiftPlugin-template) - by [Erick Ghaumez](https://twitter.com/rxlabz)
-
 ### Misc
 
 - [Battery](https://pub.dartlang.org/packages/battery) - Access various information about the battery

@@ -199,6 +199,7 @@ Plugins / IOS - Android  additions
 - [Cooking App](https://github.com/oscarcpozas/cooking-app-flutter) - by Óscar Caballero in the kitchen
 - [Lime](https://github.com/fablue/lime-flutter) - Lime social network by Sebastian Sellmair
 - [Flitch](https://github.com/matanlurey/flitch) - Twitch client for Flutter by [Matan Lurey](https://twitter.com/matanlurey).
+- [WikiFlutter](https://github.com/nanowang/wiki-flutter) - Wikipedia reader by [Nano WANG](https://github.com/nanowang)
 
 ### Games
 

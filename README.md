@@ -200,6 +200,7 @@ Plugins / IOS - Android  additions
 - [Lime](https://github.com/fablue/lime-flutter) - Lime social network by Sebastian Sellmair
 - [Flitch](https://github.com/matanlurey/flitch) - Twitch client for Flutter by [Matan Lurey](https://twitter.com/matanlurey).
 - [WikiFlutter](https://github.com/nanowang/wiki-flutter) - Wikipedia reader by [Nano WANG](https://github.com/nanowang)
+- [DartHub](https://github.com/SamThompson/dart_hub) - A GitHub client written in flutter by [Sam Thompson](https://github.com/SamThompson)
 
 ### Games
 

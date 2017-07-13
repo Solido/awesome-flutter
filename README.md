@@ -37,7 +37,6 @@ If you appreciate the content 📖 please give a ⭐ to help project visibility.
 - [Plugins](#plugins)
 - [Open Source Apps](#open-source-apps)
 - [Frameworks](#frameworks)
-- [Books](#books)
 - [Videos](#videos)
 - [Blogs](#blogs)
 - [Bonus](#bonus)
@@ -108,9 +107,10 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Auth
 
-- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) - by [Kevin Segaud](https://twitter.com/kevin_segaud)
+- [Local Auth](https://github.com/flutter/plugins/tree/master/packages/local_auth) - Touch ID, lock code, fingerprint auth on Ios and Android
 - [Google Sign-In](https://github.com/flutter/google_sign_in)
 - [Firebase Auth](https://github.com/flutter/firebase_auth)
+- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) - by [Kevin Segaud](https://twitter.com/kevin_segaud)
 
 ### Text & Rich Content
 

@@ -108,8 +108,8 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 ### Auth
 
 - [Local Auth](https://github.com/flutter/plugins/tree/master/packages/local_auth) - Touch ID, lock code, fingerprint auth on Ios and Android
-- [Google Sign-In](https://github.com/flutter/google_sign_in)
-- [Firebase Auth](https://github.com/flutter/firebase_auth)
+- [Google Sign-In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in)
+- [Firebase Auth](https://github.com/flutter/plugins/tree/master/packages/firebase_auth)
 - [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) - by [Kevin Segaud](https://twitter.com/kevin_segaud)
 
 ### Text & Rich Content
@@ -152,7 +152,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Storage
 
-- [Firebase Storage](https://github.com/flutter/firebase_storage)
+- [Firebase Storage](https://github.com/flutter/plugins/tree/master/packages/firebase_storage)
 
 ### Monetization
 

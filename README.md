@@ -1,6 +1,6 @@
-# Awesome Flutter, getting you effective quickly [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Flutter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://flutter.io/images/flutter-mark-square-100.png" align="right" width="100">](http://flutter.io)
+[<img src="https://flutter.io/images/flutter-mark-square-100.png" width="100">](http://flutter.io)
 
 > An awesome style list that curates the best [Flutter](http://flutter.io) libraries, tools, tutorials, articles and more.
 
@@ -28,7 +28,6 @@ If you appreciate the content 📖 please give a ⭐ to help project visibility.
 ## Contents
 
 - [Introduction](#introduction)
-- [Events](#events)
 - [Articles](#articles)
 - [Components](#components)
 - [Navigation](#navigation)
@@ -38,7 +37,6 @@ If you appreciate the content 📖 please give a ⭐ to help project visibility.
 - [Open Source Apps](#open-source-apps)
 - [Frameworks](#frameworks)
 - [Videos](#videos)
-- [Blogs](#blogs)
 - [Bonus](#bonus)
 
 ## Introduction
@@ -48,10 +46,6 @@ If you appreciate the content 📖 please give a ⭐ to help project visibility.
 <br>
 Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 </a>
-
-## Events
-
-Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieone.com.
 
 ## Articles
 
@@ -73,12 +67,12 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 ### Advanced
 
 - [Rx Search](https://github.com/ReactiveX/rxdart/tree/master/example/flutter/github_search) - Using RxDart to animate a Search Widget.
-- [Flutter with Dart Streams](https://gitlab.com/brianegan/flutter_stream_friends) - by Brian Egan
-- [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/26/flutter-notification.html) - by [Erick Ghaumez](https://twitter.com/rxlabz) (French)
+- [Flutter Dart Streams](https://gitlab.com/brianegan/flutter_stream_friends) - By Brian Egan
+- [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/26/flutter-notification.html) - By [Erick Ghaumez](https://twitter.com/rxlabz) (French)
 
 ### Howtos
 
-- [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) - by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) - By [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Google Map for Android](https://github.com/FaisalAbid/flutter-google-maps) - Launching Google maps from Android by [Faisal Abid](https://twitter.com/FaisalAbid)
 
 #### Build Automation
@@ -91,7 +85,7 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 ### Demonstrations
 
 - [Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo app for the material design widgets and other features provided by Flutter.
-- [Posse Gallery](https://github.com/flutter/posse_gallery) by [Posse](http://goposse.com)
+- [Posse Gallery](https://github.com/flutter/posse_gallery) - Demonstration by [Posse](http://goposse.com)
 
 ### UI
 
@@ -102,20 +96,19 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 ### Navigation
 - [Fluro](https://github.com/goposse/fluro) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
-- [Circle Indicator](https://pub.dartlang.org/packages/circle_indicator) - A circle indicator for the PageViewer by [Lung Razvan](https://github.com/thelong1EU)
+- [Circle Indicator](https://pub.dartlang.org/packages/circle_indicator) - Circle indicator for the PageViewer by [Lung Razvan](https://github.com/thelong1EU)
 - [Quick Actions](https://github.com/flutter/plugins/tree/master/packages/quick_actions) - Manage and interact with the application's home screen quick actions.
 
 ### Auth
 
 - [Local Auth](https://github.com/flutter/plugins/tree/master/packages/local_auth) - Touch ID, lock code, fingerprint auth on Ios and Android
-- [Google Sign-In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in)
-- [Firebase Auth](https://github.com/flutter/plugins/tree/master/packages/firebase_auth)
-- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) - by [Kevin Segaud](https://twitter.com/kevin_segaud)
+- [Google Sign-In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in) - Google OAuth 
+- [Firebase Auth](https://github.com/flutter/plugins/tree/master/packages/firebase_auth) - Firebase OAuth
+- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) - Facebook OAuth by [Kevin Segaud](https://twitter.com/kevin_segaud)
 
 ### Text & Rich Content
 
 - [Flutter Markdown](https://github.com/flutter/flutter_markdown) - Markdown renderer for Flutter. It supports the original format, but no inline html.
-- [Time Ago](https://github.com/andresaraujo/timeago.dart) - by [Andres Araujo](http://andresaraujo.co) who start publishing it *2 years ago* ;)
 - [Image Placeholder](https://github.com/FaisalAbid/pluto) - While large images load, show a fallback asset by [Faisal Abid](https://twitter.com/FaisalAbid)
 
 ### Analytics
@@ -127,12 +120,12 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 ### Build & Development
 
 - [Mutisya](http://mutisya.com/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya)
-- [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) - by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) - Continuous integration by [Yegor Jbanov](https://twitter.com/yegorjbanov)
 
 ### Styling
 
 - [Flutterial](https://github.com/rxlabz/flutterial) - Flutter Material Theme explorer by [Erick Ghaumez](https://twitter.com/rxlabz)
-- [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) by [Collin Jackson](http://www.collinjackson.com)
+- [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) - Render effect by [Collin Jackson](http://www.collinjackson.com)
 - [Font Awesome](https://pub.dartlang.org/packages/font_awesome_flutter) - Font Awesome icons repack by Brian Egan
 
 ### System
@@ -143,21 +136,21 @@ Have something that belongs under "Buzzing"? drop me a line: flutter[at]robbieon
 
 - [Audio Plugin](https://github.com/rxlabz/audioplayer) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Video Player](https://github.com/rxlabz/flutter_videoplayer) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
-- [Video Launcher](https://github.com/rxlabz/flutter_video_launcher) - by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Video Launcher](https://github.com/rxlabz/flutter_video_launcher) - Launch a video player by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [WebP/WebM](https://github.com/flutter/flutter/issues/9857) - Currently in progress
 
 #### Voice
 
-- [Speech Recognition](https://github.com/rxlabz/speech_recognition) - by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Speech Recognition](https://github.com/rxlabz/speech_recognition) - Speech to text by [Erick Ghaumez](https://twitter.com/rxlabz)
 
 ### Storage
 
-- [Firebase Storage](https://github.com/flutter/plugins/tree/master/packages/firebase_storage)
+- [Firebase Storage](https://github.com/flutter/plugins/tree/master/packages/firebase_storage) - Firebase as data storage
 
 ### Monetization
 
 - [Admob](https://pub.dartlang.org/packages/admob) - GoogleAdmob supports interstitial ads in both iOS and Android by Brett Nesbitt
-- [Users want to display ads in their Flutter apps](https://github.com/flutter/flutter/issues/8098)
+- [Firebase AdMob](https://github.com/flutter/plugins/tree/master/packages/firebase_admob) - Ad integration using Firebase
 
 ### Animation
 
@@ -201,7 +194,7 @@ Plugins / IOS - Android  additions
 - [Lime](https://github.com/fablue/lime-flutter) - Lime social network by Sebastian Sellmair
 - [Flitch](https://github.com/matanlurey/flitch) - Twitch client for Flutter by [Matan Lurey](https://twitter.com/matanlurey).
 - [WikiFlutter](https://github.com/nanowang/wiki-flutter) - Wikipedia reader by [Nano WANG](https://github.com/nanowang)
-- [DartHub](https://github.com/SamThompson/dart_hub) - A GitHub client written in flutter by [Sam Thompson](https://github.com/SamThompson)
+- [DartHub](https://github.com/SamThompson/dart_hub) - GitHub client written in flutter by [Sam Thompson](https://github.com/SamThompson)
 
 ### Games
 
@@ -224,8 +217,6 @@ Plugins / IOS - Android  additions
 - [Flutter Talks](https://www.youtube.com/playlist?list=PLW08AvVvHDpHFQjXnjv4CKPyAdFLPMW4q&disable_polymer=true) - Extensive list of Flutter videos in a dedicated Youtube Channel by [Brandon Donnelson](https://twitter.com/branflake2267), Dart Developer Summit and others.
 - [Dart Streams](https://www.youtube.com/playlist?list=PLlpxjI4sVd-zZ1jpJHJMSHGiWInsvwwf_) - Flutter dedicated channel on Dart-Streams 
 - [Bram Vanbilsen Tutorials](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) - Discover SDK using VSCode by Bram Vanbilsen
-
-### Training & tutorials
 
 ## Bonus
 

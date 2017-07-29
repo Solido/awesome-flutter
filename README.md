@@ -173,7 +173,6 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 Plugins / IOS - Android  additions
 
 - [Flutter Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins
-- [Share Plugin](https://github.com/xster/flutter-plugin-share)
 - [Sqflite](https://github.com/tekartik/sqflite) - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
 - [WebView](https://github.com/dart-flitter/flutter_webview_plugin) - by [Hadrien Lejard](https://twitter.com/HadrienLejard)  
 - [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Flutters plugins filter in Dart Pub Repository

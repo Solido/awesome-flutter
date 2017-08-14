@@ -75,6 +75,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 
 - [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) - By [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Google Map for Android](https://github.com/FaisalAbid/flutter-google-maps) - Launching Google maps from Android by [Faisal Abid](https://twitter.com/FaisalAbid)
+- [Crashy](https://github.com/yjbanov/crashy) - Demonstrate how to capture and report errors 
 
 #### Build Automation
 

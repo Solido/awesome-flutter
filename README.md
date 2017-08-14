@@ -36,6 +36,7 @@ If you appreciate the content 📖 please give a ⭐ to help project visibility.
 - [Plugins](#plugins)
 - [Open Source Apps](#open-source-apps)
 - [Frameworks](#frameworks)
+- [Helpers](#helpers)
 - [Videos](#videos)
 - [Bonus](#bonus)
 
@@ -211,6 +212,12 @@ Plugins / IOS - Android  additions
 
 - [Butterfly](https://github.com/yjbanov/butterfly) - Web framework for Dart based on Flutter's widget model
 - [Angel & Flutter](https://github.com/angel-example/flutter) - Simple todo app with Flutter and an Angel backend by [Tobe Osakwe](http://thosakwe.com)
+
+## Helpers
+
+- [StackOverflow](https://stackoverflow.com/questions/tagged/flutter) - Flutter team members in depth responses to your questions
+- [Reddit FlutterDev](https://www.reddit.com/r/FlutterDev/) - Official Reddit chamber
+
 
 ## Videos 
 - [Flutter Talks](https://www.youtube.com/playlist?list=PLW08AvVvHDpHFQjXnjv4CKPyAdFLPMW4q&disable_polymer=true) - Extensive list of Flutter videos in a dedicated Youtube Channel by [Brandon Donnelson](https://twitter.com/branflake2267), Dart Developer Summit and others.

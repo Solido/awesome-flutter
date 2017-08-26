@@ -217,6 +217,7 @@ Plugins / IOS - Android  additions
 
 ## Helpers
 
+- [Official Mailing list](https://groups.google.com/forum/m/#!forum/flutter-dev) - Discussions, support, exchange on Flutter
 - [StackOverflow](https://stackoverflow.com/questions/tagged/flutter) - Flutter team members in depth responses to your questions
 - [Reddit FlutterDev](https://www.reddit.com/r/FlutterDev/) - Official Reddit chamber
 

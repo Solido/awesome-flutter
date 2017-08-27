@@ -89,6 +89,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 
 - [Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo app for the material design widgets and other features provided by Flutter.
 - [Posse Gallery](https://github.com/flutter/posse_gallery) - Demonstration by [Posse](http://goposse.com)
+- [Flutter Examples](https://github.com/nisrulz/flutter-examples) - Simple basic isolated apps, for budding flutter devs.
 
 ### UI
 

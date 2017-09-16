@@ -183,6 +183,7 @@ Plugins / IOS - Android  additions
 - [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Flutters plugins filter in Dart Pub Repository
 - [Flutter Location](https://github.com/Lyokone/flutterlocation) - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone)
 - [Flutter Blue](https://github.com/pauldemarco/flutter_blue) - Bluetooth plugin by [Paul de Marco](https://github.com/pauldemarco)
+- [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
 
 
 ### Misc

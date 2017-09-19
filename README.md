@@ -98,6 +98,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) -  Toolkit for building complex, high performance animations and 2D games by Viktor Lidholt
 - [Color Picker](https://github.com/dart-flitter/flutter_color_picker) - Primary, Accent & RGB colors selection by [Hadrien Lejard](https://twitter.com/HadrienLejard)
 - [3D Object](https://github.com/hemanthrajv/flutter_3d_obj) - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv)
+-[Contact Picket](https://github.com/goderbauer/contact_picker) - Picking a contact from the address book by [Michael Goderbauer](https://github.com/goderbauer)
 
 ### Navigation
 - [Fluro](https://github.com/goposse/fluro) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)

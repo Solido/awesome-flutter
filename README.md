@@ -77,6 +77,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Google Map for Android](https://github.com/FaisalAbid/flutter-google-maps) - Launching Google maps from Android by [Faisal Abid](https://twitter.com/FaisalAbid)
 - [Crashy](https://github.com/yjbanov/crashy) - Demonstrate how to capture and report errors 
 - [Securing Flutter Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) - By Mehmet Fidanboylu
+- [flutter_redux Todo Example](https://github.com/xqwzts/flutter-redux-todo-list) - A basic flutter_redux todo application by [Victor Choueiri](https://github.com/xqwzts)
 
 #### Build Automation
 

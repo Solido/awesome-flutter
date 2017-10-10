@@ -104,7 +104,8 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 
 ### Templates
 
--[Movie Details](https://github.com/FlutterRocks/movie-details-ui) - A nice movie details page by [Iiro Krankka](https://github.com/roughike)
+- [Movie Details](https://github.com/FlutterRocks/movie-details-ui) - A nice movie details page by [Iiro Krankka](https://github.com/roughike)
+- [FlutterMates](https://github.com/CodemateLtd/FlutterMates) - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
 
 ### Navigation
 - [Fluro](https://github.com/goposse/fluro) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)

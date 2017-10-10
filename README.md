@@ -1,5 +1,7 @@
 # Awesome Flutter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## Getting effective quickly
+
 [<img src="https://flutter.io/images/flutter-mark-square-100.png" width="100">](http://flutter.io)
 
 > An awesome style list that curates the best [Flutter](http://flutter.io) libraries, tools, tutorials, articles and more.
@@ -77,7 +79,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Google Map for Android](https://github.com/FaisalAbid/flutter-google-maps) - Launching Google maps from Android by [Faisal Abid](https://twitter.com/FaisalAbid)
 - [Crashy](https://github.com/yjbanov/crashy) - Demonstrate how to capture and report errors 
 - [Securing Flutter Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) - By Mehmet Fidanboylu
-- [flutter_redux Todo Example](https://github.com/xqwzts/flutter-redux-todo-list) - A basic flutter_redux todo application by [Victor Choueiri](https://github.com/xqwzts)
+- [Flutter Redux Todo](https://github.com/xqwzts/flutter-redux-todo-list) - Todo application by [Victor Choueiri](https://github.com/xqwzts)
 
 #### Build Automation
 
@@ -105,7 +107,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 ### Templates
 
 - [Movie Details](https://github.com/FlutterRocks/movie-details-ui) - A nice movie details page by [Iiro Krankka](https://github.com/roughike)
-- [FlutterMates](https://github.com/CodemateLtd/FlutterMates) - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
+- [Flutter Mates](https://github.com/CodemateLtd/FlutterMates) - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
 
 ### Navigation
 - [Fluro](https://github.com/goposse/fluro) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)

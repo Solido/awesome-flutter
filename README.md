@@ -211,6 +211,7 @@ Plugins / IOS - Android  additions
 - [Flitch](https://github.com/matanlurey/flitch) - Twitch client for Flutter by [Matan Lurey](https://twitter.com/matanlurey).
 - [WikiFlutter](https://github.com/nanowang/wiki-flutter) - Wikipedia reader by [Nano WANG](https://github.com/nanowang)
 - [DartHub](https://github.com/SamThompson/dart_hub) - GitHub client written in flutter by [Sam Thompson](https://github.com/SamThompson)
+- [CryptoMarket](https://github.com/prathanbomb/crypto_market) - Cryptocurrency market capitalizations by [Supitsara Prathan](https://medium.com/@prathanbomb)
 
 ### Games
 

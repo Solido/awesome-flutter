@@ -212,7 +212,7 @@ Plugins / IOS - Android  additions
 - [Flitch](https://github.com/matanlurey/flitch) - Twitch client for Flutter by [Matan Lurey](https://twitter.com/matanlurey).
 - [WikiFlutter](https://github.com/nanowang/wiki-flutter) - Wikipedia reader by [Nano WANG](https://github.com/nanowang)
 - [DartHub](https://github.com/SamThompson/dart_hub) - GitHub client written in flutter by [Sam Thompson](https://github.com/SamThompson)
-- [Planets-Flutter](https://github.com/sergiandreplace/planets-flutter)
+- [Planets-Flutter](https://github.com/sergiandreplace/planets-flutter) - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
 - [CryptoMarket](https://github.com/prathanbomb/crypto_market) - Cryptocurrency market capitalizations by [Supitsara Prathan](https://medium.com/@prathanbomb)
 
 ### Games
@@ -232,6 +232,10 @@ Plugins / IOS - Android  additions
 
 - [Butterfly](https://github.com/yjbanov/butterfly) - Web framework for Dart based on Flutter's widget model
 - [Angel & Flutter](https://github.com/angel-example/flutter) - Simple todo app with Flutter and an Angel backend by [Tobe Osakwe](http://thosakwe.com)
+
+### Game
+
+- [Flame](https://github.com/luanpotter/flame) - Minimalist game engine by [Luan Nico](https://github.com/luanpotter)
 
 ## Helpers
 

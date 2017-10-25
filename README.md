@@ -102,7 +102,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) -  Toolkit for building complex, high performance animations and 2D games by Viktor Lidholt
 - [Color Picker](https://github.com/dart-flitter/flutter_color_picker) - Primary, Accent & RGB colors selection by [Hadrien Lejard](https://twitter.com/HadrienLejard)
 - [3D Object](https://github.com/hemanthrajv/flutter_3d_obj) - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv)
-- [Contact Picket](https://github.com/goderbauer/contact_picker) - Picking a contact from the address book by [Michael Goderbauer](https://github.com/goderbauer)
+- [Contact Picker](https://github.com/goderbauer/contact_picker) - Picking a contact from the address book by [Michael Goderbauer](https://github.com/goderbauer)
 - [Parallax](https://github.com/FlutterRocks/page-transformer) - ViewPager by [Iiro Krankka](https://github.com/roughike)
 
 ### Templates
@@ -193,7 +193,7 @@ Plugins / IOS - Android  additions
 - [WebView](https://github.com/dart-flitter/flutter_webview_plugin) - by [Hadrien Lejard](https://twitter.com/HadrienLejard)  
 - [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Flutters plugins filter in Dart Pub Repository
 - [Flutter Location](https://github.com/Lyokone/flutterlocation) - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone)
-- [Flutter Blue](https://github.com/pauldemarco/flutter_blue) - Bluetooth plugin by [Paul de Marco](https://github.com/pauldemarco)
+- [Flutter Blue](https://github.com/pauldemarco/flutter_blue) - Bluetooth plugin by [Paul DeMarco](https://github.com/pauldemarco)
 - [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
 
 

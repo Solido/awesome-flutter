@@ -104,6 +104,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [3D Object](https://github.com/hemanthrajv/flutter_3d_obj) - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv)
 - [Contact Picker](https://github.com/goderbauer/contact_picker) - Picking a contact from the address book by [Michael Goderbauer](https://github.com/goderbauer)
 - [Parallax](https://github.com/FlutterRocks/page-transformer) - ViewPager by [Iiro Krankka](https://github.com/roughike)
+- [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/)
 
 #### Charts
 

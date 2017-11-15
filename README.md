@@ -106,6 +106,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Parallax](https://github.com/FlutterRocks/page-transformer) - ViewPager by [Iiro Krankka](https://github.com/roughike)
 - [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/)
 - [Rich Text Editor](https://github.com/long1eu/rich_editor) - Text editor with style by [Lung Razvan](https://github.com/long1eu)
+- [Material Color Picker](https://github.com/long1eu/material_color_picker) - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu)
 
 #### Charts
 

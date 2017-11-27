@@ -73,7 +73,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 
 - [Rx Search](https://github.com/ReactiveX/rxdart/tree/master/example/flutter/github_search) - Using RxDart to animate a Search Widget.
 - [Flutter Dart Streams](https://gitlab.com/brianegan/flutter_stream_friends) - By Brian Egan
-- [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/26/flutter-notification.html) - By [Erick Ghaumez](https://twitter.com/rxlabz) (French)
+- [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/27/flutter-notification.html) - By [Erick Ghaumez](https://twitter.com/rxlabz) (French)
 
 ### Howtos
 

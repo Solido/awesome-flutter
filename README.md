@@ -58,10 +58,6 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Zero to One with Flutter](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn)
 - [FLUTTER from Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) - Full serie of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
 
-### Misc
-
-- [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn)
-
 ### Tutorial
 
 - [Coding an Android App](https://code.tutsplus.com/tutorials/developing-an-android-app-with-flutter--cms-28270) - Setup and first app by [Ashraff Hathibelagal](https://github.com/hathibelagal)
@@ -72,11 +68,12 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 ### Advanced
 
 - [Rx Search](https://github.com/ReactiveX/rxdart/tree/master/example/flutter/github_search) - Using RxDart to animate a Search Widget.
-- [Flutter Dart Streams](https://gitlab.com/brianegan/flutter_stream_friends) - By Brian Egan
+- [Flutter Dart Streams](https://gitlab.com/brianegan/flutter_stream_friends) - By [Brian Egan](https://github.com/brianegan)
 - [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/27/flutter-notification.html) - By [Erick Ghaumez](https://twitter.com/rxlabz) (French)
 
 ### Howtos
 
+- [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn)
 - [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) - By [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Google Map for Android](https://github.com/FaisalAbid/flutter-google-maps) - Launching Google maps from Android by [Faisal Abid](https://twitter.com/FaisalAbid)
 - [Crashy](https://github.com/yjbanov/crashy) - Demonstrate how to capture and report errors 
@@ -89,6 +86,9 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov)
 
 ## Components
+
+### Ready to Go
+- [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan)
 
 ### Demonstrations
 

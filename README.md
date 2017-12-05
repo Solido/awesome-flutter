@@ -274,6 +274,7 @@ Plugins / IOS - Android  additions
 - [Hamilton](https://itunes.apple.com/fr/app/hamilton-the-official-app/id1255231054?mt=8&ign-mpt=uo%3D4) - Introducing Hamilton — The Official App. Fans’ access to all things Hamilton: An American Musical. 
 - [Newsvoice](https://itunes.apple.com/se/app/newsvoice/id1208421834?l=en&mt=8) - Newsvoice shows all the news and perspectives from high quality sources in one place.
 - [Bendometer](https://itunes.apple.com/us/app/bendometer/id772557902?mt=8) - "Harmonica tuner". Learn how to play bends on your harmonica.
+- [Ecuestre Digital](https://itunes.apple.com/mx/app/ecuestre-digital/id1183799348?mt=8) - Ecuestre Digital provides real-time results and video streaming of Equestrian Events. 
 
 ## License
 

@@ -115,13 +115,13 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Flutter Charts](https://github.com/mzimmerm/flutter_charts) - LineChart and VerticalBarChart Library by [Milan Zimmermann](https://github.com/mzimmerm)
 
 
-
 ### Templates
 
 - [Movie Details](https://github.com/FlutterRocks/movie-details-ui) - A nice movie details page by [Iiro Krankka](https://github.com/roughike)
 - [Flutter Mates](https://github.com/CodemateLtd/FlutterMates) - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
 
 ### Navigation
+
 - [Fluro](https://github.com/goposse/fluro) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
 - [Circle Indicator](https://pub.dartlang.org/packages/circle_indicator) - Circle indicator for the PageViewer by [Lung Razvan](https://github.com/long1eu)
 - [Quick Actions](https://github.com/flutter/plugins/tree/master/packages/quick_actions) - Manage and interact with the application's home screen quick actions.
@@ -132,6 +132,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Google Sign-In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in) - Google OAuth 
 - [Firebase Auth](https://github.com/flutter/plugins/tree/master/packages/firebase_auth) - Firebase OAuth
 - [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) - Facebook OAuth by [Kevin Segaud](https://twitter.com/kevin_segaud)
+- [Flutter OAuth](https://github.com/hitherejoe/FlutterOAuth) - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com) 
 
 ### Text & Rich Content
 

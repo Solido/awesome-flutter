@@ -211,6 +211,7 @@ Plugins / IOS - Android  additions
 ### Misc
 
 - [Battery](https://pub.dartlang.org/packages/battery) - Access various information about the battery
+- [Zebra EMDK](https://github.com/acaliaro/flutterZebraEmdk) - Use Zebra EMDK to access Barcode Scanner API
 
 ## Open Source Apps
 

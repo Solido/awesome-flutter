@@ -226,6 +226,7 @@ Plugins / IOS - Android  additions
 - [DartHub](https://github.com/SamThompson/dart_hub) - GitHub client written in flutter by [Sam Thompson](https://github.com/SamThompson)
 - [Planets-Flutter](https://github.com/sergiandreplace/planets-flutter) - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
 - [CryptoMarket](https://github.com/prathanbomb/crypto_market) - Cryptocurrency market capitalizations by [Supitsara Prathan](https://medium.com/@prathanbomb)
+- [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia)
 
 ### Games
 

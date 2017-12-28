@@ -279,7 +279,7 @@ Plugins / IOS - Android  additions
 - [Newsvoice](https://itunes.apple.com/se/app/newsvoice/id1208421834?l=en&mt=8) - Newsvoice shows all the news and perspectives from high quality sources in one place.
 - [Bendometer](https://itunes.apple.com/us/app/bendometer/id772557902?mt=8) - "Harmonica tuner". Learn how to play bends on your harmonica.
 - [Ecuestre Digital](https://itunes.apple.com/mx/app/ecuestre-digital/id1183799348?mt=8) - Ecuestre Digital provides real-time results and video streaming of Equestrian Events.
-- [Scrumizer](https://play.google.com/store/apps/details?id=com.robbieone.scrumizer&hl=fr) - Scrum master and product owner certification trainer by [Robert Felker](https://www.linkedin.com/in/robert-felker/)
+- [Scrumizer](https://play.google.com/store/apps/details?id=com.robbieone.scrumizer) - Scrum master and product owner certification trainer by [Robert Felker](https://www.linkedin.com/in/robert-felker/)
 
 ## License
 

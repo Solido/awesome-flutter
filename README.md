@@ -105,6 +105,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [3D Object](https://github.com/hemanthrajv/flutter_3d_obj) - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv)
 - [Contact Picker](https://github.com/goderbauer/contact_picker) - Picking a contact from the address book by [Michael Goderbauer](https://github.com/goderbauer)
 - [Parallax](https://github.com/FlutterRocks/page-transformer) - ViewPager by [Iiro Krankka](https://github.com/roughike)
+- [Image Carousel](https://github.com/theobouwman/flutter_image_carousel) - A image slider/carousel by [Theo Bouwman](https://github.com/theobouwman)
 - [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/)
 - [Rich Text Editor](https://github.com/long1eu/rich_editor) - Text editor with style by [Lung Razvan](https://github.com/long1eu)
 - [Material Color Picker](https://github.com/long1eu/material_color_picker) - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu)
@@ -113,7 +114,6 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 
 - [Circular Chart](https://github.com/xqwzts/flutter_circular_chart) - Animated radial and pie charts by [Victor Choueiri](https://github.com/xqwzts)
 - [Flutter Charts](https://github.com/mzimmerm/flutter_charts) - LineChart and VerticalBarChart Library by [Milan Zimmermann](https://github.com/mzimmerm)
-
 
 ### Templates
 

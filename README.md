@@ -96,7 +96,6 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 
 ### UI
 
-- [Image Carousel](https://github.com/theobouwman/flutter_image_carousel) - A image slider/carousel by [Theo Bouwman](https://github.com/theobouwman)
 - [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
 - [Zoomable Image](https://github.com/perlatus/flutter_zoomable_image) - By Perlatus
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) -  Toolkit for building complex, high performance animations and 2D games by Viktor Lidholt
@@ -104,6 +103,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [3D Object](https://github.com/hemanthrajv/flutter_3d_obj) - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv)
 - [Contact Picket](https://github.com/goderbauer/contact_picker) - Picking a contact from the address book by [Michael Goderbauer](https://github.com/goderbauer)
 - [Parallax](https://github.com/FlutterRocks/page-transformer) - ViewPager by [Iiro Krankka](https://github.com/roughike)
+- [Image Carousel](https://github.com/theobouwman/flutter_image_carousel) - A image slider/carousel by [Theo Bouwman](https://github.com/theobouwman)
 
 ### Templates
 

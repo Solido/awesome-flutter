@@ -54,27 +54,26 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 
 ### Begin with
 
-- [FLUTTER from Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) - Full serie of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
+- [Flutter Labs](https://codelabs.developers.google.com/codelabs/flutter/index.html#0) - Building beautiful UIs with Flutter step by step
 - [Zero to One with Flutter](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn)
-
-### Misc
-
-- [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn)
+- [FLUTTER from Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) - Full serie of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
 
 ### Tutorial
 
 - [Coding an Android App](https://code.tutsplus.com/tutorials/developing-an-android-app-with-flutter--cms-28270) - Setup and first app by [Ashraff Hathibelagal](https://github.com/hathibelagal)
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs with Flutter by Google Code Labs
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase Flutter by Google Code Labs
+- [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app)
 
 ### Advanced
 
 - [Rx Search](https://github.com/ReactiveX/rxdart/tree/master/example/flutter/github_search) - Using RxDart to animate a Search Widget.
-- [Flutter Dart Streams](https://gitlab.com/brianegan/flutter_stream_friends) - By Brian Egan
-- [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/26/flutter-notification.html) - By [Erick Ghaumez](https://twitter.com/rxlabz) (French)
+- [Flutter Dart Streams](https://gitlab.com/brianegan/flutter_stream_friends) - By [Brian Egan](https://github.com/brianegan)
+- [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/27/flutter-notification.html) - By [Erick Ghaumez](https://twitter.com/rxlabz) (French)
 
 ### Howtos
 
+- [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn)
 - [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) - By [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Google Map for Android](https://github.com/FaisalAbid/flutter-google-maps) - Launching Google maps from Android by [Faisal Abid](https://twitter.com/FaisalAbid)
 - [Crashy](https://github.com/yjbanov/crashy) - Demonstrate how to capture and report errors 
@@ -87,6 +86,9 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov)
 
 ## Components
+
+### Ready to Go
+- [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan)
 
 ### Demonstrations
 
@@ -101,9 +103,17 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) -  Toolkit for building complex, high performance animations and 2D games by Viktor Lidholt
 - [Color Picker](https://github.com/dart-flitter/flutter_color_picker) - Primary, Accent & RGB colors selection by [Hadrien Lejard](https://twitter.com/HadrienLejard)
 - [3D Object](https://github.com/hemanthrajv/flutter_3d_obj) - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv)
-- [Contact Picket](https://github.com/goderbauer/contact_picker) - Picking a contact from the address book by [Michael Goderbauer](https://github.com/goderbauer)
+- [Contact Picker](https://github.com/goderbauer/contact_picker) - Picking a contact from the address book by [Michael Goderbauer](https://github.com/goderbauer)
 - [Parallax](https://github.com/FlutterRocks/page-transformer) - ViewPager by [Iiro Krankka](https://github.com/roughike)
 - [Image Carousel](https://github.com/theobouwman/flutter_image_carousel) - A image slider/carousel by [Theo Bouwman](https://github.com/theobouwman)
+- [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/)
+- [Rich Text Editor](https://github.com/long1eu/rich_editor) - Text editor with style by [Lung Razvan](https://github.com/long1eu)
+- [Material Color Picker](https://github.com/long1eu/material_color_picker) - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu)
+
+#### Charts
+
+- [Circular Chart](https://github.com/xqwzts/flutter_circular_chart) - Animated radial and pie charts by [Victor Choueiri](https://github.com/xqwzts)
+- [Flutter Charts](https://github.com/mzimmerm/flutter_charts) - LineChart and VerticalBarChart Library by [Milan Zimmermann](https://github.com/mzimmerm)
 
 ### Templates
 
@@ -111,8 +121,9 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Flutter Mates](https://github.com/CodemateLtd/FlutterMates) - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
 
 ### Navigation
+
 - [Fluro](https://github.com/goposse/fluro) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
-- [Circle Indicator](https://pub.dartlang.org/packages/circle_indicator) - Circle indicator for the PageViewer by [Lung Razvan](https://github.com/thelong1EU)
+- [Circle Indicator](https://pub.dartlang.org/packages/circle_indicator) - Circle indicator for the PageViewer by [Lung Razvan](https://github.com/long1eu)
 - [Quick Actions](https://github.com/flutter/plugins/tree/master/packages/quick_actions) - Manage and interact with the application's home screen quick actions.
 
 ### Auth
@@ -121,6 +132,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Google Sign-In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in) - Google OAuth 
 - [Firebase Auth](https://github.com/flutter/plugins/tree/master/packages/firebase_auth) - Firebase OAuth
 - [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) - Facebook OAuth by [Kevin Segaud](https://twitter.com/kevin_segaud)
+- [Flutter OAuth](https://github.com/hitherejoe/FlutterOAuth) - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com) 
 
 ### Text & Rich Content
 
@@ -151,9 +163,8 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 ### Media
 
 - [Audio Plugin](https://github.com/rxlabz/audioplayer) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
-- [Video Player](https://github.com/rxlabz/flutter_videoplayer) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Video Player](https://github.com/sigurdm/video_player) - Playing video by [Sigurd Meldgaard](https://github.com/sigurdm)
 - [Video Launcher](https://github.com/rxlabz/flutter_video_launcher) - Launch a video player by [Erick Ghaumez](https://twitter.com/rxlabz)
-- [WebP/WebM](https://github.com/flutter/flutter/issues/9857) - Currently in progress
 
 #### Voice
 
@@ -193,13 +204,14 @@ Plugins / IOS - Android  additions
 - [WebView](https://github.com/dart-flitter/flutter_webview_plugin) - by [Hadrien Lejard](https://twitter.com/HadrienLejard)  
 - [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Flutters plugins filter in Dart Pub Repository
 - [Flutter Location](https://github.com/Lyokone/flutterlocation) - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone)
-- [Flutter Blue](https://github.com/pauldemarco/flutter_blue) - Bluetooth plugin by [Paul de Marco](https://github.com/pauldemarco)
+- [Flutter Blue](https://github.com/pauldemarco/flutter_blue) - Bluetooth plugin by [Paul DeMarco](https://github.com/pauldemarco)
 - [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
 
 
 ### Misc
 
 - [Battery](https://pub.dartlang.org/packages/battery) - Access various information about the battery
+- [Zebra EMDK](https://github.com/acaliaro/flutterZebraEmdk) - Use Zebra EMDK to access Barcode Scanner API
 
 ## Open Source Apps
 
@@ -212,6 +224,9 @@ Plugins / IOS - Android  additions
 - [Flitch](https://github.com/matanlurey/flitch) - Twitch client for Flutter by [Matan Lurey](https://twitter.com/matanlurey).
 - [WikiFlutter](https://github.com/nanowang/wiki-flutter) - Wikipedia reader by [Nano WANG](https://github.com/nanowang)
 - [DartHub](https://github.com/SamThompson/dart_hub) - GitHub client written in flutter by [Sam Thompson](https://github.com/SamThompson)
+- [Planets-Flutter](https://github.com/sergiandreplace/planets-flutter) - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
+- [CryptoMarket](https://github.com/prathanbomb/crypto_market) - Cryptocurrency market capitalizations by [Supitsara Prathan](https://medium.com/@prathanbomb)
+- [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia)
 
 ### Games
 
@@ -231,6 +246,10 @@ Plugins / IOS - Android  additions
 - [Butterfly](https://github.com/yjbanov/butterfly) - Web framework for Dart based on Flutter's widget model
 - [Angel & Flutter](https://github.com/angel-example/flutter) - Simple todo app with Flutter and an Angel backend by [Tobe Osakwe](http://thosakwe.com)
 
+### Game
+
+- [Flame](https://github.com/luanpotter/flame) - Minimalist game engine by [Luan Nico](https://github.com/luanpotter)
+
 ## Helpers
 
 - [Official Mailing list](https://groups.google.com/forum/m/#!forum/flutter-dev) - Discussions, support, exchange on Flutter
@@ -242,6 +261,7 @@ Plugins / IOS - Android  additions
 - [Flutter Talks](https://www.youtube.com/playlist?list=PLW08AvVvHDpHFQjXnjv4CKPyAdFLPMW4q&disable_polymer=true) - Extensive list of Flutter videos in a dedicated Youtube Channel by [Brandon Donnelson](https://twitter.com/branflake2267), Dart Developer Summit and others.
 - [Dart Streams](https://www.youtube.com/playlist?list=PLlpxjI4sVd-zZ1jpJHJMSHGiWInsvwwf_) - Flutter dedicated channel on Dart-Streams 
 - [Bram Vanbilsen Tutorials](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) - Discover SDK using VSCode by Bram Vanbilsen
+- [Flutter tutorials from VoidRealms](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi)
 
 ## Bonus
 
@@ -258,6 +278,8 @@ Plugins / IOS - Android  additions
 - [Hamilton](https://itunes.apple.com/fr/app/hamilton-the-official-app/id1255231054?mt=8&ign-mpt=uo%3D4) - Introducing Hamilton — The Official App. Fans’ access to all things Hamilton: An American Musical. 
 - [Newsvoice](https://itunes.apple.com/se/app/newsvoice/id1208421834?l=en&mt=8) - Newsvoice shows all the news and perspectives from high quality sources in one place.
 - [Bendometer](https://itunes.apple.com/us/app/bendometer/id772557902?mt=8) - "Harmonica tuner". Learn how to play bends on your harmonica.
+- [Ecuestre Digital](https://itunes.apple.com/mx/app/ecuestre-digital/id1183799348?mt=8) - Ecuestre Digital provides real-time results and video streaming of Equestrian Events.
+- [Scrumizer](https://play.google.com/store/apps/details?id=com.robbieone.scrumizer) - Scrum master and product owner certification trainer by [Robert Felker](https://www.linkedin.com/in/robert-felker/)
 
 ## License
 

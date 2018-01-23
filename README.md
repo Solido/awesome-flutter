@@ -228,6 +228,7 @@ Plugins / IOS - Android  additions
 - [Planets-Flutter](https://github.com/sergiandreplace/planets-flutter) - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
 - [CryptoMarket](https://github.com/prathanbomb/crypto_market) - Cryptocurrency market capitalizations by [Supitsara Prathan](https://medium.com/@prathanbomb)
 - [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia)
+- [Fluvies](https://github.com/dilpreet96/Fluvies.git) - Movie browsing app using MVP, PathProviders, FutureBuilders and Database by [Dilpreet Singh](https://github.com/dilpreet96)
 
 ### Games
 

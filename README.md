@@ -113,7 +113,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 ### Map
 
 - [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/)
--[Leaflet](https://github.com/johnpryan/leaflet_flutter) - Implementation of leaflet by (John Ryan)[https://github.com/johnpryan]
+- [Leaflet](https://github.com/johnpryan/leaflet_flutter) - Implementation of leaflet by (John Ryan)[https://github.com/johnpryan]
 
 #### Charts
 

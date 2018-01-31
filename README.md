@@ -24,7 +24,7 @@ If you appreciate the content 📖 please give a ⭐ to help project visibility.
     <td style="text-align: center">
         <img src="https://cloud.githubusercontent.com/assets/1295961/25817980/5d9033ca-3429-11e7-8cb3-7c939cba80ba.gif" width="200"/>
     </td>
-   
+
 </tr></table></div>
 
 ## Contents
@@ -76,7 +76,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn)
 - [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) - By [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Google Map for Android](https://github.com/FaisalAbid/flutter-google-maps) - Launching Google maps from Android by [Faisal Abid](https://twitter.com/FaisalAbid)
-- [Crashy](https://github.com/yjbanov/crashy) - Demonstrate how to capture and report errors 
+- [Crashy](https://github.com/yjbanov/crashy) - Demonstrate how to capture and report errors
 - [Securing Flutter Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) - By Mehmet Fidanboylu
 - [Flutter Redux Todo](https://github.com/xqwzts/flutter-redux-todo-list) - Todo application by [Victor Choueiri](https://github.com/xqwzts)
 
@@ -134,10 +134,10 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 ### Auth
 
 - [Local Auth](https://github.com/flutter/plugins/tree/master/packages/local_auth) - Touch ID, lock code, fingerprint auth on Ios and Android
-- [Google Sign-In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in) - Google OAuth 
+- [Google Sign-In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in) - Google OAuth
 - [Firebase Auth](https://github.com/flutter/plugins/tree/master/packages/firebase_auth) - Firebase OAuth
 - [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) - Facebook OAuth by [Kevin Segaud](https://twitter.com/kevin_segaud)
-- [Flutter OAuth](https://github.com/hitherejoe/FlutterOAuth) - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com) 
+- [Flutter OAuth](https://github.com/hitherejoe/FlutterOAuth) - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com)
 
 ### Text & Rich Content
 
@@ -189,14 +189,14 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 
 - [Lottie](https://github.com/fabiomsr/lottie-flutter) - After Effect for Flutter ???
 
-## Utilities 
+## Utilities
 
 
 ### IDE
 
 - [IntelliJ Plugin](https://flutter.io/intellij-setup) - Flutter on Intellij and Webstorm
 - [Dart Code](https://marketplace.visualstudio.com/items?itemName=DanTup.dart-code) - Plugin to get Dart with Visual Studio Code by [Danny Tuppeny](https://twitter.com/DanTup)
-- [IntelliJ Snippets](https://github.com/Solido/flutter-snippet) - More More More Snippets to get stuffs done even faster and also learn quickly by [Robert Felker](https://github.com/Solido) 
+- [IntelliJ Snippets](https://github.com/Solido/flutter-snippet) - More More More Snippets to get stuffs done even faster and also learn quickly by [Robert Felker](https://github.com/Solido)
 - [VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=franzsilva.fs-flutter-snippets) - Translated from IntelliJ IDEA Official Snippets by Franz Silva
 
 ## Seeds
@@ -234,6 +234,7 @@ Plugins / IOS - Android  additions
 - [CryptoMarket](https://github.com/prathanbomb/crypto_market) - Cryptocurrency market capitalizations by [Supitsara Prathan](https://medium.com/@prathanbomb)
 - [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia)
 - [Fluvies](https://github.com/dilpreet96/Fluvies.git) - Movie browsing app using MVP, PathProviders, FutureBuilders and Database by [Dilpreet Singh](https://github.com/dilpreet96)
+- [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) - The unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
 
 ### Games
 
@@ -263,9 +264,9 @@ Plugins / IOS - Android  additions
 - [StackOverflow](https://stackoverflow.com/questions/tagged/flutter) - Flutter team members in depth responses to your questions
 - [Reddit FlutterDev](https://www.reddit.com/r/FlutterDev/) - Official Reddit chamber
 
-## Videos 
+## Videos
 - [Flutter Talks](https://www.youtube.com/playlist?list=PLW08AvVvHDpHFQjXnjv4CKPyAdFLPMW4q&disable_polymer=true) - Extensive list of Flutter videos in a dedicated Youtube Channel by [Brandon Donnelson](https://twitter.com/branflake2267), Dart Developer Summit and others.
-- [Dart Streams](https://www.youtube.com/playlist?list=PLlpxjI4sVd-zZ1jpJHJMSHGiWInsvwwf_) - Flutter dedicated channel on Dart-Streams 
+- [Dart Streams](https://www.youtube.com/playlist?list=PLlpxjI4sVd-zZ1jpJHJMSHGiWInsvwwf_) - Flutter dedicated channel on Dart-Streams
 - [Bram Vanbilsen Tutorials](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) - Discover SDK using VSCode by Bram Vanbilsen
 - [Flutter tutorials from VoidRealms](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi)
 
@@ -281,7 +282,7 @@ Plugins / IOS - Android  additions
 - [Flutter birth](https://www.youtube.com/watch?time_continue=2&v=U7qtl7lVKXQ) - Animated graph of Flutter commit - by [Brandon Donnelson](https://twitter.com/branflake2267). What's happening at 2:38 ? Brandon told me it's the Intellij Plugin.
 
 ### Published Apps
-- [Hamilton](https://itunes.apple.com/fr/app/hamilton-the-official-app/id1255231054?mt=8&ign-mpt=uo%3D4) - Introducing Hamilton — The Official App. Fans’ access to all things Hamilton: An American Musical. 
+- [Hamilton](https://itunes.apple.com/fr/app/hamilton-the-official-app/id1255231054?mt=8&ign-mpt=uo%3D4) - Introducing Hamilton — The Official App. Fans’ access to all things Hamilton: An American Musical.
 - [Newsvoice](https://itunes.apple.com/se/app/newsvoice/id1208421834?l=en&mt=8) - Newsvoice shows all the news and perspectives from high quality sources in one place.
 - [Bendometer](https://itunes.apple.com/us/app/bendometer/id772557902?mt=8) - "Harmonica tuner". Learn how to play bends on your harmonica.
 - [Ecuestre Digital](https://itunes.apple.com/mx/app/ecuestre-digital/id1183799348?mt=8) - Ecuestre Digital provides real-time results and video streaming of Equestrian Events.

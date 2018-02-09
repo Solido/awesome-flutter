@@ -195,7 +195,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 ### IDE
 
 - [IntelliJ Plugin](https://flutter.io/intellij-setup) - Flutter on Intellij and Webstorm
-- [Dart Code](https://marketplace.visualstudio.com/items?itemName=DanTup.dart-code) - Plugin to get Dart with Visual Studio Code by [Danny Tuppeny](https://twitter.com/DanTup)
+- [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Plugin to get Dart with Visual Studio Code by [Danny Tuppeny](https://twitter.com/DanTup)
 - [IntelliJ Snippets](https://github.com/Solido/flutter-snippet) - More More More Snippets to get stuffs done even faster and also learn quickly by [Robert Felker](https://github.com/Solido)
 - [VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=franzsilva.fs-flutter-snippets) - Translated from IntelliJ IDEA Official Snippets by Franz Silva
 

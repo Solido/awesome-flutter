@@ -87,9 +87,6 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 
 ## Components
 
-### Ready to Go
-- [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan)
-
 ### Demonstrations
 
 - [Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo app for the material design widgets and other features provided by Flutter.
@@ -108,6 +105,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Image Carousel](https://github.com/theobouwman/flutter_image_carousel) - A image slider/carousel by [Theo Bouwman](https://github.com/theobouwman)
 - [Rich Text Editor](https://github.com/long1eu/rich_editor) - Text editor with style by [Lung Razvan](https://github.com/long1eu)
 - [Material Color Picker](https://github.com/long1eu/material_color_picker) - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu)
+- [Slide on Scroll](https://github.com/pulyaevskiy/flutter-image-slide-on-scroll) - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
 
 
 ### Map
@@ -125,6 +123,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Movie Details](https://github.com/FlutterRocks/movie-details-ui) - A nice movie details page by [Iiro Krankka](https://github.com/roughike)
 - [Flutter Mates](https://github.com/CodemateLtd/FlutterMates) - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
 - [Weather](https://github.com/alessandroaime/Weather) - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime)
+- [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan)
 
 ### Navigation
 

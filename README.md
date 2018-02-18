@@ -124,6 +124,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 
 - [Movie Details](https://github.com/FlutterRocks/movie-details-ui) - A nice movie details page by [Iiro Krankka](https://github.com/roughike)
 - [Flutter Mates](https://github.com/CodemateLtd/FlutterMates) - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
+- [Weather](https://github.com/alessandroaime/Weather) - A weather app built to learn how to use Canvas and Animation in Flutter by [Alessandro Aime](https://github.com/alessandroaime)
 
 ### Navigation
 

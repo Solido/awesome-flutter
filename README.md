@@ -236,6 +236,7 @@ Plugins / IOS - Android  additions
 - [Fluvies](https://github.com/dilpreet96/Fluvies.git) - Movie browsing app using MVP, PathProviders, FutureBuilders and Database by [Dilpreet Singh](https://github.com/dilpreet96)
 - [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) - The unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
 - [Heroes Companion](https://github.com/arranf/Heroes-Companion) - A companion app for Heroes of Storm including redux and sqflite by [arranf](https://github.com/arranf)
+- [Restaurant Menu](https://github.com/braulio94/menu_flutter) - 🍝 restaurant menu by [Braulio Cassule](https://github.com/braulio94)
 
 ### Games
 

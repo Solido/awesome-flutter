@@ -289,6 +289,7 @@ Plugins / IOS - Android  additions
 - [Bendometer](https://itunes.apple.com/us/app/bendometer/id772557902?mt=8) - "Harmonica tuner". Learn how to play bends on your harmonica.
 - [Ecuestre Digital](https://itunes.apple.com/mx/app/ecuestre-digital/id1183799348?mt=8) - Ecuestre Digital provides real-time results and video streaming of Equestrian Events.
 - [Scrumizer](https://play.google.com/store/apps/details?id=com.robbieone.scrumizer) - Scrum master and product owner certification trainer by [Robert Felker](https://www.linkedin.com/in/robert-felker/)
+- [Hookle](https://www.hookle.net/) - Manage your social media in one place
 
 ## License
 

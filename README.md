@@ -161,10 +161,6 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) - Render effect by [Collin Jackson](http://www.collinjackson.com)
 - [Font Awesome](https://pub.dartlang.org/packages/font_awesome_flutter) - Font Awesome icons repack by Brian Egan
 
-### System
-
-- [Sky Engine](https://github.com/flutter/engine) - Engine behind Flutter
-
 ### Media
 
 - [Audio Plugin](https://github.com/rxlabz/audioplayer) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
@@ -199,11 +195,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [IntelliJ Snippets](https://github.com/Solido/flutter-snippet) - More More More Snippets to get stuffs done even faster and also learn quickly by [Robert Felker](https://github.com/Solido)
 - [VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=franzsilva.fs-flutter-snippets) - Translated from IntelliJ IDEA Official Snippets by Franz Silva
 
-## Seeds
-
 ## Plugins
-
-Plugins / IOS - Android  additions
 
 - [Flutter Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins
 - [Sqflite](https://github.com/tekartik/sqflite) - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
@@ -212,10 +204,6 @@ Plugins / IOS - Android  additions
 - [Flutter Location](https://github.com/Lyokone/flutterlocation) - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone)
 - [Flutter Blue](https://github.com/pauldemarco/flutter_blue) - Bluetooth plugin by [Paul DeMarco](https://github.com/pauldemarco)
 - [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
-
-
-### Misc
-
 - [Battery](https://pub.dartlang.org/packages/battery) - Access various information about the battery
 - [Zebra EMDK](https://github.com/acaliaro/flutterZebraEmdk) - Use Zebra EMDK to access Barcode Scanner API
 
@@ -251,11 +239,6 @@ Plugins / IOS - Android  additions
 - [Flutter built redux](https://github.com/davidmarne/flutter_built_redux) - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne)
 - [redux.dart](https://github.com/johnpryan/redux.dart) - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects)
 
-### Web
-
-- [Butterfly](https://github.com/yjbanov/butterfly) - Web framework for Dart based on Flutter's widget model
-- [Angel & Flutter](https://github.com/angel-example/flutter) - Simple todo app with Flutter and an Angel backend by [Tobe Osakwe](http://thosakwe.com)
-
 ### Game
 
 - [Flame](https://github.com/luanpotter/flame) - Minimalist game engine by [Luan Nico](https://github.com/luanpotter)
@@ -273,15 +256,6 @@ Plugins / IOS - Android  additions
 - [Flutter tutorials from VoidRealms](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi)
 
 ## Bonus
-
-### Interview
-- [Hamilton](https://www.blog.google/topics/developers/it-must-be-nice-have-hamilton-your-phone) - Mike Karns, Hamilton’s director of social media, and David DeRemer from POSSE, who helped build the HAMILTON app.
-
-### Fuchsia
-- [Armadillo](https://github.com/fuchsia-mirror/sysui) - Armadillo Mega Widgets for Fuchsia OS
-
-### Misc
-- [Flutter birth](https://www.youtube.com/watch?time_continue=2&v=U7qtl7lVKXQ) - Animated graph of Flutter commit - by [Brandon Donnelson](https://twitter.com/branflake2267). What's happening at 2:38 ? Brandon told me it's the Intellij Plugin.
 
 ### Published Apps
 - [Hamilton](https://itunes.apple.com/fr/app/hamilton-the-official-app/id1255231054?mt=8&ign-mpt=uo%3D4) - Introducing Hamilton — The Official App. Fans’ access to all things Hamilton: An American Musical.

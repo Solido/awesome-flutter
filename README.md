@@ -232,6 +232,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [GreenCat](https://github.com/alexeieleusis/greencat) - Port of Redux to Dart, including Redux Thunk
 - [Flutter built redux](https://github.com/davidmarne/flutter_built_redux) - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne)
 - [redux.dart](https://github.com/johnpryan/redux.dart) - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects)
+- [flutter_redux](https://github.com/brianegan/flutter_redux) - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), a set of utilities that allow you to easily consume a Redux Store to build Flutter Widgets.
 
 ### Game
 

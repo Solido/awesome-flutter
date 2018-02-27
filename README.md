@@ -65,12 +65,6 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase Flutter by Google Code Labs
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app)
 
-### Advanced
-
-- [Rx Search](https://github.com/ReactiveX/rxdart/tree/master/example/flutter/github_search) - Using RxDart to animate a Search Widget.
-- [Flutter Dart Streams](https://gitlab.com/brianegan/flutter_stream_friends) - By [Brian Egan](https://github.com/brianegan)
-- [Bubbling & Notification](https://rxlabz.github.io/dart,/flutter/2017/04/27/flutter-notification.html) - By [Erick Ghaumez](https://twitter.com/rxlabz) (French)
-
 ### Howtos
 
 - [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn)

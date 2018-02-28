@@ -158,7 +158,6 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 ### Media
 
 - [Audio Plugin](https://github.com/rxlabz/audioplayer) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
-- [Video Player](https://github.com/sigurdm/video_player) - Playing video by [Sigurd Meldgaard](https://github.com/sigurdm)
 - [Video Launcher](https://github.com/rxlabz/flutter_video_launcher) - Launch a video player by [Erick Ghaumez](https://twitter.com/rxlabz)
 
 #### Voice

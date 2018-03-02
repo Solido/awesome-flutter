@@ -197,10 +197,14 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [WebView](https://github.com/dart-flitter/flutter_webview_plugin) - by [Hadrien Lejard](https://twitter.com/HadrienLejard)  
 - [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Flutters plugins filter in Dart Pub Repository
 - [Flutter Location](https://github.com/Lyokone/flutterlocation) - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone)
-- [Flutter Blue](https://github.com/pauldemarco/flutter_blue) - Bluetooth plugin by [Paul DeMarco](https://github.com/pauldemarco)
 - [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
 - [Battery](https://pub.dartlang.org/packages/battery) - Access various information about the battery
 - [Zebra EMDK](https://github.com/acaliaro/flutterZebraEmdk) - Use Zebra EMDK to access Barcode Scanner API
+
+### Bluetooth
+
+ - [Flutter Ble](https://github.com/Polidea/FlutterBleLib) - Bluetooth by [Polidea](http://www.polidea.com)
+ - [Flutter Blue](https://github.com/pauldemarco/flutter_blue) - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
 
 ## Open Source Apps
 

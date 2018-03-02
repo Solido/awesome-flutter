@@ -118,6 +118,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Flutter Mates](https://github.com/CodemateLtd/FlutterMates) - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
 - [Weather](https://github.com/alessandroaime/Weather) - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime)
 - [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan)
+- [Restaurant Menu](https://github.com/braulio94/menu_flutter) - 🍝 restaurant menu by [Braulio Cassule](https://github.com/braulio94)
 
 ### Navigation
 
@@ -218,7 +219,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Fluvies](https://github.com/dilpreet96/Fluvies.git) - Movie browsing app using MVP, PathProviders, FutureBuilders and Database by [Dilpreet Singh](https://github.com/dilpreet96)
 - [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) - The unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
 - [Heroes Companion](https://github.com/arranf/Heroes-Companion) - A companion app for Heroes of Storm including redux and sqflite by [arranf](https://github.com/arranf)
-- [Restaurant Menu](https://github.com/braulio94/menu_flutter) - 🍝 restaurant menu by [Braulio Cassule](https://github.com/braulio94)
+
 
 ### Games
 

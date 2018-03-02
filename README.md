@@ -225,10 +225,6 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Heroes Companion](https://github.com/arranf/Heroes-Companion) - A companion app for Heroes of Storm including redux and sqflite by [arranf](https://github.com/arranf)
 
 
-### Games
-
-- [Flutter Game Demo](https://github.com/vlidholt/game) - Demo game for Flutter and Flutter Sprites by Viktor Lidholt
-
 ## Frameworks
 
 ### Flux / Redux

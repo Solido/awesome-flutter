@@ -101,6 +101,8 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Material Color Picker](https://github.com/long1eu/material_color_picker) - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu)
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar)
+- [MenuSwipe](https://github.com/fidelisa/flutter_plugins/tree/master/packages/menu_swipe_helpers) - Build app with swipe menu easly by [Yann-Cyril PELUD](https://github.com/ypelud)
+
 
 ### Map
 

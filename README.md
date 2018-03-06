@@ -224,6 +224,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Fluvies](https://github.com/dilpreet96/Fluvies.git) - Movie browsing app using MVP, PathProviders, FutureBuilders and Database by [Dilpreet Singh](https://github.com/dilpreet96)
 - [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) - The unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
 - [Heroes Companion](https://github.com/arranf/Heroes-Companion) - A companion app for Heroes of Storm including redux and sqflite by [arranf](https://github.com/arranf)
+- [Habitter](https://github.com/prijindal/habitter) - A Client for Habitica Task Manager built with Flutter
 
 
 ## Frameworks

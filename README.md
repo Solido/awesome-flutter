@@ -101,6 +101,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Material Color Picker](https://github.com/long1eu/material_color_picker) - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu)
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar)
+- [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts)
 
 ### Map
 
@@ -114,7 +115,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 
 ### Templates
 
-- [Movie Details](https://github.com/FlutterRocks/movie-details-ui) - A nice movie details page by [Iiro Krankka](https://github.com/roughike)
+- [Movie Details](https://github.com/FlutterRocks/movie-details-ui) - Movie details page by [Iiro Krankka](https://github.com/roughike)
 - [Flutter Mates](https://github.com/CodemateLtd/FlutterMates) - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
 - [Weather](https://github.com/alessandroaime/Weather) - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime)
 - [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan)
@@ -222,8 +223,8 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [CryptoMarket](https://github.com/prathanbomb/crypto_market) - Cryptocurrency market capitalizations by [Supitsara Prathan](https://medium.com/@prathanbomb)
 - [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia)
 - [Fluvies](https://github.com/dilpreet96/Fluvies.git) - Movie browsing app using MVP, PathProviders, FutureBuilders and Database by [Dilpreet Singh](https://github.com/dilpreet96)
-- [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) - The unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
-- [Heroes Companion](https://github.com/arranf/Heroes-Companion) - A companion app for Heroes of Storm including redux and sqflite by [arranf](https://github.com/arranf)
+- [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
+- [Heroes Companion](https://github.com/arranf/Heroes-Companion) - Companion app for Heroes of Storm including redux and sqflite by [arranf](https://github.com/arranf)
 
 
 ## Frameworks

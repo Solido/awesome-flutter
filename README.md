@@ -103,6 +103,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar)
 - [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts)
+- [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) - An iOS-like settings layout by [Matthias Rupp](https://github.com/matthinc)
 
 ### Map
 

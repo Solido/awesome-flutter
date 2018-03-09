@@ -33,6 +33,7 @@ If you appreciate the content 📖 please give a ⭐ to help project visibility.
 - [Articles](#articles)
 - [Components](#components)
 - [Navigation](#navigation)
+- [Template](#templates)
 - [Utilities](#utilities)
 - [Seeds](#seeds)
 - [Plugins](#plugins)
@@ -113,15 +114,6 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Circular Chart](https://github.com/xqwzts/flutter_circular_chart) - Animated radial and pie charts by [Victor Choueiri](https://github.com/xqwzts)
 - [Flutter Charts](https://github.com/mzimmerm/flutter_charts) - LineChart and VerticalBarChart Library by [Milan Zimmermann](https://github.com/mzimmerm)
 
-### Templates
-
-- [Movie Details](https://github.com/FlutterRocks/movie-details-ui) - Movie details page by [Iiro Krankka](https://github.com/roughike)
-- [Flutter Mates](https://github.com/CodemateLtd/FlutterMates) - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
-- [Weather](https://github.com/alessandroaime/Weather) - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime)
-- [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan)
-- [Restaurant Menu](https://github.com/braulio94/menu_flutter) - 🍝 restaurant menu by [Braulio Cassule](https://github.com/braulio94)
-- [UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges) - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe)
-
 ### Navigation
 
 - [Fluro](https://github.com/goposse/fluro) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
@@ -182,8 +174,16 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 
 - [Lottie](https://github.com/fabiomsr/lottie-flutter) - After Effect for Flutter ???
 
-## Utilities
+## Templates
 
+- [Movie Details](https://github.com/FlutterRocks/movie-details-ui) - Movie details page by [Iiro Krankka](https://github.com/roughike)
+- [Flutter Mates](https://github.com/CodemateLtd/FlutterMates) - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
+- [Weather](https://github.com/alessandroaime/Weather) - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime)
+- [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan)
+- [Restaurant Menu](https://github.com/braulio94/menu_flutter) - 🍝 restaurant menu by [Braulio Cassule](https://github.com/braulio94)
+- [UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges) - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe)
+
+## Utilities
 
 ### IDE
 

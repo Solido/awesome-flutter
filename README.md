@@ -127,6 +127,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Firebase Auth](https://github.com/flutter/plugins/tree/master/packages/firebase_auth) - Firebase OAuth
 - [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) - Facebook OAuth by [Kevin Segaud](https://twitter.com/kevin_segaud)
 - [Flutter OAuth](https://github.com/hitherejoe/FlutterOAuth) - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com)
+- [Instagram](https://hackernoon.com/instagram-authentication-with-flutter-df6424d2d56c) - Instagram auth by [Wilfried Mbouenda Mbogne](http://developer-journey.com/)
 
 ### Text & Rich Content
 

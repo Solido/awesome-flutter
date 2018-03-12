@@ -227,7 +227,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Fluvies](https://github.com/dilpreet96/Fluvies.git) - Movie browsing app using MVP, PathProviders, FutureBuilders and Database by [Dilpreet Singh](https://github.com/dilpreet96)
 - [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
 - [Heroes Companion](https://github.com/arranf/Heroes-Companion) - Companion app for Heroes of Storm including redux and sqflite by [arranf](https://github.com/arranf)
-
+- [CryptoShadow](https://github.com/huextrat/CryptoShadow) - CryptoCurrency Tracker by [Hugo EXTRAT](https://github.com/huextrat)
 
 ## Frameworks
 

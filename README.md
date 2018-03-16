@@ -58,6 +58,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Flutter Labs](https://codelabs.developers.google.com/codelabs/flutter/index.html#0) - Building beautiful UIs with Flutter step by step
 - [Zero to One with Flutter](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn)
 - [FLUTTER from Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) - Full serie of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
+- [What’s Revolutionary about Flutter](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514) - Comparison to other mobile SDKs by [Wm Leler](https://twitter.com/flutter_wm)
 
 ### Tutorial
 

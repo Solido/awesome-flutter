@@ -109,6 +109,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 
 - [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/)
 - [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com)
+- [Flutter Map](https://github.com/apptreesoftware/flutter_map) - Open-source map solution (based on [Leaflet](http://leafletjs.com/)), easily customizable, contributions welcome. By [AppTree Software](https://github.com/apptreesoftware)
 
 #### Charts
 

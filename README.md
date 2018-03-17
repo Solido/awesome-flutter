@@ -185,6 +185,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Restaurant Menu](https://github.com/braulio94/menu_flutter) - 🍝 restaurant menu by [Braulio Cassule](https://github.com/braulio94)
 - [UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges) - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe)
 - [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) - iOS Settings by [Matthias Rupp](https://github.com/matthinc)
+- [Music Player](https://github.com/thosakwe/flutter_music_player) - music player component by [Tobe O](https://thosakwe.com/)
 
 ## Utilities
 

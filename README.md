@@ -176,10 +176,6 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Firebase AdMob](https://github.com/flutter/plugins/tree/master/packages/firebase_admob) - Ad integration using Firebase
 - [Flutter Billing](https://github.com/VolodymyrLykhonis/flutter_billing) - Enable billing on iOS and Android by [Volodymyr Lykhonis](http://vladimirlichonos.com)
 
-### Animation
-
-- [Lottie](https://github.com/fabiomsr/lottie-flutter) - After Effect for Flutter ???
-
 ## Templates
 
 - [Movie Details](https://github.com/FlutterRocks/movie-details-ui) - Movie details page by [Iiro Krankka](https://github.com/roughike)

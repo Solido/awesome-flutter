@@ -160,6 +160,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Audio Plugin](https://github.com/rxlabz/audioplayer) - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Audio Recorder](https://github.com/ZaraclaJ/audio_recorder) - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz)
 - [Video Launcher](https://github.com/rxlabz/flutter_video_launcher) - Launch a video player by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Stereo](https://github.com/2find/stereo) - Playing music on iOS and Android by [2Find](https://github.com/2find)
 
 #### Voice
 

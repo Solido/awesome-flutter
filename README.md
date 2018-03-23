@@ -66,6 +66,8 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs with Flutter by Google Code Labs
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase Flutter by Google Code Labs
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app)
+- [Flutter Challenge: Material Page Reveal](https://youtu.be/syd0c9Vi2hg) by [Fluttery](https://twitter.com/flttry)
+- [Flutter Challenge: Egg Timer](https://youtu.be/svxUUz5mi9s) by [Fluttery](https://twitter.com/flttry)
 
 ### Howtos
 

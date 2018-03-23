@@ -116,6 +116,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Circular Chart](https://github.com/xqwzts/flutter_circular_chart) - Animated radial and pie charts by [Victor Choueiri](https://github.com/xqwzts)
 - [Flutter Charts](https://github.com/mzimmerm/flutter_charts) - LineChart and VerticalBarChart Library by [Milan Zimmermann](https://github.com/mzimmerm)
 - [Sparkline](https://github.com/xqwzts/flutter_sparkline) - Sparkline by [Victor Choueiri](https://github.com/xqwzts)
+- [Charts](https://github.com/google/charts) - By Google Charts Team
 
 
 ### Navigation

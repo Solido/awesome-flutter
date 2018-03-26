@@ -40,7 +40,6 @@ If you appreciate the content 📖 please give a ⭐ to help project visibility.
 - [Open Source Apps](#open-source-apps)
 - [Frameworks](#frameworks)
 - [Helpers](#helpers)
-- [Videos](#videos)
 - [Bonus](#bonus)
 
 ## Introduction
@@ -66,6 +65,15 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs with Flutter by Google Code Labs
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase Flutter by Google Code Labs
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app)
+
+#### Video
+- [Flutter Talks](https://www.youtube.com/playlist?list=PLW08AvVvHDpHFQjXnjv4CKPyAdFLPMW4q&disable_polymer=true) - Extensive list of Flutter videos in a dedicated Youtube Channel by [Brandon Donnelson](https://twitter.com/branflake2267), Dart Developer Summit and others.
+- [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) - Very rich content by [Tensor Programming](http://tensor-programming.com/)
+- [Dart Streams](https://www.youtube.com/playlist?list=PLlpxjI4sVd-zZ1jpJHJMSHGiWInsvwwf_) - Flutter dedicated channel on Dart-Streams
+- [Bram Vanbilsen Tutorials](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) - Discover SDK using VSCode by Bram Vanbilsen
+- [Flutter tutorials from VoidRealms](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi)
+- [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan)
+- [Flutter](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value, in-depth Flutter challenges, tutorials, and patterns.
 
 ### Howtos
 
@@ -254,15 +262,6 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Official Mailing list](https://groups.google.com/forum/m/#!forum/flutter-dev) - Discussions, support, exchange on Flutter
 - [StackOverflow](https://stackoverflow.com/questions/tagged/flutter) - Flutter team members in depth responses to your questions
 - [Reddit FlutterDev](https://www.reddit.com/r/FlutterDev/) - Official Reddit chamber
-
-## Videos
-- [Flutter Talks](https://www.youtube.com/playlist?list=PLW08AvVvHDpHFQjXnjv4CKPyAdFLPMW4q&disable_polymer=true) - Extensive list of Flutter videos in a dedicated Youtube Channel by [Brandon Donnelson](https://twitter.com/branflake2267), Dart Developer Summit and others.
-- [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) - Very rich content by [Tensor Programming](http://tensor-programming.com/)
-- [Dart Streams](https://www.youtube.com/playlist?list=PLlpxjI4sVd-zZ1jpJHJMSHGiWInsvwwf_) - Flutter dedicated channel on Dart-Streams
-- [Bram Vanbilsen Tutorials](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) - Discover SDK using VSCode by Bram Vanbilsen
-- [Flutter tutorials from VoidRealms](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi)
-- [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan)
-- [Flutter](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value, in-depth Flutter challenges, tutorials, and patterns.
 
 ## Bonus
 

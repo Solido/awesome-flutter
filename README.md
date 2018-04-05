@@ -165,6 +165,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Flutterial](https://github.com/rxlabz/flutterial) - Flutter Material Theme explorer by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) - Render effect by [Collin Jackson](http://www.collinjackson.com)
 - [Font Awesome](https://pub.dartlang.org/packages/font_awesome_flutter) - Font Awesome icons repack by Brian Egan
+- [FlutterIcon](http://fluttericon.com/) - Icon font generator
 
 ### Media
 

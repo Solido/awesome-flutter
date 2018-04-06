@@ -137,6 +137,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 ### Auth
 
 - [Local Auth](https://github.com/flutter/plugins/tree/master/packages/local_auth) - Touch ID, lock code, fingerprint auth on Ios and Android
+- [Flutter Login](https://github.com/AppleEducate/flutter_login) - FaceID, TouchID, and Fingerprint Reader by [Rody Davis](http://appleeducate.com)
 - [Google Sign-In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in) - Google OAuth
 - [Firebase Auth](https://github.com/flutter/plugins/tree/master/packages/firebase_auth) - Firebase OAuth
 - [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) - Facebook OAuth by [Kevin Segaud](https://twitter.com/kevin_segaud)

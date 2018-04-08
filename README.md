@@ -200,7 +200,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges) - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe)
 - [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) - iOS Settings by [Matthias Rupp](https://github.com/matthinc)
 - [Music Player](https://github.com/thosakwe/flutter_music_player) - music player component by [Tobe O](https://thosakwe.com/)
-
+- [App Ebay Search](https://github.com/VictorRancesCode/flutter-ebay-search) - search products with ebay api by [Victor R.](https://github.com/VictorRancesCode)
 ## Utilities
 
 ### IDE
@@ -247,7 +247,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Trovami](https://github.com/Samaritan1011001/Trovami) - A live location sharing app built on Flutter and Firebase as backend by [Manoj NB](https://github.com/Samaritan1011001)
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
 - [Planty](https://github.com/Ivaskuu/plantly) - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu)
-
+- [App Esperanza](https://github.com/VictorRancesCode/flutter-app-esperanza) - Publication of Missing and Found Persons by [Victor R.](https://github.com/VictorRancesCode)
 ## Frameworks
 
 ### Flux / Redux

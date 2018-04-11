@@ -126,6 +126,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Sparkline](https://github.com/xqwzts/flutter_sparkline) - Sparkline by [Victor Choueiri](https://github.com/xqwzts)
 - [Charts](https://github.com/google/charts) - By Google Charts Team
 - [Flutter Plot](https://github.com/RCHowell/flutter_plot) - Pretty plots by [R. C. Howell](https://github.com/RCHowell/).
+- [Candlesticks](https://github.com/trentpiercy/flutter-candlesticks) - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy).
 
 
 ### Navigation

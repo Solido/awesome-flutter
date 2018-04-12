@@ -221,6 +221,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Battery](https://pub.dartlang.org/packages/battery) - Access various information about the battery
 - [Zebra EMDK](https://github.com/acaliaro/flutterZebraEmdk) - Use Zebra EMDK to access Barcode Scanner API
 - [Proximity Sensor Plugin](https://pub.dartlang.org/packages/proximity_plugin) - A plugin to access the proximity sensor of your device by [Manoj NB](https://github.com/Samaritan1011001)
+- [Geolocation](https://github.com/loup-v/geolocation) - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
 
 ### Bluetooth
 

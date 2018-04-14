@@ -168,6 +168,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) - Render effect by [Collin Jackson](http://www.collinjackson.com)
 - [Font Awesome](https://pub.dartlang.org/packages/font_awesome_flutter) - Font Awesome icons repack by Brian Egan
 - [FlutterIcon](http://fluttericon.com/) - Icon font generator
+- [Pigment](https://github.com/bregydoc/pigment) - A simple but useful package for use colors in flutter.
 
 ### Media
 

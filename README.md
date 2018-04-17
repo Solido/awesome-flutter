@@ -251,6 +251,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
 - [Planty](https://github.com/Ivaskuu/plantly) - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu)
 - [inKino](https://github.com/roughike/inKino) - A complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
+- [MyTrain Gauteng](https://play.google.com/store/apps/details?id=za.co.movinggauteng.mytrain) - A public transport (trains) app for South African commuters. Blog post by Neville Dipale [here](https://nevi.me/impressions-from-flutter-app/)
 
 ## Frameworks
 

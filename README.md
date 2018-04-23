@@ -83,6 +83,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Crashy](https://github.com/yjbanov/crashy) - Demonstrate how to capture and report errors
 - [Securing Flutter Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) - By Mehmet Fidanboylu
 - [Flutter Redux Todo](https://github.com/xqwzts/flutter-redux-todo-list) - Todo application by [Victor Choueiri](https://github.com/xqwzts)
+- [Introduction to Redux in Flutter](https://blog.novoda.com/introduction-to-redux-in-flutter/) - By [Xavi Rigau](https://twitter.com/xrigau)
 
 #### Build Automation
 

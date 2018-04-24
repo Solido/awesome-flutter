@@ -83,6 +83,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Crashy](https://github.com/yjbanov/crashy) - Demonstrate how to capture and report errors
 - [Securing Flutter Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) - By Mehmet Fidanboylu
 - [Flutter Redux Todo](https://github.com/xqwzts/flutter-redux-todo-list) - Todo application by [Victor Choueiri](https://github.com/xqwzts)
+- [Flutter Redux Friendly Chat](https://github.com/MJBrooke/FlutterRedux_FriendlyChatApp) - A version of the Google Codelab 'Building Beautiful UI's with Flutter' that uses Dart 2, Redux 3.0.0 and Flutter_Redux by [Michael Brooke](https://github.com/MJBrooke)
 
 #### Build Automation
 
@@ -202,6 +203,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges) - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe)
 - [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) - iOS Settings by [Matthias Rupp](https://github.com/matthinc)
 - [Music Player](https://github.com/thosakwe/flutter_music_player) - music player component by [Tobe O](https://thosakwe.com/)
+- [Flutter Redux Friendly Chat](https://github.com/MJBrooke/FlutterRedux_FriendlyChatApp) - A version of the Google Codelab 'Building Beautiful UI's with Flutter' that uses Dart 2, Redux 3.0.0 and Flutter_Redux by [Michael Brooke](https://github.com/MJBrooke)
 
 ## Utilities
 

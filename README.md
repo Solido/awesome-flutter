@@ -226,6 +226,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Geolocation](https://github.com/loup-v/geolocation) - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
 - [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
 - [Google Mobile Vision](https://github.com/edufolly/flutter_mobile_vision) - Implementation of Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly)
+- [Flutter Plugins Help](https://github.com/freewheelnat/flutter_plugins_help) - Connecting Android and iOS developers to develop flutter plugins by [Natalie Masse Hooper](https://twitter.com/NatJM)
 
 ### Bluetooth
 

@@ -260,6 +260,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
 - [Planty](https://github.com/Ivaskuu/plantly) - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu)
 - [inKino](https://github.com/roughike/inKino) - A complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
+- [Movie Night](https://github.com/abhishekdewan101/MovieNight) - A sample app using Flutter and Firebase and TMDB movie api to create a movie polling application.
 
 ## Frameworks
 

@@ -67,7 +67,8 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app)
 
 #### Video
-- [Flutter Talks](https://www.youtube.com/playlist?list=PLW08AvVvHDpHFQjXnjv4CKPyAdFLPMW4q&disable_polymer=true) - Extensive list of Flutter videos in a dedicated Youtube Channel by [Brandon Donnelson](https://twitter.com/branflake2267), Dart Developer Summit and others.
+- [The Flutter Episodes by Brandon Donnelson](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) - This set of over 50 videos which ranges from layout, database persitence and general flutter tips and tricks. 
+- [Flutter Talks](https://www.youtube.com/playlist?list=PLW08AvVvHDpHFQjXnjv4CKPyAdFLPMW4q&disable_polymer=true) - contains a list of Flutter videos.
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) - Very rich content by [Tensor Programming](http://tensor-programming.com/)
 - [Dart Streams](https://www.youtube.com/playlist?list=PLlpxjI4sVd-zZ1jpJHJMSHGiWInsvwwf_) - Flutter dedicated channel on Dart-Streams
 - [Bram Vanbilsen Tutorials](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) - Discover SDK using VSCode by Bram Vanbilsen

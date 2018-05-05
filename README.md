@@ -262,6 +262,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
 - [Planty](https://github.com/Ivaskuu/plantly) - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu)
 - [inKino](https://github.com/roughike/inKino) - A complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
+- [F1utter](https://github.com/ahmedbera/f1lutter) - A simple Formula 1 app to countdown next races, see race results, driver and constructor standings, by [Bera](https://github.com/ahmedbera)
 
 ## Frameworks
 

@@ -264,6 +264,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
 - [Planty](https://github.com/Ivaskuu/plantly) - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu)
 - [inKino](https://github.com/roughike/inKino) - A complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
+- [CatBox](https://github.com/t04glovern/catbox) - A Cat adoption app that displays cats that are up for adoption, utilising Cloud Firestore and Firebase Functions, by [Nathan Glover](https://github.com/t04glovern) & [Rico Beti](https://github.com/SilentByte)
 
 ## Frameworks
 

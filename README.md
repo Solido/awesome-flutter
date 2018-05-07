@@ -44,10 +44,10 @@ If you appreciate the content 📖 please give a ⭐ to help project visibility.
 
 ## Introduction
 
-<a href="https://www.youtube.com/watch?v=w2TcYP8qiRI&list=PLlpxjI4sVd-zZ1jpJHJMSHGiWInsvwwf_&index=1">
-<img width="500" alt="screen shot 2017-05-09 at 14 24 22" src="https://i.ytimg.com/vi/w2TcYP8qiRI/hqdefault.jpg?custom=true&w=246&h=138&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zXUvkCX43IUEGlt5LkrvJcNRvEc">
+<a href="https://www.youtube.com/watch?v=GCCjR0mbJMM&feature=youtu.be">
+<img width="500" src="https://i.ytimg.com/vi/GCCjR0mbJMM/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBqUsMLcLjhAs-_Bp-PvM_jbqGSwQ">
 <br>
-Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
+Introduction to Flutter - Faisal Abid
 </a>
 
 ## Articles

@@ -232,7 +232,8 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Geolocation](https://github.com/loup-v/geolocation) - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
 - [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
 - [Google Mobile Vision](https://github.com/edufolly/flutter_mobile_vision) - Implementation of Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly)
-- [App Rating](https://github.com/AppleEducate/app_review) - App Story and Google Play Ratings by [Rody Davis](http://appleeducate.com)
+- [App Rating](https://github.com/AppleEducate/app_review) - A Plugin for Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
+- [Get Version](https://github.com/AppleEducate/get_version) - A Plugin to get Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com)
 
 ### Plugins development
 

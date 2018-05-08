@@ -205,7 +205,7 @@ Introduction to Flutter - Faisal Abid
 - [Flutter Mates](https://github.com/CodemateLtd/FlutterMates) - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
 - [Weather](https://github.com/alessandroaime/Weather) - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime)
 - [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan)
-- [Restaurant Menu](https://github.com/braulio94/menu_flutter) - 🍝 restaurant menu by [Braulio Cassule](https://github.com/braulio94)
+- [Restaurant Menu](https://github.com/braulio94/menu_flutter) - Restaurant menu by [Braulio Cassule](https://github.com/braulio94)
 - [UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges) - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe)
 - [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) - iOS Settings by [Matthias Rupp](https://github.com/matthinc)
 - [Music Player](https://github.com/thosakwe/flutter_music_player) - music player component by [Tobe O](https://thosakwe.com/)
@@ -224,7 +224,7 @@ Introduction to Flutter - Faisal Abid
 - [Flutter Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins
 - [Sqflite](https://github.com/tekartik/sqflite) - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
 - [WebView](https://github.com/dart-flitter/flutter_webview_plugin) - by [Hadrien Lejard](https://twitter.com/HadrienLejard)  
-- [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Flutters plugins filter in Dart Pub Repository
+- [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Plugins filter in Dart Pub Repository
 - [Flutter Location](https://github.com/Lyokone/flutterlocation) - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone)
 - [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
 - [Battery](https://pub.dartlang.org/packages/battery) - Access various information about the battery
@@ -233,7 +233,8 @@ Introduction to Flutter - Faisal Abid
 - [Geolocation](https://github.com/loup-v/geolocation) - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
 - [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
 - [Google Mobile Vision](https://github.com/edufolly/flutter_mobile_vision) - Implementation of Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly)
-- [App Rating](https://github.com/AppleEducate/app_review) - App Story and Google Play Ratings by [Rody Davis](http://appleeducate.com)
+- [App Rating](https://github.com/AppleEducate/app_review) - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
+- [Get Version](https://github.com/AppleEducate/get_version) - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com)
 
 ### Plugins development
 
@@ -261,10 +262,10 @@ Introduction to Flutter - Faisal Abid
 - [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
 - [Heroes Companion](https://github.com/arranf/Heroes-Companion) - Companion app for Heroes of Storm including redux and sqflite by [arranf](https://github.com/arranf)
 - [CryptoShadow](https://github.com/huextrat/CryptoShadow) - CryptoCurrency Tracker by [Hugo EXTRAT](https://github.com/huextrat)
-- [Trovami](https://github.com/Samaritan1011001/Trovami) - A live location sharing app built on Flutter and Firebase as backend by [Manoj NB](https://github.com/Samaritan1011001)
+- [Trovami](https://github.com/Samaritan1011001/Trovami) - Live location sharing app built on Flutter and Firebase as backend by [Manoj NB](https://github.com/Samaritan1011001)
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
 - [Planty](https://github.com/Ivaskuu/plantly) - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu)
-- [inKino](https://github.com/roughike/inKino) - A complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
+- [inKino](https://github.com/roughike/inKino) - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
 
 ## Frameworks
 
@@ -273,7 +274,7 @@ Introduction to Flutter - Faisal Abid
 - [GreenCat](https://github.com/alexeieleusis/greencat) - Port of Redux to Dart, including Redux Thunk
 - [Flutter built redux](https://github.com/davidmarne/flutter_built_redux) - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne)
 - [redux.dart](https://github.com/johnpryan/redux.dart) - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects)
-- [flutter_redux](https://github.com/brianegan/flutter_redux) - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), a set of utilities that allow you to easily consume a Redux Store to build Flutter Widgets.
+- [flutter_redux](https://github.com/brianegan/flutter_redux) - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Flutter Widgets.
 
 ### Game
 
@@ -294,7 +295,7 @@ Introduction to Flutter - Faisal Abid
 - [Ecuestre Digital](https://itunes.apple.com/mx/app/ecuestre-digital/id1183799348?mt=8) - Ecuestre Digital provides real-time results and video streaming of Equestrian Events.
 <!--- - [Scrumizer](https://play.google.com/store/apps/details?id=com.robbieone.scrumizer) - Scrum master and product owner certification trainer by [Robert Felker](https://www.linkedin.com/in/robert-felker/) --->
 - [Hookle](https://www.hookle.net/) - Manage your social media in one place
-- [inKino](https://github.com/roughike/inKino) - A complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
+- [inKino](https://github.com/roughike/inKino) - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
 
 ## License
 

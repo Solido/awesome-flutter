@@ -233,7 +233,6 @@ Introduction to Flutter - Faisal Abid
 - [Geolocation](https://github.com/loup-v/geolocation) - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
 - [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
 - [Google Mobile Vision](https://github.com/edufolly/flutter_mobile_vision) - Implementation of Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly)
-- [App Rating](https://github.com/AppleEducate/app_review) - App Story and Google Play Ratings by [Rody Davis](http://appleeducate.com)
 - [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) - A carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014)
 - [App Rating](https://github.com/AppleEducate/app_review) - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
 - [Get Version](https://github.com/AppleEducate/get_version) - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com)

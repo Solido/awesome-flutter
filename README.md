@@ -108,8 +108,9 @@ Introduction to Flutter - Faisal Abid
 - [Material Color Picker](https://github.com/long1eu/material_color_picker) - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu)
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar)
 - [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts)
+- [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu)
 
-#### Image
+### Image
 
 - [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
 - [Zoomable Image](https://github.com/perlatus/flutter_zoomable_image) - By Perlatus

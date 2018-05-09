@@ -112,6 +112,7 @@ Introduction to Flutter - Faisal Abid
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar)
 - [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts)
+- [PullToRefresh](https://github.com/peng8350/flutter_pulltorefresh) - PulltoRefresh widget by [Jpeng](https://github.com/peng8350)
 
 ### Map
 

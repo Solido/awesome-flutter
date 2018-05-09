@@ -99,19 +99,22 @@ Introduction to Flutter - Faisal Abid
 
 ### UI
 
-- [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
-- [Zoomable Image](https://github.com/perlatus/flutter_zoomable_image) - By Perlatus
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) -  Toolkit for building complex, high performance animations and 2D games by Viktor Lidholt
 - [Color Picker](https://github.com/dart-flitter/flutter_color_picker) - Primary, Accent & RGB colors selection by [Hadrien Lejard](https://twitter.com/HadrienLejard)
 - [3D Object](https://github.com/hemanthrajv/flutter_3d_obj) - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv)
 - [Contact Picker](https://github.com/goderbauer/contact_picker) - Picking a contact from the address book by [Michael Goderbauer](https://github.com/goderbauer)
 - [Parallax](https://github.com/FlutterRocks/page-transformer) - ViewPager by [Iiro Krankka](https://github.com/roughike)
-- [Image Carousel](https://github.com/theobouwman/flutter_image_carousel) - A image slider/carousel by [Theo Bouwman](https://github.com/theobouwman)
 - [Rich Text Editor](https://github.com/long1eu/rich_editor) - Text editor with style by [Lung Razvan](https://github.com/long1eu)
 - [Material Color Picker](https://github.com/long1eu/material_color_picker) - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu)
-- [Parallax Image](https://github.com/pulyaevskiy/parallax-image) - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar)
 - [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts)
+
+#### Image
+
+- [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
+- [Zoomable Image](https://github.com/perlatus/flutter_zoomable_image) - By Perlatus
+- [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) - A carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014)
+- [Parallax Image](https://github.com/pulyaevskiy/parallax-image) - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
 
 ### Map
 
@@ -233,7 +236,6 @@ Introduction to Flutter - Faisal Abid
 - [Geolocation](https://github.com/loup-v/geolocation) - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
 - [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
 - [Google Mobile Vision](https://github.com/edufolly/flutter_mobile_vision) - Implementation of Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly)
-- [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) - A carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014)
 - [App Rating](https://github.com/AppleEducate/app_review) - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
 - [Get Version](https://github.com/AppleEducate/get_version) - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com)
 

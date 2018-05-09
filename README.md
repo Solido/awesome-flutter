@@ -213,6 +213,7 @@ Introduction to Flutter - Faisal Abid
 - [UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges) - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe)
 - [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) - iOS Settings by [Matthias Rupp](https://github.com/matthinc)
 - [Music Player](https://github.com/thosakwe/flutter_music_player) - music player component by [Tobe O](https://thosakwe.com/)
+- [Dashboard](https://github.com/Ivaskuu/dashboard) - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu)
 
 ## Utilities
 

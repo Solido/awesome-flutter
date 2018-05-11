@@ -54,7 +54,7 @@ Introduction to Flutter - Faisal Abid
 
 ### Begin with
 
--[Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19) - Building beautiful, flexible user interfaces with Flutter
+- [Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19) - Building beautiful, flexible user interfaces with Flutter
 - [Flutter Labs](https://codelabs.developers.google.com/codelabs/flutter/index.html#0) - Building beautiful UIs with Flutter step by step
 - [Zero to One with Flutter](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn)
 - [FLUTTER from Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) - Full series of 4 articles by [Chema Rubio](https://twitter.com/develodroid)

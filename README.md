@@ -16,7 +16,7 @@ If you appreciate the content 📖 please give a ⭐ to help project visibility.
 
 <div style="text-align: center"><table><tr>
     <td style="text-align: center">
-        <img src="https://cdn-images-1.medium.com/max/1600/1*te0NUsn8_bj0S1VyvF_awA.gif" width="200" />
+        <img src="https://marcinszalek.pl/wp-content/uploads/2018/05/ff_16.gif" width="200" />
     </td>
     <td style="text-align: center">
         <img src="https://cloud.githubusercontent.com/assets/1295961/25781521/5e2a9738-333b-11e7-825d-a6672b1f0b73.gif" width="200"/>

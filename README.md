@@ -242,10 +242,11 @@ Introduction to Flutter - Faisal Abid
 
 - [Plugins Help](https://github.com/freewheelnat/flutter_plugins_help) - Connecting Android and iOS developers to develop flutter plugins by [Natalie Masse Hooper](https://twitter.com/NatJM)
 
-### Bluetooth
+### Bluetooth / NFC
 
  - [Flutter Ble](https://github.com/Polidea/FlutterBleLib) - Bluetooth by [Polidea](http://www.polidea.com)
  - [Flutter Blue](https://github.com/pauldemarco/flutter_blue) - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
+ - [NFC](https://github.com/guyulmaz/flutter-nfc-app) - Connect IsoDep iso 14443-4 cards for android by [Göksel Uyulmaz](https://github.com/guyulmaz)
 
 ## Open Source Apps
 

@@ -67,25 +67,22 @@ Introduction to Flutter - Faisal Abid
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app)
 
 #### Video Series
-- [The Flutter Episodes by Brandon Donnelson](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) - This set of over 50 videos which ranges from layout, database persitence and general flutter tips and tricks. 
-- [Flutter Talks](https://www.youtube.com/playlist?list=PLW08AvVvHDpHFQjXnjv4CKPyAdFLPMW4q&disable_polymer=true) - contains a list of Flutter videos.
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) - Very rich content by [Tensor Programming](http://tensor-programming.com/)
-- [Dart Streams](https://www.youtube.com/playlist?list=PLlpxjI4sVd-zZ1jpJHJMSHGiWInsvwwf_) - Flutter dedicated channel on Dart-Streams
-- [Bram Vanbilsen Tutorials](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) - Discover SDK using VSCode by Bram Vanbilsen
-- [Flutter tutorials from VoidRealms](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi)
-- [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan)
 - [Flutter Challenges](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value, in-depth Flutter challenges, tutorials, and patterns.
+- [The Flutter Episodes by Brandon Donnelson](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) - This set of over 50 videos which ranges from layout, database persitence and general flutter tips and tricks. 
+- [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan)
 - [Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Build Native Mobile Apps with Flutter by Google
+- [Flutter tutorials from VoidRealms](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi)
+- [Bram Vanbilsen Tutorials](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) - Discover SDK using VSCode by Bram Vanbilsen
+- [Flutter Talks](https://www.youtube.com/playlist?list=PLW08AvVvHDpHFQjXnjv4CKPyAdFLPMW4q&disable_polymer=true) - contains a list of Flutter videos.
 
 
 ### Howtos
 
 - [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn)
-- [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) - By [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957) - Flutter App powered by Google Cloud Functions by [Romin Irani](https://rominirani.com/@iromin)
 - [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) - Firebase live coding
 - [Securing Flutter Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) - By Mehmet Fidanboylu
-- [Flutter Redux Todo](https://github.com/xqwzts/flutter-redux-todo-list) - Todo application by [Victor Choueiri](https://github.com/xqwzts)
 - [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) - How to make a custom plug-in for flutter ? by [Karthik Ponnam](https://medium.com/@KarthikPonnam)
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
 

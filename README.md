@@ -65,6 +65,7 @@ Introduction to Flutter - Faisal Abid
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs with Flutter by Google Code Labs
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase Flutter by Google Code Labs
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app)
+- [Flutter by Example](https://flutterbyexample.com/) Multiple tutorials for building small Flutter apps, including using Flutter Redux, Firebase, Custom Animations, and UI. 
 
 #### Video Series
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) - Very rich content by [Tensor Programming](http://tensor-programming.com/)
@@ -97,6 +98,7 @@ Introduction to Flutter - Faisal Abid
 - [Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo app for the material design widgets and other features provided by Flutter.
 - [Posse Gallery](https://github.com/flutter/posse_gallery) - Demonstration by [Posse](http://goposse.com)
 - [Flutter Examples](https://github.com/nisrulz/flutter-examples) - Simple basic isolated apps for budding flutter devs, by [Nishant Srivastava](https://github.com/nisrulz)
+
 
 ### UI
 

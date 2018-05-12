@@ -99,7 +99,6 @@ Introduction to Flutter - Faisal Abid
 - [Posse Gallery](https://github.com/flutter/posse_gallery) - Demonstration by [Posse](http://goposse.com)
 - [Flutter Examples](https://github.com/nisrulz/flutter-examples) - Simple basic isolated apps for budding flutter devs, by [Nishant Srivastava](https://github.com/nisrulz)
 
-
 ### UI
 
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) -  Toolkit for building complex, high performance animations and 2D games by Viktor Lidholt

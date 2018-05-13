@@ -273,6 +273,7 @@ Introduction to Flutter - Faisal Abid
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
 - [Planty](https://github.com/Ivaskuu/plantly) - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu)
 - [inKino](https://github.com/roughike/inKino) - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
+- [WhatTodo](https://github.com/burhanrashid52/WhatTodo) -  Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
 
 ## Frameworks
 

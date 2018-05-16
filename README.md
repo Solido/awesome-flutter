@@ -269,7 +269,7 @@ Introduction to Flutter - Faisal Abid
 ## Frameworks
 
 ### Flux / Redux
-
+- [flutter_flux](https://github.com/google/flutter_flux) - Flux app architecture library
 - [GreenCat](https://github.com/alexeieleusis/greencat) - Port of Redux to Dart, including Redux Thunk
 - [Flutter built redux](https://github.com/davidmarne/flutter_built_redux) - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne)
 - [redux.dart](https://github.com/johnpryan/redux.dart) - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects)

@@ -86,7 +86,7 @@ Introduction to Flutter - Faisal Abid
 - [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) - How to make a custom plug-in for flutter ? by [Karthik Ponnam](https://medium.com/@KarthikPonnam)
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
 
-### Blogs
+### Websites / Blogs
 
 - [SZAŁKO-BLOG](https://marcinszalek.pl/) - Step by step advanced design by [Marcin Szalek]()
 

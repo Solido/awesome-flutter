@@ -111,7 +111,8 @@ Introduction to Flutter - Faisal Abid
 - [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts)
 - [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu)
 - [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/)
-- [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) -  Creating the swipe view to dismiss the card by [Ruchika Gupta](https://github.com/geekruchika)
+- [Login-Home Animation](https://github.com/GeekyAnts/flutter-login-home-animation) -  Implementing super smooth animations in your Flutter App by [Ruchika Gupta](https://github.com/geekruchika)
+<!-- - [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) -  Creating the swipe view to dismiss the card by [Ruchika Gupta](https://github.com/geekruchika) -->
 
 ### Image
 

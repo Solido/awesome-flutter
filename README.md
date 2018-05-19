@@ -229,6 +229,10 @@ Introduction to Flutter - Faisal Abid
 - [IntelliJ Snippets](https://github.com/Solido/flutter-snippet) - More More More Snippets to get stuffs done even faster and also learn quickly by [Robert Felker](https://github.com/Solido)
 - [VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=franzsilva.fs-flutter-snippets) - Translated from IntelliJ IDEA Official Snippets by Franz Silva
 
+### Desktop
+
+- [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) - Desktop implementations of the Flutter embedding API by Google
+
 ## Plugins
 
 - [Flutter Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins

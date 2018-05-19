@@ -250,11 +250,12 @@ Introduction to Flutter - Faisal Abid
 - [App Rating](https://github.com/AppleEducate/app_review) - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
 - [Get Version](https://github.com/AppleEducate/get_version) - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com)
 
-### Bluetooth / NFC
+### Bluetooth / NFC / Beacon
 
  - [Flutter Ble](https://github.com/Polidea/FlutterBleLib) - Bluetooth by [Polidea](http://www.polidea.com)
  - [Flutter Blue](https://github.com/pauldemarco/flutter_blue) - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
  - [NFC](https://github.com/guyulmaz/flutter-nfc-app) - Connect IsoDep iso 14443-4 cards for android by [Göksel Uyulmaz](https://github.com/guyulmaz)
+ - [Beacons](https://github.com/loup-v/beacons) - Flutter beacons plugin by [Loup](http://intheloup.io)
 
 ## Open Source Apps
 

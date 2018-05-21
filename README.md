@@ -114,8 +114,7 @@ Introduction to Flutter - Faisal Abid
 - [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts)
 - [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu)
 - [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/)
-- [Login-Home Animation](https://github.com/GeekyAnts/flutter-login-home-animation) -  Implementing super smooth animations in your Flutter App by [Ruchika Gupta](https://github.com/geekruchika)
-<!-- - [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) -  Creating the swipe view to dismiss the card by [Ruchika Gupta](https://github.com/geekruchika) -->
+- [Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation) - Smooth animation from login to home by [Ruchika Gupta](https://github.com/geekruchika)
 
 ### Image
 
@@ -222,6 +221,7 @@ Introduction to Flutter - Faisal Abid
 - [Music Player](https://github.com/thosakwe/flutter_music_player) - music player component by [Tobe O](https://thosakwe.com/)
 - [Dashboard](https://github.com/Ivaskuu/dashboard) - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu)
 - [Todo](https://github.com/littlemarc2011/FlutterTodo) - Todo template from Dribble by [Marc L](https://www.marc-little.com/)
+- [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika)
 
 ## Utilities
 

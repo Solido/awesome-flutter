@@ -292,6 +292,7 @@ Introduction to Flutter - Faisal Abid
 ### Game
 
 - [Flame](https://github.com/luanpotter/flame) - Minimalist game engine by [Luan Nico](https://github.com/luanpotter)
+- [2dimensions](https://www.2dimensions.com/) - Animation engine with support for Skeletons, Meshes, Kinematics.
 
 ## Bonus
 

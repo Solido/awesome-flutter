@@ -8,11 +8,9 @@
 
 Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
 
-The goal is to enable developers to deliver high-performance apps that feel natural on different platforms. We embrace differences in scrolling behaviors, typography, icons, and more.
-
-Contributions welcome. Add links through pull requests or create an issue to start a discussion.
-
 If you appreciate the content 📖 please give a ⭐ to help project visibility.
+
+💵: Commercial solutions
 
 <div style="text-align: center"><table><tr>
     <td style="text-align: center">

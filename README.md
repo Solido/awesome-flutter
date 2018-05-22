@@ -191,6 +191,7 @@ Introduction to Flutter - Faisal Abid
 - [Audio Recorder](https://github.com/ZaraclaJ/audio_recorder) - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz)
 - [Video Launcher](https://github.com/rxlabz/flutter_video_launcher) - Launch a video player by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Stereo](https://github.com/2find/stereo) - Playing music on iOS and Android by [2Find](https://github.com/2find)
+- [Dart Tags](https://github.com/NiKoTron/dart-tags) - The library for parsing ID3 tags, written in pure Dart by [Nikolai Simonov](https://github.com/NiKoTron)
 
 #### Voice
 

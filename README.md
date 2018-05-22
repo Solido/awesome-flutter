@@ -234,6 +234,9 @@ Introduction to Flutter - Faisal Abid
 
 - [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) - Desktop implementations of the Flutter embedding API by Google
 
+### CLI
+- [ZSH Completion](https://github.com/NiKoTron/zsh-flutter-completition) - ZSH completion for the Flutter CLI tool by [Nikolai Simonov](https://github.com/NiKoTron)
+
 ## Plugins
 
 - [Flutter Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins

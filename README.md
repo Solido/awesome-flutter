@@ -89,8 +89,8 @@ Introduction to Flutter - Faisal Abid
 - [SZAŁKO-BLOG](https://marcinszalek.pl/) - Step by step advanced design by [Marcin Szalek]()
 - [Sergi & Replace](https://sergiandreplace.com/) - Basic to advanced articles and tutorials [Sergi Martínez](https://github.com/sergiandreplace)
 - [Flutter by Example](https://flutterbyexample.com/) Tutorials and Howto based on Redux, Firebase, Custom Animations, and UI
-- [Flutter Rocks](https://flutter.rocks/) A blog about the joys of Flutter.
-
+- [Flutter Institute](https://flutter.institute/) Very original content and tutorials by [Brian Armstrong](https://twitter.com/flutterinst)
+- [Flutter Rocks](https://flutter.rocks/) A blog about the joys of Flutter by [Iiro Krankka](https://twitter.com/koorankka)
 
 ## Components
 

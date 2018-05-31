@@ -275,6 +275,9 @@ Introduction to Flutter - Faisal Abid
 - [Planty](https://github.com/Ivaskuu/plantly) - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu)
 - [inKino](https://github.com/roughike/inKino) - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
 - [WhatTodo](https://github.com/burhanrashid52/WhatTodo) -  Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
+- [Crochet.Land](https://github.com/crochetLand/app) - Application to help Crochet lovers, uses flutter, firebase, fluro and flutter_flux by  [Rafael Roman](https://github.com/panthro).
+
+
 
 ### Games
 
@@ -305,6 +308,8 @@ Introduction to Flutter - Faisal Abid
 - [Hookle](https://www.hookle.net/) - Manage your social media in one place
 - [inKino](https://github.com/roughike/inKino) - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
 <!--- - [Scrumizer](https://play.google.com/store/apps/details?id=com.robbieone.scrumizer) - Scrum master and product owner certification trainer by [Robert Felker](https://www.linkedin.com/in/robert-felker/) --->
+
+- Crochet.Land [Android](https://play.google.com/store/apps/details?id=land.crochet.app) - Application to help Crochet lovers, uses flutter, firebase, fluro and flutter_flux by  [Rafael Roman](https://github.com/panthro).
 
 ## License
 

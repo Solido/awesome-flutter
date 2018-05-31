@@ -169,7 +169,7 @@ Introduction to Flutter - Faisal Abid
 
 ### Build & Development
 
-- [Mutisya](http://mutisya.com/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya)
+- [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya)
 
 #### Build automation
 

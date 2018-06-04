@@ -114,6 +114,7 @@ Introduction to Flutter - Faisal Abid
 - [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu)
 - [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/)
 - [Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation) - Smooth animation from login to home by [Ruchika Gupta](https://github.com/geekruchika)
+- [Calendar Widget](https://github.com/pinkfish/flutter_calendar) - Calendar widget using slivers for smooth scrolling back and forth over days/events with the ability to jump to specific days/months. by [David Bennett]
 
 ### Image
 

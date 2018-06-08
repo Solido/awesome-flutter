@@ -1,5 +1,5 @@
 
-[<img src="https://user-images.githubusercontent.com/1295961/41152758-e8d8d63a-6b14-11e8-94de-c73c24d03a54.png" align="center" width="600">](http://flutter.io)
+[<img src="https://user-images.githubusercontent.com/1295961/41153924-96d11330-6b18-11e8-8d2b-c7f360722eb6.png" align="center" width="800">](http://flutter.io)
 
 Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
 

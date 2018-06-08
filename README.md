@@ -88,7 +88,6 @@ If you appreciate the content 📖 please give a ⭐ to help project visibility.
 
 ### UI
 
-- [SpriteWidget](https://github.com/spritewidget/spritewidget) -  Toolkit for building complex, high performance animations and 2D games by Viktor Lidholt.
 - [Color Picker](https://github.com/dart-flitter/flutter_color_picker) - Primary, Accent & RGB colors selection by [Hadrien Lejard](https://twitter.com/HadrienLejard).
 - [3D Object](https://github.com/hemanthrajv/flutter_3d_obj) - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv).
 - [Contact Picker](https://github.com/goderbauer/contact_picker) - Picking a contact from the address book by [Michael Goderbauer](https://github.com/goderbauer).
@@ -279,9 +278,10 @@ If you appreciate the content 📖 please give a ⭐ to help project visibility.
 - [Dartea](https://pub.dartlang.org/packages/dartea) - Model View Update inspired by TEA from ELM by Shilyagov P.
 - [Inject](https://github.com/google/inject.dart) - Compile-time dependency injection for Dart and Flutter by Google.
 
-### Game
+### Animation / Game
 
 - [Flame](https://github.com/luanpotter/flame) - Minimalist game engine by [Luan Nico](https://github.com/luanpotter).
+- [SpriteWidget](https://github.com/spritewidget/spritewidget) -  Toolkit for building complex, high performance animations and 2D games by [Viktor Lidholt](https://github.com/vlidholt).
 
 ## Bonus
 

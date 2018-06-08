@@ -8,8 +8,6 @@ Flutter is a mobile app SDK for building high-performance, high-fidelity, apps f
 
 If you appreciate the content 📖 please give a ⭐ to help project visibility.
 
-💵: Commercial solutions
-
 <div style="text-align: center"><table><tr>
     <td style="text-align: center">
         <img src="https://marcinszalek.pl/wp-content/uploads/2018/05/ff_16.gif" width="200" />
@@ -284,7 +282,6 @@ If you appreciate the content 📖 please give a ⭐ to help project visibility.
 ### Game
 
 - [Flame](https://github.com/luanpotter/flame) - Minimalist game engine by [Luan Nico](https://github.com/luanpotter).
-- [2Dimensions](https://www.2dimensions.com/) - 💵Animation engine with support for Skeletons, Meshes, Kinematics.
 
 ## Bonus
 

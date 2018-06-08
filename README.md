@@ -52,7 +52,7 @@ If you appreciate the content 📖 please give a ⭐ to help project visibility.
 #### Video Series
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) - Very rich content by [Tensor Programming](http://tensor-programming.com/).
 - [Flutter Challenges](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value, in-depth Flutter challenges, tutorials, and patterns.
-- [The Flutter Episodes by Brandon Donnelson](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) - This set of over 50 videos which ranges from layout, database persitence and general flutter tips and tricks. 
+- [The Flutter Episodes by Brandon Donnelson](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) - Over 50 videos from layout, database and tips. 
 - [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan).
 - [Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Build Native Mobile Apps with Flutter by Google.
 - [Flutter tutorials from VoidRealms](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi) - More than 40 video tutorials, from basic to advanced.

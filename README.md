@@ -1,4 +1,10 @@
+
 [<img src="https://user-images.githubusercontent.com/1295961/41170455-b47a54bc-6b4c-11e8-940f-bc0a3bc3ff8d.png" align="center" width="800">](http://flutter.io)
+
+<p align="center">
+  <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+</p>
 
 Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
 
@@ -195,7 +201,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Movie Details](https://github.com/FlutterRocks/movie-details-ui) (90 ★) - Movie details page by [Iiro Krankka](https://github.com/roughike).
 - [Flutter Mates](https://github.com/CodemateLtd/FlutterMates) (156 ★) - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike).
 - [Weather](https://github.com/alessandroaime/Weather) (49 ★) - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime).
-- [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) (608 ★) - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan).
+- [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) (609 ★) - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan).
 - [Restaurant Menu](https://github.com/braulio94/menu_flutter) (215 ★) - Restaurant menu by [Braulio Cassule](https://github.com/braulio94).
 - [UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges) (205 ★) - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe).
 - [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) (18 ★) - iOS Settings by [Matthias Rupp](https://github.com/matthinc).
@@ -232,6 +238,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Google Mobile Vision](https://github.com/edufolly/flutter_mobile_vision) (24 ★) - Implementation of Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly).
 - [App Rating](https://github.com/AppleEducate/app_review) (18 ★) - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com).
 - [Get Version](https://github.com/AppleEducate/get_version) (12 ★) - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com).
+- [Downloader](https://github.com/hnvn/flutter_downloader) (10 ★) - Create and manage download tasks by [HungHD](https://github.com/hnvn)
 
 ### Bluetooth / NFC / Beacon
 
@@ -254,9 +261,9 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Trovami](https://github.com/Samaritan1011001/Trovami) (33 ★) - Live location sharing app built on Flutter and Firebase as backend by [Manoj NB](https://github.com/Samaritan1011001).
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) (171 ★) - Full featured music player by [Pawan Kumar](https://about.me/imthepk).
 - [Planty](https://github.com/Ivaskuu/plantly) (54 ★) - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu).
-- [InKino](https://github.com/roughike/inKino) (804 ★) - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike).
+- [InKino](https://github.com/roughike/inKino) (805 ★) - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike).
 - [WhatTodo](https://github.com/burhanrashid52/WhatTodo) (100 ★) -  Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
-- [FlutterGram](https://github.com/mdanics/fluttergram) (55 ★) - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
+- [FlutterGram](https://github.com/mdanics/fluttergram) (56 ★) - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
 
 ### Games
 
@@ -285,7 +292,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - Hamilton ([iOS](https://itunes.apple.com/fr/app/hamilton-the-official-app/id1255231054?mt=8&ign-mpt=uo%3D4) / [Android](https://play.google.com/store/apps/details?id=com.hamilton.app)) - Introducing Hamilton — The Official App. Fans’ access to all things Hamilton: An American Musical.
 - Newsvoice ([iOS](https://itunes.apple.com/se/app/newsvoice/id1208421834?l=en&mt=8) / [Android](https://play.google.com/store/apps/details?id=com.newsvoice.newsvoice)) - Newsvoice shows all the news and perspectives from high quality sources in one place.
 - [Hookle](https://www.hookle.net/) - Manage your social media in one place.
-- [inKino](https://github.com/roughike/inKino) (804 ★) - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike).
+- [inKino](https://github.com/roughike/inKino) (805 ★) - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike).
 
 ## License
 

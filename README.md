@@ -1,8 +1,6 @@
 
 [<img src="https://user-images.githubusercontent.com/1295961/41152758-e8d8d63a-6b14-11e8-94de-c73c24d03a54.png" align="center" width="600">](http://flutter.io)
 
-> An awesome style list that curates the best [Flutter](http://flutter.io) libraries, tools, tutorials, articles and more.
-
 Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
 
 If you appreciate the content 📖 please give a ⭐ to help project visibility.

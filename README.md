@@ -1,6 +1,5 @@
-# Awesome Flutter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" align="right" width="100">](http://flutter.io)
+[<img src="https://user-images.githubusercontent.com/1295961/41152758-e8d8d63a-6b14-11e8-94de-c73c24d03a54.png" align="center" width="600">](http://flutter.io)
 
 > An awesome style list that curates the best [Flutter](http://flutter.io) libraries, tools, tutorials, articles and more.
 

@@ -62,8 +62,6 @@ If you appreciate the content 📖 please give a ⭐ to help project visibility.
 - [Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Build Native Mobile Apps with Flutter by Google.
 - [Flutter tutorials from VoidRealms](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi) - More than 40 video tutorials, from basic to advanced.
 - [Bram Vanbilsen Tutorials](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) - Discover SDK using VSCode by Bram Vanbilsen.
-- [Flutter Talks](https://www.youtube.com/playlist?list=PLW08AvVvHDpHFQjXnjv4CKPyAdFLPMW4q&disable_polymer=true) - List of Flutter videos.
-
 
 ### Howtos
 

@@ -12,11 +12,9 @@
 
 Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
 
-<p>
 If you appreciate the content 📖<br>
 Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/github/stars/Solido/awesome-flutter.svg?style=flat-square)](https://github.com/Solido/awesome-flutter)<br>
 Also like 👍, star ⭐, clap 👏 links to support their authors ! 
-</p>
 
 <div style="text-align: center"><table><tr>
 <td style="text-align: center">

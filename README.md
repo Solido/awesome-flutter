@@ -212,6 +212,9 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Todo](https://github.com/littlemarc2011/FlutterTodo) (85 ★) - Todo template from Dribble by [Marc L](https://www.marc-little.com/).
 - [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) (14 ★) - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika).
 
+### CLI
+- [ZSH Completion](https://github.com/NiKoTron/zsh-flutter-completition) - ZSH completion for the Flutter CLI tool by [Nikolai Simonov](https://github.com/NiKoTron)
+
 ## Plugins
 
 - [Flutter Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins.

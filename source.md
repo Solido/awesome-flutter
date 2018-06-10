@@ -276,6 +276,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 
 - [Flutter_flux](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google.
 - [Cache Manager](https://github.com/renefloor/flutter_cache_manager) <!--renefloor/flutter_cache_manager--> - Generic cache manager by [Rene Floor](https://github.com/renefloor).
+- [ZSH Completion](https://github.com/NiKoTron/zsh-flutter-completition) <!--NiKoTron/zsh-flutter-completition--> - ZSH completion for the Flutter CLI tool by [Nikolai Simonov](https://github.com/NiKoTron)
 
 ### Animation / Game
 

@@ -94,7 +94,6 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [3D Object](https://github.com/hemanthrajv/flutter_3d_obj) <!--stargazers:hemanthrajv/flutter_3d_obj--> - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv).
 - [Contact Picker](https://github.com/goderbauer/contact_picker) <!--stargazers:goderbauer/contact_picker--> - Picking a contact from the address book by [Michael Goderbauer](https://github.com/goderbauer).
 - [Parallax](https://github.com/FlutterRocks/page-transformer) <!--stargazers:FlutterRocks/page-transformer--> - ViewPager by [Iiro Krankka](https://github.com/roughike).
-- [Rich Text Editor](https://github.com/long1eu/rich_editor) <!--stargazers:long1eu/rich_editor--> - Text editor with style by [Lung Razvan](https://github.com/long1eu).
 - [Material Color Picker](https://github.com/long1eu/material_color_picker) <!--stargazers:long1eu/material_color_picker--> - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu).
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) <!--stargazers:letsar/flutter_staggered_grid_view--> - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar).
 - [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) <!--stargazers:xqwzts/flutter_radial_menu--> - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts).
@@ -111,6 +110,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Zoomable Image](https://github.com/perlatus/flutter_zoomable_image) <!--stargazers:perlatus/flutter_zoomable_image--> - By Perlatus.
 - [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) <!--stargazers:serenader2014/flutter_carousel_slider--> - Carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014).
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) <!--stargazers:pulyaevskiy/parallax-image--> - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy).
+- [Image Placeholder](https://github.com/FaisalAbid/pluto) <!--stargazers:FaisalAbid/pluto--> - While large images load, show a fallback asset by [Faisal Abid](https://twitter.com/FaisalAbid).
 
 ### Map
 
@@ -149,7 +149,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 ### Text & Rich Content
 
 - [Flutter Markdown](https://github.com/flutter/flutter_markdown) <!--stargazers:flutter/flutter_markdown--> - Markdown renderer for Flutter. It supports the original format, but no inline html.
-- [Image Placeholder](https://github.com/FaisalAbid/pluto) <!--stargazers:FaisalAbid/pluto--> - While large images load, show a fallback asset by [Faisal Abid](https://twitter.com/FaisalAbid).
+- [Rich Text Editor](https://github.com/long1eu/rich_editor) <!--stargazers:long1eu/rich_editor--> - Text editor with style by [Lung Razvan](https://github.com/long1eu).
 
 ### Analytics
 

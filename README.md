@@ -54,13 +54,13 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Basic tutorial.
 
 #### Video Series
-- [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) - Very rich content by [Tensor Programming](http://tensor-programming.com/).
+- [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) (64 🎬) - Very rich content by [Tensor Programming](http://tensor-programming.com/).
 - [Flutter Challenges](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value, in-depth Flutter challenges, tutorials, and patterns.
-- [The Flutter Episodes by Brandon Donnelson](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) - Over 50 videos from layout, database and tips.
-- [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan).
+- [The Flutter Episodes by Brandon Donnelson](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) (55 🎬) - Videos on layout, database and tips.
+- [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) (61 🎬) - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan).
 - [Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Build Native Mobile Apps with Flutter by Google.
-- [Flutter tutorials from VoidRealms](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi) - More than 40 video tutorials, from basic to advanced.
-- [Bram Vanbilsen Tutorials](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) - Discover SDK using VSCode by Bram Vanbilsen.
+- [Flutter tutorials from VoidRealms](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi) (42 🎬) - Video tutorials, from basic to advanced.
+- [Bram Vanbilsen Tutorials](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) (12 🎬) - Discover SDK using VSCode by Bram Vanbilsen.
 
 ### Howtos
 
@@ -114,7 +114,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 
 - [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) (162 ★) - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/).
 - [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) (15 ★) - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com).
-- [Flutter Map](https://github.com/apptreesoftware/flutter_map) (127 ★) - Open-source map solution (based on [Leaflet](http://leafletjs.com/)), easily customizable, contributions welcome. By [AppTree Software](https://github.com/apptreesoftware).
+- [Flutter Map](https://github.com/apptreesoftware/flutter_map) (128 ★) - Open-source map solution (based on [Leaflet](http://leafletjs.com/)), easily customizable, contributions welcome. By [AppTree Software](https://github.com/apptreesoftware).
 - [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) (68 ★) - Interactive, customizable vector maps by Mapbox.
 
 #### Charts
@@ -201,7 +201,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Movie Details](https://github.com/FlutterRocks/movie-details-ui) (90 ★) - Movie details page by [Iiro Krankka](https://github.com/roughike).
 - [Flutter Mates](https://github.com/CodemateLtd/FlutterMates) (156 ★) - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike).
 - [Weather](https://github.com/alessandroaime/Weather) (49 ★) - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime).
-- [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) (619 ★) - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan).
+- [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) (620 ★) - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan).
 - [Restaurant Menu](https://github.com/braulio94/menu_flutter) (216 ★) - Restaurant menu by [Braulio Cassule](https://github.com/braulio94).
 - [UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges) (207 ★) - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe).
 - [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) (18 ★) - iOS Settings by [Matthias Rupp](https://github.com/matthinc).

@@ -78,7 +78,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Flutter by Example](https://flutterbyexample.com/) - Tutorials and Howto based on Redux, Firebase, Custom Animations, and UI.
 - [Flutter Institute](https://flutter.institute/) - Very original content and tutorials by [Brian Armstrong](https://twitter.com/flutterinst).
 - [Flutter Rocks](https://flutter.rocks/) - Blog about the joys of Flutter by [Iiro Krankka](https://twitter.com/koorankka).
-- [Norbert](https://medium.com/@norbertkozsir) - In depth articles about Flutter features and app creation by [Norbert515](https://github.com/Norbert515)
+- [Norbert](https://medium.com/@norbertkozsir) - In depth articles about Flutter features and app creation by [Norbert515](https://github.com/Norbert515).
 
 ## Components
 
@@ -228,7 +228,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Google Mobile Vision](https://github.com/edufolly/flutter_mobile_vision) (24 ★) - Implementation of Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly).
 - [App Rating](https://github.com/AppleEducate/app_review) (19 ★) - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com).
 - [Get Version](https://github.com/AppleEducate/get_version) (13 ★) - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com).
-- [Downloader](https://github.com/hnvn/flutter_downloader) (15 ★) - Create and manage download tasks by [HungHD](https://github.com/hnvn)
+- [Downloader](https://github.com/hnvn/flutter_downloader) (15 ★) - Create and manage download tasks by [HungHD](https://github.com/hnvn).
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) (8 ★) - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish).
 - [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) (58 ★) - Show images from the internet and keep them in the cache directory by [Rene Floor](https://github.com/renefloor).
 
@@ -276,6 +276,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 
 - [Flutter_flux](https://github.com/google/flutter_flux) (160 ★) - Implementation of the Flux framework by Google.
 - [Cache Manager](https://github.com/renefloor/flutter_cache_manager) <!--renefloor/flutter_cache_manager--> - Generic cache manager by [Rene Floor](https://github.com/renefloor).
+- [ZSH Completion](https://github.com/NiKoTron/zsh-flutter-completition) <!--NiKoTron/zsh-flutter-completition--> - ZSH completion for the Flutter CLI tool by [Nikolai Simonov](https://github.com/NiKoTron).
 
 ### Animation / Game
 

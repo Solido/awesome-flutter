@@ -8,6 +8,8 @@
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
   <img alt="PRs Welcome" src="https://img.shields.io/badge/StackOverflow-@stackoverflow@-orange.svg" />
   </a>
+  <img alt="Entries" src="https://img.shields.io/badge/Items-@items@-lightgrey.svg" />
+  
 </p>
 
 Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
@@ -61,8 +63,8 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 
 - [Coding an Android App](https://code.tutsplus.com/tutorials/developing-an-android-app-with-flutter--cms-28270) - Setup and first app by [Ashraff Hathibelagal](https://github.com/hathibelagal).
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs by Google Code Labs.
-- [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase Flutter by Google Code Labs.
-- [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Basic tutorial.
+- [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase integration by Google Code Labs.
+- [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Nice planet design tutorial.
 
 ### Howtos
 

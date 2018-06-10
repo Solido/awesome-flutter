@@ -187,6 +187,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 ### Storage
 
 - [Firebase Storage](https://github.com/flutter/plugins/tree/master/packages/firebase_storage) - Firebase as data storage.
+- [Secure Storage](https://github.com/mogol/flutter_secure_storage) <!--stargazers:mogol/flutter_secure_storage--> - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol) 
 
 ### Monetization
 

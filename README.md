@@ -30,10 +30,10 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Components](#components)
 - [Navigation](#navigation)
 - [Template](#templates)
-- [Utilities](#utilities)
 - [Plugins](#plugins)
 - [Open Source Apps](#open-source-apps)
 - [Frameworks](#frameworks)
+- [Utilities](#utilities)
 - [Bonus](#bonus)
 
 ## Articles
@@ -99,9 +99,11 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) (104 ★) - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar).
 - [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) (75 ★) - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts).
 - [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) (58 ★) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu).
-- [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) (68 ★) - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/).
+- [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) (69 ★) - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/).
 - [Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation) (115 ★) - Smooth animation from login to home by [Ruchika Gupta](https://github.com/geekruchika).
-- [List Drag&Drop](https://github.com/Norbert515/flutter_list_drag_and_drop) (49 ★) - Reorder list elements using Drag & Drop by [Norbert515](https://github.com/Norbert515)
+- [List Drag&Drop](https://github.com/Norbert515/flutter_list_drag_and_drop) (49 ★) - Reorder list elements using Drag & Drop by [Norbert515](https://github.com/Norbert515).
+- [Calendar Widget](https://github.com/pinkfish/flutter_calendar) (3 ★) - Calendar widget using slivers for smooth scrolling back and forth over days/events with the ability to jump to specific days/months by [David Bennett](https://github.com/pinkfish).
+- [Side Header List](https://github.com/renefloor/side_header_list_view) (33 ★) - Listview with sticky headers like the Android contact page by [Rene Floor](https://github.com/renefloor).
 
 ### Image
 
@@ -112,7 +114,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 
 ### Map
 
-- [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) (162 ★) - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/).
+- [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) (163 ★) - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/).
 - [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) (15 ★) - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com).
 - [Flutter Map](https://github.com/apptreesoftware/flutter_map) (128 ★) - Open-source map solution (based on [Leaflet](http://leafletjs.com/)), easily customizable, contributions welcome. By [AppTree Software](https://github.com/apptreesoftware).
 - [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) (68 ★) - Interactive, customizable vector maps by Mapbox.
@@ -129,7 +131,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 
 ### Navigation
 
-- [Fluro](https://github.com/goposse/fluro) (283 ★) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com).
+- [Fluro](https://github.com/goposse/fluro) (284 ★) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com).
 - [Circle Indicator](https://pub.dartlang.org/packages/circle_indicator) - Circle indicator for the PageViewer by [Lung Razvan](https://github.com/long1eu).
 - [Quick Actions](https://github.com/flutter/plugins/tree/master/packages/quick_actions) - Manage and interact with the application's home screen quick actions.
 
@@ -210,18 +212,6 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Todo](https://github.com/littlemarc2011/FlutterTodo) (85 ★) - Todo template from Dribble by [Marc L](https://www.marc-little.com/).
 - [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) (14 ★) - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika).
 
-## Utilities
-
-### IDE
-
-- [IntelliJ Plugin](https://flutter.io/intellij-setup) - Flutter on Intellij and Webstorm.
-- [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Plugin to get Dart with Visual Studio Code by [Danny Tuppeny](https://twitter.com/DanTup).
-- [VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=franzsilva.fs-flutter-snippets) - Translated from IntelliJ IDEA Official Snippets by Franz Silva.
-
-### Desktop
-
-- [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) (554 ★) - Desktop implementations of the Flutter embedding API by Google.
-
 ## Plugins
 
 - [Flutter Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins.
@@ -239,6 +229,8 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [App Rating](https://github.com/AppleEducate/app_review) (19 ★) - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com).
 - [Get Version](https://github.com/AppleEducate/get_version) (13 ★) - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com).
 - [Downloader](https://github.com/hnvn/flutter_downloader) (15 ★) - Create and manage download tasks by [HungHD](https://github.com/hnvn)
+- [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) (8 ★) - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish).
+- [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) (58 ★) - Show images from the internet and keep them in the cache directory by [Rene Floor](https://github.com/renefloor).
 
 ### Bluetooth / NFC / Beacon
 
@@ -273,7 +265,6 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 
 ### Flux / Redux / ELM / Dependancy Injection
 
-- [Flutter_flux](https://github.com/google/flutter_flux) (160 ★) - Implementation of the Flux framework by Google.
 - [Flutter built redux](https://github.com/davidmarne/flutter_built_redux) (39 ★) - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne).
 - [Redux.dart](https://github.com/johnpryan/redux.dart) (113 ★) - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects).
 - [Flutter_redux](https://github.com/brianegan/flutter_redux) (177 ★) - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Flutter Widgets.
@@ -281,10 +272,27 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Dartea](https://pub.dartlang.org/packages/dartea) - Model View Update inspired by TEA from ELM by Shilyagov P.
 - [Inject](https://github.com/google/inject.dart) (183 ★) - Compile-time dependency injection for Dart and Flutter by Google.
 
+### Misc
+
+- [Flutter_flux](https://github.com/google/flutter_flux) (160 ★) - Implementation of the Flux framework by Google.
+- [Cache Manager](https://github.com/renefloor/flutter_cache_manager) <!--renefloor/flutter_cache_manager--> - Generic cache manager by [Rene Floor](https://github.com/renefloor).
+
 ### Animation / Game
 
 - [Flame](https://github.com/luanpotter/flame) (171 ★) - Minimalist game engine by [Luan Nico](https://github.com/luanpotter).
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) (220 ★) -  Toolkit for building complex, high performance animations and 2D games by [Viktor Lidholt](https://github.com/vlidholt).
+
+## Utilities
+
+### IDE
+
+- [IntelliJ Plugin](https://flutter.io/intellij-setup) - Flutter on Intellij and Webstorm.
+- [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Plugin to get Dart with Visual Studio Code by [Danny Tuppeny](https://twitter.com/DanTup).
+- [VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=franzsilva.fs-flutter-snippets) - Translated from IntelliJ IDEA Official Snippets by Franz Silva.
+
+### Desktop
+
+- [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) (554 ★) - Desktop implementations of the Flutter embedding API by Google.
 
 ## Bonus
 

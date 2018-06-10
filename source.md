@@ -30,10 +30,10 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Components](#components)
 - [Navigation](#navigation)
 - [Template](#templates)
-- [Utilities](#utilities)
 - [Plugins](#plugins)
 - [Open Source Apps](#open-source-apps)
 - [Frameworks](#frameworks)
+- [Utilities](#utilities)
 - [Bonus](#bonus)
 
 ## Articles
@@ -101,8 +101,8 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) <!--stargazers:Ivaskuu/tinder_cards--> - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu).
 - [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) <!--stargazers:slightfoot/flutter_sticky_headers--> - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/).
 - [Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation) <!--stargazers:GeekyAnts/flutter-login-home-animation--> - Smooth animation from login to home by [Ruchika Gupta](https://github.com/geekruchika).
-- [List Drag&Drop](https://github.com/Norbert515/flutter_list_drag_and_drop) <!--stargazers:Norbert515/flutter_list_drag_and_drop--> - Reorder list elements using Drag & Drop by [Norbert515](https://github.com/Norbert515)
-- [Calendar Widget](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget using slivers for smooth scrolling back and forth over days/events with the ability to jump to specific days/months. by [David Bennett]
+- [List Drag&Drop](https://github.com/Norbert515/flutter_list_drag_and_drop) <!--stargazers:Norbert515/flutter_list_drag_and_drop--> - Reorder list elements using Drag & Drop by [Norbert515](https://github.com/Norbert515).
+- [Calendar Widget](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget using slivers for smooth scrolling back and forth over days/events with the ability to jump to specific days/months by [David Bennett].
 
 ### Image
 
@@ -211,18 +211,6 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Todo](https://github.com/littlemarc2011/FlutterTodo) <!--stargazers:littlemarc2011/FlutterTodo--> - Todo template from Dribble by [Marc L](https://www.marc-little.com/).
 - [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) <!--stargazers:geekruchika/FlutterCardSwipe--> - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika).
 
-## Utilities
-
-### IDE
-
-- [IntelliJ Plugin](https://flutter.io/intellij-setup) - Flutter on Intellij and Webstorm.
-- [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Plugin to get Dart with Visual Studio Code by [Danny Tuppeny](https://twitter.com/DanTup).
-- [VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=franzsilva.fs-flutter-snippets) - Translated from IntelliJ IDEA Official Snippets by Franz Silva.
-
-### Desktop
-
-- [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google.
-
 ## Plugins
 
 - [Flutter Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins.
@@ -240,6 +228,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [App Rating](https://github.com/AppleEducate/app_review) <!--stargazers:AppleEducate/app_review--> - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com).
 - [Get Version](https://github.com/AppleEducate/get_version) <!--stargazers:AppleEducate/get_version--> - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com).
 - [Downloader](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
+- [](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett].
 
 ### Bluetooth / NFC / Beacon
 
@@ -286,6 +275,18 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 
 - [Flame](https://github.com/luanpotter/flame) <!--stargazers:luanpotter/flame--> - Minimalist game engine by [Luan Nico](https://github.com/luanpotter).
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) <!--stargazers:spritewidget/spritewidget--> -  Toolkit for building complex, high performance animations and 2D games by [Viktor Lidholt](https://github.com/vlidholt).
+
+## Utilities
+
+### IDE
+
+- [IntelliJ Plugin](https://flutter.io/intellij-setup) - Flutter on Intellij and Webstorm.
+- [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Plugin to get Dart with Visual Studio Code by [Danny Tuppeny](https://twitter.com/DanTup).
+- [VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=franzsilva.fs-flutter-snippets) - Translated from IntelliJ IDEA Official Snippets by Franz Silva.
+
+### Desktop
+
+- [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google.
 
 ## Bonus
 

@@ -132,7 +132,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 ### Navigation
 
 - [Fluro](https://github.com/goposse/fluro) <!--stargazers:goposse/fluro--> - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com).
-- [Circle Indicator](https://pub.dartlang.org/packages/circle_indicator) - Circle indicator for the PageViewer by [Lung Razvan](https://github.com/long1eu).
+- [Circle Indicator](https://github.com/long1eu/circle_indicator) <!--stargazers:long1eu/circle_indicator--> - Circle indicator for the PageViewer by [Lung Razvan](https://github.com/long1eu).
 - [Quick Actions](https://github.com/flutter/plugins/tree/master/packages/quick_actions) - Manage and interact with the application's home screen quick actions.
 
 ### Auth
@@ -269,14 +269,14 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Redux.dart](https://github.com/johnpryan/redux.dart) <!--stargazers:johnpryan/redux.dart--> - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects).
 - [Flutter_redux](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Flutter Widgets.
 - [GreenCat](https://github.com/alexeieleusis/greencat) <!--stargazers:alexeieleusis/greencat--> - Port of Redux to Dart, including Redux Thunk.
-- [Dartea](https://pub.dartlang.org/packages/dartea) - Model View Update inspired by TEA from ELM by Shilyagov P.
+- [Dartea](https://github.com/p69/dartea) <!--stargazers:p69/dartea--> - Model View Update inspired by TEA from ELM by Shilyagov P.
 - [Inject](https://github.com/google/inject.dart) <!--stargazers:google/inject.dart--> - Compile-time dependency injection for Dart and Flutter by Google.
 
 ### Misc
 
 - [Flutter_flux](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google.
-- [Cache Manager](https://github.com/renefloor/flutter_cache_manager) <!--renefloor/flutter_cache_manager--> - Generic cache manager by [Rene Floor](https://github.com/renefloor).
-- [ZSH Completion](https://github.com/NiKoTron/zsh-flutter-completition) <!--NiKoTron/zsh-flutter-completition--> - ZSH completion for the Flutter CLI tool by [Nikolai Simonov](https://github.com/NiKoTron)
+- [Cache Manager](https://github.com/renefloor/flutter_cache_manager) <!--stargazers:renefloor/flutter_cache_manager--> - Generic cache manager by [Rene Floor](https://github.com/renefloor).
+- [ZSH Completion](https://github.com/NiKoTron/zsh-flutter-completition) <!--stargazers:NiKoTron/zsh-flutter-completition--> - ZSH completion for the Flutter CLI tool by [Nikolai Simonov](https://github.com/NiKoTron)
 
 ### Animation / Game
 

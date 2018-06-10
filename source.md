@@ -40,7 +40,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 
 ### Begin with
 
-- [Introduction to Flutter](https://www.youtube.com/watch?v=GCCjR0mbJMM) - Introduction to Flutter by [Faisal Abid](https://twitter.com/FaisalAbid).
+- [Introduction to Flutter](https://www.youtube.com/watch?v=GCCjR0mbJMM) <!--youtube:GCCjR0mbJMM--> - Introduction to Flutter by [Faisal Abid](https://twitter.com/FaisalAbid).
 - [Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19) <!--claps:flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19--> - Building beautiful, flexible user interfaces with Flutter.
 - [Flutter Labs](https://codelabs.developers.google.com/codelabs/flutter/index.html#0) - Building beautiful UIs with Flutter step by step.
 - [Zero to One with Flutter](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) <!--claps:dartlang/zero-to-one-with-flutter-43b13fd7b354--> - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn).

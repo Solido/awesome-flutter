@@ -41,10 +41,10 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 ### Begin with
 
 - [Introduction to Flutter](https://www.youtube.com/watch?v=GCCjR0mbJMM) - Introduction to Flutter by [Faisal Abid](https://twitter.com/FaisalAbid).
-- [Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19) - Building beautiful, flexible user interfaces with Flutter.
+- [Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19) (843 👏) - Building beautiful, flexible user interfaces with Flutter.
 - [Flutter Labs](https://codelabs.developers.google.com/codelabs/flutter/index.html#0) - Building beautiful UIs with Flutter step by step.
-- [Zero to One with Flutter](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn).
-- [FLUTTER from Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) - Full series of 4 articles by [Chema Rubio](https://twitter.com/develodroid).
+- [Zero to One with Flutter](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) (2.1K 👏) - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn).
+- [FLUTTER from Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) (550 👏) - Full series of 4 articles by [Chema Rubio](https://twitter.com/develodroid).
 
 ### Tutorial
 
@@ -64,12 +64,12 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 
 ### Howtos
 
-- [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn).
+- [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) (715 👏)  - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn).
 - [Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957) - Flutter App powered by Google Cloud Functions by [Romin Irani](https://rominirani.com/@iromin).
 - [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) - Firebase live coding.
-- [Securing Flutter Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) - By Mehmet Fidanboylu.
-- [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) - How to make a custom plug-in for Flutter by [Karthik Ponnam](https://medium.com/@KarthikPonnam).
-- [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo).
+- [Securing Flutter Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) (230 👏) - By Mehmet Fidanboylu.
+- [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) (273 👏) - How to make a custom plug-in for Flutter by [Karthik Ponnam](https://medium.com/@KarthikPonnam).
+- [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) (245 👏) - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo).
 
 ### Websites / Blogs
 
@@ -100,7 +100,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) (75 ★) - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts).
 - [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) (58 ★) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu).
 - [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) (68 ★) - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/).
-- [Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation) (114 ★) - Smooth animation from login to home by [Ruchika Gupta](https://github.com/geekruchika).
+- [Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation) (115 ★) - Smooth animation from login to home by [Ruchika Gupta](https://github.com/geekruchika).
 - [List Drag&Drop](https://github.com/Norbert515/flutter_list_drag_and_drop) (49 ★) - Reorder list elements using Drag & Drop by [Norbert515](https://github.com/Norbert515)
 
 ### Image
@@ -122,7 +122,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Circular Chart](https://github.com/xqwzts/flutter_circular_chart) (74 ★) - Animated radial and pie charts by [Victor Choueiri](https://github.com/xqwzts).
 - [Flutter Charts](https://github.com/mzimmerm/flutter_charts) (65 ★) - LineChart and VerticalBarChart Library by [Milan Zimmermann](https://github.com/mzimmerm).
 - [Sparkline](https://github.com/xqwzts/flutter_sparkline) (42 ★) - Sparkline by [Victor Choueiri](https://github.com/xqwzts).
-- [Charts](https://github.com/google/charts) (132 ★) - By Google Charts Team.
+- [Charts](https://github.com/google/charts) (133 ★) - By Google Charts Team.
 - [Flutter Plot](https://github.com/RCHowell/flutter_plot) (5 ★) - Pretty plots by [R. C. Howell](https://github.com/RCHowell/).
 - [Candlesticks](https://github.com/trentpiercy/flutter-candlesticks) (17 ★) - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy).
 
@@ -139,7 +139,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Flutter Login](https://github.com/AppleEducate/flutter_login) (96 ★) - FaceID, TouchID, and Fingerprint Reader by [Rody Davis](http://appleeducate.com).
 - [Google Sign-In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in) - Google OAuth.
 - [Firebase Auth](https://github.com/flutter/plugins/tree/master/packages/firebase_auth) - Firebase OAuth.
-- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) - Facebook OAuth by [Kevin Segaud](https://twitter.com/kevin_segaud).
+- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) (436 👏) - Facebook OAuth by [Kevin Segaud](https://twitter.com/kevin_segaud).
 - [Flutter OAuth](https://github.com/hitherejoe/FlutterOAuth) (41 ★) - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com).
 - [Instagram](https://hackernoon.com/instagram-authentication-with-flutter-df6424d2d56c) - Instagram auth by [Wilfried Mbouenda Mbogne](http://developer-journey.com/).
 - [Slack OAuth](https://github.com/Kunstmaan/flutter_slack_oauth) or [Slack OAuth Firebase](https://github.com/Kunstmaan/flutter_slack_oauth_firebase) (2 ★) - Slack OAuth, optionally with Firebase Auth and Cloud Firestore integration.
@@ -162,9 +162,9 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 #### Build automation
 
 - [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) (20 ★) - Continuous integration by [Yegor Jbanov](https://twitter.com/yegorjbanov).
-- [Test Flutter on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov).
-- [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov).
-- [BitRise](https://medium.com/@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2) - Create Bitrise Step in Go by [Karol Wrótniak](https://medium.com/@karol.wrotniak).
+- [Test Flutter on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) (246 👏) - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov).
+- [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) (130 👏) - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov).
+- [BitRise](https://medium.com/@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2) (34 👏) - Create Bitrise Step in Go by [Karol Wrótniak](https://medium.com/@karol.wrotniak).
 
 ### Styling
 
@@ -206,7 +206,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges) (207 ★) - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe).
 - [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) (18 ★) - iOS Settings by [Matthias Rupp](https://github.com/matthinc).
 - [Music Player](https://github.com/thosakwe/flutter_music_player) (58 ★) - music player component by [Tobe O](https://thosakwe.com/).
-- [Dashboard](https://github.com/Ivaskuu/dashboard) (137 ★) - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu).
+- [Dashboard](https://github.com/Ivaskuu/dashboard) (138 ★) - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu).
 - [Todo](https://github.com/littlemarc2011/FlutterTodo) (85 ★) - Todo template from Dribble by [Marc L](https://www.marc-little.com/).
 - [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) (14 ★) - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika).
 
@@ -263,7 +263,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Planty](https://github.com/Ivaskuu/plantly) (55 ★) - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu).
 - [InKino](https://github.com/roughike/inKino) (809 ★) - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike).
 - [WhatTodo](https://github.com/burhanrashid52/WhatTodo) (102 ★) -  Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
-- [FlutterGram](https://github.com/mdanics/fluttergram) (57 ★) - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
+- [FlutterGram](https://github.com/mdanics/fluttergram) (59 ★) - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
 
 ### Games
 

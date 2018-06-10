@@ -2,8 +2,12 @@
 [<img src="https://user-images.githubusercontent.com/1295961/41170455-b47a54bc-6b4c-11e8-940f-bc0a3bc3ff8d.png" align="center" width="800">](http://flutter.io)
 
 <p align="center">
-  <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
+  <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
+  </a>
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+  <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/StackOverflow-2,947-orange.svg" />
+  </a>
 </p>
 
 Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
@@ -95,7 +99,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Contact Picker](https://github.com/goderbauer/contact_picker) (5 ★) - Picking a contact from the address book by [Michael Goderbauer](https://github.com/goderbauer).
 - [Parallax](https://github.com/FlutterRocks/page-transformer) (108 ★) - ViewPager by [Iiro Krankka](https://github.com/roughike).
 - [Material Color Picker](https://github.com/long1eu/material_color_picker) (23 ★) - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu).
-- [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) (105 ★) - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar).
+- [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) (106 ★) - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar).
 - [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) (75 ★) - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts).
 - [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) (58 ★) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu).
 - [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) (69 ★) - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/).
@@ -260,7 +264,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 
 ## Frameworks
 
-### Flux / Redux / ELM / Dependancy Injection
+### Redux / ELM / Dependency Injection
 
 - [Flutter built redux](https://github.com/davidmarne/flutter_built_redux) (39 ★) - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne).
 - [Redux.dart](https://github.com/johnpryan/redux.dart) (113 ★) - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects).
@@ -273,7 +277,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 
 - [Flutter_flux](https://github.com/google/flutter_flux) (160 ★) - Implementation of the Flux framework by Google.
 - [Cache Manager](https://github.com/renefloor/flutter_cache_manager) (24 ★) - Generic cache manager by [Rene Floor](https://github.com/renefloor).
-- [ZSH Completion](https://github.com/NiKoTron/zsh-flutter-completition) (1 ★) - ZSH completion for the Flutter CLI tool by [Nikolai Simonov](https://github.com/NiKoTron).
+- [ZSH Completion](https://github.com/NiKoTron/zsh-flutter-completition) (2 ★) - ZSH completion for the Flutter CLI tool by [Nikolai Simonov](https://github.com/NiKoTron).
 
 ### Animation / Game
 

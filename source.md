@@ -56,10 +56,10 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 #### Video Series
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) <!--youtube:list/PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd--> - Very rich content by [Tensor Programming](http://tensor-programming.com/).
 - [Flutter Challenges](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value, in-depth Flutter challenges, tutorials, and patterns.
-- [The Flutter Episodes by Brandon Donnelson](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) <!--youtube:list/PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh--> - Over 50 videos from layout, database and tips.
+- [The Flutter Episodes by Brandon Donnelson](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) <!--youtube:list/PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh--> - Videos on layout, database and tips.
 - [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) <!--youtube:list/PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV--> - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan).
 - [Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Build Native Mobile Apps with Flutter by Google.
-- [Flutter tutorials from VoidRealms](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi) <!--youtube:list/PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi--> - More than 40 video tutorials, from basic to advanced.
+- [Flutter tutorials from VoidRealms](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi) <!--youtube:list/PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi--> - Video tutorials, from basic to advanced.
 - [Bram Vanbilsen Tutorials](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) <!--youtube:list/PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n--> - Discover SDK using VSCode by Bram Vanbilsen.
 
 ### Howtos

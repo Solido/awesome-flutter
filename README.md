@@ -6,14 +6,15 @@
   </a>
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
-  <img alt="PRs Welcome" src="https://img.shields.io/badge/StackOverflow-2,947-orange.svg" />
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/StackOverflow-2,952-orange.svg" />
   </a>
 </p>
 
 Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
 
-If you appreciate the content 📖
-Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/github/stars/Solido/awesome-flutter.svg?style=flat-square)](https://github.com/Solido/awesome-flutter)
+If you appreciate the content 📖<br>
+Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/github/stars/Solido/awesome-flutter.svg?style=flat-square)](https://github.com/Solido/awesome-flutter)<br>
+Also like 👍, star ⭐, clap 👏 links to support their authors !
 
 <div style="text-align: center"><table><tr>
 <td style="text-align: center">
@@ -25,8 +26,13 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 <td style="text-align: center">
 <img src="https://cloud.githubusercontent.com/assets/1295961/25817980/5d9033ca-3429-11e7-8cb3-7c939cba80ba.gif" width="200"/>
 </td>
+  <td style="text-align: center">
+<img src="https://raw.githubusercontent.com/letsar/flutter_staggered_grid_view/master/doc/images/dynamic_tile_sizes.gif" width="200"/>
+</td>
 
 </tr></table></div>
+
+
 
 ## Contents
 
@@ -35,8 +41,8 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Navigation](#navigation)
 - [Template](#templates)
 - [Plugins](#plugins)
-- [Open Source Apps](#open-source-apps)
 - [Frameworks](#frameworks)
+- [Open Source Apps](#open-source-apps)
 - [Utilities](#utilities)
 - [Bonus](#bonus)
 
@@ -107,6 +113,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [List Drag&Drop](https://github.com/Norbert515/flutter_list_drag_and_drop) (49 ★) - Reorder list elements using Drag & Drop by [Norbert515](https://github.com/Norbert515).
 - [Calendar Widget](https://github.com/pinkfish/flutter_calendar) (3 ★) - Calendar widget using slivers for smooth scrolling back and forth over days/events with the ability to jump to specific days/months by [David Bennett](https://github.com/pinkfish).
 - [Side Header List](https://github.com/renefloor/side_header_list_view) (33 ★) - Listview with sticky headers like the Android contact page by [Rene Floor](https://github.com/renefloor).
+- [Shimmer](https://github.com/hnvn/flutter_shimmer) (33 ★) - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn).
 
 ### Image
 
@@ -135,7 +142,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 
 ### Navigation
 
-- [Fluro](https://github.com/goposse/fluro) (284 ★) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com).
+- [Fluro](https://github.com/goposse/fluro) (285 ★) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com).
 - [Circle Indicator](https://github.com/long1eu/circle_indicator) (12 ★) - Circle indicator for the PageViewer by [Lung Razvan](https://github.com/long1eu).
 - [Quick Actions](https://github.com/flutter/plugins/tree/master/packages/quick_actions) - Manage and interact with the application's home screen quick actions.
 
@@ -206,7 +213,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Weather](https://github.com/alessandroaime/Weather) (49 ★) - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime).
 - [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) (620 ★) - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan).
 - [Restaurant Menu](https://github.com/braulio94/menu_flutter) (216 ★) - Restaurant menu by [Braulio Cassule](https://github.com/braulio94).
-- [UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges) (207 ★) - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe).
+- [UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges) (208 ★) - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe).
 - [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) (18 ★) - iOS Settings by [Matthias Rupp](https://github.com/matthinc).
 - [Music Player](https://github.com/thosakwe/flutter_music_player) (58 ★) - music player component by [Tobe O](https://thosakwe.com/).
 - [Dashboard](https://github.com/Ivaskuu/dashboard) (138 ★) - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu).
@@ -240,6 +247,26 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [NFC](https://github.com/guyulmaz/flutter-nfc-app) (11 ★) - Connect IsoDep iso 14443-4 cards for android by [Göksel Uyulmaz](https://github.com/guyulmaz).
 - [Beacons](https://github.com/loup-v/beacons) (4 ★) - Flutter beacons plugin by [Loup](http://intheloup.io).
 
+## Frameworks
+
+### Redux / ELM / Dependency Injection
+
+- [Flutter built redux](https://github.com/davidmarne/flutter_built_redux) (39 ★) - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne).
+- [Redux.dart](https://github.com/johnpryan/redux.dart) (113 ★) - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects).
+- [Flutter_redux](https://github.com/brianegan/flutter_redux) (177 ★) - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Flutter Widgets.
+- [Dartea](https://github.com/p69/dartea) (6 ★) - Model View Update inspired by TEA from ELM by [Shilyagov P](https://github.com/p69).
+- [Inject](https://github.com/google/inject.dart) (183 ★) - Compile-time dependency injection for Dart and Flutter by Google.
+
+### Misc
+
+- [Flutter_flux](https://github.com/google/flutter_flux) (160 ★) - Implementation of the Flux framework by Google.
+- [Cache Manager](https://github.com/renefloor/flutter_cache_manager) (24 ★) - Generic cache manager by [Rene Floor](https://github.com/renefloor).
+- [ZSH Completion](https://github.com/NiKoTron/zsh-flutter-completition) (2 ★) - ZSH completion for the Flutter CLI tool by [Nikolai Simonov](https://github.com/NiKoTron).
+
+### Animation / Game
+
+- [Flame](https://github.com/luanpotter/flame) (171 ★) - Minimalist game engine by [Luan Nico](https://github.com/luanpotter).
+- [SpriteWidget](https://github.com/spritewidget/spritewidget) (220 ★) -  Toolkit for building complex, high performance animations and 2D games by [Viktor Lidholt](https://github.com/vlidholt).
 ## Open Source Apps
 
 - [FriendlyChat](https://github.com/flutter/friendlychat-flutter) (103 ★) - Offline/Firebase chat by a team of Googlers.
@@ -261,28 +288,6 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 ### Games
 
 - [Flip](https://github.com/RedBrogdon/flutterflip) (23 ★) - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon) .
-
-## Frameworks
-
-### Redux / ELM / Dependency Injection
-
-- [Flutter built redux](https://github.com/davidmarne/flutter_built_redux) (39 ★) - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne).
-- [Redux.dart](https://github.com/johnpryan/redux.dart) (113 ★) - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects).
-- [Flutter_redux](https://github.com/brianegan/flutter_redux) (177 ★) - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Flutter Widgets.
-- [GreenCat](https://github.com/alexeieleusis/greencat) (38 ★) - Port of Redux to Dart, including Redux Thunk.
-- [Dartea](https://github.com/p69/dartea) (6 ★) - Model View Update inspired by TEA from ELM by Shilyagov P.
-- [Inject](https://github.com/google/inject.dart) (183 ★) - Compile-time dependency injection for Dart and Flutter by Google.
-
-### Misc
-
-- [Flutter_flux](https://github.com/google/flutter_flux) (160 ★) - Implementation of the Flux framework by Google.
-- [Cache Manager](https://github.com/renefloor/flutter_cache_manager) (24 ★) - Generic cache manager by [Rene Floor](https://github.com/renefloor).
-- [ZSH Completion](https://github.com/NiKoTron/zsh-flutter-completition) (2 ★) - ZSH completion for the Flutter CLI tool by [Nikolai Simonov](https://github.com/NiKoTron).
-
-### Animation / Game
-
-- [Flame](https://github.com/luanpotter/flame) (171 ★) - Minimalist game engine by [Luan Nico](https://github.com/luanpotter).
-- [SpriteWidget](https://github.com/spritewidget/spritewidget) (220 ★) -  Toolkit for building complex, high performance animations and 2D games by [Viktor Lidholt](https://github.com/vlidholt).
 
 ## Utilities
 

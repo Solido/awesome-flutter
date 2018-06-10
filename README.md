@@ -6,7 +6,7 @@
   </a>
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
-  <img alt="PRs Welcome" src="https://img.shields.io/badge/StackOverflow-2,952-orange.svg" />
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/StackOverflow-2,951-orange.svg" />
   </a>
 </p>
 
@@ -37,6 +37,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 ## Contents
 
 - [Articles](#articles)
+- [Videos](#videos)
 - [Components](#components)
 - [Navigation](#navigation)
 - [Template](#templates)
@@ -63,20 +64,11 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase Flutter by Google Code Labs.
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Basic tutorial.
 
-#### Video Series
-- [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) (64 🎬) - Very rich content by [Tensor Programming](http://tensor-programming.com/).
-- [Flutter Challenges](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value, in-depth Flutter challenges, tutorials, and patterns.
-- [The Flutter Episodes by Brandon Donnelson](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) (55 🎬) - Videos on layout, database and tips.
-- [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) (61 🎬) - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan).
-- [Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Build Native Mobile Apps with Flutter by Google.
-- [Flutter tutorials from VoidRealms](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi) (42 🎬) - Video tutorials, from basic to advanced.
-- [Bram Vanbilsen Tutorials](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) (12 🎬) - Discover SDK using VSCode by Bram Vanbilsen.
-
 ### Howtos
 
 - [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) (715 👏)  - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn).
 - [Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957) - Flutter App powered by Google Cloud Functions by [Romin Irani](https://rominirani.com/@iromin).
-- [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) (316 👍) - Firebase live coding.
+- [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) (317 👍) - Firebase live coding.
 - [Securing Flutter Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) (230 👏) - By Mehmet Fidanboylu.
 - [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) (273 👏) - How to make a custom plug-in for Flutter by [Karthik Ponnam](https://medium.com/@KarthikPonnam).
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) (245 👏) - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo).
@@ -89,6 +81,15 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Flutter Institute](https://flutter.institute/) - Very original content and tutorials by [Brian Armstrong](https://twitter.com/flutterinst).
 - [Flutter Rocks](https://flutter.rocks/) - Blog about the joys of Flutter by [Iiro Krankka](https://twitter.com/koorankka).
 - [Norbert](https://medium.com/@norbertkozsir) - In depth articles about Flutter features and app creation by [Norbert515](https://github.com/Norbert515).
+
+## Videos
+- [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) (64 🎬) - Very rich content by [Tensor Programming](http://tensor-programming.com/).
+- [Flutter Challenges](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value, in-depth Flutter challenges, tutorials, and patterns.
+- [The Flutter Episodes](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) (55 🎬) - Videos on layout, database and tips by Brandon Donnelson.
+- [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) (61 🎬) - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan).
+- [Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Build Native Mobile Apps with Flutter by Google.
+- [Flutter tutorials from VoidRealms](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi) (42 🎬) - Video tutorials, from basic to advanced.
+- [Bram Vanbilsen Tutorials](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) (12 🎬) - Discover SDK using VSCode by Bram Vanbilsen.
 
 ## Components
 
@@ -208,7 +209,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 
 ## Templates
 
-- [Movie Details](https://github.com/FlutterRocks/movie-details-ui) (90 ★) - Movie details page by [Iiro Krankka](https://github.com/roughike).
+- [Movie Details](https://github.com/FlutterRocks/movie-details-ui) (91 ★) - Movie details page by [Iiro Krankka](https://github.com/roughike).
 - [Flutter Mates](https://github.com/CodemateLtd/FlutterMates) (156 ★) - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike).
 - [Weather](https://github.com/alessandroaime/Weather) (49 ★) - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime).
 - [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) (620 ★) - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan).
@@ -256,17 +257,23 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Flutter_redux](https://github.com/brianegan/flutter_redux) (177 ★) - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Flutter Widgets.
 - [Dartea](https://github.com/p69/dartea) (6 ★) - Model View Update inspired by TEA from ELM by [Shilyagov P](https://github.com/p69).
 - [Inject](https://github.com/google/inject.dart) (183 ★) - Compile-time dependency injection for Dart and Flutter by Google.
-
-### Misc
-
 - [Flutter_flux](https://github.com/google/flutter_flux) (160 ★) - Implementation of the Flux framework by Google.
-- [Cache Manager](https://github.com/renefloor/flutter_cache_manager) (24 ★) - Generic cache manager by [Rene Floor](https://github.com/renefloor).
-- [ZSH Completion](https://github.com/NiKoTron/zsh-flutter-completition) (2 ★) - ZSH completion for the Flutter CLI tool by [Nikolai Simonov](https://github.com/NiKoTron).
 
-### Animation / Game
+### Animation
+
+- [Sequence Animation](https://github.com/Norbert515/flutter_sequence_animation) (13 ★) - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir).
+
+### Game
 
 - [Flame](https://github.com/luanpotter/flame) (171 ★) - Minimalist game engine by [Luan Nico](https://github.com/luanpotter).
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) (220 ★) -  Toolkit for building complex, high performance animations and 2D games by [Viktor Lidholt](https://github.com/vlidholt).
+
+### Misc
+
+- [Cache Manager](https://github.com/renefloor/flutter_cache_manager) (24 ★) - Generic cache manager by [Rene Floor](https://github.com/renefloor).
+- [ZSH Completion](https://github.com/NiKoTron/zsh-flutter-completition) (2 ★) - ZSH completion for the Flutter CLI tool by [Nikolai Simonov](https://github.com/NiKoTron).
+
+
 ## Open Source Apps
 
 - [FriendlyChat](https://github.com/flutter/friendlychat-flutter) (103 ★) - Offline/Firebase chat by a team of Googlers.

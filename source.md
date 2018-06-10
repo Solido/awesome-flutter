@@ -102,6 +102,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) <!--stargazers:slightfoot/flutter_sticky_headers--> - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/).
 - [Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation) <!--stargazers:GeekyAnts/flutter-login-home-animation--> - Smooth animation from login to home by [Ruchika Gupta](https://github.com/geekruchika).
 - [List Drag&Drop](https://github.com/Norbert515/flutter_list_drag_and_drop) <!--stargazers:Norbert515/flutter_list_drag_and_drop--> - Reorder list elements using Drag & Drop by [Norbert515](https://github.com/Norbert515)
+- [Calendar Widget](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget using slivers for smooth scrolling back and forth over days/events with the ability to jump to specific days/months. by [David Bennett]
 
 ### Image
 

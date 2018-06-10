@@ -103,6 +103,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation) <!--stargazers:GeekyAnts/flutter-login-home-animation--> - Smooth animation from login to home by [Ruchika Gupta](https://github.com/geekruchika).
 - [List Drag&Drop](https://github.com/Norbert515/flutter_list_drag_and_drop) <!--stargazers:Norbert515/flutter_list_drag_and_drop--> - Reorder list elements using Drag & Drop by [Norbert515](https://github.com/Norbert515).
 - [Calendar Widget](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget using slivers for smooth scrolling back and forth over days/events with the ability to jump to specific days/months by [David Bennett](https://github.com/pinkfish).
+- [Side Header List](https://github.com/renefloor/side_header_list_view) <!--stargazers:renefloor/side_header_list_view--> - Listview with sticky headers like the Android contact page by [Rene Floor](https://github.com/renefloor).
 
 ### Image
 
@@ -229,7 +230,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Get Version](https://github.com/AppleEducate/get_version) <!--stargazers:AppleEducate/get_version--> - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com).
 - [Downloader](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish).
-- [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory.by [Rene Floor](https://github.com/renefloor)
+- [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by [Rene Floor](https://github.com/renefloor).
 
 ### Bluetooth / NFC / Beacon
 
@@ -264,13 +265,17 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 
 ### Flux / Redux / ELM / Dependancy Injection
 
-- [Flutter_flux](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google.
 - [Flutter built redux](https://github.com/davidmarne/flutter_built_redux) <!--stargazers:davidmarne/flutter_built_redux--> - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne).
 - [Redux.dart](https://github.com/johnpryan/redux.dart) <!--stargazers:johnpryan/redux.dart--> - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects).
 - [Flutter_redux](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Flutter Widgets.
 - [GreenCat](https://github.com/alexeieleusis/greencat) <!--stargazers:alexeieleusis/greencat--> - Port of Redux to Dart, including Redux Thunk.
 - [Dartea](https://pub.dartlang.org/packages/dartea) - Model View Update inspired by TEA from ELM by Shilyagov P.
 - [Inject](https://github.com/google/inject.dart) <!--stargazers:google/inject.dart--> - Compile-time dependency injection for Dart and Flutter by Google.
+
+### Misc
+
+- [Flutter_flux](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google.
+- [Cache Manager](https://github.com/renefloor/flutter_cache_manager) <!--renefloor/flutter_cache_manager--> - Generic cache manager by [Rene Floor](https://github.com/renefloor).
 
 ### Animation / Game
 

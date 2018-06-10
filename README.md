@@ -40,7 +40,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 
 ### Begin with
 
-- [Introduction to Flutter](https://www.youtube.com/watch?v=GCCjR0mbJMM) - Introduction to Flutter by [Faisal Abid](https://twitter.com/FaisalAbid).
+- [Introduction to Flutter](https://www.youtube.com/watch?v=GCCjR0mbJMM) (19 👍) - Introduction to Flutter by [Faisal Abid](https://twitter.com/FaisalAbid).
 - [Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19) (843 👏) - Building beautiful, flexible user interfaces with Flutter.
 - [Flutter Labs](https://codelabs.developers.google.com/codelabs/flutter/index.html#0) - Building beautiful UIs with Flutter step by step.
 - [Zero to One with Flutter](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) (2.1K 👏) - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn).
@@ -66,7 +66,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 
 - [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) (715 👏)  - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn).
 - [Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957) - Flutter App powered by Google Cloud Functions by [Romin Irani](https://rominirani.com/@iromin).
-- [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) - Firebase live coding.
+- [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) (316 👍) - Firebase live coding.
 - [Securing Flutter Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) (230 👏) - By Mehmet Fidanboylu.
 - [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) (273 👏) - How to make a custom plug-in for Flutter by [Karthik Ponnam](https://medium.com/@KarthikPonnam).
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) (245 👏) - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo).

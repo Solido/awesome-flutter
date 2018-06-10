@@ -123,6 +123,10 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) <!--stargazers:pulyaevskiy/parallax-image--> - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy).
 - [Image Placeholder](https://github.com/FaisalAbid/pluto) <!--stargazers:FaisalAbid/pluto--> - While large images load, show a fallback asset by [Faisal Abid](https://twitter.com/FaisalAbid).
 
+### Animation
+
+- [Sequence Animation](https://github.com/Norbert515/flutter_sequence_animation) <!--stargazers:Norbert515/flutter_sequence_animation--> - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
+
 ### Map
 
 - [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) <!--stargazers:apptreesoftware/flutter_google_map_view--> - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/).

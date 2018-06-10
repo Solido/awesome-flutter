@@ -80,6 +80,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Flutter by Example](https://flutterbyexample.com/) - Tutorials and Howto based on Redux, Firebase, Custom Animations, and UI.
 - [Flutter Institute](https://flutter.institute/) - Very original content and tutorials by [Brian Armstrong](https://twitter.com/flutterinst).
 - [Flutter Rocks](https://flutter.rocks/) - Blog about the joys of Flutter by [Iiro Krankka](https://twitter.com/koorankka).
+- [Norbert](https://medium.com/@norbertkozsir) - In depth articles about Flutter features and app creation by [Norbert515](https://github.com/Norbert515) 
 
 ## Components
 
@@ -102,6 +103,7 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) <!--stargazers:Ivaskuu/tinder_cards--> - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu).
 - [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) <!--stargazers:slightfoot/flutter_sticky_headers--> - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/).
 - [Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation) <!--stargazers:GeekyAnts/flutter-login-home-animation--> - Smooth animation from login to home by [Ruchika Gupta](https://github.com/geekruchika).
+- [List Drag&Drop](https://github.com/Norbert515/flutter_list_drag_and_drop) <!--stargazers:Norbert515/flutter_list_drag_and_drop--> - Reorder list elements using Drag & Drop by [Norbert515](https://github.com/Norbert515)
 
 ### Image
 

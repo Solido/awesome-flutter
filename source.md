@@ -251,7 +251,6 @@ Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/gi
 - [Flutter built redux](https://github.com/davidmarne/flutter_built_redux) <!--stargazers:davidmarne/flutter_built_redux--> - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne).
 - [Redux.dart](https://github.com/johnpryan/redux.dart) <!--stargazers:johnpryan/redux.dart--> - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects).
 - [Flutter_redux](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Flutter Widgets.
-- [GreenCat](https://github.com/alexeieleusis/greencat) <!--stargazers:alexeieleusis/greencat--> - Port of Redux to Dart, including Redux Thunk.
 - [Dartea](https://github.com/p69/dartea) <!--stargazers:p69/dartea--> - Model View Update inspired by TEA from ELM by [Shilyagov P](https://github.com/p69).
 - [Inject](https://github.com/google/inject.dart) <!--stargazers:google/inject.dart--> - Compile-time dependency injection for Dart and Flutter by Google.
 

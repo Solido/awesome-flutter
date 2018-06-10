@@ -1,25 +1,25 @@
 
-[<img src="https://user-imagesgithubusercontentcom/1295961/41170455-b47a54bc-6b4c-11e8-940f-bc0a3bc3ff8dpng" align="center" width="800">](http://flutterio)
+[<img src="https://user-images.githubusercontent.com/1295961/41170455-b47a54bc-6b4c-11e8-940f-bc0a3bc3ff8d.png" align="center" width="800">](http://flutter.io)
 
 <p align="center">
-  <a href="https://githubcom/sindresorhus/awesome"><img alt="awesome" src="https://cdnrawgitcom/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badgesvg" /></a>
-  <img alt="PRs Welcome" src="https://imgshieldsio/badge/PRs-welcome-brightgreensvg" />
+  <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
 </p>
 
 Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
 
 If you appreciate the content 📖
-Support project visibility, give a ⭐[![GitHub stars](https://imgshieldsio/github/stars/Solido/awesome-fluttersvg?style=flat-square)](https://githubcom/Solido/awesome-flutter)
+Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/github/stars/Solido/awesome-flutter.svg?style=flat-square)](https://github.com/Solido/awesome-flutter)
 
 <div style="text-align: center"><table><tr>
 <td style="text-align: center">
-<img src="https://marcinszalekpl/wp-content/uploads/2018/05/ff_16gif" width="200" />
+<img src="https://marcinszalek.pl/wp-content/uploads/2018/05/ff_16.gif" width="200" />
 </td>
 <td style="text-align: center">
-<img src="https://cloudgithubusercontentcom/assets/1295961/25781521/5e2a9738-333b-11e7-825d-a6672b1f0b73gif" width="200"/>
+<img src="https://cloud.githubusercontent.com/assets/1295961/25781521/5e2a9738-333b-11e7-825d-a6672b1f0b73.gif" width="200"/>
 </td>
 <td style="text-align: center">
-<img src="https://cloudgithubusercontentcom/assets/1295961/25817980/5d9033ca-3429-11e7-8cb3-7c939cba80bagif" width="200"/>
+<img src="https://cloud.githubusercontent.com/assets/1295961/25817980/5d9033ca-3429-11e7-8cb3-7c939cba80ba.gif" width="200"/>
 </td>
 
 </tr></table></div>
@@ -305,6 +305,6 @@ Support project visibility, give a ⭐[![GitHub stars](https://imgshieldsio/gith
 
 ## License
 
-[![CC0](http://mirrorscreativecommonsorg/presskit/buttons/88x31/svg/cc-zerosvg)](https://creativecommonsorg/publicdomain/zero/10/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Robert Felker](https://githubcom/Solido) has waived all copyright and related or neighboring rights to this work
+To the extent possible under law, [Robert Felker](https://github.com/Solido) has waived all copyright and related or neighboring rights to this work.

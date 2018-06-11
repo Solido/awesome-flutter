@@ -153,7 +153,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Flutter Login](https://github.com/AppleEducate/flutter_login) <!--stargazers:AppleEducate/flutter_login--> - FaceID, TouchID, and Fingerprint Reader by [Rody Davis](http://appleeducate.com).
 - [Google Sign-In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in) - Google OAuth.
 - [Firebase Auth](https://github.com/flutter/plugins/tree/master/packages/firebase_auth) - Firebase OAuth.
-- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) <!--claps:@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e--> - Facebook OAuth by [Kevin Segaud](https://twitter.com/kevin_segaud).
+- [Facebook Login](https://github.com/roughike/flutter_facebook_login) <!--stargazers:roughike/flutter_facebook_login--> - Authenticate with native Android & iOS Facebook login SDKs by [Iiro Krankka](https://github.com/roughike).
 - [Flutter OAuth](https://github.com/hitherejoe/FlutterOAuth) <!--stargazers:hitherejoe/FlutterOAuth--> - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com).
 - [Instagram](https://hackernoon.com/instagram-authentication-with-flutter-df6424d2d56c) - Instagram auth by [Wilfried Mbouenda Mbogne](http://developer-journey.com/).
 - [Slack OAuth](https://github.com/Kunstmaan/flutter_slack_oauth) or [Slack OAuth Firebase](https://github.com/Kunstmaan/flutter_slack_oauth_firebase) <!--stargazers:Kunstmaan/flutter_slack_oauth_firebase--> - Slack OAuth, optionally with Firebase Auth and Cloud Firestore integration.

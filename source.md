@@ -192,7 +192,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Audio Recorder](https://github.com/ZaraclaJ/audio_recorder) <!--stargazers:ZaraclaJ/audio_recorder--> - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz)
 - [Video Launcher](https://github.com/rxlabz/flutter_video_launcher) <!--stargazers:rxlabz/flutter_video_launcher--> - Launch a video player by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Stereo](https://github.com/2find/stereo) <!--stargazers:2find/stereo--> - Playing music on iOS and Android by [2Find](https://github.com/2find)
-- [WebRTC](https://github.com/cloudwebrtc/flutter-webrtc) <!--stargazers:2find/stereo--> - WebRTC plugin for iOS/Android by [CloudWebRtc](https://github.com/cloudwebrtc)
+- [WebRTC](https://github.com/cloudwebrtc/flutter-webrtc) <!--stargazers:cloudwebrtc/flutter-webrtc--> - WebRTC plugin for iOS/Android by [CloudWebRtc](https://github.com/cloudwebrtc)
 - [Chewie](https://github.com/brianegan/chewie) <!--stargazers:brianegan/chewie--> - Provides low-level access to video playback by [Brian Egan](https://github.com/brianegan)
 
 #### Voice

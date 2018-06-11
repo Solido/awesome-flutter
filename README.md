@@ -318,6 +318,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - Newsvoice ([iOS](https://itunes.apple.com/se/app/newsvoice/id1208421834?l=en&mt=8) / [Android](https://play.google.com/store/apps/details?id=com.newsvoice.newsvoice)) - Newsvoice shows all the news and perspectives from high quality sources in one place.
 - [Hookle](https://www.hookle.net/) - Manage your social media in one place.
 - [inKino](https://github.com/roughike/inKino) (809 ★) - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike).
+- [Awesome Flutter](https://play.google.com/store/apps/details?id=com.sharmadhiraj.awesomeflutter) - List of Flutter tutorials & other resources to start your career in flutter development.
 
 ## License
 

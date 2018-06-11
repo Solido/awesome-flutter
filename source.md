@@ -186,26 +186,27 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 
 ### Media
 
-- [Audio Plugin](https://github.com/rxlabz/audioplayer) <!--stargazers:rxlabz/audioplayer--> - Beta by [Erick Ghaumez](https://twitter.com/rxlabz).
-- [Audio Recorder](https://github.com/ZaraclaJ/audio_recorder) <!--stargazers:ZaraclaJ/audio_recorder--> - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz).
-- [Video Launcher](https://github.com/rxlabz/flutter_video_launcher) <!--stargazers:rxlabz/flutter_video_launcher--> - Launch a video player by [Erick Ghaumez](https://twitter.com/rxlabz).
-- [Stereo](https://github.com/2find/stereo) <!--stargazers:2find/stereo--> - Playing music on iOS and Android by [2Find](https://github.com/2find).
+- [Audio Plugin](https://github.com/rxlabz/audioplayer) <!--stargazers:rxlabz/audioplayer--> - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Audio Recorder](https://github.com/ZaraclaJ/audio_recorder) <!--stargazers:ZaraclaJ/audio_recorder--> - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz)
+- [Video Launcher](https://github.com/rxlabz/flutter_video_launcher) <!--stargazers:rxlabz/flutter_video_launcher--> - Launch a video player by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Stereo](https://github.com/2find/stereo) <!--stargazers:2find/stereo--> - Playing music on iOS and Android by [2Find](https://github.com/2find)
+- [WebRTC](https://github.com/cloudwebrtc/flutter-webrtc)  <!--stargazers:2find/stereo--> - WebRTC plugin for iOS/Android by [CloudWebRtc](https://github.com/cloudwebrtc)
 
 #### Voice
 
-- [Speech Recognition](https://github.com/rxlabz/speech_recognition) <!--stargazers:rxlabz/speech_recognition--> - Speech to text by [Erick Ghaumez](https://twitter.com/rxlabz).
-- [OK Google](https://marcinszalek.pl/flutter/ok-google-flutter/) - Integrate google assistant by [Marcin Szalek](https://marcinszalek.pl/).
+- [Speech Recognition](https://github.com/rxlabz/speech_recognition) <!--stargazers:rxlabz/speech_recognition--> - Speech to text by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [OK Google](https://marcinszalek.pl/flutter/ok-google-flutter/) - Integrate google assistant by [Marcin Szalek](https://marcinszalek.pl/)
 
 ### Storage
 
-- [Firebase Storage](https://github.com/flutter/plugins/tree/master/packages/firebase_storage) - Firebase as data storage.
+- [Firebase Storage](https://github.com/flutter/plugins/tree/master/packages/firebase_storage) - Firebase as data storage
 - [Secure Storage](https://github.com/mogol/flutter_secure_storage) <!--stargazers:mogol/flutter_secure_storage--> - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol) 
 
 ### Monetization
 
-- [Admob](https://pub.dartlang.org/packages/admob) - GoogleAdmob supports interstitial ads in both iOS and Android by Brett Nesbitt.
-- [Firebase AdMob](https://github.com/flutter/plugins/tree/master/packages/firebase_admob) - Ad integration using Firebase.
-- [Flutter Billing](https://github.com/VolodymyrLykhonis/flutter_billing) <!--stargazers:VolodymyrLykhonis/flutter_billing--> - Enable billing on iOS and Android by [Volodymyr Lykhonis](http://vladimirlichonos.com).
+- [Admob](https://pub.dartlang.org/packages/admob) - GoogleAdmob supports interstitial ads in both iOS and Android by Brett Nesbitt
+- [Firebase AdMob](https://github.com/flutter/plugins/tree/master/packages/firebase_admob) - Ad integration using Firebase
+- [Flutter Billing](https://github.com/VolodymyrLykhonis/flutter_billing) <!--stargazers:VolodymyrLykhonis/flutter_billing--> - Enable billing on iOS and Android by [Volodymyr Lykhonis](http://vladimirlichonos.com)
 
 ## Templates
 

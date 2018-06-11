@@ -314,6 +314,5 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
-To the extent possible under law, [Robert Felker](https://github.com/Solido) has waived all copyright and related or neighboring rights to this work.

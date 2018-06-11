@@ -282,35 +282,36 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [FriendlyChat](https://github.com/flutter/friendlychat-flutter) <!--stargazers:flutter/friendlychat-flutter--> - Offline/Firebase chat by a team of Googlers.
 - [Meme Chat](https://github.com/efortuna/memechat) <!--stargazers:efortuna/memechat--> - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 - [Flitter](https://github.com/dart-flitter/flitter) <!--stargazers:dart-flitter/flitter--> - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It use the Redux and Jaguar.
-- [Cooking App](https://github.com/oscarcpozas/cooking-app-flutter) <!--stargazers:oscarcpozas/cooking-app-flutter--> - by Óscar Caballero in the kitchen.
-- [Lime](https://github.com/fablue/lime-flutter) <!--stargazers:fablue/lime-flutter--> - Lime social network by Sebastian Sellmair.
-- [Planets-Flutter](https://github.com/sergiandreplace/flutter_planets_tutorial) <!--stargazers:sergiandreplace/flutter_planets_tutorial--> - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com).
-- [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) <!--stargazers:theankurkedia/NewsBuzz--> - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
-- [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) <!--stargazers:konifar/droidkaigi2018-flutter--> - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar).
-- [Heroes Companion](https://github.com/arranf/Heroes-Companion) <!--stargazers:arranf/Heroes-Companion--> - Companion app for Heroes of Storm including redux and sqflite by [arranf](https://github.com/arranf).
-- [Trovami](https://github.com/Samaritan1011001/Trovami) <!--stargazers:Samaritan1011001/Trovami--> - Live location sharing app built on Flutter and Firebase as backend by [Manoj NB](https://github.com/Samaritan1011001).
-- [Music Player](https://github.com/iampawan/Flutter-Music-Player) <!--stargazers:iampawan/Flutter-Music-Player--> - Full featured music player by [Pawan Kumar](https://about.me/imthepk).
-- [Planty](https://github.com/Ivaskuu/plantly) <!--stargazers:Ivaskuu/plantly--> - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu).
-- [InKino](https://github.com/roughike/inKino) <!--stargazers:roughike/inKino--> - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike).
-- [WhatTodo](https://github.com/burhanrashid52/WhatTodo) <!--stargazers:burhanrashid52/WhatTodo--> -  Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
-- [FlutterGram](https://github.com/mdanics/fluttergram) <!--stargazers:mdanics/fluttergram--> - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
+- [Cooking App](https://github.com/oscarcpozas/cooking-app-flutter) <!--stargazers:oscarcpozas/cooking-app-flutter--> - Recipes by Óscar Caballero
+- [Lime](https://github.com/fablue/lime-flutter) <!--stargazers:fablue/lime-flutter--> - Lime social network by Sebastian Sellmair
+- [Planets-Flutter](https://github.com/sergiandreplace/flutter_planets_tutorial) <!--stargazers:sergiandreplace/flutter_planets_tutorial--> - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
+- [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) <!--stargazers:theankurkedia/NewsBuzz--> - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia)
+- [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) <!--stargazers:konifar/droidkaigi2018-flutter--> - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
+- [Heroes Companion](https://github.com/arranf/Heroes-Companion) <!--stargazers:arranf/Heroes-Companion--> - Companion app for Heroes of Storm including redux and sqflite by [arranf](https://github.com/arranf)
+- [Trovami](https://github.com/Samaritan1011001/Trovami) <!--stargazers:Samaritan1011001/Trovami--> - Live location sharing app built on Flutter and Firebase as backend by [Manoj NB](https://github.com/Samaritan1011001)
+- [Music Player](https://github.com/iampawan/Flutter-Music-Player) <!--stargazers:iampawan/Flutter-Music-Player--> - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
+- [Planty](https://github.com/Ivaskuu/plantly) <!--stargazers:Ivaskuu/plantly--> - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu)
+- [InKino](https://github.com/roughike/inKino) <!--stargazers:roughike/inKino--> - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
+- [WhatTodo](https://github.com/burhanrashid52/WhatTodo) <!--stargazers:burhanrashid52/WhatTodo--> -  Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
+- [FlutterGram](https://github.com/mdanics/fluttergram) <!--stargazers:mdanics/fluttergram--> - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics)
+- [BookSearch](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515) 
 
 ### Games
 
-- [Flip](https://github.com/RedBrogdon/flutterflip) <!--stargazers:RedBrogdon/flutterflip--> - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon) .
+- [Flip](https://github.com/RedBrogdon/flutterflip) <!--stargazers:RedBrogdon/flutterflip--> - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon)
 
 ## Utilities
 
 ### IDE
 
 - [IntelliJ Plugin](https://flutter.io/intellij-setup) - Flutter on Intellij and Webstorm.
-- [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Plugin to get Dart with Visual Studio Code by [Danny Tuppeny](https://twitter.com/DanTup).
-- [VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=franzsilva.fs-flutter-snippets) - Translated from IntelliJ IDEA Official Snippets by Franz Silva.
-- [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya).
+- [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Plugin to get Dart with Visual Studio Code by [Danny Tuppeny](https://twitter.com/DanTup)
+- [VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=franzsilva.fs-flutter-snippets) - Translated from IntelliJ IDEA Official Snippets by Franz Silva
+- [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya)
 
 ### Desktop
 
-- [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google.
+- [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google
 
 ## License
 

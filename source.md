@@ -52,7 +52,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 
 ### Begin with
 
-- [Introduction to Flutter](https://www.youtube.com/watch?v=GCCjR0mbJMM) <!--youtube:video/GCCjR0mbJMM--> - Introduction by [Faisal Abid](https://twitter.com/FaisalAbid)
 - [Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19) <!--claps:flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19--> - Building beautiful, flexible user interfaces
 - [Zero to One](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) <!--claps:dartlang/zero-to-one-with-flutter-43b13fd7b354--> - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn)
 - [From Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) <!--claps:@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8--> - Full series of 4 articles by [Chema Rubio](https://twitter.com/develodroid)

@@ -47,7 +47,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Frameworks](#frameworks)
 - [Open Source Apps](#open-source-apps)
 - [Utilities](#utilities)
-- [Bonus](#bonus)
 
 ## Articles
 
@@ -309,14 +308,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 ### Desktop
 
 - [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google.
-
-## Bonus
-
-### Published Apps
-- Hamilton ([iOS](https://itunes.apple.com/fr/app/hamilton-the-official-app/id1255231054?mt=8&ign-mpt=uo%3D4) / [Android](https://play.google.com/store/apps/details?id=com.hamilton.app)) - Introducing Hamilton — The Official App. Fans’ access to all things Hamilton: An American Musical.
-- Newsvoice ([iOS](https://itunes.apple.com/se/app/newsvoice/id1208421834?l=en&mt=8) / [Android](https://play.google.com/store/apps/details?id=com.newsvoice.newsvoice)) - Newsvoice shows all the news and perspectives from high quality sources in one place.
-- [Hookle](https://www.hookle.net/) - Manage your social media in one place.
-- [inKino](https://github.com/roughike/inKino) <!--stargazers:roughike/inKino--> - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike).
 
 ## License
 

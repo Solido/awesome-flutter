@@ -243,6 +243,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Downloader](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
 - [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by [Rene Floor](https://github.com/renefloor)
+- [Device Calendar](https://github.com/builttoroam/flutter_plugins/tree/develop/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com)
 
 ### Bluetooth / NFC / Beacon
 

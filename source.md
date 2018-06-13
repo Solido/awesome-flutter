@@ -287,7 +287,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [FriendlyChat](https://github.com/flutter/friendlychat-flutter) <!--stargazers:flutter/friendlychat-flutter--> - Offline/Firebase chat by a team of Googlers.
 - [Meme Chat](https://github.com/efortuna/memechat) <!--stargazers:efortuna/memechat--> - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 - [Flitter](https://github.com/dart-flitter/flitter) <!--stargazers:dart-flitter/flitter--> - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It use the Redux and Jaguar.
-- [Cooking App](https://github.com/oscarcpozas/cooking-app-flutter) <!--stargazers:oscarcpozas/cooking-app-flutter--> - Recipes by Óscar Caballero
 - [Lime](https://github.com/fablue/lime-flutter) <!--stargazers:fablue/lime-flutter--> - Lime social network by Sebastian Sellmair
 - [Planets-Flutter](https://github.com/sergiandreplace/flutter_planets_tutorial) <!--stargazers:sergiandreplace/flutter_planets_tutorial--> - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
 - [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) <!--stargazers:theankurkedia/NewsBuzz--> - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia)
@@ -300,7 +299,8 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [WhatTodo](https://github.com/burhanrashid52/WhatTodo) <!--stargazers:burhanrashid52/WhatTodo--> -  Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
 - [FlutterGram](https://github.com/mdanics/fluttergram) <!--stargazers:mdanics/fluttergram--> - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics)
 - [BookSearch](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515) 
-- [](https://github.com/aaronoe/FlutterCinematic) <!--stargazers:aaronoe/FlutterCinematic--> - Cinematic a UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe)
+- [Cinematic](https://github.com/aaronoe/FlutterCinematic) <!--stargazers:aaronoe/FlutterCinematic--> - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe)
+- [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) <!--stargazers:benoitletondor/Beer-Me-Up--> - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor)
 
 ### Games
 

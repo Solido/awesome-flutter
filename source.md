@@ -291,7 +291,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Planets-Flutter](https://github.com/sergiandreplace/flutter_planets_tutorial) <!--stargazers:sergiandreplace/flutter_planets_tutorial--> - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
 - [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) <!--stargazers:theankurkedia/NewsBuzz--> - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia)
 - [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) <!--stargazers:konifar/droidkaigi2018-flutter--> - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
-- [Heroes Companion](https://github.com/arranf/Heroes-Companion) <!--stargazers:arranf/Heroes-Companion--> - Companion app for Heroes of Storm including redux and sqflite by [arranf](https://github.com/arranf)
 - [Trovami](https://github.com/Samaritan1011001/Trovami) <!--stargazers:Samaritan1011001/Trovami--> - Live location sharing app built on Flutter and Firebase as backend by [Manoj NB](https://github.com/Samaritan1011001)
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) <!--stargazers:iampawan/Flutter-Music-Player--> - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
 - [Planty](https://github.com/Ivaskuu/plantly) <!--stargazers:Ivaskuu/plantly--> - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu)

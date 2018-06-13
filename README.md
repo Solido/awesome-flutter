@@ -6,7 +6,7 @@
   </a>
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
-  <img alt="PRs Welcome" src="https://img.shields.io/badge/StackOverflow-3,009 questions-orange.svg" />
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/StackOverflow-3009-orange.svg" />
   </a>
   <img alt="Entries" src="https://img.shields.io/badge/Items-164-lightgrey.svg" />
 
@@ -227,8 +227,8 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 ## Plugins
 
 - [Flutter Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins.
-- [Sqflite](https://github.com/tekartik/sqflite) (215 ★) - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/).
-- [WebView](https://github.com/dart-flitter/flutter_webview_plugin) (146 ★) - by [Hadrien Lejard](https://twitter.com/HadrienLejard).
+- [Sqflite](https://github.com/tekartik/sqflite) (216 ★) - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/).
+- [WebView](https://github.com/dart-flitter/flutter_webview_plugin) (147 ★) - by [Hadrien Lejard](https://twitter.com/HadrienLejard).
 - [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Plugins filter in Dart Pub Repository.
 - [Flutter Location](https://github.com/Lyokone/flutterlocation) (76 ★) - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone).
 - [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) (31 ★) - QR Code reader plugin by [Matheus Villela](https://github.com/villela).
@@ -285,14 +285,14 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Lime](https://github.com/fablue/lime-flutter) (127 ★) - Lime social network by Sebastian Sellmair.
 - [Planets-Flutter](https://github.com/sergiandreplace/flutter_planets_tutorial) (146 ★) - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com).
 - [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) (172 ★) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
-- [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) (223 ★) - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar).
+- [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) (224 ★) - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar).
 - [Heroes Companion](https://github.com/arranf/Heroes-Companion) (34 ★) - Companion app for Heroes of Storm including redux and sqflite by [arranf](https://github.com/arranf).
 - [Trovami](https://github.com/Samaritan1011001/Trovami) (34 ★) - Live location sharing app built on Flutter and Firebase as backend by [Manoj NB](https://github.com/Samaritan1011001).
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) (176 ★) - Full featured music player by [Pawan Kumar](https://about.me/imthepk).
 - [Planty](https://github.com/Ivaskuu/plantly) (55 ★) - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu).
-- [InKino](https://github.com/roughike/inKino) (814 ★) - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike).
+- [InKino](https://github.com/roughike/inKino) (815 ★) - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike).
 - [WhatTodo](https://github.com/burhanrashid52/WhatTodo) (102 ★) - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
-- [FlutterGram](https://github.com/mdanics/fluttergram) (67 ★) - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
+- [FlutterGram](https://github.com/mdanics/fluttergram) (68 ★) - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
 - [BookSearch](https://github.com/Norbert515/BookSearch) (96 ★) - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
 
 ### Games

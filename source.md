@@ -6,7 +6,7 @@
   </a>
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
-  <img alt="PRs Welcome" src="https://img.shields.io/badge/StackOverflow-@stackoverflow@-orange.svg" />
+  <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-@stackoverflow@-orange.svg" />
   </a>
   <img alt="Entries" src="https://img.shields.io/badge/Items-@items@-lightgrey.svg" />
   

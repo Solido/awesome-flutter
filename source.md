@@ -11,6 +11,9 @@
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
     <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-@stackoverflow@-orange.svg" />
   </a>
+  <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
+    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-@repositories@-blue.svg" />
+  </a>
   <img alt="Entries" src="https://img.shields.io/badge/Items-@items@-lightgrey.svg" />
   
 </p>

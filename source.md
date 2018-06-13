@@ -94,7 +94,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) <!--youtube:list/PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV--> - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan)
 - [Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Build Native Mobile Apps by Google.
 - [VoidRealms](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi) <!--youtube:list/PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi--> - Video tutorials, from basic to advanced
-- [Bram Vanbilsen](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) <!--youtube:list/PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n--> - Discover SDK using VSCode by Bram Vanbilsen
 
 ## Components
 
@@ -127,7 +126,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Zoomable Image](https://github.com/perlatus/flutter_zoomable_image) <!--stargazers:perlatus/flutter_zoomable_image--> - By Perlatus
 - [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) <!--stargazers:serenader2014/flutter_carousel_slider--> - Carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014)
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) <!--stargazers:pulyaevskiy/parallax-image--> - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
-- [Image Placeholder](https://github.com/FaisalAbid/pluto) <!--stargazers:FaisalAbid/pluto--> - While large images load, show a fallback asset by [Faisal Abid](https://twitter.com/FaisalAbid)
 
 ### Map
 
@@ -144,14 +142,14 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Charts](https://github.com/google/charts) <!--stargazers:google/charts--> - By Google Charts Team
 - [Flutter Plot](https://github.com/RCHowell/flutter_plot) <!--stargazers:RCHowell/flutter_plot--> - Pretty plots by [R. C. Howell](https://github.com/RCHowell/)
 - [Candlesticks](https://github.com/trentpiercy/flutter-candlesticks) <!--stargazers:trentpiercy/flutter-candlesticks--> - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy)
-- [FCharts](https://github.com/thekeenant/fcharts) <!--stargazers:thekeenant/fcharts--> - Beautiful, responsive, animated charts using an intuitive API by [Keenan Thompson](https://keenant.com)
+- [FCharts](https://github.com/thekeenant/fcharts) <!--stargazers:thekeenant/fcharts--> - Beautiful, responsive, animated charts by [Keenan Thompson](https://keenant.com)
 
 
 ### Navigation
 
 - [Fluro](https://github.com/goposse/fluro) <!--stargazers:goposse/fluro--> - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
 - [Circle Indicator](https://github.com/long1eu/circle_indicator) <!--stargazers:long1eu/circle_indicator--> - Circle indicator for the PageViewer by [Lung Razvan](https://github.com/long1eu)
-- [Quick Actions](https://github.com/flutter/plugins/tree/master/packages/quick_actions) - Manage and interact with the application's home screen quick actions
+- [Quick Actions](https://github.com/flutter/plugins/tree/master/packages/quick_actions) - Interact with the application's home screen quick actions
 - [Swiper](https://github.com/jzoom/flutter_swiper) <!--stargazers:long1eu/circle_indicator--> - Horizontal, Vertical, Partial swipe with indicator by [Xueliang Ren](https://github.com/jzoom)
 
 ### Auth
@@ -163,7 +161,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Facebook Login](https://github.com/roughike/flutter_facebook_login) <!--stargazers:roughike/flutter_facebook_login--> - Authenticate with native Android & iOS Facebook login SDKs by [Iiro Krankka](https://github.com/roughike)
 - [Flutter OAuth](https://github.com/hitherejoe/FlutterOAuth) <!--stargazers:hitherejoe/FlutterOAuth--> - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com)
 - [Instagram](https://hackernoon.com/instagram-authentication-with-flutter-df6424d2d56c) - Instagram auth by [Wilfried Mbouenda Mbogne](http://developer-journey.com/)
-- [Slack OAuth](https://github.com/Kunstmaan/flutter_slack_oauth) or [Slack OAuth Firebase](https://github.com/Kunstmaan/flutter_slack_oauth_firebase) <!--stargazers:Kunstmaan/flutter_slack_oauth_firebase--> - Slack OAuth, optionally with Firebase Auth and Cloud Firestore integration
 
 ### Text & Rich Content
 
@@ -195,7 +192,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 
 - [Audio Plugin](https://github.com/rxlabz/audioplayer) <!--stargazers:rxlabz/audioplayer--> - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Audio Recorder](https://github.com/ZaraclaJ/audio_recorder) <!--stargazers:ZaraclaJ/audio_recorder--> - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz)
-- [Video Launcher](https://github.com/rxlabz/flutter_video_launcher) <!--stargazers:rxlabz/flutter_video_launcher--> - Launch a video player by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Stereo](https://github.com/2find/stereo) <!--stargazers:2find/stereo--> - Playing music on iOS and Android by [2Find](https://github.com/2find)
 - [WebRTC](https://github.com/cloudwebrtc/flutter-webrtc) <!--stargazers:cloudwebrtc/flutter-webrtc--> - WebRTC plugin for iOS/Android by [CloudWebRtc](https://github.com/cloudwebrtc)
 - [Chewie](https://github.com/brianegan/chewie) <!--stargazers:brianegan/chewie--> - Provides low-level access to video playback by [Brian Egan](https://github.com/brianegan)
@@ -291,9 +287,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Planets-Flutter](https://github.com/sergiandreplace/flutter_planets_tutorial) <!--stargazers:sergiandreplace/flutter_planets_tutorial--> - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
 - [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) <!--stargazers:theankurkedia/NewsBuzz--> - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia)
 - [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) <!--stargazers:konifar/droidkaigi2018-flutter--> - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
-- [Trovami](https://github.com/Samaritan1011001/Trovami) <!--stargazers:Samaritan1011001/Trovami--> - Live location sharing app built on Flutter and Firebase as backend by [Manoj NB](https://github.com/Samaritan1011001)
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) <!--stargazers:iampawan/Flutter-Music-Player--> - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
-- [Planty](https://github.com/Ivaskuu/plantly) <!--stargazers:Ivaskuu/plantly--> - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu)
 - [InKino](https://github.com/roughike/inKino) <!--stargazers:roughike/inKino--> - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
 - [WhatTodo](https://github.com/burhanrashid52/WhatTodo) <!--stargazers:burhanrashid52/WhatTodo--> -  Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
 - [FlutterGram](https://github.com/mdanics/fluttergram) <!--stargazers:mdanics/fluttergram--> - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics)

@@ -9,10 +9,10 @@
     <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
   </a>
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
-    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-3010-orange.svg" />
+    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-3013-orange.svg" />
   </a>
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-4118-blue.svg" />
+    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-4120-blue.svg" />
   </a>
   <img alt="Entries" src="https://img.shields.io/badge/Items-165-lightgrey.svg" />
 
@@ -73,9 +73,9 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 
 - [Zero to One Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) (719 👏) - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn).
 - [Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957) - App powered by Google Cloud Functions by [Romin Irani](https://rominirani.com/@iromin).
-- [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) (319 👍) - Firebase live coding.
+- [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) (320 👍) - Firebase live coding.
 - [Securing Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) (230 👏) - By Mehmet Fidanboylu.
-- [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) (275 👏) - How to make a custom plug-in by [Karthik Ponnam](https://medium.com/@KarthikPonnam).
+- [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) (276 👏) - How to make a custom plug-in by [Karthik Ponnam](https://medium.com/@KarthikPonnam).
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) (256 👏) - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo).
 
 ### Websites / Blogs
@@ -117,7 +117,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) (72 ★) - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/).
 - [Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation) (116 ★) - Smooth animation from login to home by [Ruchika Gupta](https://github.com/geekruchika).
 - [List Drag&Drop](https://github.com/Norbert515/flutter_list_drag_and_drop) (51 ★) - Reorder list elements using Drag & Drop by [Norbert515](https://github.com/Norbert515).
-- [Calendar Widget](https://github.com/pinkfish/flutter_calendar) (5 ★) - Calendar widget by [David Bennett](https://github.com/pinkfish).
+- [Calendar Widget](https://github.com/pinkfish/flutter_calendar) (6 ★) - Calendar widget by [David Bennett](https://github.com/pinkfish).
 - [Side Header List](https://github.com/renefloor/side_header_list_view) (38 ★) - Listview with sticky headers by [Rene Floor](https://github.com/renefloor).
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) (44 ★) - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn).
 
@@ -202,7 +202,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 
 #### Voice
 
-- [Speech Recognition](https://github.com/rxlabz/speech_recognition) (39 ★) - Speech to text by [Erick Ghaumez](https://twitter.com/rxlabz).
+- [Speech Recognition](https://github.com/rxlabz/speech_recognition) (40 ★) - Speech to text by [Erick Ghaumez](https://twitter.com/rxlabz).
 - [OK Google](https://marcinszalek.pl/flutter/ok-google-flutter/) - Integrate google assistant by [Marcin Szalek](https://marcinszalek.pl/).
 
 ### Storage
@@ -227,7 +227,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) (19 ★) - iOS Settings by [Matthias Rupp](https://github.com/matthinc).
 - [Music Player](https://github.com/thosakwe/flutter_music_player) (59 ★) - music player component by [Tobe O](https://thosakwe.com/).
 - [Dashboard](https://github.com/Ivaskuu/dashboard) (140 ★) - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu).
-- [Todo](https://github.com/littlemarc2011/FlutterTodo) (88 ★) - Todo template from Dribble by [Marc L](https://www.marc-little.com/).
+- [Todo](https://github.com/littlemarc2011/FlutterTodo) (89 ★) - Todo template from Dribble by [Marc L](https://www.marc-little.com/).
 - [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) (15 ★) - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika).
 
 ## Plugins
@@ -287,7 +287,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [FriendlyChat](https://github.com/flutter/friendlychat-flutter) (105 ★) - Offline/Firebase chat by a team of Googlers.
 - [Meme Chat](https://github.com/efortuna/memechat) (240 ★) - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 - [Flitter](https://github.com/dart-flitter/flitter) (83 ★) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It use the Redux and Jaguar.
-- [Cooking App](https://github.com/oscarcpozas/cooking-app-flutter) (48 ★) - Recipes by Óscar Caballero.
 - [Lime](https://github.com/fablue/lime-flutter) (128 ★) - Lime social network by Sebastian Sellmair.
 - [Planets-Flutter](https://github.com/sergiandreplace/flutter_planets_tutorial) (146 ★) - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com).
 - [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) (172 ★) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
@@ -300,7 +299,8 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [WhatTodo](https://github.com/burhanrashid52/WhatTodo) (102 ★) - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
 - [FlutterGram](https://github.com/mdanics/fluttergram) (69 ★) - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
 - [BookSearch](https://github.com/Norbert515/BookSearch) (96 ★) - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
-- [](https://github.com/aaronoe/FlutterCinematic) (142 ★) - Cinematic a UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
+- [Cinematic](https://github.com/aaronoe/FlutterCinematic) (142 ★) - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
+- [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) (21 ★) - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor).
 
 ### Games
 
@@ -317,7 +317,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 
 ### Desktop
 
-- [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) (560 ★) - Desktop implementations of the Flutter embedding API by Google.
+- [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) (561 ★) - Desktop implementations of the Flutter embedding API by Google.
 - [ZSH Completion](https://github.com/NiKoTron/zsh-flutter-completition) (2 ★) - ZSH completion for the Flutter CLI tool by [Nikolai Simonov](https://github.com/NiKoTron).
 
 ## License

@@ -111,6 +111,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Parallax](https://github.com/FlutterRocks/page-transformer) <!--stargazers:FlutterRocks/page-transformer--> - ViewPager by [Iiro Krankka](https://github.com/roughike)
 - [Material Color Picker](https://github.com/long1eu/material_color_picker) <!--stargazers:long1eu/material_color_picker--> - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu)
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) <!--stargazers:letsar/flutter_staggered_grid_view--> - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar)
+- [Sticky Header](https://github.com/letsar/flutter_sticky_header) <!--stargazers:letsar/flutter_sticky_header--> - Sliver based sticky headers by [Romain Rastel](https://github.com/letsar)
 - [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) <!--stargazers:xqwzts/flutter_radial_menu--> - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts)
 - [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) <!--stargazers:Ivaskuu/tinder_cards--> - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu)
 - [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) <!--stargazers:slightfoot/flutter_sticky_headers--> - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/)

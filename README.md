@@ -298,6 +298,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [BookSearch](https://github.com/Norbert515/BookSearch) (99 ★) - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
 - [Cinematic](https://github.com/aaronoe/FlutterCinematic) (146 ★) - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
 - [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) (82 ★) - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor).
+- [FlutterGames](https://github.com/searchy2/FlutterGames) (35 ★) - Flutter app for purchasing and renting games, by [Ray Li](https://github.com/searchy2).
 
 ### Games
 

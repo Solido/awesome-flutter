@@ -251,7 +251,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
 - [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by [Rene Floor](https://github.com/renefloor)
 - [Device Calendar](https://github.com/builttoroam/flutter_plugins/tree/develop/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com)
-- [Android Job Scheduler](https://github.com/talkdirty/android_job_scheduler) ![android](https://user-images.githubusercontent.com/1295961/41648399-0ca3866a-7479-11e8-87d8-357ec48c61a2.png) <!--stargazers:talkdirty/android_job_scheduler--> - Direcly manage android system schedules by [Georg Grab](https://github.com/talkdirty)
+- [Android Job Scheduler](https://github.com/talkdirty/android_job_scheduler) ![android](https://user-images.githubusercontent.com/1295961/41648590-9ed8c5cc-7479-11e8-8248-3820589d8ab9.png) <!--stargazers:talkdirty/android_job_scheduler--> - Direcly manage android system schedules by [Georg Grab](https://github.com/talkdirty)
 
 ### Bluetooth / NFC / Beacon
 

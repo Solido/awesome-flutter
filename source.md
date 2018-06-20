@@ -305,8 +305,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 
 ## Utilities
 
-
-
 ### IDE
 
 - [IntelliJ Plugin](https://flutter.io/intellij-setup) - Flutter on Intellij and Webstorm.

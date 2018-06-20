@@ -305,6 +305,8 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 
 ## Utilities
 
+
+
 ### IDE
 
 - [IntelliJ Plugin](https://flutter.io/intellij-setup) - Flutter on Intellij and Webstorm.
@@ -316,6 +318,10 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 
 - [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google
 - [ZSH Completion](https://github.com/NiKoTron/zsh-flutter-completition) <!--stargazers:NiKoTron/zsh-flutter-completition--> - ZSH completion for the Flutter CLI tool by [Nikolai Simonov](https://github.com/NiKoTron)
+
+### Helpers
+
+- [Flutter Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Easy way to generate launcher icons for your Flutter app by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
 
 ## License
 

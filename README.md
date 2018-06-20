@@ -251,6 +251,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) (10 ★) - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish).
 - [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) (62 ★) - Show images from the internet and keep them in the cache directory by [Rene Floor](https://github.com/renefloor).
 - [Device Calendar](https://github.com/builttoroam/flutter_plugins/tree/develop/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com).
+- [Flutter Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) (70 ★) - Easy way to generate launcher icons for your Flutter app by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
 
 ### Bluetooth / NFC / Beacon
 

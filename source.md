@@ -105,7 +105,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 
 ### UI
 
-- [Color Picker](https://github.com/dart-flitter/flutter_color_picker) <!--stargazers:dart-flitter/flutter_color_picker--> - Primary, Accent & RGB colors selection by [Hadrien Lejard](https://twitter.com/HadrienLejard)
 - [3D Object](https://github.com/hemanthrajv/flutter_3d_obj) <!--stargazers:hemanthrajv/flutter_3d_obj--> - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv)
 - [Contact Picker](https://github.com/goderbauer/contact_picker) <!--stargazers:goderbauer/contact_picker--> - Picking a contact from the address book by [Michael Goderbauer](https://github.com/goderbauer)
 - [Parallax](https://github.com/FlutterRocks/page-transformer) <!--stargazers:FlutterRocks/page-transformer--> - ViewPager by [Iiro Krankka](https://github.com/roughike)

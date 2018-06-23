@@ -121,7 +121,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) <!--stargazers:hnvn/flutter_shimmer--> - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
 - [Flip Panel](https://github.com/hnvn/flutter_flip_panel) <!--stargazers:hnvn/flutter_flip_panel--> - Flip panel with built-in animation by [HungHD](https://github.com/hnvn)
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
-- [IntroViews Flutter](https://github.com/aagarwal1012/IntroViews-Flutter) <!--stargazers:aagarwal1012/IntroViews-Flutter--> -Material Design app intro screens with built-in animations by [Ayush Agarwal](https://github.com/aagarwal1012)
 
 ### Image
 
@@ -231,6 +230,8 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Dashboard](https://github.com/Ivaskuu/dashboard) <!--stargazers:Ivaskuu/dashboard--> - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu)
 - [Todo](https://github.com/littlemarc2011/FlutterTodo) <!--stargazers:littlemarc2011/FlutterTodo--> - Todo template from Dribble by [Marc L](https://www.marc-little.com/)
 - [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) <!--stargazers:geekruchika/FlutterCardSwipe--> - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika)
+- [IntroViews](https://github.com/aagarwal1012/IntroViews-Flutter) <!--stargazers:aagarwal1012/IntroViews-Flutter--> - Material Design introduction screens with built-in animations by [Ayush Agarwal](https://github.com/aagarwal1012)
+
 
 ## Plugins
 

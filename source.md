@@ -230,6 +230,8 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Dashboard](https://github.com/Ivaskuu/dashboard) <!--stargazers:Ivaskuu/dashboard--> - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu)
 - [Todo](https://github.com/littlemarc2011/FlutterTodo) <!--stargazers:littlemarc2011/FlutterTodo--> - Todo template from Dribble by [Marc L](https://www.marc-little.com/)
 - [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) <!--stargazers:geekruchika/FlutterCardSwipe--> - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika)
+- [IntroViews](https://github.com/aagarwal1012/IntroViews-Flutter) <!--stargazers:aagarwal1012/IntroViews-Flutter--> - Material Design introduction screens with built-in animations by [Ayush Agarwal](https://github.com/aagarwal1012)
+
 
 ## Plugins
 

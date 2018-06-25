@@ -231,7 +231,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Todo](https://github.com/littlemarc2011/FlutterTodo) <!--stargazers:littlemarc2011/FlutterTodo--> - Todo template from Dribble by [Marc L](https://www.marc-little.com/)
 - [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) <!--stargazers:geekruchika/FlutterCardSwipe--> - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika)
 - [IntroViews](https://github.com/aagarwal1012/IntroViews-Flutter) <!--stargazers:aagarwal1012/IntroViews-Flutter--> - Material Design introduction screens with built-in animations by [Ayush Agarwal](https://github.com/aagarwal1012)
-- [Flutter UI Kit](https://github.com/iampawan/Flutter-UI-Kit) <!--stargazers:iampawan/Flutter-UI-Kit--> - Flutter app for collection of UI in a UIKit by [Pawan Kumar](https://github.com/iampawan)
+- [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) <!--stargazers:iampawan/Flutter-UI-Kit--> - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan)
 
 
 ## Plugins

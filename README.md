@@ -12,7 +12,7 @@
     <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-3297-orange.svg" />
   </a>
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-4669-blue.svg" />
+    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-4670-blue.svg" />
   </a>
   <img alt="Entries" src="https://img.shields.io/badge/Items-164-lightgrey.svg" />
 
@@ -100,7 +100,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 ### Demonstrations
 
 - [Official Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo app for the material design widgets and other features provided by Flutter Team.
-- [Posse Gallery](https://github.com/flutter/posse_gallery) [135★] - Demonstration by [Posse](http://goposse.com).
+- [Posse Gallery](https://github.com/flutter/posse_gallery) [136★] - Demonstration by [Posse](http://goposse.com).
 - [Flutter Examples](https://github.com/nisrulz/flutter-examples) [762★] - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz).
 
 ### UI
@@ -230,7 +230,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Dashboard](https://github.com/Ivaskuu/dashboard) [149★] - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu).
 - [Todo](https://github.com/littlemarc2011/FlutterTodo) [99★] - Todo template from Dribble by [Marc L](https://www.marc-little.com/).
 - [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) [53★] - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika).
-- [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) [380★] - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan).
+- [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) [383★] - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan).
 
 
 ## Plugins

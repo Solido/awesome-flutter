@@ -291,7 +291,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 
 - [FriendlyChat](https://github.com/flutter/friendlychat-flutter) [111★] - Offline/Firebase chat by a team of Googlers.
 - [Meme Chat](https://github.com/efortuna/memechat) [248★] - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
-- [Flitter](https://github.com/dart-flitter/flitter) [86★] - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It use the Redux and Jaguar.
+- [Flitter](https://github.com/dart-flitter/flitter) [86★] - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
 - [Lime](https://github.com/fablue/lime-flutter) [135★] - Lime social network by Sebastian Sellmair.
 - [Planets](https://github.com/sergiandreplace/flutter_planets_tutorial) [155★] - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com).
 - [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) [187★] - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).

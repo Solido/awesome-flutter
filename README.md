@@ -89,6 +89,8 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515).
 
 ## Videos
+- [Stephen Grider - Udemy](https://www.udemy.com/dart-and-flutter-the-complete-developers-guide) [375🎬] - The most complete course for learning Dart and Flutter taught by Udemy's best instructor [Stephen Grider](https://www.udemy.com/user/sgslo/).
+- [Maximilian Schwarzmüller - Udemy](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/) [298🎬] - The fastest course for up and running with Dart and Flutter by Udemy's most entertaining instructor [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/). Course [preview](https://www.youtube.com/watch?v=GLSG_Wh_YWc)
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) [64🎬] - Very rich content by [Tensor Programming](http://tensor-programming.com/).
 - [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value and in-depth challenges.
 - [Brandon Donnelson](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) [55🎬] - Videos on layout, database and tips by Brandon Donnelson.

@@ -21,8 +21,8 @@
 Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
 
 If you appreciate the content 📖<br>
-Support project visibility, give a ⭐[![GitHub stars](https://img.shields.io/github/stars/Solido/awesome-flutter.svg?style=flat-square)](https://github.com/Solido/awesome-flutter)<br>
-Also like 👍, star ⭐, clap 👏 links to support their authors ! 
+Support project visibility, give a ⭐<br>
+Also 👍| ⭐| 👏 links to support their authors ! 
 
 <div style="text-align: center"><table><tr>
 <td style="text-align: center">
@@ -41,7 +41,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 </tr></table></div>
 
 
-
 ## Contents
 
 - [Articles](#articles)
@@ -53,6 +52,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Frameworks](#frameworks)
 - [Open Source Apps](#open-source-apps)
 - [Utilities](#utilities)
+- [Bonus](#bonus)
 
 ## Articles
 
@@ -332,6 +332,12 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya)
 - [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) <!--stargazers:hillelcoren/flutter-redux-starter--> - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren)
+
+## Bonus
+
+### Fun
+
+- [The One](https://www.youtube.com/watch?v=sIIgtClYq0s) <!--youtube:list/PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd-->
 
 ## License
 

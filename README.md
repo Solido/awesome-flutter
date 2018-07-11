@@ -2,17 +2,14 @@
 [<img src="https://user-images.githubusercontent.com/1295961/41170455-b47a54bc-6b4c-11e8-940f-bc0a3bc3ff8d.png" align="center" width="800">](http://flutter.io)
 
 <p align="center">
-  <a href="https://github.com/sindresorhus/awesome">
-    <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
-  </a>
-  <a href="https://github.com/Solido/awesome-flutter/blob/master/contributing.md">
-    <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+  <a href="https://twitter.com/BlueAquilae">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-BlueAquilae-blue.svg" />
   </a>
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
-    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-3624-orange.svg" />
+    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-3626-orange.svg" />
   </a>
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-5292-blue.svg" />
+    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-5297-brightgreen.svg" />
   </a>
   <img alt="Entries" src="https://img.shields.io/badge/Items-172-lightgrey.svg" />
 
@@ -29,10 +26,10 @@ Also 👍| ⭐| 👏 links to support their authors !
 <img src="https://marcinszalek.pl/wp-content/uploads/2018/05/ff_16.gif" width="200" />
 </td>
 <td style="text-align: center">
-<img src="https://cloud.githubusercontent.com/assets/1295961/25781521/5e2a9738-333b-11e7-825d-a6672b1f0b73.gif" width="200"/>
+<img src="https://user-images.githubusercontent.com/1295961/42548034-47771138-84c5-11e8-9ff9-fa5bb0834771.jpg" width="200"/>
 </td>
 <td style="text-align: center">
-<img src="https://cloud.githubusercontent.com/assets/1295961/25817980/5d9033ca-3429-11e7-8cb3-7c939cba80ba.gif" width="200"/>
+<img src="https://user-images.githubusercontent.com/1295961/42548085-a07fcaf4-84c5-11e8-9fdc-7aa86c46f316.png" width="200"/>
 </td>
   <td style="text-align: center">
 <img src="https://raw.githubusercontent.com/letsar/flutter_staggered_grid_view/master/doc/images/dynamic_tile_sizes.gif" width="200"/>
@@ -123,7 +120,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [List Drag&Drop](https://github.com/Norbert515/flutter_list_drag_and_drop) [68★] - Reorder list elements using Drag & Drop by [Norbert515](https://github.com/Norbert515).
 - [Calendar Widget](https://github.com/pinkfish/flutter_calendar) [10★] - Calendar widget by [David Bennett](https://github.com/pinkfish).
 - [Side Header List](https://github.com/renefloor/side_header_list_view) [51★] - Listview with sticky headers by [Rene Floor](https://github.com/renefloor).
-- [Shimmer](https://github.com/hnvn/flutter_shimmer) [88★] - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn).
+- [Shimmer](https://github.com/hnvn/flutter_shimmer) [89★] - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn).
 - [Flip Panel](https://github.com/hnvn/flutter_flip_panel) [41★] - Flip panel with built-in animation by [HungHD](https://github.com/hnvn).
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) [30★] - Facebook reactions widget by [Duy Tran](https://github.com/duytq94).
 
@@ -212,7 +209,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 #### Audio
 
 - [Audio Plugin](https://github.com/rxlabz/audioplayer) [109★] - Beta by [Erick Ghaumez](https://twitter.com/rxlabz).
-- [Audio Recorder](https://github.com/ZaraclaJ/audio_recorder) [27★] - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz).
+- [Audio Recorder](https://github.com/ZaraclaJ/audio_recorder) [28★] - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz).
 - [Stereo](https://github.com/2find/stereo) [25★] - Playing music on iOS and Android by [2Find](https://github.com/2find).
 
 #### Video
@@ -249,7 +246,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Dashboard](https://github.com/Ivaskuu/dashboard) [161★] - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu).
 - [Todo](https://github.com/littlemarc2011/FlutterTodo) [109★] - Todo template from Dribble by [Marc L](https://www.marc-little.com/).
 - [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) [60★] - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika).
-- [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) [632★] - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan).
+- [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) [635★] - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan).
 
 
 ## Plugins
@@ -300,7 +297,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 ### Animation
 
 - [Sequence Animation](https://github.com/Norbert515/flutter_sequence_animation) [37★] - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir).
-- [SpinKit](https://github.com/jogboms/flutter_spinkit) [133★] - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+- [SpinKit](https://github.com/jogboms/flutter_spinkit) [136★] - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 
 ### Game
 

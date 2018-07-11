@@ -29,7 +29,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 <img src="https://user-images.githubusercontent.com/1295961/42548034-47771138-84c5-11e8-9ff9-fa5bb0834771.jpg" width="200"/>
 </td>
 <td style="text-align: center">
-<img src="https://cloud.githubusercontent.com/assets/1295961/25817980/5d9033ca-3429-11e7-8cb3-7c939cba80ba.gif" width="200"/>
+<img src="https://user-images.githubusercontent.com/1295961/42548085-a07fcaf4-84c5-11e8-9fdc-7aa86c46f316.png" width="200"/>
 </td>
   <td style="text-align: center">
 <img src="https://raw.githubusercontent.com/letsar/flutter_staggered_grid_view/master/doc/images/dynamic_tile_sizes.gif" width="200"/>

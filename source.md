@@ -2,17 +2,14 @@
 [<img src="https://user-images.githubusercontent.com/1295961/41170455-b47a54bc-6b4c-11e8-940f-bc0a3bc3ff8d.png" align="center" width="800">](http://flutter.io)
 
 <p align="center">
-  <a href="https://github.com/sindresorhus/awesome">
-    <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
-  </a>
-  <a href="https://github.com/Solido/awesome-flutter/blob/master/contributing.md">
-    <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+  <a href="https://twitter.com/BlueAquilae">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-BlueAquilae-blue.svg" />
   </a>
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
     <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-@stackoverflow@-orange.svg" />
   </a>
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-@repositories@-blue.svg" />
+    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-@repositories@-brightgreen.svg" />
   </a>
   <img alt="Entries" src="https://img.shields.io/badge/Items-@items@-lightgrey.svg" />
   

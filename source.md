@@ -26,7 +26,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 <img src="https://marcinszalek.pl/wp-content/uploads/2018/05/ff_16.gif" width="200" />
 </td>
 <td style="text-align: center">
-<img src="https://cloud.githubusercontent.com/assets/1295961/25781521/5e2a9738-333b-11e7-825d-a6672b1f0b73.gif" width="200"/>
+<img src="https://user-images.githubusercontent.com/1295961/42548034-47771138-84c5-11e8-9ff9-fa5bb0834771.jpg" width="200"/>
 </td>
 <td style="text-align: center">
 <img src="https://cloud.githubusercontent.com/assets/1295961/25817980/5d9033ca-3429-11e7-8cb3-7c939cba80ba.gif" width="200"/>

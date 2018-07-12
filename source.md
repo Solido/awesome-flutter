@@ -233,7 +233,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Admob](https://pub.dartlang.org/packages/admob) - GoogleAdmob supports interstitial ads in both iOS and Android by Brett Nesbitt
 - [Firebase AdMob](https://github.com/flutter/plugins/tree/master/packages/firebase_admob) - Ad integration using Firebase
 - [Billing](https://github.com/VolodymyrLykhonis/flutter_billing) <!--stargazers:VolodymyrLykhonis/flutter_billing--> - Enable billing on iOS and Android by [Volodymyr Lykhonis](http://vladimirlichonos.com)
-- [Payments](https://github.com/pplante/flutter_payments) <!--stargazers:pplante/flutter_payments--> - Flutter In App Purchases & Subscriptions For Humans by [Delightful Goods](https://delightfulgoods.co)
+- [Payments](https://github.com/pplante/flutter_payments) <!--stargazers:pplante/flutter_payments--> - In App Purchases & Subscriptions by [Delightful Goods](https://delightfulgoods.co)
 
 ## Templates
 

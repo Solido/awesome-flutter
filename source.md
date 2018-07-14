@@ -2,9 +2,7 @@
 [<img src="https://user-images.githubusercontent.com/1295961/41170455-b47a54bc-6b4c-11e8-940f-bc0a3bc3ff8d.png" align="center" width="800">](http://flutter.io)
 
 <p align="center">
-  <a href="https://twitter.com/BlueAquilae">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-BlueAquilae-blue.svg" />
-  </a>
+ 
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
     <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-@stackoverflow@-orange.svg" />
   </a>
@@ -26,7 +24,9 @@ Also 👍| ⭐| 👏 links to support their authors !
 <img src="https://marcinszalek.pl/wp-content/uploads/2018/05/ff_16.gif" width="200" />
 </td>
 <td style="text-align: center">
-<img src="https://user-images.githubusercontent.com/1295961/42548034-47771138-84c5-11e8-9ff9-fa5bb0834771.jpg" width="200"/>
+  <a href="https://twitter.com/BlueAquilae/status/1018208010643103744">
+<img src="https://user-images.githubusercontent.com/1295961/42728108-34e485a0-87b3-11e8-94af-224f81bec82d.gif" width="200"/>
+  </a>
 </td>
 <td style="text-align: center">
 <img src="https://user-images.githubusercontent.com/1295961/42548085-a07fcaf4-84c5-11e8-9fdc-7aa86c46f316.png" width="200"/>

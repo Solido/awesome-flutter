@@ -124,6 +124,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) <!--stargazers:hnvn/flutter_shimmer--> - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
 - [Flip Panel](https://github.com/hnvn/flutter_flip_panel) <!--stargazers:hnvn/flutter_flip_panel--> - Flip panel with built-in animation by [HungHD](https://github.com/hnvn)
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
+- [Swipe Detector](https://github.com/gurleensethi/swipedetector) <!--stargazers:gurleensethi/swipedetector--> - Swipe Detector by [Gurleen Sethi](https://github.com/gurleensethi)
 
 #### Material Design
 

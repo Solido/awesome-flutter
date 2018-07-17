@@ -84,7 +84,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Flutter Institute](https://flutter.institute/) - Very original content and tutorials by [Brian Armstrong](https://twitter.com/flutterinst).
 - [Flutter Rocks](https://flutter.rocks/) - Blog about the joys of Flutter by [Iiro Krankka](https://twitter.com/koorankka).
 - [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515).
-- .[State Management Using BLoC Pattern In Flutter](https://codeburst.io/state-management-using-bloc-pattern-in-flutter-390d4056006f) - Introduction to State Management Using BLoC Pattern In Flutter.
+- [State Management Using BLoC Pattern In Flutter](https://codeburst.io/state-management-using-bloc-pattern-in-flutter-390d4056006f) - Introduction to State Management Using BLoC Pattern In Flutter.
 
 ### Advanced
 

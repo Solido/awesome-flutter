@@ -7,9 +7,9 @@
     <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-3816-orange.svg" />
   </a>
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-5590-brightgreen.svg" />
+    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-5592-brightgreen.svg" />
   </a>
-  <img alt="Entries" src="https://img.shields.io/badge/Items-177-lightgrey.svg" />
+  <img alt="Entries" src="https://img.shields.io/badge/Items-178-lightgrey.svg" />
 
 </p>
 
@@ -328,7 +328,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [WhatTodo](https://github.com/burhanrashid52/WhatTodo) [128★] - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
 - [FlutterGram](https://github.com/mdanics/fluttergram) [117★] - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
 - [BookSearch](https://github.com/Norbert515/BookSearch) [125★] - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
-- [Cinematic](https://github.com/aaronoe/FlutterCinematic) [192★] - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
+- [Cinematic](https://github.com/aaronoe/FlutterCinematic) [193★] - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
 - [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) [112★] - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor).
 
 ### Games
@@ -343,6 +343,8 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) [42★] - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren).
 
 ## Bonus
+
+- [It's All Widgets!](https://itsallwidgets.com) - Open list of published apps by [Hillel Coren](https://twitter.com/hillelcoren), [Thomas Burkhart](https://twitter.com/ThomasBurkhartB), [Simon Lightfoot](https://twitter.com/devangelslondon) and [Scott Stoll](https://twitter.com/scottstoll2017).
 
 ### Fun
 

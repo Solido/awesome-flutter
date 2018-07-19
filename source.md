@@ -1,7 +1,6 @@
 [<img src="https://user-images.githubusercontent.com/1295961/41170455-b47a54bc-6b4c-11e8-940f-bc0a3bc3ff8d.png" align="center" width="800">](http://flutter.io)
 
 <p align="center">
-
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
     <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-@stackoverflow@-orange.svg" />
   </a>
@@ -9,7 +8,6 @@
     <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-@repositories@-brightgreen.svg" />
   </a>
   <img alt="Entries" src="https://img.shields.io/badge/Items-@items@-lightgrey.svg" />
-
 </p>
 
 Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
@@ -33,7 +31,6 @@ Also 👍| ⭐| 👏 links to support their authors !
   <td style="text-align: center">
 <img src="https://raw.githubusercontent.com/letsar/flutter_staggered_grid_view/master/doc/images/dynamic_tile_sizes.gif" width="200"/>
 </td>
-
 </tr></table></div>
 
 ## Contents
@@ -55,7 +52,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 - [Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19) <!--claps:flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19--> - Building beautiful, flexible user interfaces
 - [Zero to One](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) <!--claps:dartlang/zero-to-one-with-flutter-43b13fd7b354--> - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn)
-- [From Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) <mailto:!--claps:@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8--> - Full series of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
+- [From Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) <!--claps:@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8--> - Full series of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
 
 ### Tutorial
 
@@ -69,9 +66,9 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Zero to One Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) <!--claps:dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb--> - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn)
 - [Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957) - App powered by Google Cloud Functions by [Romin Irani](https://rominirani.com/@iromin)
 - [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) <!--youtube:video/p4yLzYwy_4g--> - Firebase live coding
-- [Securing Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) <mailto:!--claps:@mehmetf_71205/securing-flutter-apps-ada13e806a69--> - By Mehmet Fidanboylu
-- [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) <mailto:!--claps:@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a--> - How to make a custom plug-in by [Karthik Ponnam](https://medium.com/@KarthikPonnam)
-- [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) <mailto:!--claps:@salvatoregiordanoo/flavoring-flutter-392aaa875f36--> - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
+- [Securing Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) <!--claps:@mehmetf_71205/securing-flutter-apps-ada13e806a69--> - By Mehmet Fidanboylu
+- [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) <!--claps:@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a--> - How to make a custom plug-in by [Karthik Ponnam](https://medium.com/@KarthikPonnam)
+- [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) <!--claps:@salvatoregiordanoo/flavoring-flutter-392aaa875f36--> - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
 
 ### Websites / Blogs
 
@@ -174,7 +171,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Facebook Login](https://github.com/roughike/flutter_facebook_login) <!--stargazers:roughike/flutter_facebook_login--> - Authenticate with native Android & iOS Facebook login SDKs by [Iiro Krankka](https://github.com/roughike)
 - [OAuth](https://github.com/hitherejoe/FlutterOAuth) <!--stargazers:hitherejoe/FlutterOAuth--> - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com)
 - [Instagram](https://hackernoon.com/instagram-authentication-with-flutter-df6424d2d56c) - Instagram auth by [Wilfried Mbouenda Mbogne](http://developer-journey.com/)
-- [Firebase Phone Auth](https://medium.com/@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b) <mailto:!--claps:@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b--> - Phone number auth via SMS by [Gildásio Filho](https://github.com/gildaswise)
+- [Firebase Phone Auth](https://medium.com/@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b) <!--claps:@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b--> - Phone number auth via SMS by [Gildásio Filho](https://github.com/gildaswise)
 - [SimpleAuth](https://github.com/Clancey/simple_auth) <!--stargazers:Clancey/simple_auth--> - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey)
 
 ### Text & Rich Content
@@ -193,9 +190,9 @@ Also 👍| ⭐| 👏 links to support their authors !
 ### Build automation
 
 - [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) <!--stargazers:yjbanov/flutter_travis_sample--> - Continuous integration by [Yegor Jbanov](https://twitter.com/yegorjbanov)
-- [Test on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) <mailto:!--claps:@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c--> - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov)
-- [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) <mailto:!--claps:@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4--> - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov)
-- [BitRise](https://medium.com/@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2) <mailto:!--claps:@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2--> - Create Bitrise Step in Go by [Karol Wrótniak](https://medium.com/@karol.wrotniak)
+- [Test on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) <!--claps:@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c--> - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) <!--claps:@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4--> - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [BitRise](https://medium.com/@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2) <!--claps:@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2--> - Create Bitrise Step in Go by [Karol Wrótniak](https://medium.com/@karol.wrotniak)
 
 ### Styling
 

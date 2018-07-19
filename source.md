@@ -1,8 +1,7 @@
-
 [<img src="https://user-images.githubusercontent.com/1295961/41170455-b47a54bc-6b4c-11e8-940f-bc0a3bc3ff8d.png" align="center" width="800">](http://flutter.io)
 
 <p align="center">
- 
+
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
     <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-@stackoverflow@-orange.svg" />
   </a>
@@ -10,14 +9,14 @@
     <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-@repositories@-brightgreen.svg" />
   </a>
   <img alt="Entries" src="https://img.shields.io/badge/Items-@items@-lightgrey.svg" />
-  
+
 </p>
 
 Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
 
 If you appreciate the content 📖<br>
 Support project visibility, give a ⭐<br>
-Also 👍| ⭐| 👏 links to support their authors ! 
+Also 👍| ⭐| 👏 links to support their authors !
 
 <div style="text-align: center"><table><tr>
 <td style="text-align: center">
@@ -36,7 +35,6 @@ Also 👍| ⭐| 👏 links to support their authors !
 </td>
 
 </tr></table></div>
-
 
 ## Contents
 
@@ -57,7 +55,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 - [Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19) <!--claps:flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19--> - Building beautiful, flexible user interfaces
 - [Zero to One](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) <!--claps:dartlang/zero-to-one-with-flutter-43b13fd7b354--> - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn)
-- [From Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) <!--claps:@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8--> - Full series of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
+- [From Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) <mailto:!--claps:@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8--> - Full series of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
 
 ### Tutorial
 
@@ -68,12 +66,12 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 ### Howtos
 
-- [Zero to One Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) <!--claps:dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb-->  - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn)
+- [Zero to One Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) <!--claps:dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb--> - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn)
 - [Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957) - App powered by Google Cloud Functions by [Romin Irani](https://rominirani.com/@iromin)
 - [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) <!--youtube:video/p4yLzYwy_4g--> - Firebase live coding
-- [Securing Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) <!--claps:@mehmetf_71205/securing-flutter-apps-ada13e806a69--> - By Mehmet Fidanboylu
-- [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) <!--claps:@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a--> - How to make a custom plug-in by [Karthik Ponnam](https://medium.com/@KarthikPonnam)
-- [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) <!--claps:@salvatoregiordanoo/flavoring-flutter-392aaa875f36--> - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
+- [Securing Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) <mailto:!--claps:@mehmetf_71205/securing-flutter-apps-ada13e806a69--> - By Mehmet Fidanboylu
+- [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) <mailto:!--claps:@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a--> - How to make a custom plug-in by [Karthik Ponnam](https://medium.com/@KarthikPonnam)
+- [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) <mailto:!--claps:@salvatoregiordanoo/flavoring-flutter-392aaa875f36--> - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
 
 ### Websites / Blogs
 
@@ -82,17 +80,18 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Flutter by Example](https://flutterbyexample.com/) - Tutorials based on Redux, Firebase, Custom Animations, and UI
 - [Flutter Institute](https://flutter.institute/) - Very original content and tutorials by [Brian Armstrong](https://twitter.com/flutterinst)
 - [Flutter Rocks](https://flutter.rocks/) - Blog about the joys of Flutter by [Iiro Krankka](https://twitter.com/koorankka).
-- [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515) 
+- [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515)
 
 ### Advanced
 
 - [Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU) <!--youtube:video/UUfXWzp0-DU--> - Engine architecture by Adam Barth
 - [Render Objects](https://medium.com/flutter-community/flutter-what-are-widgets-renderobjects-and-elements-630a57d05208) <!--claps:flutter-community/flutter-what-are-widgets-renderobjects-and-elements-630a57d05208--> - What are Widgets, RenderObjects and Elements? by [Norbert515](https://github.com/Norbert515)
-- [Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) - Skillmatters presentation by [Brian Egan](https://github.com/brianegan) 
+- [Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) - Skillmatters presentation by [Brian Egan](https://github.com/brianegan)
 - [Gesture System](https://medium.com/flutter-community/flutter-deep-dive-gestures-c16203b3434f) <!--claps:flutter-community/flutter-deep-dive-gestures-c16203b3434f--> - Flutter Deep Dive: Gestures by [Nash](https://nash0x7e2.github.io/)
 - [BLoC Pattern](https://medium.com/@amrut.patil88/state-management-using-bloc-pattern-in-flutter-390d4056006f) <!--claps:amrut.patil88/state-management-using-bloc-pattern-in-flutter-390d4056006f--> - State Management Using BLoC Pattern by [Amrut Patil](https://github.com/apatil88/FlutterDartProjects/tree/master/login_navigate_state_mgmt)
 
 ## Videos
+
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) <!--youtube:list/PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd--> - Very rich content by [Tensor Programming](http://tensor-programming.com/)
 - [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value and in-depth challenges.
 - [Brandon Donnelson](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) <!--youtube:list/PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh--> - Videos on layout, database and tips by Brandon Donnelson
@@ -129,7 +128,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 #### Material Design
 
 - [Material Color Picker](https://github.com/long1eu/material_color_picker) <!--stargazers:long1eu/material_color_picker--> - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu)
-- [Unicorn Speed Dial](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins) 
+- [Unicorn Speed Dial](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins)
 
 ### Image
 
@@ -140,7 +139,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Photo View](https://github.com/renancaraujo/photo_view) <!--stargazers:renancaraujo/photo_view--> - Scalable image view with loading placeholder by [Renan C. Araújo](https://github.com/renancaraujo)
 - [SVG](https://github.com/dnfield/flutter_svg) <!--stargazers:dnfield/flutter_svg--> - SVG parsing, rendering, and widget library by [Dan Field](https://github.com/dnfield)
 - [Image Cropper](https://github.com/hnvn/flutter_image_cropper) <!--stargazers:hnvn/flutter_image_cropper--> - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn)
-- [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by 
+- [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by
 
 ### Map
 
@@ -159,7 +158,6 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Candlesticks](https://github.com/trentpiercy/flutter-candlesticks) <!--stargazers:trentpiercy/flutter-candlesticks--> - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy)
 - [FCharts](https://github.com/thekeenant/fcharts) <!--stargazers:thekeenant/fcharts--> - Beautiful, responsive, animated charts by [Keenan Thompson](https://keenant.com)
 
-
 ### Navigation
 
 - [Fluro](https://github.com/goposse/fluro) <!--stargazers:goposse/fluro--> - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
@@ -176,7 +174,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Facebook Login](https://github.com/roughike/flutter_facebook_login) <!--stargazers:roughike/flutter_facebook_login--> - Authenticate with native Android & iOS Facebook login SDKs by [Iiro Krankka](https://github.com/roughike)
 - [OAuth](https://github.com/hitherejoe/FlutterOAuth) <!--stargazers:hitherejoe/FlutterOAuth--> - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com)
 - [Instagram](https://hackernoon.com/instagram-authentication-with-flutter-df6424d2d56c) - Instagram auth by [Wilfried Mbouenda Mbogne](http://developer-journey.com/)
-- [Firebase Phone Auth](https://medium.com/@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b) <!--claps:@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b--> - Phone number auth via SMS by [Gildásio Filho](https://github.com/gildaswise)
+- [Firebase Phone Auth](https://medium.com/@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b) <mailto:!--claps:@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b--> - Phone number auth via SMS by [Gildásio Filho](https://github.com/gildaswise)
 - [SimpleAuth](https://github.com/Clancey/simple_auth) <!--stargazers:Clancey/simple_auth--> - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey)
 
 ### Text & Rich Content
@@ -185,7 +183,6 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Rich Text Editor](https://github.com/long1eu/rich_editor) <!--stargazers:long1eu/rich_editor--> - Text editor with style by [Lung Razvan](https://github.com/long1eu)
 - [Masked Text](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
 - [Zefyr](https://github.com/memspace/zefyr) <!--stargazers:memspace/zefyr--> - Soft and gentle rich text editing by [Memspace](https://github.com/memspace/zefyr)
-
 
 ### Analytics
 
@@ -196,9 +193,9 @@ Also 👍| ⭐| 👏 links to support their authors !
 ### Build automation
 
 - [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) <!--stargazers:yjbanov/flutter_travis_sample--> - Continuous integration by [Yegor Jbanov](https://twitter.com/yegorjbanov)
-- [Test on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) <!--claps:@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c--> - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov)
-- [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) <!--claps:@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4--> - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov)
-- [BitRise](https://medium.com/@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2) <!--claps:@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2--> - Create Bitrise Step in Go by [Karol Wrótniak](https://medium.com/@karol.wrotniak)
+- [Test on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) <mailto:!--claps:@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c--> - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) <mailto:!--claps:@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4--> - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [BitRise](https://medium.com/@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2) <mailto:!--claps:@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2--> - Create Bitrise Step in Go by [Karol Wrótniak](https://medium.com/@karol.wrotniak)
 
 ### Styling
 
@@ -229,7 +226,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 ### Storage
 
 - [Firebase Storage](https://github.com/flutter/plugins/tree/master/packages/firebase_storage) - Firebase as data storage
-- [Secure Storage](https://github.com/mogol/flutter_secure_storage) <!--stargazers:mogol/flutter_secure_storage--> - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol) 
+- [Secure Storage](https://github.com/mogol/flutter_secure_storage) <!--stargazers:mogol/flutter_secure_storage--> - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol)
 
 ### Monetization
 
@@ -254,7 +251,6 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) <!--stargazers:iampawan/Flutter-UI-Kit--> - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan)
 - [Book](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
 
-
 ## Plugins
 
 - [Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins
@@ -271,7 +267,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Get Version](https://github.com/AppleEducate/get_version) <!--stargazers:AppleEducate/get_version--> - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com)
 - [Downloader](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
-[Rene Floor](https://github.com/renefloor)
+  [Rene Floor](https://github.com/renefloor)
 - [Device Calendar](https://github.com/builttoroam/flutter_plugins/tree/develop/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com)
 - [Android Job Scheduler](https://github.com/talkdirty/android_job_scheduler) ![android](https://user-images.githubusercontent.com/1295961/41648590-9ed8c5cc-7479-11e8-8248-3820589d8ab9.png) <!--stargazers:talkdirty/android_job_scheduler--> - Directly manage android system schedules by [Georg Grab](https://github.com/talkdirty)
 - [Dialogflow](https://github.com/VictorRancesCode/flutter_dialogflow) <!--stargazers:VictorRancesCode/flutter_dialogflow--> - Plugin to easily integrate with dialogflow by [Victor Rances](https://github.com/VictorRancesCode/)
@@ -281,7 +277,6 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 - [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
 - [Zebra EMDK](https://github.com/acaliaro/flutterZebraEmdk) <!--stargazers:acaliaro/flutterZebraEmdk--> - Use Zebra EMDK to access Barcode Scanner API
-
 
 ### Bluetooth / NFC / Beacon
 
@@ -296,10 +291,11 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 - [Built redux](https://github.com/davidmarne/flutter_built_redux) <!--stargazers:davidmarne/flutter_built_redux--> - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne)
 - [Redux.dart](https://github.com/johnpryan/redux.dart) <!--stargazers:johnpryan/redux.dart--> - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects)
-- [Redux](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build  Widgets
+- [Redux](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets
 - [Dartea](https://github.com/p69/dartea) <!--stargazers:p69/dartea--> - Model View Update inspired by TEA from ELM by [Shilyagov P](https://github.com/p69)
 - [Inject](https://github.com/google/inject.dart) <!--stargazers:google/inject.dart--> - Compile-time dependency injection for Dart and Flutter by Google
 - [Flutter_flux](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google
+- [graphql_flutter](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
 
 ### Animation
 
@@ -309,7 +305,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 ### Game
 
 - [Flame](https://github.com/luanpotter/flame) <!--stargazers:luanpotter/flame--> - Minimalist game engine by [Luan Nico](https://github.com/luanpotter)
-- [SpriteWidget](https://github.com/spritewidget/spritewidget) <!--stargazers:spritewidget/spritewidget--> -  Toolkit for building complex, high performance animations and 2D games by [Viktor Lidholt](https://github.com/vlidholt)
+- [SpriteWidget](https://github.com/spritewidget/spritewidget) <!--stargazers:spritewidget/spritewidget--> - Toolkit for building complex, high performance animations and 2D games by [Viktor Lidholt](https://github.com/vlidholt)
 
 ### Misc
 
@@ -326,9 +322,9 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) <!--stargazers:konifar/droidkaigi2018-flutter--> - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) <!--stargazers:iampawan/Flutter-Music-Player--> - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
 - [InKino](https://github.com/roughike/inKino) <!--stargazers:roughike/inKino--> - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
-- [WhatTodo](https://github.com/burhanrashid52/WhatTodo) <!--stargazers:burhanrashid52/WhatTodo--> -  Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
+- [WhatTodo](https://github.com/burhanrashid52/WhatTodo) <!--stargazers:burhanrashid52/WhatTodo--> - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
 - [FlutterGram](https://github.com/mdanics/fluttergram) <!--stargazers:mdanics/fluttergram--> - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics)
-- [BookSearch](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515) 
+- [BookSearch](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515)
 - [Cinematic](https://github.com/aaronoe/FlutterCinematic) <!--stargazers:aaronoe/FlutterCinematic--> - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe)
 - [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) <!--stargazers:benoitletondor/Beer-Me-Up--> - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor)
 
@@ -354,4 +350,3 @@ Also 👍| ⭐| 👏 links to support their authors !
 ## License
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
-

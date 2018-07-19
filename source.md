@@ -130,6 +130,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 - [Material Color Picker](https://github.com/long1eu/material_color_picker) <!--stargazers:long1eu/material_color_picker--> - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu)
 - [Unicorn Speed Dial](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins) 
+- [Material Speed Dial](https://github.com/darioielardi/flutter_speed_dial)<!--stargazers:darioielardi/flutter_speed_dial--> - Material Design Speed Dial with Animated Icons and Hide on Scroll by [Dario Ielardi](https://github.com/darioielardi)
 
 ### Image
 

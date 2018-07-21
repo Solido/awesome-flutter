@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
-    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-3912-orange.svg" />
+    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-3914-orange.svg" />
   </a>
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-5772-brightgreen.svg" />
+    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-5774-brightgreen.svg" />
   </a>
-  <img alt="Entries" src="https://img.shields.io/badge/Items-181-lightgrey.svg" />
+  <img alt="Entries" src="https://img.shields.io/badge/Items-182-lightgrey.svg" />
 </p>
 
 Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
@@ -85,7 +85,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Render Objects](https://medium.com/flutter-community/flutter-what-are-widgets-renderobjects-and-elements-630a57d05208) [910👏] - What are Widgets, RenderObjects and Elements? by [Norbert515](https://github.com/Norbert515).
 - [Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) - Skillmatters presentation by [Brian Egan](https://github.com/brianegan).
 - [Gesture System](https://medium.com/flutter-community/flutter-deep-dive-gestures-c16203b3434f) [299👏] - Flutter Deep Dive: Gestures by [Nash](https://nash0x7e2.github.io/).
-- [BLoC Pattern](https://medium.com/@amrut.patil88/state-management-using-bloc-pattern-in-flutter-390d4056006f) [600👏] - State Management Using BLoC Pattern by [Amrut Patil](https://github.com/apatil88/FlutterDartProjects/tree/master/login_navigate_state_mgmt).
+- [BLoC Pattern](https://medium.com/@amrut.patil88/state-management-using-bloc-pattern-in-flutter-390d4056006f) [602👏] - State Management Using BLoC Pattern by [Amrut Patil](https://github.com/apatil88/FlutterDartProjects/tree/master/login_navigate_state_mgmt).
 
 ## Videos
 
@@ -102,26 +102,26 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 - [Official Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo for the material design widgets provided by Flutter Team.
 - [Posse Gallery](https://github.com/flutter/posse_gallery) [139★] - Advanced demonstration by [Posse](http://goposse.com).
-- [Flutter Examples](https://github.com/nisrulz/flutter-examples) [874★] - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz).
+- [Flutter Examples](https://github.com/nisrulz/flutter-examples) [875★] - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz).
 
 ### UI
 
 - [3D Object](https://github.com/hemanthrajv/flutter_3d_obj) [26★] - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv).
 - [Contact Picker](https://github.com/goderbauer/contact_picker) [10★] - Picking contact from the address book by [Michael Goderbauer](https://github.com/goderbauer).
-- [Parallax](https://github.com/FlutterRocks/page-transformer) [141★] - ViewPager by [Iiro Krankka](https://github.com/roughike).
-- [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) [144★] - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar).
+- [Parallax](https://github.com/FlutterRocks/page-transformer) [142★] - ViewPager by [Iiro Krankka](https://github.com/roughike).
+- [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) [145★] - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar).
 - [Sticky Header](https://github.com/letsar/flutter_sticky_header) [56★] - Sliver based sticky headers by [Romain Rastel](https://github.com/letsar).
 - [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) [89★] - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts).
 - [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) [76★] - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu).
 - [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) [99★] - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/).
-- [Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation) [161★] - Smooth animation from login to home by [Ruchika Gupta](https://github.com/geekruchika).
+- [Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation) [162★] - Smooth animation from login to home by [Ruchika Gupta](https://github.com/geekruchika).
 - [List Drag&Drop](https://github.com/Norbert515/flutter_list_drag_and_drop) [70★] - Reorder list elements using Drag & Drop by [Norbert515](https://github.com/Norbert515).
 - [Calendar Widget](https://github.com/pinkfish/flutter_calendar) [16★] - Calendar widget by [David Bennett](https://github.com/pinkfish).
 - [Side Header List](https://github.com/renefloor/side_header_list_view) [55★] - Listview with sticky headers by [Rene Floor](https://github.com/renefloor).
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) [96★] - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn).
 - [Flip Panel](https://github.com/hnvn/flutter_flip_panel) [51★] - Flip panel with built-in animation by [HungHD](https://github.com/hnvn).
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) [31★] - Facebook reactions widget by [Duy Tran](https://github.com/duytq94).
-- [Slidable](https://github.com/letsar/flutter_slidable) [5★] - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar).
+- [Slidable](https://github.com/letsar/flutter_slidable) [12★] - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar).
 
 #### Material Design
 
@@ -136,7 +136,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) [58★] - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy).
 - [Photo View](https://github.com/renancaraujo/photo_view) [54★] - Scalable image view with loading placeholder by [Renan C. Araújo](https://github.com/renancaraujo).
 - [SVG](https://github.com/dnfield/flutter_svg) [94★] - SVG parsing, rendering, and widget library by [Dan Field](https://github.com/dnfield).
-- [Image Cropper](https://github.com/hnvn/flutter_image_cropper) [59★] - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn).
+- [Image Cropper](https://github.com/hnvn/flutter_image_cropper) [60★] - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn).
 - [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) [85★] - Show images from the internet and keep them in the cache directory by.
 
 ### Map
@@ -158,7 +158,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 ### Navigation
 
-- [Fluro](https://github.com/goposse/fluro) [344★] - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com).
+- [Fluro](https://github.com/goposse/fluro) [346★] - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com).
 - [Circle Indicator](https://github.com/long1eu/circle_indicator) [28★] - Circle indicator for the PageViewer by [Lung Razvan](https://github.com/long1eu).
 - [Quick Actions](https://github.com/flutter/plugins/tree/master/packages/quick_actions) - Interact with the application's home screen quick actions.
 - [Swiper](https://github.com/jzoom/flutter_swiper) [28★] - Horizontal, Vertical, Partial swipe with indicator by [Xueliang Ren](https://github.com/jzoom).
@@ -180,7 +180,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Markdown](https://github.com/flutter/flutter_markdown) [78★] - Markdown renderer for Flutter. It supports the original format, but no inline html.
 - [Rich Text Editor](https://github.com/long1eu/rich_editor) [45★] - Text editor with style by [Lung Razvan](https://github.com/long1eu).
 - [Masked Text](https://github.com/benhurott/flutter-masked-text) [12★] - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott).
-- [Zefyr](https://github.com/memspace/zefyr) [107★] - Soft and gentle rich text editing by [Memspace](https://github.com/memspace/zefyr).
+- [Zefyr](https://github.com/memspace/zefyr) [106★] - Soft and gentle rich text editing by [Memspace](https://github.com/memspace/zefyr).
 
 ### Analytics
 
@@ -238,15 +238,15 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Movie Details](https://github.com/FlutterRocks/movie-details-ui) [111★] - Movie details page by [Iiro Krankka](https://github.com/roughike).
 - [Mates](https://github.com/CodemateLtd/FlutterMates) [179★] - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike).
 - [Weather](https://github.com/alessandroaime/Weather) [57★] - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime).
-- [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) [802★] - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan).
+- [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) [804★] - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan).
 - [Restaurant Menu](https://github.com/braulio94/menu_flutter) [237★] - Restaurant menu by [Braulio Cassule](https://github.com/braulio94).
 - [UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges) [277★] - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe).
 - [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) [20★] - iOS Settings by [Matthias Rupp](https://github.com/matthinc).
 - [Music Player](https://github.com/thosakwe/flutter_music_player) [67★] - music player component by [Tobe O](https://thosakwe.com/).
 - [Dashboard](https://github.com/Ivaskuu/dashboard) [171★] - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu).
-- [Todo](https://github.com/littlemarc2011/FlutterTodo) [117★] - Todo template from Dribble by [Marc L](https://www.marc-little.com/).
-- [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) [63★] - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika).
-- [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) [741★] - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan).
+- [Todo](https://github.com/littlemarc2011/FlutterTodo) [118★] - Todo template from Dribble by [Marc L](https://www.marc-little.com/).
+- [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) [64★] - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika).
+- [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) [743★] - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan).
 - [Book](https://github.com/putraxor/flutter-book-app) [40★] - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor).
 
 ## Plugins
@@ -278,7 +278,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 ### Bluetooth / NFC / Beacon
 
-- [Ble](https://github.com/Polidea/FlutterBleLib) [53★] - Bluetooth by [Polidea](http://www.polidea.com).
+- [Ble](https://github.com/Polidea/FlutterBleLib) [54★] - Bluetooth by [Polidea](http://www.polidea.com).
 - [Blue](https://github.com/pauldemarco/flutter_blue) [172★] - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco).
 - [NFC](https://github.com/guyulmaz/flutter-nfc-app) [12★] - Connect IsoDep iso 14443-4 cards for android by [Göksel Uyulmaz](https://github.com/guyulmaz).
 - [Beacons](https://github.com/loup-v/beacons) [6★] - Flutter beacons plugin by [Loup](http://intheloup.io).
@@ -288,7 +288,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 ### Redux / ELM / Dependency Injection
 
 - [Built redux](https://github.com/davidmarne/flutter_built_redux) [42★] - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne).
-- [Redux.dart](https://github.com/johnpryan/redux.dart) [136★] - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects).
+- [Redux.dart](https://github.com/johnpryan/redux.dart) [135★] - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects).
 - [Redux](https://github.com/brianegan/flutter_redux) [244★] - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets.
 - [Dartea](https://github.com/p69/dartea) [10★] - Model View Update inspired by TEA from ELM by [Shilyagov P](https://github.com/p69).
 - [Inject](https://github.com/google/inject.dart) [203★] - Compile-time dependency injection for Dart and Flutter by Google.
@@ -298,7 +298,8 @@ Also 👍| ⭐| 👏 links to support their authors !
 ### Animation
 
 - [Sequence Animation](https://github.com/Norbert515/flutter_sequence_animation) [43★] - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir).
-- [SpinKit](https://github.com/jogboms/flutter_spinkit) [187★] - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+- [SpinKit](https://github.com/jogboms/flutter_spinkit) [188★] - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+- [Villains](https://github.com/Norbert515/flutter_villains) [36★] - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir).
 
 ### Game
 
@@ -318,11 +319,11 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Planets](https://github.com/sergiandreplace/flutter_planets_tutorial) [185★] - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com).
 - [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) [198★] - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
 - [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) [264★] - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar).
-- [Music Player](https://github.com/iampawan/Flutter-Music-Player) [229★] - Full featured music player by [Pawan Kumar](https://about.me/imthepk).
-- [InKino](https://github.com/roughike/inKino) [933★] - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike).
+- [Music Player](https://github.com/iampawan/Flutter-Music-Player) [230★] - Full featured music player by [Pawan Kumar](https://about.me/imthepk).
+- [InKino](https://github.com/roughike/inKino) [934★] - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike).
 - [WhatTodo](https://github.com/burhanrashid52/WhatTodo) [132★] - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
 - [FlutterGram](https://github.com/mdanics/fluttergram) [131★] - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
-- [BookSearch](https://github.com/Norbert515/BookSearch) [128★] - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
+- [BookSearch](https://github.com/Norbert515/BookSearch) [129★] - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
 - [Cinematic](https://github.com/aaronoe/FlutterCinematic) [201★] - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
 - [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) [115★] - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor).
 
@@ -332,7 +333,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 ## Utilities
 
-- [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) [747★] - Desktop implementations of the Flutter embedding API by Google.
+- [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) [750★] - Desktop implementations of the Flutter embedding API by Google.
 - [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya).
 - [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva).
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) [43★] - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren).

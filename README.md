@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
-    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-3914-orange.svg" />
+    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-3915-orange.svg" />
   </a>
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-5774-brightgreen.svg" />
+    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-5777-brightgreen.svg" />
   </a>
-  <img alt="Entries" src="https://img.shields.io/badge/Items-182-lightgrey.svg" />
+  <img alt="Entries" src="https://img.shields.io/badge/Items-183-lightgrey.svg" />
 </p>
 
 Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
@@ -65,7 +65,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 - [Zero to One Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) [750👏] - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn).
 - [Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957) - App powered by Google Cloud Functions by [Romin Irani](https://rominirani.com/@iromin).
-- [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) [351👍] - Firebase live coding.
+- [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) [352👍] - Firebase live coding.
 - [Securing Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) [237👏] - By Mehmet Fidanboylu.
 - [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) [347👏] - How to make a custom plug-in by [Karthik Ponnam](https://medium.com/@KarthikPonnam).
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) [448👏] - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo).
@@ -78,6 +78,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Flutter Institute](https://flutter.institute/) - Very original content and tutorials by [Brian Armstrong](https://twitter.com/flutterinst).
 - [Flutter Rocks](https://flutter.rocks/) - Blog about the joys of Flutter by [Iiro Krankka](https://twitter.com/koorankka).
 - [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515).
+- [Welcome to Flutter](https://didierboelens.com) - English and French blog dedicated to providing practical solutions to most asked questions about Flutter, by [Didier Boelens].
 
 ### Advanced
 
@@ -121,7 +122,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) [96★] - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn).
 - [Flip Panel](https://github.com/hnvn/flutter_flip_panel) [51★] - Flip panel with built-in animation by [HungHD](https://github.com/hnvn).
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) [31★] - Facebook reactions widget by [Duy Tran](https://github.com/duytq94).
-- [Slidable](https://github.com/letsar/flutter_slidable) [12★] - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar).
+- [Slidable](https://github.com/letsar/flutter_slidable) [16★] - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar).
 
 #### Material Design
 
@@ -143,7 +144,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 - [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) [213★] - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/).
 - [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) [18★] - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com).
-- [Map](https://github.com/apptreesoftware/flutter_map) [179★] - Solution based on [Leaflet](http://leafletjs.com/) and customizable by [AppTree Software](https://github.com/apptreesoftware).
+- [Map](https://github.com/apptreesoftware/flutter_map) [180★] - Solution based on [Leaflet](http://leafletjs.com/) and customizable by [AppTree Software](https://github.com/apptreesoftware).
 - [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) [91★] - Interactive, customizable vector maps by Mapbox.
 
 #### Charts
@@ -253,18 +254,18 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 - [Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins.
 - [Sqflite](https://github.com/tekartik/sqflite) [299★] - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/).
-- [WebView](https://github.com/dart-flitter/flutter_webview_plugin) [201★] - by [Hadrien Lejard](https://twitter.com/HadrienLejard).
+- [WebView](https://github.com/dart-flitter/flutter_webview_plugin) [202★] - by [Hadrien Lejard](https://twitter.com/HadrienLejard).
 - [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Plugins filter in Dart Pub Repository.
 - [Location](https://github.com/Lyokone/flutterlocation) [87★] - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone).
 - [Battery](https://pub.dartlang.org/packages/battery) - Access various information about the battery.
 - [Proximity Sensor Plugin](https://pub.dartlang.org/packages/proximity_plugin) - A plugin to access the proximity sensor of your device by [Manoj NB](https://github.com/Samaritan1011001).
 - [Geolocation](https://github.com/loup-v/geolocation) [84★] - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io).
-- [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) [89★] - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB).
+- [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) [90★] - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB).
 - [Google Mobile Vision](https://github.com/edufolly/flutter_mobile_vision) [69★] - Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly).
 - [App Rating](https://github.com/AppleEducate/app_review) [25★] - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com).
 - [Get Version](https://github.com/AppleEducate/get_version) [15★] - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com).
 - [Downloader](https://github.com/hnvn/flutter_downloader) [37★] - Create and manage download tasks by [HungHD](https://github.com/hnvn).
-- [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) [12★] - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish).
+- [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) [13★] - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish).
   [Rene Floor](https://github.com/renefloor)
 - [Device Calendar](https://github.com/builttoroam/flutter_plugins/tree/develop/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com).
 - [Android Job Scheduler](https://github.com/talkdirty/android_job_scheduler) ![android](https://user-images.githubusercontent.com/1295961/41648590-9ed8c5cc-7479-11e8-8248-3820589d8ab9.png) [12★] - Directly manage android system schedules by [Georg Grab](https://github.com/talkdirty).
@@ -324,7 +325,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [WhatTodo](https://github.com/burhanrashid52/WhatTodo) [132★] - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
 - [FlutterGram](https://github.com/mdanics/fluttergram) [131★] - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
 - [BookSearch](https://github.com/Norbert515/BookSearch) [129★] - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
-- [Cinematic](https://github.com/aaronoe/FlutterCinematic) [201★] - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
+- [Cinematic](https://github.com/aaronoe/FlutterCinematic) [202★] - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
 - [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) [115★] - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor).
 
 ### Games

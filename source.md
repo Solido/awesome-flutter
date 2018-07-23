@@ -255,7 +255,6 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 - [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Plugins filter in Dart Pub Repository.
 - [Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins
-
 - [Sqflite](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
 - [WebView](https://github.com/dart-flitter/flutter_webview_plugin) <!--stargazers:dart-flitter/flutter_webview_plugin--> - by [Hadrien Lejard](https://twitter.com/HadrienLejard)
 - [Location](https://github.com/Lyokone/flutterlocation) <!--stargazers:Lyokone/flutterlocation--> - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone)

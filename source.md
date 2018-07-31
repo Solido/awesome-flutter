@@ -127,6 +127,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Swipe Detector](https://github.com/gurleensethi/swipedetector) <!--stargazers:gurleensethi/swipedetector--> - Swipe Detector by [Gurleen Sethi](https://github.com/gurleensethi)
 - [Slidable](https://github.com/letsar/flutter_slidable) <!--stargazers:letsar/flutter_slidable--> - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar)
 - [Flushbar](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
+- [RangeSlider](https://github.com/boeledi/RangeSlider) <!--stargazers:boeledi/RangeSlider--> - 2-thumb RangeSlider by [Didier Boelens](https://www.didierboelens.com)
 
 #### Material Design
 

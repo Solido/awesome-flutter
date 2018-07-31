@@ -126,7 +126,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
 - [Swipe Detector](https://github.com/gurleensethi/swipedetector) <!--stargazers:gurleensethi/swipedetector--> - Swipe Detector by [Gurleen Sethi](https://github.com/gurleensethi)
 - [Slidable](https://github.com/letsar/flutter_slidable) <!--stargazers:letsar/flutter_slidable--> - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar)
-- [Flushbar](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - A super flexible brother of Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
+- [Flushbar](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
 
 #### Material Design
 

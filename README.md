@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
-    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-4181-orange.svg" />
+    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-4183-orange.svg" />
   </a>
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-6203-brightgreen.svg" />
+    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-6208-brightgreen.svg" />
   </a>
   <img alt="Entries" src="https://img.shields.io/badge/Items-185-lightgrey.svg" />
   <a href="https://github.com/sindresorhus/awesome">
@@ -105,7 +105,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 - [Official Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo for the material design widgets provided by Flutter Team.
 - [Posse Gallery](https://github.com/flutter/posse_gallery) [142★] - Advanced demonstration by [Posse](http://goposse.com).
-- [Flutter Examples](https://github.com/nisrulz/flutter-examples) [917★] - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz).
+- [Flutter Examples](https://github.com/nisrulz/flutter-examples) [918★] - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz).
 
 ### UI
 
@@ -124,19 +124,19 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) [103★] - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn).
 - [Flip Panel](https://github.com/hnvn/flutter_flip_panel) [54★] - Flip panel with built-in animation by [HungHD](https://github.com/hnvn).
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) [31★] - Facebook reactions widget by [Duy Tran](https://github.com/duytq94).
-- [Swipe Detector](https://github.com/gurleensethi/swipedetector) [2★] - Swipe Detector by [Gurleen Sethi](https://github.com/gurleensethi).
-- [Slidable](https://github.com/letsar/flutter_slidable) [107★] - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar).
 - [Flushbar](https://github.com/AndreHaueisen/flushbar) [19★] - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen).
 
 #### Material Design
 
 - [Material Color Picker](https://github.com/long1eu/material_color_picker) [25★] - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu).
 - [Unicorn Speed Dial](https://github.com/tiagojencmartins/unicornspeeddial) [37★] - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins).
+- [Slidable](https://github.com/letsar/flutter_slidable) [108★] - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar).
+- [RangeSlider](https://github.com/boeledi/RangeSlider) [7★] - 2-thumb configurable RangeSlider by [Didier Boelens](https://www.didierboelens.com).
 
 ### Image
 
 - [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com).
-- [Zoomable Image](https://github.com/perlatus/flutter_zoomable_image) [53★] - By Perlatus.
+- [Zoomable Image](https://github.com/perlatus/flutter_zoomable_image) [54★] - By Perlatus.
 - [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) [56★] - Carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014).
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) [61★] - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy).
 - [Photo View](https://github.com/renancaraujo/photo_view) [61★] - Scalable image view with loading placeholder by [Renan C. Araújo](https://github.com/renancaraujo).
@@ -148,7 +148,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 - [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) [223★] - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/).
 - [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) [18★] - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com).
-- [Map](https://github.com/apptreesoftware/flutter_map) [183★] - Solution based on [Leaflet](http://leafletjs.com/) and customizable by [AppTree Software](https://github.com/apptreesoftware).
+- [Map](https://github.com/apptreesoftware/flutter_map) [184★] - Solution based on [Leaflet](http://leafletjs.com/) and customizable by [AppTree Software](https://github.com/apptreesoftware).
 - [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) [97★] - Interactive, customizable vector maps by Mapbox.
 
 #### Charts

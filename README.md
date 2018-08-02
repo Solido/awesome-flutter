@@ -125,6 +125,8 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Flip Panel](https://github.com/hnvn/flutter_flip_panel) [54★] - Flip panel with built-in animation by [HungHD](https://github.com/hnvn).
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) [31★] - Facebook reactions widget by [Duy Tran](https://github.com/duytq94).
 - [Flushbar](https://github.com/AndreHaueisen/flushbar) [19★] - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen).
+- [Badges](https://github.com/yadaniil/flutter_badges) [2★] - Badges with animation by [Daniyil Yakovlev](https://github.com/yadaniil).
+
 
 #### Material Design
 

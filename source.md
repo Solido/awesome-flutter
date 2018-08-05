@@ -59,7 +59,6 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 ### Tutorial
 
-- [Coding an Android App](https://code.tutsplus.com/tutorials/developing-an-android-app-with-flutter--cms-28270) - Setup and first app by [Ashraff Hathibelagal](https://github.com/hathibelagal)
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs by Google Code Labs
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase integration by Google Code Labs
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Detailed planets design tutorial
@@ -89,6 +88,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Render Objects](https://medium.com/flutter-community/flutter-what-are-widgets-renderobjects-and-elements-630a57d05208) <!--claps:flutter-community/flutter-what-are-widgets-renderobjects-and-elements-630a57d05208--> - What are Widgets, RenderObjects and Elements? by [Norbert515](https://github.com/Norbert515)
 - [Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) - Skillmatters presentation by [Brian Egan](https://github.com/brianegan)
 - [Gesture System](https://medium.com/flutter-community/flutter-deep-dive-gestures-c16203b3434f) <!--claps:flutter-community/flutter-deep-dive-gestures-c16203b3434f--> - Flutter Deep Dive: Gestures by [Nash](https://nash0x7e2.github.io/)
+- [Schemas](https://www.didierboelens.com/2018/06/widget---state---context---inheritedwidget/) - Widget, State, Context and InheritedWidget explanations by [Didier Boelens](https://didierboelens.com)
 
 ## Videos
 

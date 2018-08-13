@@ -337,6 +337,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Cinematic](https://github.com/aaronoe/FlutterCinematic) [221★] - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
 - [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) [120★] - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor).
 - [Trace](https://github.com/trentpiercy/trace) [44★] - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy).
+- [Piggy Bank](https://github.com/anuranBarman/Piggy-Bank-With-Flutter) - A simple digital piggy bank app [Anuran Barman](https://github.com/anuranBarman).
 
 ### Games
 

@@ -274,7 +274,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Device Calendar](https://github.com/builttoroam/flutter_plugins/tree/develop/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com)
 - [Android Job Scheduler](https://github.com/talkdirty/android_job_scheduler) ![android](https://user-images.githubusercontent.com/1295961/41648590-9ed8c5cc-7479-11e8-8248-3820589d8ab9.png) <!--stargazers:talkdirty/android_job_scheduler--> - Directly manage android system schedules by [Georg Grab](https://github.com/talkdirty)
 - [Badger](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
-- [UDID](https://github.com/GigaDroid/flutter_udid) <!--stargazers:GigaDroid/flutter_udid--> -  Get a persistent UDID accross app reinstalls on iOS and Android by [Leon Kukuk](https://kukuk.me)
+- [UDID](https://github.com/GigaDroid/flutter_udid) <!--stargazers:GigaDroid/flutter_udid--> -  Get a persistent UDID across app reinstalls on iOS and Android by [Leon Kukuk](https://kukuk.me)
 
 ### Services
 

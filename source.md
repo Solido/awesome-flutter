@@ -337,6 +337,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Cinematic](https://github.com/aaronoe/FlutterCinematic) <!--stargazers:aaronoe/FlutterCinematic--> - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe)
 - [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) <!--stargazers:benoitletondor/Beer-Me-Up--> - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor)
 - [Trace](https://github.com/trentpiercy/trace) <!--stargazers:trentpiercy/trace--> - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy)
+- [CryptocurrencyManiac](https://github.com/anuranBarman/CryptocurrencyApp) Cryptocurrency App wih historical chart and News [Anuran Barman](https://github.com/anuranBarman)
 
 ### Games
 

@@ -216,6 +216,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Audio Plugin](https://github.com/rxlabz/audioplayer) <!--stargazers:rxlabz/audioplayer--> - Beta by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Audio Recorder](https://github.com/ZaraclaJ/audio_recorder) <!--stargazers:ZaraclaJ/audio_recorder--> - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz)
 - [Stereo](https://github.com/2find/stereo) <!--stargazers:2find/stereo--> - Playing music on iOS and Android by [2Find](https://github.com/2find)
+- [Flutter Sound](https://github.com/dooboolab/flutter_sound) <!--stargazers:dooboolab/flutter_sound--> - Flutter audio recorder and player at one hand by [dooboolab](https://github.com/dooboolab)
 
 #### Video
 

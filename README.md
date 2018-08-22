@@ -89,6 +89,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) - Skillmatters presentation by [Brian Egan](https://github.com/brianegan).
 - [Gesture System](https://medium.com/flutter-community/flutter-deep-dive-gestures-c16203b3434f) [321👏] - Flutter Deep Dive: Gestures by [Nash](https://nash0x7e2.github.io/).
 - [Schemas](https://www.didierboelens.com/2018/06/widget---state---context---inheritedwidget/) - Widget, State, Context and InheritedWidget explanations by [Didier Boelens](https://didierboelens.com).
+- [Stream/Block](https://www.didierboelens.com/2018/08/reactive-programming---streams---bloc/) - Reactive Programming : Streams/BLoC by [Didier Boelens](https://didierboelens.com).
 
 ## Videos
 

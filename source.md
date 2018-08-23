@@ -161,6 +161,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Flutter Plot](https://github.com/RCHowell/flutter_plot) <!--stargazers:RCHowell/flutter_plot--> - Pretty plots by [R. C. Howell](https://github.com/RCHowell/)
 - [Candlesticks](https://github.com/trentpiercy/flutter-candlesticks) <!--stargazers:trentpiercy/flutter-candlesticks--> - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy)
 - [FCharts](https://github.com/thekeenant/fcharts) <!--stargazers:thekeenant/fcharts--> - Beautiful, responsive, animated charts by [Keenan Thompson](https://keenant.com)
+- [modern_charts](https://github.com/jolleekin/modern_charts) <!--stargazers:jolleekin/modern_charts--> - A package for creating simple yet modern looking charts by [Man Hoang](https://github.com/jolleekin)
 
 ### Navigation
 

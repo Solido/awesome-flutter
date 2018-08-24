@@ -7,7 +7,7 @@
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
     <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-7313-brightgreen.svg" />
   </a>
-  <img alt="Entries" src="https://img.shields.io/badge/Items-193-lightgrey.svg" />
+  <img alt="Entries" src="https://img.shields.io/badge/Items-192-lightgrey.svg" />
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   </a>
@@ -205,8 +205,6 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 - [Flutterial](https://github.com/rxlabz/flutterial) [62★] - Flutter Material Theme explorer by [Erick Ghaumez](https://twitter.com/rxlabz).
 - [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) - Render effect by [Collin Jackson](http://www.collinjackson.com).
-- [Font Awesome](https://pub.dartlang.org/packages/font_awesome_flutter) - Font Awesome icons repack by [Brian Egan](https://github.com/brianegan).
-- [FlutterIcon](http://fluttericon.com/) - Icon font generator.
 - [Pigment](https://github.com/bregydoc/pigment) [32★] - Simple but useful package for use colors in flutter.
 
 ### Media
@@ -350,6 +348,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya).
 - [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva).
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) [65★] - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren).
+- [FlutterIcon](http://fluttericon.com/) [32★] - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots).
 
 ## Community
 

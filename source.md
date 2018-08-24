@@ -337,6 +337,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Cinematic](https://github.com/aaronoe/FlutterCinematic) <!--stargazers:aaronoe/FlutterCinematic--> - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe)
 - [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) <!--stargazers:benoitletondor/Beer-Me-Up--> - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor)
 - [Trace](https://github.com/trentpiercy/trace) <!--stargazers:trentpiercy/trace--> - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy)
+- [Flutter Environments](https://github.com/ROTGP/flutter_environments) <!--stargazers:ROTGP/flutter_environments--> - Sample app demonstrating customizable non-invasive environments by [ROTGP](https://github.com/ROTGP)
 
 ### Games
 

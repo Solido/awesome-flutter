@@ -351,6 +351,11 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) <!--stargazers:hillelcoren/flutter-redux-starter--> - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren)
 
+## Community
+
+ - [r/FlutterDev Subreddit](https://www.reddit.com/r/FlutterDev/) - Reddit community to talk about Flutter by [u/JaapVermeulen](https://www.reddit.com/user/JaapVermeulen)
+ - [Flutter Dev Discord](https://discord.gg/N7Yshp4) - Discord server to discuss and get help with Flutter by [Pritykin](https://twitter.com/AndrewPritykin)
+
 ## Bonus
 
 - [It's All Widgets!](https://itsallwidgets.com) - Open list of published apps by [Hillel Coren](https://twitter.com/hillelcoren), [Thomas Burkhart](https://twitter.com/ThomasBurkhartB), [Simon Lightfoot](https://twitter.com/devangelslondon) and [Scott Stoll](https://twitter.com/scottstoll2017)

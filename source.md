@@ -353,8 +353,9 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 ## Community
 
- - [r/FlutterDev Subreddit](https://www.reddit.com/r/FlutterDev/) - Reddit community to talk about Flutter by [u/JaapVermeulen](https://www.reddit.com/user/JaapVermeulen)
- - [Flutter Dev Discord](https://discord.gg/N7Yshp4) - Discord server to discuss and get help with Flutter by [Pritykin](https://twitter.com/AndrewPritykin)
+- [Gitter](https://gitter.im/flutter/flutter) - Exchange channel   
+- [r/FlutterDev Subreddit](https://www.reddit.com/r/FlutterDev/) - Reddit community by [u/JaapVermeulen](https://www.reddit.com/user/JaapVermeulen)
+- [Dev Discord](https://discord.gg/N7Yshp4) - Discord server to discuss and get help by [Pritykin](https://twitter.com/AndrewPritykin)
 
 ## Bonus
 

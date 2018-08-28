@@ -107,6 +107,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Official Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo for the material design widgets provided by Flutter Team.
 - [Posse Gallery](https://github.com/flutter/posse_gallery) [157★] - Advanced demonstration by [Posse](http://goposse.com).
 - [Flutter Examples](https://github.com/nisrulz/flutter-examples) [1031★] - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz).
+- [Gradient Screens](https://github.com/bluemix/Gradient-Screens) [25★] - 🌈 Gradients applied to buttons, texts and backgrounds by [blueMix](https://github.com/bluemix).
 
 ### UI
 

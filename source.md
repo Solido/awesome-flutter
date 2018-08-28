@@ -126,6 +126,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Flip Panel](https://github.com/hnvn/flutter_flip_panel) <!--stargazers:hnvn/flutter_flip_panel--> - Flip panel with built-in animation by [HungHD](https://github.com/hnvn)
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
 - [Flushbar](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
+- [Wave Progress](https://github.com/studioidan/wave_progress) <!--stargazers:studioidan/wave_progress--> - Wave progress indicator by [Idan Ben Shimon](https://github.com/studioidan)
 
 #### Material Design
 

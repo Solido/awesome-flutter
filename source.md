@@ -166,7 +166,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 ### Navigation
 
 - [Fluro](https://github.com/goposse/fluro) <!--stargazers:goposse/fluro--> - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
-- [Circle Indicator](https://github.com/long1eu/circle_indicator) <!--stargazers:long1eu/circle_indicator--> - Circle indicator for the PageViewer by [Lung Razvan](https://github.com/long1eu)
+- [PageView Indicator](https://github.com/leocavalcante/page_view_indicator) <!--stargazers:leocavalcante/page_view_indicator--> - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante)
 - [Quick Actions](https://github.com/flutter/plugins/tree/master/packages/quick_actions) - Interact with the application's home screen quick actions
 - [Swiper](https://github.com/jzoom/flutter_swiper) <!--stargazers:long1eu/circle_indicator--> - Horizontal, Vertical, Partial swipe with indicator by [Xueliang Ren](https://github.com/jzoom)
 

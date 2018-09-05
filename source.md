@@ -286,6 +286,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 - [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
 - [Zebra EMDK](https://github.com/acaliaro/flutterZebraEmdk) <!--stargazers:acaliaro/flutterZebraEmdk--> - Use Zebra EMDK to access Barcode Scanner API
+- [Fast QR Reader View](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - A fast multi code reader widget, for both Android and iOS by [Facundo Medica](https://github.com/facundomedica)
 
 ### Bluetooth / NFC / Beacon
 

@@ -274,6 +274,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Android Job Scheduler](https://github.com/talkdirty/android_job_scheduler) ![android](https://user-images.githubusercontent.com/1295961/41648590-9ed8c5cc-7479-11e8-8248-3820589d8ab9.png) [14★] - Directly manage android system schedules by [Georg Grab](https://github.com/talkdirty).
 - [Badger](https://github.com/g123k/flutter_app_badger) [33★] - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k).
 - [UDID](https://github.com/GigaDroid/flutter_udid) [18★] - Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me).
+- [AppAvailability](https://github.com/pichillilorenzo/flutter_appavailability) - Check if an app is installed/enabled, launch an app and get the list of installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo).
 
 ### Services
 

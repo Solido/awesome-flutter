@@ -279,6 +279,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Android Job Scheduler](https://github.com/talkdirty/android_job_scheduler) ![android](https://user-images.githubusercontent.com/1295961/41648590-9ed8c5cc-7479-11e8-8248-3820589d8ab9.png) [15★] - Directly manage android system schedules by [Georg Grab](https://github.com/talkdirty).
 - [Badger](https://github.com/g123k/flutter_app_badger) [35★] - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k).
 - [UDID](https://github.com/GigaDroid/flutter_udid) [18★] - Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me).
+- [InAppBrowser](https://github.com/pichillilorenzo/flutter_inappbrowser) - Flutter plugin that allows you to open an in-app browser window (porting of the popular cordova-plugin-inappbrowser) by [Lorenzo Pichilli](https://github.com/pichillilorenzo).
 
 ### Services
 

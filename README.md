@@ -152,7 +152,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Map](https://github.com/apptreesoftware/flutter_map) [222★] - Solution based on [Leaflet](http://leafletjs.com/) and customizable by [AppTree Software](https://github.com/apptreesoftware).
 - [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) [117★] - Interactive, customizable vector maps by Mapbox.
 
-#### Charts
+### Charts
 
 - [Circular Chart](https://github.com/xqwzts/flutter_circular_chart) [113★] - Animated radial and pie charts by [Victor Choueiri](https://github.com/xqwzts).
 - [Charts](https://github.com/mzimmerm/flutter_charts) [83★] - LineChart and VerticalBarChart Library by [Milan Zimmermann](https://github.com/mzimmerm).

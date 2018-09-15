@@ -344,6 +344,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 ### Games
 
 - [Flip](https://github.com/RedBrogdon/flutterflip) <!--stargazers:RedBrogdon/flutterflip--> - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon)
+- [2048](https://github.com/anuranBarman/2048) <!--stargazers:anuranBarman/2048--> - 2048 game by [Anuran Barman](https://github.com/anuranBarman)
 
 ## Utilities
 

@@ -280,7 +280,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Badger](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
 - [UDID](https://github.com/GigaDroid/flutter_udid) <!--stargazers:GigaDroid/flutter_udid--> -  Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
 - [AppAvailability](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
-- [InAppBrowser](https://github.com/pichillilorenzo/flutter_inappbrowser) <!--stargazers:pichillilorenzo/flutter_inappbrowser--> - Open an in-app browser window (porting of the popular cordova-plugin-inappbrowser) by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+- [InAppBrowser](https://github.com/pichillilorenzo/flutter_inappbrowser) <!--stargazers:pichillilorenzo/flutter_inappbrowser--> - Open an in-app browser window (porting of cordova inappbrowser) by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ### Services
 

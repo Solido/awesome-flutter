@@ -13,7 +13,7 @@
   </a>
 </p>
 
-Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
+<a href="https://flutter.io/">Flutter</a> is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
 
 If you appreciate the content 📖<br>
 Support project visibility, give a ⭐<br>

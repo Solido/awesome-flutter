@@ -287,6 +287,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Google Mobile Vision](https://github.com/edufolly/flutter_mobile_vision) <!--stargazers:edufolly/flutter_mobile_vision--> - Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly)
 - [Dialogflow](https://github.com/VictorRancesCode/flutter_dialogflow) <!--stargazers:VictorRancesCode/flutter_dialogflow--> - Plugin to easily integrate with dialogflow by [Victor Rances](https://github.com/VictorRancesCode/)
 - [Intercom](https://pub.dartlang.org/packages/intercom) <!--stargazers:ChangeFinance/intercom_flutter--> - Add Intercom integration to your app by [Maido Kaara](https://github.com/v3rm0n)
+- [MLKit](https://github.com/azihsoyn/flutter_mlkit) <!--stargazers:azihsoyn/flutter_mlkit--> - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn)
 
 ### Scanner
 

@@ -1,4 +1,4 @@
-[<img src="https://user-images.githubusercontent.com/1295961/45710532-275a2b80-bb87-11e8-9a98-0725c42c4835.png" align="center" width="850">](http://flutter.io)
+[<img src="https://user-images.githubusercontent.com/1295961/45949308-cbb2f680-bffb-11e8-8054-28c35ed6d132.png" align="center" width="850">](http://flutter.io)
 
 <p align="center">
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">

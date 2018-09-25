@@ -379,7 +379,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 ## Books
 
-- [Flutter in Action](https://www.manning.com/books/flutter-in-action) - Complete Flutter and Dart resource, currently in 'Early Access'. (42% off with code 'slwindmill').
+- [Flutter in Action](https://www.manning.com/books/flutter-in-action?a_aid=flutterinaction&a_bid=d08c3247) - Complete Flutter and Dart resource, currently in 'Early Access'. (42% off with code 'slwindmill').
 
 ## License
 

@@ -49,6 +49,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Utilities](#utilities)
 - [Books](#books)
 - [Bonus](#bonus)
+- [Books](#books)
 
 ## Articles
 
@@ -379,6 +380,10 @@ Also 👍| ⭐| 👏 links to support their authors !
 ### Fun
 
 - [The One](https://www.youtube.com/watch?v=sIIgtClYq0s) [137👍]
+
+## Books
+
+- [Flutter in Action](https://www.manning.com/books/flutter-in-action?a_aid=flutterinaction&a_bid=d08c3247) - Complete Flutter and Dart resource, currently in 'Early Access'. (42% off with code 'slwindmill').
 
 ## License
 

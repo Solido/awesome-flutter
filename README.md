@@ -260,6 +260,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) [1113★] - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan).
 - [Book](https://github.com/putraxor/flutter-book-app) [62★] - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor).
 - [The Gorgeous Login](https://github.com/huextrat/TheGorgeousLogin) [201★] - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat).
+- [Payment App](https://github.com/longhoang2984/flutter_payment_app_ui) - Payment, Cards Managements by [Long Hoang](https://github.com/longhoang2984) 
 
 ## Plugins
 

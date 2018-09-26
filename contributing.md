@@ -4,6 +4,7 @@ Please note that this project is released with a [Contributor Code of Conduct](h
 
 - Use a meaningful name to your commit or I'll close it instantly
 - Do not commit on README, use SOURCE.md !
+- Flutter is all about UI, use screenshots and animated media for your widget
 
 Ensure your pull request adheres to the following guidelines:
 

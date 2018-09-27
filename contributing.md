@@ -6,6 +6,13 @@ Please note that this project is released with a [Contributor Code of Conduct](h
 - Do not commit on README, use SOURCE.md !
 - Flutter is all about UI, use screenshots and animated media for your widget
 
+When your contribution is accepted you can add the Awesome Flutter Badge to your repository
+thus signaling the quality of your work and linking to others authors Awesome projets
+
+ <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
+  <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
+ </a>
+
 Ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.

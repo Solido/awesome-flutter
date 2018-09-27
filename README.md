@@ -143,6 +143,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 - [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com).
 - [Zoomable Image](https://github.com/perlatus/flutter_zoomable_image) [65★] - By Perlatus.
+- [Pinch Zoom Image](https://github.com/YoussefKababe/pinch_zoom_image) - A widget that makes picture pinch zoom, Instagram style! By [Youssef Kababe](https://github.com/YoussefKababe)
 - [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) [82★] - Carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014).
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) [73★] - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy).
 - [Photo View](https://github.com/renancaraujo/photo_view) [116★] - Scalable image view with loading placeholder by [Renan C. Araújo](https://github.com/renancaraujo).

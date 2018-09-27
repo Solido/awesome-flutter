@@ -260,6 +260,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) <!--stargazers:iampawan/Flutter-UI-Kit--> - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan)
 - [Book](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
 - [The Gorgeous Login](https://github.com/huextrat/TheGorgeousLogin) <!--stargazers:huextrat/TheGorgeousLogin--> - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat)
+- [Liquid Pay Payment App](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Flutter Liquid Pay Payment App Concept by [Long Hoang](https://github.com/longhoang2984)
 
 ## Plugins
 

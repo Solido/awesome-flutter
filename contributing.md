@@ -5,6 +5,7 @@ Please note that this project is released with a [Contributor Code of Conduct](h
 - Use a meaningful name to your commit or I'll close it instantly
 - Do not commit on README, use SOURCE.md !
 - Flutter is all about UI, use screenshots and animated media for your widget
+- Paid solutions will be added if they offer free plan for open source or limited features for personnal devs but not limited in time. Fair is fair.
 
 When your contribution is accepted you can add the Awesome Flutter Badge to your repository
 thus signaling the quality of your work and linking to others authors Awesome projets

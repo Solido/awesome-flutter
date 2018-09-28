@@ -206,7 +206,6 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Test on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) [353👏] - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov).
 - [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) [202👏] - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov).
 - [BitRise](https://medium.com/@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2) [57👏] - Create Bitrise Step in Go by [Karol Wrótniak](https://medium.com/@karol.wrotniak).
-- [Nevercode CI for Flutter Apps](https://nevercode.io/blog/continuous-integration-and-delivery-ci-cd-for-flutter-apps-with-nevercode/) - Nevercode CI/CD out-of-the-box Flutter integration by [Shashikant Jagtap](https://github.com/Shashikant86)
 
 ### Styling
 

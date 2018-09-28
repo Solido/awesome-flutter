@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
-    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-5858-orange.svg" />
+    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-5859-orange.svg" />
   </a>
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
     <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-8824-brightgreen.svg" />
   </a>
-  <img alt="Entries" src="https://img.shields.io/badge/Items-202-lightgrey.svg" />
+  <img alt="Entries" src="https://img.shields.io/badge/Items-203-lightgrey.svg" />
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   </a>
@@ -126,7 +126,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Flip Panel](https://github.com/hnvn/flutter_flip_panel) [69★] - Flip panel with built-in animation by [HungHD](https://github.com/hnvn).
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) [38★] - Facebook reactions widget by [Duy Tran](https://github.com/duytq94).
 - [Flushbar](https://github.com/AndreHaueisen/flushbar) [60★] - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen).
-[Stepper Touch](https://github.com/Rahiche/stepper_touch) [4★] - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
+- [Stepper Touch](https://github.com/Rahiche/stepper_touch) [4★] - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
 
 #### Calendar
 

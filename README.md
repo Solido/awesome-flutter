@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
-    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-5859-orange.svg" />
+    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-5858-orange.svg" />
   </a>
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
     <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-8824-brightgreen.svg" />
@@ -111,7 +111,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 ### UI
 
-- [3D Object](https://github.com/hemanthrajv/flutter_3d_obj) [32★] - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv).
+- [3D Object](https://github.com/hemanthrajv/flutter_3d_obj) [33★] - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv).
 - [Contact Picker](https://github.com/goderbauer/contact_picker) [16★] - Picking contact from the address book by [Michael Goderbauer](https://github.com/goderbauer).
 - [Parallax](https://github.com/FlutterRocks/page-transformer) [188★] - ViewPager by [Iiro Krankka](https://github.com/roughike).
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) [217★] - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar).
@@ -126,6 +126,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Flip Panel](https://github.com/hnvn/flutter_flip_panel) [69★] - Flip panel with built-in animation by [HungHD](https://github.com/hnvn).
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) [38★] - Facebook reactions widget by [Duy Tran](https://github.com/duytq94).
 - [Flushbar](https://github.com/AndreHaueisen/flushbar) [60★] - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen).
+[Stepper Touch](https://github.com/Rahiche/stepper_touch) [4★] - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
 
 #### Calendar
 
@@ -343,7 +344,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) [310★] - Full featured music player by [Pawan Kumar](https://about.me/imthepk).
 - [InKino](https://github.com/roughike/inKino) [1083★] - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike).
 - [WhatTodo](https://github.com/burhanrashid52/WhatTodo) [166★] - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
-- [FlutterGram](https://github.com/mdanics/fluttergram) [210★] - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
+- [FlutterGram](https://github.com/mdanics/fluttergram) [211★] - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
 - [BookSearch](https://github.com/Norbert515/BookSearch) [165★] - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
 - [Cinematic](https://github.com/aaronoe/FlutterCinematic) [257★] - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
 - [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) [132★] - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor).

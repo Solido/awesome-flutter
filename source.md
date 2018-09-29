@@ -284,6 +284,18 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [InAppBrowser](https://github.com/pichillilorenzo/flutter_inappbrowser) <!--stargazers:pichillilorenzo/flutter_inappbrowser--> - Open an in-app browser window (porting of cordova inappbrowser) by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 - [AppAvailability](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
+#### Scanner
+
+- [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
+- [Fast QR Reader View](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
+
+#### Bluetooth / NFC / Beacon
+
+- [Ble](https://github.com/Polidea/FlutterBleLib) <!--stargazers:Polidea/FlutterBleLib--> - Bluetooth by [Polidea](http://www.polidea.com)
+- [Blue](https://github.com/pauldemarco/flutter_blue) <!--stargazers:pauldemarco/flutter_blue--> - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
+- [NFC](https://github.com/guyulmaz/flutter-nfc-app) <!--stargazers:guyulmaz/flutter-nfc-app--> - Connect IsoDep iso 14443-4 cards for android by [Göksel Uyulmaz](https://github.com/guyulmaz)
+- [Beacons](https://github.com/loup-v/beacons) <!--stargazers:loup-v/beacons--> - Flutter beacons plugin by [Loup](http://intheloup.io)
+
 ### Storage
 
 - [Sqflite](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
@@ -296,18 +308,6 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [MLKit](https://github.com/azihsoyn/flutter_mlkit) <!--stargazers:azihsoyn/flutter_mlkit--> - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn)
 - [OneSignal](https://github.com/OneSignal/OneSignal-Flutter-SDK) <!--stargazers:OneSignal/OneSignal-Flutter-SDK--> - Push notification service by [OneSignal](https://github.com/OneSignal)
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
-
-### Scanner
-
-- [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
-- [Fast QR Reader View](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
-
-### Bluetooth / NFC / Beacon
-
-- [Ble](https://github.com/Polidea/FlutterBleLib) <!--stargazers:Polidea/FlutterBleLib--> - Bluetooth by [Polidea](http://www.polidea.com)
-- [Blue](https://github.com/pauldemarco/flutter_blue) <!--stargazers:pauldemarco/flutter_blue--> - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
-- [NFC](https://github.com/guyulmaz/flutter-nfc-app) <!--stargazers:guyulmaz/flutter-nfc-app--> - Connect IsoDep iso 14443-4 cards for android by [Göksel Uyulmaz](https://github.com/guyulmaz)
-- [Beacons](https://github.com/loup-v/beacons) <!--stargazers:loup-v/beacons--> - Flutter beacons plugin by [Loup](http://intheloup.io)
 
 ## Frameworks
 

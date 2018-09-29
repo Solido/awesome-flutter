@@ -5,9 +5,9 @@
     <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-5880-orange.svg" />
   </a>
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-8874-brightgreen.svg" />
+    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-8875-brightgreen.svg" />
   </a>
-  <img alt="Entries" src="https://img.shields.io/badge/Items-202-lightgrey.svg" />
+  <img alt="Entries" src="https://img.shields.io/badge/Items-205-lightgrey.svg" />
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   </a>
@@ -15,9 +15,7 @@
 
 <a href="https://flutter.io/">Flutter</a> is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
 
-If you appreciate the content 📖<br>
-Support project visibility, give a ⭐<br>
-Also 👍| ⭐| 👏 links to support their authors !
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
 <div style="text-align: center"><table><tr>
 <td style="text-align: center">
@@ -298,7 +296,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 ### Storage
 
 - [Sqflite](https://github.com/tekartik/sqflite) [421★] - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/).
-- [MMKV](https://github.com/OpenFlutter/mmkv_flutter) [5★] - WeChat ultra fast & persistent key-value storage by [BigBug](https://github.com/yuyongmao).
+- [MMKV](https://github.com/OpenFlutter/mmkv_flutter) [6★] - WeChat ultra fast & persistent key-value storage by [BigBug](https://github.com/yuyongmao).
 
 ### Services
 
@@ -330,6 +328,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Sequence Animation](https://github.com/Norbert515/flutter_sequence_animation) [70★] - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir).
 - [SpinKit](https://github.com/jogboms/flutter_spinkit) [310★] - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 - [Villains](https://github.com/Norbert515/flutter_villains) [77★] - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir).
+- [AnimatedTextKit](https://github.com/aagarwal1012/Animated-Text-Kit) [105★] - A collection of cool text animations by [Ayush Agarwal](https://github.com/aagarwal1012/).
 
 ### Game Engine
 
@@ -378,6 +377,9 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Gitter](https://gitter.im/flutter/flutter) - Exchange channel.
 - [r/FlutterDev Subreddit](https://www.reddit.com/r/FlutterDev/) - Reddit community by [u/JaapVermeulen](https://www.reddit.com/user/JaapVermeulen).
 - [Dev Discord](https://discord.gg/N7Yshp4) - Discord server to discuss and get help by [Pritykin](https://twitter.com/AndrewPritykin).
+- [Flutter Community](https://github.com/fluttercommunity) - Central place for community made packages.
+- [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让Flutter更简单.
+
 
 ## Books
 - [Flutter in Action](https://www.manning.com/books/flutter-in-action?a_aid=flutterinaction&a_bid=d08c3247) - Complete Flutter and Dart resource, currently in 'Early Access'. (42% off with code 'slwindmill').

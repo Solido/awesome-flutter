@@ -377,6 +377,8 @@ If you appreciate the content 📖, support projects visibility, give ⭐ 👍| 
 - [Gitter](https://gitter.im/flutter/flutter) - Exchange channel   
 - [r/FlutterDev Subreddit](https://www.reddit.com/r/FlutterDev/) - Reddit community by [u/JaapVermeulen](https://www.reddit.com/user/JaapVermeulen)
 - [Dev Discord](https://discord.gg/N7Yshp4) - Discord server to discuss and get help by [Pritykin](https://twitter.com/AndrewPritykin)
+- [Flutter Community](https://github.com/fluttercommunity) - Central place for community made packages
+
 
 ## Books
 - [Flutter in Action](https://www.manning.com/books/flutter-in-action?a_aid=flutterinaction&a_bid=d08c3247) - Complete Flutter and Dart resource, currently in 'Early Access'. (42% off with code 'slwindmill').

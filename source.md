@@ -15,7 +15,7 @@
 
 <a href="https://flutter.io/">Flutter</a> is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
 
-If you appreciate the content 📖, support projects visibility, give ⭐ 👍| ⭐| 👏 
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏 
 
 <div style="text-align: center"><table><tr>
 <td style="text-align: center">
@@ -378,6 +378,7 @@ If you appreciate the content 📖, support projects visibility, give ⭐ 👍| 
 - [r/FlutterDev Subreddit](https://www.reddit.com/r/FlutterDev/) - Reddit community by [u/JaapVermeulen](https://www.reddit.com/user/JaapVermeulen)
 - [Dev Discord](https://discord.gg/N7Yshp4) - Discord server to discuss and get help by [Pritykin](https://twitter.com/AndrewPritykin)
 - [Flutter Community](https://github.com/fluttercommunity) - Central place for community made packages
+- [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让Flutter更简单
 
 
 ## Books

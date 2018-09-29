@@ -15,9 +15,7 @@
 
 <a href="https://flutter.io/">Flutter</a> is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
 
-If you appreciate the content 📖<br>
-Support project visibility, give a ⭐<br>
-Also 👍| ⭐| 👏 links to support their authors !
+If you appreciate the content 📖, support projects visibility, give ⭐ 👍| ⭐| 👏 
 
 <div style="text-align: center"><table><tr>
 <td style="text-align: center">

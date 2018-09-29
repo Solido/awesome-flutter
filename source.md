@@ -265,8 +265,6 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 - [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Plugins filter in Dart Pub Repository.
 - [Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins
-- [App Rating](https://github.com/AppleEducate/app_review) <!--stargazers:AppleEducate/app_review--> - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
-- [Get Version](https://github.com/AppleEducate/get_version) <!--stargazers:AppleEducate/get_version--> - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com)
 
 ### Device
 
@@ -278,6 +276,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) <!--stargazers:MaikuB/flutter_local_notifications--> - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
 - [Device Calendar](https://github.com/builttoroam/flutter_plugins/tree/develop/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com)
 - [Android Job Scheduler](https://github.com/talkdirty/android_job_scheduler) ![android](https://user-images.githubusercontent.com/1295961/41648590-9ed8c5cc-7479-11e8-8248-3820589d8ab9.png) <!--stargazers:talkdirty/android_job_scheduler--> - Manage android schedules by [Georg Grab](https://github.com/talkdirty)
+- [Get Version](https://github.com/AppleEducate/get_version) <!--stargazers:AppleEducate/get_version--> - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com)
 - [Badger](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
 - [UDID](https://github.com/GigaDroid/flutter_udid) <!--stargazers:GigaDroid/flutter_udid--> -  Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
 - [Downloader](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
@@ -308,6 +307,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [MLKit](https://github.com/azihsoyn/flutter_mlkit) <!--stargazers:azihsoyn/flutter_mlkit--> - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn)
 - [OneSignal](https://github.com/OneSignal/OneSignal-Flutter-SDK) <!--stargazers:OneSignal/OneSignal-Flutter-SDK--> - Push notification service by [OneSignal](https://github.com/OneSignal)
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
+- [App Rating](https://github.com/AppleEducate/app_review) <!--stargazers:AppleEducate/app_review--> - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
 
 ## Frameworks
 

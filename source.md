@@ -80,6 +80,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Iirokrankka.com](https://iirokrankka.com/) - Articles and tutorials about Flutter, Dart and anything related by [Iiro Krankka](https://twitter.com/koorankka).
 - [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515)
 - [Welcome to Flutter](https://didierboelens.com) - English and French blog dedicated to providing practical solutions to most asked questions about Flutter by Didier Boelens
+- [Flutter Tips](https://medium.com/@diegoveloper) - Articles about tips and tricks in the development with Flutter by [Diego Velásquez](https://twitter.com/diegoveloper)
 
 ### Advanced
 
@@ -125,6 +126,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
 - [Flushbar](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
 - [Stepper Touch](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
+- [Percent Indicator](https://github.com/diegoveloper/flutter_percent_indicator) <!--stargazers:diegoveloper/flutter_percent_indicator--> - Display customized progress widgets based on percentage, can be Circular or Linear by [Diego Velásquez](https://github.com/diegoveloper).
 
 #### Calendar
 
@@ -280,6 +282,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Downloader](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
 - [InAppBrowser](https://github.com/pichillilorenzo/flutter_inappbrowser) <!--stargazers:pichillilorenzo/flutter_inappbrowser--> - Open an in-app browser window (porting of cordova inappbrowser) by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 - [AppAvailability](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+- [Aeyrium Sensor](https://github.com/aeyrium/aeyrium-sensor) <!--stargazers:aeyrium/aeyrium-sensor--> - A plugin which provide easy access to the Pitch and Roll on Android and iOS devices by [Diego Velásquez](https://github.com/aeyrium).
 
 #### Scanner
 

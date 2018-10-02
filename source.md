@@ -80,7 +80,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Iirokrankka.com](https://iirokrankka.com/) - Articles and tutorials about Flutter, Dart and anything related by [Iiro Krankka](https://twitter.com/koorankka).
 - [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515)
 - [Welcome to Flutter](https://didierboelens.com) - English and French blog dedicated to providing practical solutions to most asked questions about Flutter by Didier Boelens
-- [Flutter Tips](https://medium.com/@diegoveloper) - Articles about tips and tricks in the development with Flutter by [Diego Velásquez](https://twitter.com/diegoveloper)
+- [Flutter Tips](https://medium.com/@diegoveloper) - Articles, tips & tricks in the development by [Diego Velásquez](https://twitter.com/diegoveloper)
 
 ### Advanced
 
@@ -126,7 +126,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
 - [Flushbar](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
 - [Stepper Touch](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
-- [Percent Indicator](https://github.com/diegoveloper/flutter_percent_indicator) <!--stargazers:diegoveloper/flutter_percent_indicator--> - Display customized progress widgets based on percentage, can be Circular or Linear by [Diego Velásquez](https://github.com/diegoveloper).
 
 #### Calendar
 

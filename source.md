@@ -126,6 +126,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
 - [Flushbar](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
 - [Stepper Touch](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
+- [Date range picker](https://github.com/anicdh/date_range_picker) - Date range picker modified based on Flutter date picker by [An Doan](https://github.com/anicdh)
 
 #### Calendar
 

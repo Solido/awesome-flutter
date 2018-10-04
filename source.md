@@ -126,6 +126,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
 - [Flushbar](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
 - [Stepper Touch](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
+- [Wave Progress](https://github.com/studioidan/wave_progress) <!--stargazers:studioidan/wave_progress--> - Wave progress indicator by [Idan Ben Shimon](https://github.com/studioidan).
 
 #### Calendar
 

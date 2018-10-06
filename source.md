@@ -89,6 +89,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) - Skillmatters presentation by [Brian Egan](https://github.com/brianegan)
 - [Gesture System](https://medium.com/flutter-community/flutter-deep-dive-gestures-c16203b3434f) <!--claps:flutter-community/flutter-deep-dive-gestures-c16203b3434f--> - Flutter Deep Dive: Gestures by [Nash](https://nash0x7e2.github.io/)
 - [Schemas](https://www.didierboelens.com/2018/06/widget---state---context---inheritedwidget/) - Widget, State, Context and InheritedWidget explanations by [Didier Boelens](https://didierboelens.com)
+- [Rendering Engine Tutorial](https://medium.com/saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d) <!--claps:saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d--> - Flutter's Rendering Engine: A Tutorial by [AbdulRahman AlHamali](https://github.com/AbdulRahmanAlHamali/)
 
 ## Videos
 

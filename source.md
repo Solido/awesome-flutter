@@ -367,7 +367,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Flip](https://github.com/RedBrogdon/flutterflip) <!--stargazers:RedBrogdon/flutterflip--> - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon)
 - [2048](https://github.com/anuranBarman/2048) <!--stargazers:anuranBarman/2048--> - 2048 game by [Anuran Barman](https://github.com/anuranBarman)
-
+- [Tic Tac Toe Online Multiplayer](https://github.com/anuranBarman/Tic-Tac-Toe-Online-Multiplayer-Flutter-NodeJS) - Tic Tac Toe Online Multiplayer by [Anuran Barman](https://github.com/anuranBarman)
 ## Utilities
 
 - [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google

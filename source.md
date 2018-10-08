@@ -27,7 +27,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   </a>
 </td>
 <td style="text-align: center">
-<img src="https://user-images.githubusercontent.com/1295961/42548085-a07fcaf4-84c5-11e8-9fdc-7aa86c46f316.png" width="200"/>
+  <a href="https://twitter.com/BlueAquilae/status/1049315328835182592">
+    <img src="https://i.imgur.com/1Xdsp92.gif" width="200"/></a>
 </td>
   <td style="text-align: center">
 <img src="https://raw.githubusercontent.com/letsar/flutter_staggered_grid_view/master/doc/images/dynamic_tile_sizes.gif" width="200"/>

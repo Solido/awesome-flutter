@@ -7,7 +7,7 @@
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
     <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-9297-brightgreen.svg" />
   </a>
-  <img alt="Entries" src="https://img.shields.io/badge/Items-210-lightgrey.svg" />
+  <img alt="Entries" src="https://img.shields.io/badge/Items-211-lightgrey.svg" />
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   </a>
@@ -18,17 +18,19 @@
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
 <div style="text-align: center"><table><tr>
+  <td style="text-align: center">
+  <a href="https://twitter.com/BlueAquilae/status/1049315328835182592">
+    <img src="https://i.imgur.com/1Xdsp92.gif" width="200"/></a>
+</td>
 <td style="text-align: center">
+  <a href="https://marcinszalek.pl/flutter/filter-menu-ui-challenge/">
 <img src="https://marcinszalek.pl/wp-content/uploads/2018/05/ff_16.gif" width="200" />
+  </a>
 </td>
 <td style="text-align: center">
   <a href="https://twitter.com/BlueAquilae/status/1018208010643103744">
 <img src="https://user-images.githubusercontent.com/1295961/42728108-34e485a0-87b3-11e8-94af-224f81bec82d.gif" width="200"/>
   </a>
-</td>
-<td style="text-align: center">
-  <a href="https://twitter.com/BlueAquilae/status/1049315328835182592">
-    <img src="https://i.imgur.com/1Xdsp92.gif" width="200"/></a>
 </td>
   <td style="text-align: center">
 <img src="https://raw.githubusercontent.com/letsar/flutter_staggered_grid_view/master/doc/images/dynamic_tile_sizes.gif" width="200"/>
@@ -129,6 +131,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flushbar](https://github.com/AndreHaueisen/flushbar) [66★] - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen).
 - [Stepper Touch](https://github.com/Rahiche/stepper_touch) [25★] - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
 - [Offline](https://github.com/jogboms/flutter_offline) [77★] - A tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+- [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) [40★] - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali).
 
 #### Calendar
 
@@ -157,7 +160,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) [303★] - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/).
 - [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) [26★] - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com).
-- [Map](https://github.com/apptreesoftware/flutter_map) [274★] - Solution based on [Leaflet](http://leafletjs.com/) and customizable by [AppTree Software](https://github.com/apptreesoftware).
+- [Map](https://github.com/apptreesoftware/flutter_map) [275★] - Solution based on [Leaflet](http://leafletjs.com/) and customizable by [AppTree Software](https://github.com/apptreesoftware).
 - [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) [132★] - Interactive, customizable vector maps by Mapbox.
 
 ### Charts

@@ -158,6 +158,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Map
 
+- [Google Maps for Flutter](https://github.com/flutter/plugins/tree/master/packages/google_maps_flutter) - A Flutter plugin to use Google Maps by Flutter Team (currently unpublished)
 - [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) <!--stargazers:apptreesoftware/flutter_google_map_view--> - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/)
 - [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) <!--stargazers:aloisdeniel/flutter_geocoder--> - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com)
 - [Map](https://github.com/apptreesoftware/flutter_map) <!--stargazers:apptreesoftware/flutter_map--> - Solution based on [Leaflet](http://leafletjs.com/) and customizable by [AppTree Software](https://github.com/apptreesoftware)

@@ -197,6 +197,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Rich Text Editor](https://github.com/long1eu/rich_editor) [57★] - Text editor with style by [Lung Razvan](https://github.com/long1eu).
 - [Masked Text](https://github.com/benhurott/flutter-masked-text) [27★] - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott).
 - [Zefyr](https://github.com/memspace/zefyr) [209★] - Soft and gentle rich text editing by [Memspace](https://github.com/memspace/zefyr).
+-[PDF Viewer](https://github.com/pycampers/flutter_pdf_viewer) [29★] - A native Pdf viewer for flutter, built on AndroidPdfViewer by [pycampers]
 
 ### Analytics
 

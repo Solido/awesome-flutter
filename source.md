@@ -48,6 +48,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Frameworks](#frameworks)
 - [Open Source Apps](#open-source-apps)
 - [Utilities](#utilities)
+- [Community](#community)
 - [Books](#books)
 - [Bonus](#bonus)
 

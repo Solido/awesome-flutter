@@ -395,6 +395,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Dev Discord](https://discord.gg/N7Yshp4) - Discord server to discuss and get help by [Pritykin](https://twitter.com/AndrewPritykin)
 - [Flutter Community](https://github.com/fluttercommunity) - Central place for community made packages
 - [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让Flutter更简单
+- [Telegram chat (ru-RU)](https://t.me/rudart) - russian speaking Dart & Flutter community
 
 
 ## Books

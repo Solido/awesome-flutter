@@ -250,7 +250,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Database / ORM
 
-* [Jaguar-ORM](https://github.com/Jaguar-dart/jaguar_orm) - Jaguar-ORM provides model persistence to SQL database types. Supports sqflite in flutter for local database persistence.
+* [Jaguar-ORM](https://github.com/Jaguar-dart/jaguar_orm) - <!--stargazers:Jaguar-dart/jaguar_orm--> - Database/ORM model persistence to SQL database types (Sqlflite in flutter) by [Jaguar-Dart](https://github.com/orgs/Jaguar-dart/people)
 
 ### Monetization
 

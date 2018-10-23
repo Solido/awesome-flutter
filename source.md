@@ -248,6 +248,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Firebase Storage](https://github.com/flutter/plugins/tree/master/packages/firebase_storage) - Firebase as data storage
 - [Secure Storage](https://github.com/mogol/flutter_secure_storage) <!--stargazers:mogol/flutter_secure_storage--> - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol)
 
+### Database / ORM
+
+* [Jaguar-ORM](https://github.com/Jaguar-dart/jaguar_orm) - Jaguar-ORM provides model persistence to SQL database types. Supports sqflite in flutter for local database persistence.
+
 ### Monetization
 
 - [Admob](https://pub.dartlang.org/packages/admob) - GoogleAdmob supports interstitial ads in both iOS and Android by Brett Nesbitt

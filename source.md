@@ -112,7 +112,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Demonstrations
 
 - [Official Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo for the material design widgets provided by Flutter Team
-- [Posse Gallery](https://github.com/flutter/posse_gallery) <!--stargazers:flutter/posse_gallery--> - Advanced demonstration by [Posse](http://goposse.com)
 - [Flutter Examples](https://github.com/nisrulz/flutter-examples) <!--stargazers:nisrulz/flutter-examples--> - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz)
 
 ### UI

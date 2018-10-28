@@ -292,7 +292,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Badger](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
 - [UDID](https://github.com/GigaDroid/flutter_udid) <!--stargazers:GigaDroid/flutter_udid--> -  Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
 - [Downloader](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
-- [InAppBrowser](https://github.com/pichillilorenzo/flutter_inappbrowser) <!--stargazers:pichillilorenzo/flutter_inappbrowser--> - Open an in-app browser window (porting of cordova inappbrowser) by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+- [InAppBrowser](https://github.com/pichillilorenzo/flutter_inappbrowser) <!--stargazers:pichillilorenzo/flutter_inappbrowser--> - Add inline WebView widgets or open an in-app browser window by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 - [AppAvailability](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 - [Aeyrium Sensor](https://github.com/aeyrium/aeyrium-sensor) <!--stargazers:aeyrium/aeyrium-sensor--> - A plugin which provide easy access to the Pitch and Roll on Android and iOS devices by [Diego Velásquez](https://github.com/aeyrium).
 

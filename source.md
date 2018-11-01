@@ -383,12 +383,15 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Utilities
 
-- [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google
-- [Golang Desktop Embedder](https://github.com/Drakirus/go-flutter-desktop-embedder) <!--stargazers:Drakirus/go-flutter-desktop-embedder--> - Golang embedder for desktop by [Pierre Champion](https://github.com/Drakirus)
 - [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya)
 - [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) <!--stargazers:hillelcoren/flutter-redux-starter--> - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren)
 - [FlutterIcon](http://fluttericon.com/) <!--stargazers:ilikerobots/polyicon--> - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
+
+### Desktop
+
+- [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google
+- [Golang Desktop Embedder](https://github.com/Drakirus/go-flutter-desktop-embedder) <!--stargazers:Drakirus/go-flutter-desktop-embedder--> - Golang embedder for desktop by [Pierre Champion](https://github.com/Drakirus)
 
 ## Community
 

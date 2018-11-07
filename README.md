@@ -7,7 +7,7 @@
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
     <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-10603-brightgreen.svg" />
   </a>
-  <img alt="Entries" src="https://img.shields.io/badge/Items-219-lightgrey.svg" />
+  <img alt="Entries" src="https://img.shields.io/badge/Items-220-lightgrey.svg" />
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   </a>
@@ -348,7 +348,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Game Engine
 
-- [Flame](https://github.com/luanpotter/flame) [399★] - Minimalist game engine by [Luan Nico](https://github.com/luanpotter).
+- [Flame](https://github.com/luanpotter/flame) [400★] - Minimalist game engine by [Luan Nico](https://github.com/luanpotter).
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) [363★] - Toolkit for building complex, high performance animations and 2D games by [Viktor Lidholt](https://github.com/vlidholt).
 
 ### Misc
@@ -384,6 +384,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flip](https://github.com/RedBrogdon/flutterflip) [58★] - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon).
 - [2048](https://github.com/anuranBarman/2048) [16★] - 2048 game by [Anuran Barman](https://github.com/anuranBarman).
 - [TRex](https://github.com/renancaraujo/trex-flame) [12★] - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo).
+- [Crush](https://github.com/boeledi/flutter_crush) [4★] - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com).
 
 ## Utilities
 

@@ -415,6 +415,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ## Bonus
 
 - [It's All Widgets!](https://itsallwidgets.com) - Open list of published apps by [Hillel Coren](https://twitter.com/hillelcoren), [Thomas Burkhart](https://twitter.com/ThomasBurkhartB), [Simon Lightfoot](https://twitter.com/devangelslondon) and [Scott Stoll](https://twitter.com/scottstoll2017)
+- [Awesome Flutter Talks](https://github.com/Rahiche/awesome-flutter-talks) - A list of Flutter related talks by [Raouf Rahiche](https://twitter.com/raoufrahiche)
 
 ### Fun
 

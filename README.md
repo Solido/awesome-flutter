@@ -157,6 +157,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Image
 
 - [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com).
+- [Multi Image Picker](https://github.com/Sh1d0w/multi_image_picker) - Flutter plugin that allows you to display multi image picker on iOS and Android by [Radoslav Vitanov](https://github.com/Sh1d0w).
 - [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) [105★] - Carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014).
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) [80★] - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy).
 - [Photo View](https://github.com/renancaraujo/photo_view) [164★] - Scalable image view with loading placeholder by [Renan C. Araújo](https://github.com/renancaraujo).

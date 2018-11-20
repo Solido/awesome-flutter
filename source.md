@@ -35,6 +35,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   <td style="text-align: center">
 <img src="https://raw.githubusercontent.com/letsar/flutter_staggered_grid_view/master/doc/images/dynamic_tile_sizes.gif" width="200"/>
 </td>
+</td>
+  <td style="text-align: center">
+<img src="https://github.com/ZaraclaJ/flutter_custom_slider/blob/master/slider.gif" width="230"/>
 </tr></table></div>
 
 ## Contents
@@ -136,6 +139,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) <!--stargazers:AbdulRahmanAlHamali/flutter_typeahead--> - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali)
 - [Snaplist](https://github.com/ariedov/flutter_snaplist) <!--stargazers:ariedov/flutter_snaplist--> - Create snappable list views by [David Leibovych](https://github.com/ariedov)
 - [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider)  - A slider with a minimal design and fluid like animation by [Vamsi  Krishna](https://github.com/rvamsikrishna)
+- [Custom Slider](https://github.com/ZaraclaJ/flutter_custom_slider) - A custom slider created from the CustomPaint widget by [Jordan Alcaraz](https://github.com/ZaraclaJ).
 
 #### Material Design
 

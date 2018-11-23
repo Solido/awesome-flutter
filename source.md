@@ -307,7 +307,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Bluetooth / NFC / Beacon
 
-- [Ble](https://github.com/Polidea/FlutterBleLib) <!--stargazers:Polidea/FlutterBleLib--> - Bluetooth by [Polidea](http://www.polidea.com)
 - [Blue](https://github.com/pauldemarco/flutter_blue) <!--stargazers:pauldemarco/flutter_blue--> - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
 - [Beacons](https://github.com/loup-v/beacons) <!--stargazers:loup-v/beacons--> - Flutter beacons plugin by [Loup](http://intheloup.io)
 - [NFC Reader](https://github.com/matteocrippa/flutter-nfc-reader) <!--stargazers:matteocrippa/flutter-nfc-reader--> - NFC reader plugin for iOS and Android by [Matteo Crippa](https://github.com/matteocrippa)

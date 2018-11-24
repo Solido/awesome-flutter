@@ -136,7 +136,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Offline](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 - [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) <!--stargazers:AbdulRahmanAlHamali/flutter_typeahead--> - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali)
 - [Snaplist](https://github.com/ariedov/flutter_snaplist) <!--stargazers:ariedov/flutter_snaplist--> - Create snappable list views by [David Leibovych](https://github.com/ariedov)
-- [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider)  - A slider with a minimal design and fluid like animation by [Vamsi  Krishna](https://github.com/rvamsikrishna)
+- [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) <!--rvamsikrishna/flutter_fluid_slider--> - A slider with a minimal design and fluid like animation by [Vamsi  Krishna](https://github.com/rvamsikrishna)
+- [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) <!--fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot)
 
 #### Material Design
 

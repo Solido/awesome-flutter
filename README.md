@@ -5,7 +5,7 @@
     <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-7506-orange.svg" />
   </a>
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-11413-brightgreen.svg" />
+    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-11414-brightgreen.svg" />
   </a>
   <img alt="Entries" src="https://img.shields.io/badge/Items-222-lightgrey.svg" />
   <a href="https://github.com/sindresorhus/awesome">
@@ -136,8 +136,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Offline](https://github.com/jogboms/flutter_offline) [113⭐] - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 - [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) [55⭐] - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali).
 - [Snaplist](https://github.com/ariedov/flutter_snaplist) [48⭐] - Create snappable list views by [David Leibovych](https://github.com/ariedov).
-- [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) <!--rvamsikrishna/flutter_fluid_slider--> - A slider with a minimal design and fluid like animation by [Vamsi  Krishna](https://github.com/rvamsikrishna).
-- [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) <!--fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
+- [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) [27⭐] - A slider with a minimal design and fluid like animation by [Vamsi  Krishna](https://github.com/rvamsikrishna).
+- [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) [5⭐] - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
 
 #### Material Design
 

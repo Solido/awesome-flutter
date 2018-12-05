@@ -316,6 +316,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Sqflite](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
 - [MMKV](https://github.com/OpenFlutter/mmkv_flutter) <!--stargazers:OpenFlutter/mmkv_flutter--> - WeChat ultra fast & persistent key-value storage by [BigBug](https://github.com/yuyongmao)
+- [SQLCipher for Flutter](https://github.com/drydart/flutter_sqlcipher) <!--stargazers:drydart/flutter_sqlcipher--> - Encrypted SQLite database plugin by [Arto Bendiken](https://github.com/artob)
 
 ### Services
 

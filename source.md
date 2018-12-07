@@ -381,6 +381,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Tourism](https://github.com/bluemix/tourism-demo) <!--stargazers:bluemix/tourism-demo--> - Tourism app based on redux w/ animations & i18n by [blueMix](https://github.com/bluemix/tourism-demo)
 - [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) <!--stargazers:matthewtory/trinity-orientation-2018--> - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
 - [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)
+- [HelloFlutter](https://github.com/zhaomenghuan/HelloFlutter) - An example App for Flutter Framework by [zhaomenghuan](https://github.com/zhaomenghuan)
 
 ### Block / Angular / PWA
 

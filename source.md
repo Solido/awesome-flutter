@@ -280,6 +280,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Book](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
 - [The Gorgeous Login](https://github.com/huextrat/TheGorgeousLogin) <!--stargazers:huextrat/TheGorgeousLogin--> - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat)
 - [Liquid Pay Payment App](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
+- [HelloFlutter](https://github.com/zhaomenghuan/HelloFlutter) - An example App for Flutter Framework by [zhaomenghuan](https://github.com/zhaomenghuan)
 
 ## Plugins
 
@@ -381,7 +382,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Tourism](https://github.com/bluemix/tourism-demo) <!--stargazers:bluemix/tourism-demo--> - Tourism app based on redux w/ animations & i18n by [blueMix](https://github.com/bluemix/tourism-demo)
 - [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) <!--stargazers:matthewtory/trinity-orientation-2018--> - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
 - [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)
-- [HelloFlutter](https://github.com/zhaomenghuan/HelloFlutter) - An example App for Flutter Framework by [zhaomenghuan](https://github.com/zhaomenghuan)
 
 ### Block / Angular / PWA
 

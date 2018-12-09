@@ -334,7 +334,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Bloc
 
-- [Bloc](https://github.com/felangel/bloc) <!--stargazers:felangel/bloc--> - A collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel)
+- [Bloc](https://github.com/felangel/bloc) <!--stargazers:felangel/bloc--> - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel)
 
 ### Redux / ELM / Dependency Injection
 

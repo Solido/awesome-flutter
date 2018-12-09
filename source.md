@@ -332,6 +332,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Frameworks
 
+### Bloc
+
+- [Bloc](https://github.com/felangel/bloc) <!--stargazers:felangel/bloc--> - A collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel)
+
 ### Redux / ELM / Dependency Injection
 
 - [Built redux](https://github.com/davidmarne/flutter_built_redux) <!--stargazers:davidmarne/flutter_built_redux--> - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne)

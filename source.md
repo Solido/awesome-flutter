@@ -262,6 +262,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Billing](https://github.com/VolodymyrLykhonis/flutter_billing) <!--stargazers:VolodymyrLykhonis/flutter_billing--> - Enable billing on iOS and Android by [Volodymyr Lykhonis](http://vladimirlichonos.com)
 - [Payments](https://github.com/pplante/flutter_payments) <!--stargazers:pplante/flutter_payments--> - In App Purchases & Subscriptions by [Delightful Goods](https://delightfulgoods.co)
 - [Inapp Purchase](https://github.com/dooboolab/flutter_inapp_purchase) <!--stargazers:dooboolab/flutter_inapp_purchase--> - Features set of 'in app purchase' derived from [react-native-iap](https://github.com/dooboolab/react-native-iap) by [dooboolab](https://github.com/dooboolab)
+- [Admob Flutter](https://github.com/YoussefKababe/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe)
 
 ## Templates
 

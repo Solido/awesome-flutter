@@ -302,6 +302,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [InAppBrowser](https://github.com/pichillilorenzo/flutter_inappbrowser) [105⭐] - Add inline WebView widgets or open an in-app browser window by [Lorenzo Pichilli](https://github.com/pichillilorenzo).
 - [AppAvailability](https://github.com/pichillilorenzo/flutter_appavailability) [6⭐] - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo).
 - [Aeyrium Sensor](https://github.com/aeyrium/aeyrium-sensor) [14⭐] - A plugin which provide easy access to the Pitch and Roll on Android and iOS devices by [Diego Velásquez](https://github.com/aeyrium).
+- [File Picker](https://github.com/miguelpruivo/plugins_flutter_file_picker) [12⭐] -  Alows you to use a native file explorer to load absolute file path from different types of files by [Miguel Ruivo](https://github.com/miguelpruivo)
 
 #### Scanner
 

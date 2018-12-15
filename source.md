@@ -78,7 +78,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Animations in Flutter](https://proandroiddev.com/animations-in-flutter-6e02ee91a0b2) <!--claps:@muhammedsalihguler/animations-in-flutter-6e02ee91a0b2--> - Commonly used animation examples by [Muhammed Salih Güler](https://proandroiddev.com/@muhammedsalihguler)
 
 ### Websites / Blogs
-
+- [Professional Flutter Developer Flipboard](http://flip.it/r-K_fs) - Articles, Latest News, Tutorials (Aggregated) by [David Yardy](https://davidyardy.com/).
 - [SZAŁKO-BLOG](https://marcinszalek.pl/) - Step by step advanced design by [Marcin Szalek](https://marcinszalek.pl/).
 - [Sergi & Replace](https://sergiandreplace.com/) - Basic to advanced articles and tutorials [Sergi Martínez](https://github.com/sergiandreplace)
 - [Flutter by Example](https://flutterbyexample.com/) - Tutorials based on Redux, Firebase, Custom Animations, and UI

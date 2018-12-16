@@ -387,6 +387,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Tourism](https://github.com/bluemix/tourism-demo) [46⭐] - Tourism app based on redux w/ animations & i18n by [blueMix](https://github.com/bluemix/tourism-demo).
 - [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) [112⭐] - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
 - [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT).
+- [Voice - Animal Rights Directory](https://github.com/hitherejoe/Voice) - flutter project demonstrating tailored native experiences by [Joe Birch](https://github.com/hitherejoe).
 
 ### Block / Angular / PWA
 

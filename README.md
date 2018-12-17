@@ -7,7 +7,7 @@
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
     <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-13199-brightgreen.svg" />
   </a>
-  <img alt="Entries" src="https://img.shields.io/badge/Items-231-lightgrey.svg" />
+  <img alt="Entries" src="https://img.shields.io/badge/Items-232-lightgrey.svg" />
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   </a>
@@ -140,6 +140,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Snaplist](https://github.com/ariedov/flutter_snaplist) [72⭐] - Create snappable list views by [David Leibovych](https://github.com/ariedov).
 - [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) [55⭐] - A slider with a minimal design and fluid like animation by [Vamsi  Krishna](https://github.com/rvamsikrishna).
 - [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) [12⭐] - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
+- [Pin Code](https://github.com/LiewJunTung/pin_code_text_field) [3⭐] - Animated & customisable Pin code for login and OTP by [Liew Jun Tung](https://github.com/liewjuntung).
 
 #### Material Design
 

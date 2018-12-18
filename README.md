@@ -140,6 +140,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Snaplist](https://github.com/ariedov/flutter_snaplist) [72⭐] - Create snappable list views by [David Leibovych](https://github.com/ariedov).
 - [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) [54⭐] - A slider with a minimal design and fluid like animation by [Vamsi  Krishna](https://github.com/rvamsikrishna).
 - [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) [12⭐] - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
+- [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) [13⭐] - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
 
 #### Material Design
 

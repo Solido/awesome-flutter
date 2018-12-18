@@ -140,6 +140,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Snaplist](https://github.com/ariedov/flutter_snaplist) <!--stargazers:ariedov/flutter_snaplist--> - Create snappable list views by [David Leibovych](https://github.com/ariedov)
 - [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) <!--stargazers:rvamsikrishna/flutter_fluid_slider--> - A slider with a minimal design and fluid like animation by [Vamsi  Krishna](https://github.com/rvamsikrishna)
 - [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot)
+- [Pin Code](https://github.com/LiewJunTung/pin_code_text_field) <!--stargazers:LiewJunTung/pin_code_text_field--> - Animated & customisable Pin code for login and OTP by [Liew Jun Tung](https://github.com/liewjuntung)
 
 #### Material Design
 
@@ -219,6 +220,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Usage](https://github.com/dart-lang/usage) <!--stargazers:dart-lang/usage--> - Google Analytics wrapper for command-line, web, and Flutter apps
 - [Firebase Analytics](https://github.com/flutter/plugins/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API
 - [Segment.com Analytics](https://github.com/FaisalAbid/segment-analytics-flutter) <!--stargazers:FaisalAbid/segment-analytics-flutter--> - Make your Segment.com analytics a breeze! by [Faisal Abid](https://twitter.com/FaisalAbid)
+- [Pure Mixpanel](https://github.com/seenickcode/pure_mixpanel) <!--stargazers:seenickcode/pure_mixpanel--> - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode)
+
 
 ### Build automation
 
@@ -305,6 +308,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [InAppBrowser](https://github.com/pichillilorenzo/flutter_inappbrowser) <!--stargazers:pichillilorenzo/flutter_inappbrowser--> - Add inline WebView widgets or open an in-app browser window by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 - [AppAvailability](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 - [Aeyrium Sensor](https://github.com/aeyrium/aeyrium-sensor) <!--stargazers:aeyrium/aeyrium-sensor--> - A plugin which provide easy access to the Pitch and Roll on Android and iOS devices by [Diego Velásquez](https://github.com/aeyrium).
+- [File Picker](https://github.com/miguelpruivo/plugins_flutter_file_picker) <!--stargazers:miguelpruivo/plugins_flutter_file_picker--> -  Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo)
 
 #### Scanner
 
@@ -388,6 +392,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Tourism](https://github.com/bluemix/tourism-demo) <!--stargazers:bluemix/tourism-demo--> - Tourism app based on redux w/ animations & i18n by [blueMix](https://github.com/bluemix/tourism-demo)
 - [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) <!--stargazers:matthewtory/trinity-orientation-2018--> - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
 - [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)
+- [Deer](https://github.com/aleksanderwozniak/deer) <!--stargazers:aleksanderwozniak/deer--> - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
 
 ### Block / Angular / PWA
 

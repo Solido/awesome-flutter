@@ -288,6 +288,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Liquid Pay Payment App](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
 - [DrawApp](https://github.com/SnakeyHips/drawapp) <!--stargazers:SnakeyHips/drawapp--> - Sample Drawing App to demonstrate how to allow user to draw onto canvas with color picker and brush thickness slider by [Jake Gough](https://github.com/SnakeyHips)
 
+### Machine Learning
+
 ## Plugins
 
 - [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Plugins filter in Dart Pub Repository.

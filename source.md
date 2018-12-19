@@ -290,6 +290,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Machine Learning
 
+- [mlkit demo](https://github.com/bparrishMines/mlkit_demo) <!--stargazers:bparrishMines/mlkit_demo--> - Machine Learning Kit with a live camera view from Flutter Live by [Maurice Parrish](https://github.com/bparrishMines)
+
 ## Plugins
 
 - [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Plugins filter in Dart Pub Repository.

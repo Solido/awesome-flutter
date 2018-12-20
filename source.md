@@ -289,6 +289,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [The Gorgeous Login](https://github.com/huextrat/TheGorgeousLogin) <!--stargazers:huextrat/TheGorgeousLogin--> - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat)
 - [Liquid Pay Payment App](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
 - [DrawApp](https://github.com/SnakeyHips/drawapp) <!--stargazers:SnakeyHips/drawapp--> - Sample Drawing App to demonstrate how to allow user to draw onto canvas with color picker and brush thickness slider by [Jake Gough](https://github.com/SnakeyHips)
+- [RecipeApp](https://github.com/SnakeyHips/recipeapp) <!--stargazers:SnakeyHips/recipeapp--> - Recipe App UI template inspired from a dribbble design by [Jake Gough](https://github.com/SnakeyHips)
 
 ### Machine Learning
 

@@ -319,7 +319,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Aeyrium Sensor](https://github.com/aeyrium/aeyrium-sensor) <!--stargazers:aeyrium/aeyrium-sensor--> - A plugin which provide easy access to the Pitch and Roll on Android and iOS devices by [Diego Velásquez](https://github.com/aeyrium).
 - [File Picker](https://github.com/miguelpruivo/plugins_flutter_file_picker) <!--stargazers:miguelpruivo/plugins_flutter_file_picker--> -  Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo)
 - [Image compress](https://github.com/OpenFlutter/flutter_image_compress) <!--stargazers:OpenFlutter/flutter_image_compress--> - Image compression using native code by [OpenFlutter](https://github.com/OpenFlutter)
-
+- [Photo Manager](https://github.com/CaiJingLong/flutter_photo_manager) <!--stargazers:Caijinglong/flutter_photo_manager--> - Get the pictures in the device album by [Caijinglong](https://github.com/Caijinglong)
 #### Scanner
 
 - [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)

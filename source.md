@@ -347,6 +347,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Frameworks
 
+### Widgets
+
+- [Flutter_hooks](https://github.com/rrousselGit/flutter_hooks) <!--stargazers:rrousselGit/flutter_hooks --> - A new kind of widget with advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit)
+
 ### Bloc
 
 - [Bloc](https://github.com/felangel/bloc) <!--stargazers:felangel/bloc--> - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel)

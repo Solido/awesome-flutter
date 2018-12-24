@@ -119,10 +119,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Official Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo for the material design widgets provided by Flutter Team.
 - [Flutter Examples](https://github.com/nisrulz/flutter-examples) [1672⭐] - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz).
+- [Flutter Catalog](https://github.com/X-Wei/flutter_catalog) [101⭐] - An app showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei).
 
 ### UI
 
-- [3D Object](https://github.com/hemanthrajv/flutter_3d_obj) [56⭐] - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv).
 - [Contact Picker](https://github.com/goderbauer/contact_picker) [22⭐] - Picking contact from the address book by [Michael Goderbauer](https://github.com/goderbauer).
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) [355⭐] - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar).
 - [Sticky Header](https://github.com/letsar/flutter_sticky_header) [140⭐] - Sliver based sticky headers by [Romain Rastel](https://github.com/letsar).
@@ -272,7 +272,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Templates
 
-- [Movie Details](https://github.com/FlutterRocks/movie-details-ui) [184⭐] - Movie details page by [Iiro Krankka](https://github.com/roughike).
+- [Movie Details](https://github.com/FlutterRocks/movie-details-ui) [185⭐] - Movie details page by [Iiro Krankka](https://github.com/roughike).
 - [Mates](https://github.com/CodemateLtd/FlutterMates) [244⭐] - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike).
 - [Weather](https://github.com/alessandroaime/Weather) [79⭐] - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime).
 - [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) [1678⭐] - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan).

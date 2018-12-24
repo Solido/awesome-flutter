@@ -15,7 +15,7 @@ thus signaling the quality of your work and linking to others authors Awesome pr
  </a>
  
  ``` 
-<a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
+<a href="https://github.com/Solido/awesome-flutter">
     <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
 </a>
 ```

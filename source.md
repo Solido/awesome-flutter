@@ -176,6 +176,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Image Cropper](https://github.com/hnvn/flutter_image_cropper) <!--stargazers:hnvn/flutter_image_cropper--> - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn)
 - [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by
 - [Multi Image Picker](https://github.com/Sh1d0w/multi_image_picker) <!--stargazers:Sh1d0w/multi_image_picker--> - Display multi image picker by [Radoslav Vitanov](https://github.com/Sh1d0w)
+- [Firebase Storage Image](https://github.com/axross/firebase_storage_image) <!--stargazers:axross/firebase_storage_image--> - Show images from Firebase Cloud Storage directly by [Kohei Asai](https://github.com/axross)
 
 ### Map
 

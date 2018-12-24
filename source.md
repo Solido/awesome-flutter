@@ -54,29 +54,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Articles
 
-### Begin with
+### Introduction
 
 - [Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19) <!--claps:flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19--> - Building beautiful, flexible user interfaces
-- [Zero to One](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) <!--claps:dartlang/zero-to-one-with-flutter-43b13fd7b354--> - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn)
-- [From Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) <!--claps:@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8--> - Full series of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
-
-### Tutorial
-
-- [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs by Google Code Labs
-- [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase integration by Google Code Labs
-- [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Detailed planets design tutorial
-- [Todo List](https://github.com/lesnitsky/todolist_flutter) – Step by step tutorial how to build Todo List with Flutter by [Andrei Lesnitsky](https://twitter.com/lesnitsky_a)
-
-### Howtos
-
-- [Zero to One Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) <!--claps:dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb--> - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn)
-- [Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957) - App powered by Google Cloud Functions by [Romin Irani](https://rominirani.com/@iromin)
-- [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) <!--youtube:video/p4yLzYwy_4g--> - Firebase live coding
-- [Securing Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) <!--claps:@mehmetf_71205/securing-flutter-apps-ada13e806a69--> - By Mehmet Fidanboylu
-- [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) <!--claps:@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a--> - How to make a custom plug-in by [Karthik Ponnam](https://medium.com/@KarthikPonnam)
-- [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) <!--claps:@salvatoregiordanoo/flavoring-flutter-392aaa875f36--> - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
-- [Animations in Flutter](https://proandroiddev.com/animations-in-flutter-6e02ee91a0b2) <!--claps:@muhammedsalihguler/animations-in-flutter-6e02ee91a0b2--> - Commonly used animation examples by [Muhammed Salih Güler](https://proandroiddev.com/@muhammedsalihguler)
-- [Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - Extensive examples of layout widgets by [Tomek Polański](https://github.com/tomaszpolanski)
 
 ### Websites / Blogs
 
@@ -89,6 +69,19 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Welcome to Flutter](https://didierboelens.com) - English and French blog dedicated to providing practical solutions to most asked questions about Flutter by Didier Boelens
 - [Flutter Tips](https://medium.com/@diegoveloper) - Articles, tips & tricks in the development by [Diego Velásquez](https://twitter.com/diegoveloper)
 
+### Tutorial
+
+- [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs by Google Code Labs
+- [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase integration by Google Code Labs
+- [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Detailed planets design tutorial
+- [Todo List](https://github.com/lesnitsky/todolist_flutter) – Step by step tutorial how to build Todo List with Flutter by [Andrei Lesnitsky](https://twitter.com/lesnitsky_a)
+
+### Beginner
+
+- [Zero to One Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) <!--claps:dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb--> - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn)
+- [Animations in Flutter](https://proandroiddev.com/animations-in-flutter-6e02ee91a0b2) <!--claps:@muhammedsalihguler/animations-in-flutter-6e02ee91a0b2--> - Commonly used animation examples by [Muhammed Salih Güler](https://proandroiddev.com/@muhammedsalihguler)
+- [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - Extensive examples of layout widgets by [Tomek Polański](https://github.com/tomaszpolanski)
+
 ### Advanced
 
 - [Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU) <!--youtube:video/UUfXWzp0-DU--> - Engine architecture by Adam Barth
@@ -99,6 +92,13 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Rendering Engine Tutorial](https://medium.com/saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d) <!--claps:saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d--> - Flutter's Rendering Engine: A Tutorial by [AbdulRahman AlHamali](https://github.com/AbdulRahmanAlHamali/)
 - [Inherited Widget](https://medium.com/@chemamolins/is-flutters-inheritedwidget-a-good-fit-to-hold-app-state-2ec5b33d023e) - Flutter’s InheritedWidget to hold app state by [Chema Molins](https://github.com/jmolins)
 - [Flutter: from Mobile to Desktop](https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e) - Building applications for smartphones and desktops by [Marcelo Henrique Neppel](https://neppel.com.br)
+
+### Howtos
+
+- [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) <!--youtube:video/p4yLzYwy_4g--> - Firebase live coding
+- [Securing Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) <!--claps:@mehmetf_71205/securing-flutter-apps-ada13e806a69--> - By Mehmet Fidanboylu
+- [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) <!--claps:@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a--> - How to make a custom plug-in by [Karthik Ponnam](https://medium.com/@KarthikPonnam)
+- [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) <!--claps:@salvatoregiordanoo/flavoring-flutter-392aaa875f36--> - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
 
 ## Videos
 
@@ -111,7 +111,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Coding With Flutter](https://www.youtube.com/watch?v=u_Lyx8KJWpg&list=PLNnAcB93JKV9iZ2cwk9MEx3_JG8BRikMP) <!--youtube:list/PLNnAcB93JKV9iZ2cwk9MEx3_JG8BRikMP--> - Video tutorials and live-coding examples by [Andrea Bizzotto](https://medium.com/@biz84).
 - [Flutter Crash Course](https://fluttercrashcourse.com) - Free video course by [Nick Manning](https://twitter.com/seenickcode).
 - [Boring Show](https://www.youtube.com/results?search_query=%23BoringShow) - Exploration with the Flutter Team.
-
 
 ## Components
 

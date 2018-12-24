@@ -124,7 +124,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [3D Object](https://github.com/hemanthrajv/flutter_3d_obj) [56⭐] - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv).
 - [Contact Picker](https://github.com/goderbauer/contact_picker) [22⭐] - Picking contact from the address book by [Michael Goderbauer](https://github.com/goderbauer).
-- [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) [354⭐] - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar).
+- [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) [355⭐] - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar).
 - [Sticky Header](https://github.com/letsar/flutter_sticky_header) [140⭐] - Sliver based sticky headers by [Romain Rastel](https://github.com/letsar).
 - [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) [138⭐] - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts).
 - [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) [153⭐] - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu).
@@ -353,12 +353,16 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Redux.dart](https://github.com/johnpryan/redux.dart) [213⭐] - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects).
 - [Redux](https://github.com/brianegan/flutter_redux) [488⭐] - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets.
 - [Dartea](https://github.com/p69/dartea) [53⭐] - Model View Update inspired by TEA from ELM by [Shilyagov P](https://github.com/p69).
-- [Inject](https://github.com/google/inject.dart) [307⭐] - Compile-time dependency injection for Dart and Flutter by Google.
-- [Flutter_flux](https://github.com/google/flutter_flux) [261⭐] - Implementation of the Flux framework by Google.
+- [Inject](https://github.com/google/inject.dart) [307⭐] - Compile-time dependency injection by Google.
+- [Flutter_flux](https://github.com/google/flutter_flux) [261⭐] - Implementation of the Flux framework by Google	 - [Flux](https://github.com/google/flutter_flux) [261⭐] - Implementation of the Flux framework by Google
+
+### Widgets
+
+- [Hooks](https://github.com/rrousselGit/flutter_hooks) <!--stargazers:rrousselGit/flutter_hooks --> - A new kind of widget with advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit).
 
 ### Data
 
-- [Graphql_flutter](https://github.com/zino-app/graphql-flutter) [434⭐] - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app).
+- [Graphql](https://github.com/zino-app/graphql-flutter) [434⭐] - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app).
 
 ### Animation
 
@@ -369,7 +373,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Game Engine
 
-- [Flame](https://github.com/luanpotter/flame) [564⭐] - Minimalist game engine by [Luan Nico](https://github.com/luanpotter).
+- [Flame](https://github.com/luanpotter/flame) [565⭐] - Minimalist game engine by [Luan Nico](https://github.com/luanpotter).
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) [451⭐] - Toolkit for building complex, high performance animations and 2D games by [Viktor Lidholt](https://github.com/vlidholt).
 
 ### Misc

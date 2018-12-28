@@ -33,7 +33,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   </a>
 </td>
   <td style="text-align: center">
-<img src="https://raw.githubusercontent.com/letsar/flutter_staggered_grid_view/master/doc/images/dynamic_tile_sizes.gif" width="200"/>
+<img src="https://camo.githubusercontent.com/23d3c78b0a2b645567630468bd68d54c02c2076a/68747470733a2f2f63646e2e3264696d656e73696f6e732e636f6d2f315f53746172742e676966" width="200"/>
 </td>
 </tr></table></div>
 
@@ -383,6 +383,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Cache Manager](https://github.com/renefloor/flutter_cache_manager) <!--stargazers:renefloor/flutter_cache_manager--> - Generic cache manager by [Rene Floor](https://github.com/renefloor)
 
 ## Open Source Apps
+
+### Premium
+
+- [History Of Everything](https://github.com/2d-inc/HistoryOfEverything) <!--stargazers:2d-inc/HistoryOfEverything--> - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/)
+
+### Top
 
 - [FriendlyChat](https://github.com/flutter/friendlychat-flutter) <!--stargazers:flutter/friendlychat-flutter--> - Offline/Firebase chat by a team of Googlers.
 - [Meme Chat](https://github.com/efortuna/memechat) <!--stargazers:efortuna/memechat--> - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.

@@ -159,6 +159,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Parallax](https://github.com/FlutterRocks/page-transformer) <!--stargazers:FlutterRocks/page-transformer--> - ViewPager by [Iiro Krankka](https://github.com/roughike)
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) <!--stargazers:hnvn/flutter_shimmer--> - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
 - [Wave](https://github.com/i-protoss/wave) <!--stargazers:i-protoss/wave--> - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
+- [Custom Shape Clippers](https://github.com/lohanidamodar/flutter_custom_clippers) <!--stargazers:lohanidamodar/flutter_custom_clippers--> - Clipping widgets to various custom shapes by [DamodarLohani](https://github.com/lohanidamodar)
 
 #### Calendar
 

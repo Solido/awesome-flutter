@@ -72,6 +72,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Tutorial
 
+- [Flutter tutorials](https://www.youtube.com/watch?v=QQrRmuFDZs0&list=PLWBrqglnjNl3sexiXo45aN_JdOJ9pxOoQ) - Flutter tutorials for beginners by [Nguyen Duc Hoang](https://github.com/sunlight3d).
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs by Google Code Labs
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase integration by Google Code Labs
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Detailed planets design tutorial

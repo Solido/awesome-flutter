@@ -290,6 +290,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [The Gorgeous Login](https://github.com/huextrat/TheGorgeousLogin) [358⭐] - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat).
 - [Liquid Pay Payment App](https://github.com/longhoang2984/flutter_payment_app_ui) [49⭐] - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984).
 - [DrawApp](https://github.com/SnakeyHips/drawapp) [46⭐] - Sample Drawing App to demonstrate how to allow user to draw onto canvas with color picker and brush thickness slider by [Jake Gough](https://github.com/SnakeyHips).
+- [Bloc architecture](https://github.com/filiph/state_experiments) [457⭐] - Companion repository to the "Build reactive mobile apps in Flutter" talk https://www.youtube.com/watch?v=RS36gBEp8OI
 
 ### Machine Learning
 

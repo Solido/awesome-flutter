@@ -362,6 +362,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Widgets
  
 - [Hooks](https://github.com/rrousselGit/flutter_hooks) <!--stargazers:rrousselGit/flutter_hooks --> - A new kind of widget with advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit)
+- [Functional widget](https://github.com/rrousselGit/functional_widget) <!--stargazers:rrousselGit/functional_widget--> - A code generator that allows writing widgets as functions instead of classes by [Remi Rousselet](https://github.com/rrousselGit)
 
 ### Data
 

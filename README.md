@@ -5,7 +5,7 @@
     <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-9018-orange.svg" />
   </a>
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-15033-brightgreen.svg" />
+    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-15034-brightgreen.svg" />
   </a>
   <img alt="Entries" src="https://img.shields.io/badge/Items-241-lightgrey.svg" />
   <a href="https://github.com/sindresorhus/awesome">
@@ -450,6 +450,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Twitter](https://twitter.com/FlutterDev) - Toutes les news et annonces dans votre flux.
 - [Slack](https://slack.flutter-france.fr) - Slack dédié à la communauté française.
+
+- [Meetup Bordeaux](https://www.meetup.com/fr-FR/Flutter-Bordeaux)
+- [Meetup Paris](https://www.meetup.com/fr-FR/Flutter-Paris)
+- [Meetup Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
+
 
 ### 🇷🇺
 

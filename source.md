@@ -451,11 +451,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Twitter](https://twitter.com/FlutterDev) - Toutes les news et annonces dans votre flux.
 - [Slack](https://slack.flutter-france.fr) - Slack dédié à la communauté française.
 
-#### Villes
+- [Meetup Bordeaux](https://www.meetup.com/fr-FR/Flutter-Bordeaux)
+- [Meetup Paris](https://www.meetup.com/fr-FR/Flutter-Paris)
+- [Meetup Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
 
-- [Bordeaux](https://www.meetup.com/fr-FR/Flutter-Bordeaux)
-- [Paris](https://www.meetup.com/fr-FR/Flutter-Paris)
-- [Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes/)
 
 ### 🇷🇺
 

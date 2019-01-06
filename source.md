@@ -446,6 +446,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter Community](https://github.com/fluttercommunity) - Central place for community made packages
 - [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让Flutter更简单
 - [Telegram chat (ru-RU)](https://t.me/rudart) - russian speaking Dart & Flutter community
+- [Flutter France Slack](https://slack.flutter-france.fr) - A Slack to discuss about Dart and Flutter in French
 
 ## Books
 

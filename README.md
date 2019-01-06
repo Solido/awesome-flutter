@@ -146,6 +146,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) [20⭐] - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) [104⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) [2⭐] - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
+- [Rounded Letter](https://github.com/jhomlala/roundedletter) [1⭐] - Widget which allows you to create letter inside shape by [Jakub Homlala](https://github.com/jhomlala).
 
 #### Material Design
 

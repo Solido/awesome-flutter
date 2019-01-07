@@ -456,9 +456,13 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Meetup Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
 
 
-### 🇷🇺
+### 🇷🇺 Russia
 
 - [Telegram](https://t.me/rudart) - Russian speaking Dart & Flutter community.
+
+### 🇺🇸 United States
+
+- [Chicago Flutter Meetup](https://www.meetup.com/Flutter-Chicago/)
 
 ## Books
 

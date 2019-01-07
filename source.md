@@ -442,6 +442,18 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google
 - [Golang Desktop Embedder](https://github.com/Drakirus/go-flutter-desktop-embedder) <!--stargazers:Drakirus/go-flutter-desktop-embedder--> - Golang embedder for desktop by [Pierre Champion](https://github.com/Drakirus)
 
+## Books
+
+- [Flutter in Action](https://www.manning.com/books/flutter-in-action?a_aid=flutterinaction&a_bid=d08c3247) - Complete Flutter and Dart resource, currently in 'Early Access'.
+
+## Bonus
+
+- [It's All Widgets!](https://itsallwidgets.com) - Open list of published apps by [Hillel Coren](https://twitter.com/hillelcoren), [Thomas Burkhart](https://twitter.com/ThomasBurkhartB), [Simon Lightfoot](https://twitter.com/devangelslondon) and [Scott Stoll](https://twitter.com/scottstoll2017)
+
+### Fun
+
+- [The One](https://www.youtube.com/watch?v=sIIgtClYq0s) <!--youtube:video/sIIgtClYq0s-->
+
 ## Community
 
 - [Gitter](https://gitter.im/flutter/flutter) - Exchange channel   
@@ -455,9 +467,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Twitter](https://twitter.com/FlutterDev) - Toutes les news et annonces dans votre flux.
 - [Slack](https://slack.flutter-france.fr) - Slack dédié à la communauté française.
 
-- [Meetup Bordeaux](https://www.meetup.com/fr-FR/Flutter-Bordeaux)
-- [Meetup Paris](https://www.meetup.com/fr-FR/Flutter-Paris)
-- [Meetup Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
+- Meetup [Bordeaux](https://www.meetup.com/fr-FR/Flutter-Bordeaux) - [Paris](https://www.meetup.com/fr-FR/Flutter-Paris) - [Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
 
 
 ### 🇷🇺 Russia
@@ -466,19 +476,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### 🇺🇸 United States
 
-- [Chicago Flutter Meetup](https://www.meetup.com/Flutter-Chicago/)
-
-## Books
-
-- [Flutter in Action](https://www.manning.com/books/flutter-in-action?a_aid=flutterinaction&a_bid=d08c3247) - Complete Flutter and Dart resource, currently in 'Early Access'. (42% off with code 'slwindmill').
-
-## Bonus
-
-- [It's All Widgets!](https://itsallwidgets.com) - Open list of published apps by [Hillel Coren](https://twitter.com/hillelcoren), [Thomas Burkhart](https://twitter.com/ThomasBurkhartB), [Simon Lightfoot](https://twitter.com/devangelslondon) and [Scott Stoll](https://twitter.com/scottstoll2017)
-
-### Fun
-
-- [The One](https://www.youtube.com/watch?v=sIIgtClYq0s) <!--youtube:video/sIIgtClYq0s-->
+- Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
 
 ## License
 

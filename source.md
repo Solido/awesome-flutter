@@ -230,11 +230,13 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Build automation
 
-- [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) <!--stargazers:yjbanov/flutter_travis_sample--> - Continuous integration by [Yegor Jbanov](https://twitter.com/yegorjbanov)
-- [Test on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) <!--claps:@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c--> - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov)
-- [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) <!--claps:@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4--> - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov)
-- [BitRise](https://medium.com/@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2) <!--claps:@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2--> - Create Bitrise Step in Go by [Karol Wrótniak](https://medium.com/@karol.wrotniak)
-- [Code Magic](https://codemagic.io/) - Automate the entire flow, build and distribution by (NeverCode)[https://nevercode.io/]
+
+- [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) [38⭐] - Continuous integration by [Yegor Jbanov](https://twitter.com/yegorjbanov).
+- [Test on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) [370 claps👏] - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov).
+- [Bitrise for Flutter](https://go.bitrise.io/flutter-ci) - Free Flutter ci (continuous integration, test and distribution automation for solo devs, teams and enterprises).
+- [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) [241 claps👏] - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov).
+- [Flutter step in Go](https://medium.com/@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2) [62 claps👏] - Create Bitrise Step in Go by [Karol Wrótniak](https://medium.com/@karol.wrotniak).
+- [Code Magic](https://codemagic.io/) - Automate the entire flow, build and distribution by (NeverCode)[https://nevercode.io/].
 
 ### Styling
 

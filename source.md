@@ -398,6 +398,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Top
 
 - [Flutter Team Samples](https://github.com/flutter/samples) <!--stargazers:flutter/samples--> - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people)
+- [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app) <!--stargazers:alibaba/flutter-common-widgets-app--> - Collection of official widgets demos & docs in chinese to help developers learn quickly by [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend)
 - [Meme Chat](https://github.com/efortuna/memechat) <!--stargazers:efortuna/memechat--> - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 - [Flitter](https://github.com/dart-flitter/flitter) <!--stargazers:dart-flitter/flitter--> - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
 - [Lime](https://github.com/fablue/lime-flutter) <!--stargazers:fablue/lime-flutter--> - Lime social network by Sebastian Sellmair

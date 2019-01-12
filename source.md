@@ -481,7 +481,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### 🇩🇰 Denmark
 
-- Meetup (https://www.meetup.com/Flutter-Developers-Denmark/)
+- Meetup [Denmark](https://www.meetup.com/Flutter-Developers-Denmark/)
 
 
 ## License

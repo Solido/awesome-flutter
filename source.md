@@ -479,6 +479,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
 
+### 🇩🇰 Denmark
+
+- Meetup [Denmark](https://www.meetup.com/Flutter-Developers-Denmark/)
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

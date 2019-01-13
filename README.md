@@ -417,6 +417,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) [124⭐] - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
 - [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT).
 - [Deer](https://github.com/aleksanderwozniak/deer) [65⭐] - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
+- [Flutter Starter Kit](https://github.com/KingWu/flutter_starter_kit) [59⭐] - A starter kit for beginner learns with Bloc pattern, RxDart, sqflite, Fluro and Dio to architect a flutter project. This starter kit build an App Store app as a example by [King Wu](https://github.com/KingWu).
 
 ### Block / Angular / PWA
 

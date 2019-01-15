@@ -360,6 +360,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Inject](https://github.com/google/inject.dart) [333⭐] - Compile-time dependency injection by Google.
 - [Flux](https://github.com/google/flutter_flux) [271⭐] - Implementation of the Flux framework by Google.
 
+### State Management
+
+- [MobX](https://github.com/mobxjs/mobx.dart) - Supercharge the state-management in your Dart and Flutter apps with Transparent Functional Reactive Programming (TFRP). This is a port of MobX from the JavaScript/React land.
+
 ### Widgets
 
 - [Hooks](https://github.com/rrousselGit/flutter_hooks) [274⭐] - Advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit).

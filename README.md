@@ -146,7 +146,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) [23⭐] - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) [122⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) [17⭐] - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
-
+- [flutter_icons](https://github.com/flutter-studio/flutter-icons) - Customizable Icons for Flutter :boom:
 #### Material Design
 
 - [Material Color Picker](https://github.com/long1eu/material_color_picker) [42⭐] - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu).

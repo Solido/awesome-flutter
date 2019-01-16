@@ -57,6 +57,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Introduction
 
 - [Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19) <!--claps:flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19--> - Building beautiful, flexible user interfaces
+- [Hello, Flutter](https://hijiangtao.github.io/slides/s-Fliggy/Hello-Flutter-at-Beginning-of-2019.html#/) - A brief recap of Mobile Development and detailed introduction about Flutter and its internals from three aspects (WHAT, WHY and HOW). Created by [hijiangtao](https://hijiangtao.js.org/)
 
 ### Websites / Blogs
 

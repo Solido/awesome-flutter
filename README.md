@@ -240,6 +240,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Flutterial](https://github.com/rxlabz/flutterial) [104⭐] - Flutter Material Theme explorer by [Erick Ghaumez](https://twitter.com/rxlabz).
 - [Pigment](https://github.com/bregydoc/pigment) [62⭐] - Simple but useful package for use colors in flutter.
+- [smart_color](https://github.com/flutter-studio/smart-color) - A smart color package, All ant design colors are included in the plugin
 
 ### Media
 

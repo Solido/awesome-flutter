@@ -57,6 +57,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Introduction
 
 - [Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19) <!--claps:flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19--> - Building beautiful, flexible user interfaces
+- [Presentation](https://speakerdeck.com/hjjunior/why-i-chose-flutter) - by [Helio S. Junior](https://github.com/hjJunior)
 
 ### Websites / Blogs
 
@@ -460,6 +461,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [The One](https://www.youtube.com/watch?v=sIIgtClYq0s) <!--youtube:video/sIIgtClYq0s-->
 
 ## Community
+
+### Presentation material
+
+- [Logo](https://drive.google.com/drive/folders/1GDGdQ0ghrxTNTx6aZLT41eV5sPZvV7bU) - Logo for stickers impressions
+
+### Communication
 
 - [Gitter](https://gitter.im/flutter/flutter) - Exchange channel   
 - [r/FlutterDev Subreddit](https://www.reddit.com/r/FlutterDev/) - Reddit community by [u/JaapVermeulen](https://www.reddit.com/user/JaapVermeulen)

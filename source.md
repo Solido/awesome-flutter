@@ -384,6 +384,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Misc
 
 - [Cache Manager](https://github.com/renefloor/flutter_cache_manager) <!--stargazers:renefloor/flutter_cache_manager--> - Generic cache manager by [Rene Floor](https://github.com/renefloor)
+- [Frideos](https://github.com/frideosapps/frideos_flutter) - A collection of helpers to work with streams and the BLoC pattern, and various widgets for Flutter by [Francesco Mineo](https://github.com/frideosapps)
 
 ### Testing
 

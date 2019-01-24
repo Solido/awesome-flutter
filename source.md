@@ -99,6 +99,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Rendering Engine Tutorial](https://medium.com/saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d) <!--claps:saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d--> - Flutter's Rendering Engine: A Tutorial by [AbdulRahman AlHamali](https://github.com/AbdulRahmanAlHamali/)
 - [Inherited Widget](https://medium.com/@chemamolins/is-flutters-inheritedwidget-a-good-fit-to-hold-app-state-2ec5b33d023e) - Flutter’s InheritedWidget to hold app state by [Chema Molins](https://github.com/jmolins)
 - [Flutter: from Mobile to Desktop](https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e) - Building applications for smartphones and desktops by [Marcelo Henrique Neppel](https://neppel.com.br)
+- [A deep dive into Flutter's accessibility widgets](https://medium.com/flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc) <!--claps:lutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc--> - Getting a deep dive information about accessibility in Flutter by [Muhammed Salih Güler](https://twitter.com/salihgueler)
 
 ### Howtos
 
@@ -499,6 +500,15 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### 🇩🇰 Denmark
 
 - Meetup [Denmark](https://www.meetup.com/Flutter-Developers-Denmark/)
+
+### 🇩🇪 Germany
+
+- Meetup [Flutter Berlin](https://www.meetup.com/flutter-berlin/)
+- Slack [Flutter Berlin](https://flutterberlin.slack.com/join/shared_invite/enQtMzQ1NDI0NjU4Mjc5LWVjOTg0NmUxZmU4YzZjZjFkMWNjYWYyYTI5NjMyZWE5MDZjNDM0YzgyNWQyM2EzM2E0NDE4ZmQyMzQyMzRlNjI)
+- Twitter [Flutter Berlin](https://twitter.com/flutterBerlin)
+- Meetup [flutter.school Düsseldorf](https://www.meetup.com/flutter-school/)
+- Twitter [flutter.school Düsseldorf](https://twitter.com/flutter_school)
+- Meetup [Karlsruhe Flutter Meetup](https://www.meetup.com/Karlsruhe-Flutter-Meetup/)
 
 
 ## License

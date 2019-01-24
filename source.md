@@ -98,8 +98,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Schemas](https://www.didierboelens.com/2018/06/widget---state---context---inheritedwidget/) - Widget, State, Context and InheritedWidget explanations by [Didier Boelens](https://didierboelens.com)
 - [Rendering Engine Tutorial](https://medium.com/saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d) <!--claps:saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d--> - Flutter's Rendering Engine: A Tutorial by [AbdulRahman AlHamali](https://github.com/AbdulRahmanAlHamali/)
 - [Inherited Widget](https://medium.com/@chemamolins/is-flutters-inheritedwidget-a-good-fit-to-hold-app-state-2ec5b33d023e) - Flutter’s InheritedWidget to hold app state by [Chema Molins](https://github.com/jmolins)
-- [Flutter: from Mobile to Desktop](https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e) - Building applications for smartphones and desktops by [Marcelo Henrique Neppel](https://neppel.com.br)
-- [A deep dive into Flutter's accessibility widgets](https://medium.com/flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc) <!--claps:lutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc--> - Getting a deep dive information about accessibility in Flutter by [Muhammed Salih Güler](https://twitter.com/salihgueler)
+- [From Mobile to Desktop](https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e) - Building applications for smartphones and desktops by [Marcelo Henrique Neppel](https://neppel.com.br)
+- [Accessibility widgets](https://medium.com/flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc) <!--claps:lutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc--> - Deep dive information about all aspects of accessibility by [Muhammed Salih Güler](https://twitter.com/salihgueler)
 
 ### Howtos
 
@@ -481,13 +481,21 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter Community](https://github.com/fluttercommunity) - Central place for community made packages
 - [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让Flutter更简单
 
+### 🇩🇰 Denmark
+
+- Meetup [Denmark](https://www.meetup.com/Flutter-Developers-Denmark/)
+
 ### 🇫🇷France
 
+- Meetup [Bordeaux](https://www.meetup.com/fr-FR/Flutter-Bordeaux) - [Paris](https://www.meetup.com/fr-FR/Flutter-Paris) - [Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
 - [Twitter](https://twitter.com/FlutterDev) - Toutes les news et annonces dans votre flux.
 - [Slack](https://slack.flutter-france.fr) - Slack dédié à la communauté française.
 
-- Meetup [Bordeaux](https://www.meetup.com/fr-FR/Flutter-Bordeaux) - [Paris](https://www.meetup.com/fr-FR/Flutter-Paris) - [Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
+### 🇩🇪 Germany
 
+- Meetup [Berlin](https://www.meetup.com/flutter-berlin/) - [Düsseldorf](https://www.meetup.com/flutter-school/) - [Karlsruhe](https://www.meetup.com/Karlsruhe-Flutter-Meetup/)
+- Twitter [Flutter Berlin](https://twitter.com/flutterBerlin) - [Düsseldorf](https://twitter.com/flutter_school)
+- Slack [Flutter Berlin](https://flutterberlin.slack.com/join/shared_invite/enQtMzQ1NDI0NjU4Mjc5LWVjOTg0NmUxZmU4YzZjZjFkMWNjYWYyYTI5NjMyZWE5MDZjNDM0YzgyNWQyM2EzM2E0NDE4ZmQyMzQyMzRlNjI)
 
 ### 🇷🇺 Russia
 
@@ -497,18 +505,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
 
-### 🇩🇰 Denmark
-
-- Meetup [Denmark](https://www.meetup.com/Flutter-Developers-Denmark/)
-
-### 🇩🇪 Germany
-
-- Meetup [Flutter Berlin](https://www.meetup.com/flutter-berlin/)
-- Slack [Flutter Berlin](https://flutterberlin.slack.com/join/shared_invite/enQtMzQ1NDI0NjU4Mjc5LWVjOTg0NmUxZmU4YzZjZjFkMWNjYWYyYTI5NjMyZWE5MDZjNDM0YzgyNWQyM2EzM2E0NDE4ZmQyMzQyMzRlNjI)
-- Twitter [Flutter Berlin](https://twitter.com/flutterBerlin)
-- Meetup [flutter.school Düsseldorf](https://www.meetup.com/flutter-school/)
-- Twitter [flutter.school Düsseldorf](https://twitter.com/flutter_school)
-- Meetup [Karlsruhe Flutter Meetup](https://www.meetup.com/Karlsruhe-Flutter-Meetup/)
 
 
 ## License

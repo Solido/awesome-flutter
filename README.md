@@ -74,6 +74,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515).
 - [Welcome to Flutter](https://didierboelens.com) - English and French blog dedicated to providing practical solutions to most asked questions about Flutter by Didier Boelens.
 - [Flutter Tips](https://medium.com/@diegoveloper) - Articles, tips & tricks in the development by [Diego Velásquez](https://twitter.com/diegoveloper).
+- [Flutter Examples](https://github.com/TakeoffAndroid/FlutterExamples) - Visual documentation for flutter to create widgets and layouts in minutes.
 
 ### Tutorial
 

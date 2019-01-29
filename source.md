@@ -481,6 +481,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter Community](https://github.com/fluttercommunity) - Central place for community made packages
 - [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让Flutter更简单
 
+### 🇧🇷 Brazil
+
+- [Flutter talk](https://github.com/JHBitencourt/flutter_talk) de introdução ao Flutter em português by [Julio Bitencourt](http://juliobitencourt.com)
+- Slack [Flutter Brasil](https://flutterbr.slack.com)
+
 ### 🇩🇰 Denmark
 
 - Meetup [Denmark](https://www.meetup.com/Flutter-Developers-Denmark/)

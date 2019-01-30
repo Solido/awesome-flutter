@@ -425,6 +425,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) [136⭐] - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
 - [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT).
 - [Deer](https://github.com/aleksanderwozniak/deer) [78⭐] - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
+- [Yourly](https://github.com/dennisbappert/yourly) [1⭐] - Yet another news reader app written in flutter to enhance the daily news routine  [Dennis Bappert](https://github.com/dennisbappert).
 
 ### Block / Angular / PWA
 

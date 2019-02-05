@@ -425,6 +425,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) <!--stargazers:matthewtory/trinity-orientation-2018--> - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
 - [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)
 - [Deer](https://github.com/aleksanderwozniak/deer) <!--stargazers:aleksanderwozniak/deer--> - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
+- [Antaragni'18 @ IIT Kanpur](https://github.com/gsunit/Antaragni-18-Flutter-App) <!--stargazers:gsunit/Antaragni-18-Flutter-App--> - Flutter app for one of India's biggest college cultural festival by [Sunit Gautam](https://github.com/gsunit) & [Suyash Singh](https://github.com/suyashsi)
+
 
 ### Block / Angular / PWA
 

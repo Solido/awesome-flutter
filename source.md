@@ -378,6 +378,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Data
 
 - [Graphql](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
+- [Kuzzle](https://github.com/prijindal/kuzzle_dart) <!--stargazers:prijindal/kuzzle_dart--> - A library to interact with kuzzle API. A backend software, self-hostable and ready to use to power modern cross-platform apps by [Prijindal](https://github.com/prijindal)
 
 ### Animation
 

@@ -153,6 +153,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) <!--stargazers:RafaelBarbosatec/hidden_drawer_menu--> - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) <!--stargazers:aagarwal1012/Liquid-Pull-To-Refresh--> - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) <!--stargazers:tunitowen/fancy_bottom_navigation--> - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
+- [Animated Navigation Drawer](https://github.com/sad1996/flippo_navigation) <!--stargazers:sad1996/flippo_navigation--> - Animated navigation drawer by [Mohamed Sadakathulla](https://github.com/sad1996).
+
 
 #### Material Design
 
@@ -302,6 +304,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Liquid Pay Payment App](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
 - [DrawApp](https://github.com/SnakeyHips/drawapp) <!--stargazers:SnakeyHips/drawapp--> - Sample Drawing App to demonstrate how to allow user to draw onto canvas with color picker and brush thickness slider by [Jake Gough](https://github.com/SnakeyHips)
 - [Starter Kit](https://github.com/KingWu/flutter_starter_kit) <!--stargazers:KingWu/flutter_starter_kit--> - App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by [King Wu](https://github.com/KingWu)
+- [Animated Navigation Drawer](https://github.com/sad1996/flippo) <!--stargazers:sad1996/flippo--> - Animated navigation drawer by [Mohamed Sadakathulla](https://github.com/sad1996).
 
 ### Machine Learning
 

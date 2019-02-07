@@ -155,7 +155,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) <!--stargazers:tunitowen/fancy_bottom_navigation--> - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
 - [Animated Navigation Drawer](https://github.com/sad1996/flippo_navigation) <!--stargazers:sad1996/flippo_navigation--> - Animated navigation drawer by [Mohamed Sadakathulla](https://github.com/sad1996).
 
-
 #### Material Design
 
 - [Material Color Picker](https://github.com/long1eu/material_color_picker) <!--stargazers:long1eu/material_color_picker--> - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu)

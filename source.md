@@ -237,10 +237,17 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Build automation
 
-- [Test on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) <!--claps:yegorj/test-flutter-apps-on-travis-3fd5142ecd8c--> - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov).
+#### Build solutions
+
 - [Bitrise for Flutter](https://devcenter.bitrise.io/getting-started/getting-started-with-flutter-apps/) - Flutter build, test and deployment automation, free for Open Source and smaller projects.
-- [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) <!--claps:yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4--> - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov).
-- [Code Magic](https://codemagic.io/) - Automate build and distribution by [NeverCode](https://nevercode.io).
+- [Code Magic](https://codemagic.io/) - Automate the entire flow, build and distribution by (NeverCode)[https://nevercode.io/]
+- [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) <!--stargazers:yjbanov/flutter_travis_sample--> - Continuous integration by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+
+#### Build articles
+
+- [Test on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) <!--claps:@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c--> - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) <!--claps:@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4--> - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [Automatic code signing for iOS without Mac](https://blog.codemagic.io/automatic-code-signing-for-ios-that-doesnt-require-a-mac/) by Helina Ariva
 
 ### Styling
 

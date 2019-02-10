@@ -332,6 +332,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [AppAvailability](https://github.com/pichillilorenzo/flutter_appavailability) [11⭐] - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo).
 - [Aeyrium Sensor](https://github.com/aeyrium/aeyrium-sensor) [20⭐] - A plugin which provide easy access to the Pitch and Roll on Android and iOS devices by [Diego Velásquez](https://github.com/aeyrium).
 - [File Picker](https://github.com/miguelpruivo/plugins_flutter_file_picker) [28⭐] - Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo).
+- [Catcher](https://github.com/jhomlala/catcher) [53⭐] - A plugin which automatically catches error/exceptions and handle them. Catcher offers mutliple way to handle errors.
 
 #### Scanner
 

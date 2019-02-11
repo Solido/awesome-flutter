@@ -332,7 +332,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [AppAvailability](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 - [Aeyrium Sensor](https://github.com/aeyrium/aeyrium-sensor) <!--stargazers:aeyrium/aeyrium-sensor--> - A plugin which provide easy access to the Pitch and Roll on Android and iOS devices by [Diego Velásquez](https://github.com/aeyrium).
 - [File Picker](https://github.com/miguelpruivo/plugins_flutter_file_picker) <!--stargazers:miguelpruivo/plugins_flutter_file_picker--> -  Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo)
-- [Catcher](https://github.com/jhomlala/catcher) <!--stargazers:jhomlala/catcher--> - A plugin which automatically catches errors and handles them by [Jakub Homlala](https://github.com/jhomlala)
+
 #### Scanner
 
 - [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
@@ -359,6 +359,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
 - [App Rating](https://github.com/AppleEducate/app_review) <!--stargazers:AppleEducate/app_review--> - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
 - [IBM Watson](https://github.com/VictorRancesCode/flutter_ibm_watson) <!--stargazers:VictorRancesCode/flutter_ibm_watson--> Easily integrate with IBM Watson by [Victor Rances](https://github.com/VictorRancesCode/)
+
+### Log / Tracing
+
+- [Catcher](https://github.com/jhomlala/catcher) <!--stargazers:jhomlala/catcher--> - Automatically catches errors and handles them by [Jakub Homlala](https://github.com/jhomlala)
 
 ## Frameworks
 

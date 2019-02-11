@@ -360,6 +360,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [App Rating](https://github.com/AppleEducate/app_review) <!--stargazers:AppleEducate/app_review--> - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
 - [IBM Watson](https://github.com/VictorRancesCode/flutter_ibm_watson) <!--stargazers:VictorRancesCode/flutter_ibm_watson--> Easily integrate with IBM Watson by [Victor Rances](https://github.com/VictorRancesCode/)
 
+### Log / Tracing
+
+- [Catcher](https://github.com/jhomlala/catcher) <!--stargazers:jhomlala/catcher--> - Automatically catches errors and handles them by [Jakub Homlala](https://github.com/jhomlala)
+
 ## Frameworks
 
 ### Bloc

@@ -439,6 +439,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT).
 - [Deer](https://github.com/aleksanderwozniak/deer) [82⭐] - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
 - [TailorMade](https://github.com/jogboms/tailor_made) [79⭐] - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+- [mStream Music Player](https://github.com/IrosTheBeggar/mstream-flutter [4⭐] - Fully functional music player with gapless playback, file syncing, and other features expected of a high end music app. By [Paul Sori](https://github.com/IrosTheBeggar).
 
 ### Block / Angular / PWA
 

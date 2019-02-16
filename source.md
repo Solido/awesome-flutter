@@ -120,6 +120,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Coding With Flutter](https://www.youtube.com/watch?v=u_Lyx8KJWpg&list=PLNnAcB93JKV9iZ2cwk9MEx3_JG8BRikMP) <!--youtube:list/PLNnAcB93JKV9iZ2cwk9MEx3_JG8BRikMP--> - Video tutorials and live-coding examples by [Andrea Bizzotto](https://medium.com/@biz84).
 - [Flutter Crash Course](https://fluttercrashcourse.com) - Free video course by [Nick Manning](https://twitter.com/seenickcode).
 - [Boring Show](https://www.youtube.com/results?search_query=%23BoringShow) - Exploration with the Flutter Team.
+- [Flutter for the Impatient](https://www.youtube.com/watch?v=u4cSe9dxSlw&list=PLWIO1jq0WrokoaKI-ixET_3eKkJYAZvZ9) <!--youtube:list/PLWIO1jq0WrokoaKI-ixET_3eKkJYAZvZ9--> Mini-video (5 min or less) tutorial series for the impatient by [Impatient Developer](https://www.youtube.com/c/ImpatientDeveloper)
 
 ## Components
 

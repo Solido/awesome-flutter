@@ -389,6 +389,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Data
 
 - [Graphql](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
+- [GeoFlutterFire](https://github.com/DarshanGowda0/GeoFlutterFire) <!--stargazers:DarshanGowda0/GeoFlutterFire--> - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/)
 
 ### Animation
 

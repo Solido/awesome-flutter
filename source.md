@@ -310,6 +310,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Starter Kit](https://github.com/KingWu/flutter_starter_kit) <!--stargazers:KingWu/flutter_starter_kit--> - App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by [King Wu](https://github.com/KingWu)
 - [Feather](https://github.com/jhomlala/feather) <!--stargazers:jhomlala/feather--> - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala)
 
+### Clone
+
+- [GitTouch](https://github.com/pd4d10/git-touch) <!--stargazers:pd4d10/git-touch--> - Open source GitHub client by [Rongjian Zhang](https://github.com/pd4d10)
+
 ### Machine Learning
 
 ## Plugins

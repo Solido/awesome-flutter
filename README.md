@@ -154,6 +154,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) [28⭐] - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) [185⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) [38⭐] - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
+- [Sheet Music](https://github.com/AppleEducate/plugins/tree/master/packages/sheet_music) [30⭐] - Sheet Music Widget that can toggle between treble and bass clef, choose scales and pitches by [Rody Davis](https://github.com/appleeducate).
+- [Native Widgets](https://github.com/AppleEducate/plugins/tree/master/packages/native_widgets) [30⭐] - Show the Native Widgets for each platform by [Rody Davis](https://github.com/appleeducate).
+
 
 #### Material Design
 
@@ -161,6 +164,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Unicorn Speed Dial](https://github.com/tiagojencmartins/unicornspeeddial) [91⭐] - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins).
 - [Slidable](https://github.com/letsar/flutter_slidable) [436⭐] - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar).
 - [RangeSlider](https://github.com/boeledi/RangeSlider) [98⭐] - 2-thumb configurable RangeSlider by [Didier Boelens](https://www.didierboelens.com).
+
+#### Cupertino
+
+- [Cupertino Controllers](https://github.com/AppleEducate/plugins/tree/master/packages/cupertino_controllers) [30⭐] - Cupertino Table View Controller, Search Controller and Master Detail Controller for iOS by [Rody Davis](https://github.com/appleeducate).
 
 #### Effect
 
@@ -264,6 +271,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Audio Recorder](https://github.com/ZaraclaJ/audio_recorder) [69⭐] - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz).
 - [Stereo](https://github.com/2find/stereo) [44⭐] - Playing music on iOS and Android by [2Find](https://github.com/2find).
 - [Flutter Sound](https://github.com/dooboolab/flutter_sound) [59⭐] - Flutter audio recorder and player at one hand by [dooboolab](https://github.com/dooboolab).
+- [Flutter Midi](https://github.com/AppleEducate/plugins/tree/master/packages/flutter_midi) [30⭐] - Flutter Midi Plugin for playing SF2 files by [Rody Davis](https://github.com/appleeducate).
 
 #### Video
 
@@ -334,6 +342,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [AppAvailability](https://github.com/pichillilorenzo/flutter_appavailability) [11⭐] - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo).
 - [Aeyrium Sensor](https://github.com/aeyrium/aeyrium-sensor) [20⭐] - A plugin which provide easy access to the Pitch and Roll on Android and iOS devices by [Diego Velásquez](https://github.com/aeyrium).
 - [File Picker](https://github.com/miguelpruivo/plugins_flutter_file_picker) [28⭐] - Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo).
+- [Flutter SMS](https://github.com/AppleEducate/plugins/tree/master/packages/flutter_sms) [30⭐] - Send SMS and MMS on iOS and Android (iOS will use iMessage when avaliable) by [Rody Davis](https://github.com/appleeducate).
 
 #### Scanner
 

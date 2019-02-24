@@ -466,6 +466,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) <!--stargazers:hillelcoren/flutter-redux-starter--> - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren)
 - [FlutterIcon](http://fluttericon.com/) <!--stargazers:ilikerobots/polyicon--> - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
 - [IntelliJ Redux](https://plugins.jetbrains.com/plugin/11277-redux) - Navigate Redux app by [Hillel Coren](https://twitter.com/hillelcoren)
+- [Flutter Vector Icons](https://github.com/pd4d10/flutter-vector-icons) - Flutter version of [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 
 ### Desktop
 

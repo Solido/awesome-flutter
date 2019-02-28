@@ -534,7 +534,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
 
-### :ci: Côte d'Ivoire (Ivory Coast)
+### 🇨🇮 Côte d'Ivoire (Ivory Coast)
 
 - Facebook [Page](https://web.facebook.com/flutterci/)
 - Facebook [Group](https://web.facebook.com/groups/1725273507587759/)

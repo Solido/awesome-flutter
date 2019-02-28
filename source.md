@@ -88,6 +88,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Animations in Flutter](https://proandroiddev.com/animations-in-flutter-6e02ee91a0b2) <!--claps:@muhammedsalihguler/animations-in-flutter-6e02ee91a0b2--> - Commonly used animation examples by [Muhammed Salih Güler](https://proandroiddev.com/@muhammedsalihguler)
 - [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - Extensive examples of layout widgets by [Tomek Polański](https://github.com/tomaszpolanski)
 - [Pooja's Guide to Flutterverse](https://medium.com/flutter-community/i-want-to-learn-flutter-how-to-start-ffb4145f9b26) <!--claps:flutter-community/i-want-to-learn-flutter-how-to-start-ffb4145f9b26--> - Step by step guide for learning Flutter for super beginners by [Pooja Bhaumik](https://twitter.com/pblead26).
+- [Sending and sharing data](https://medium.com/flutter-community/simple-ways-to-pass-to-and-share-data-with-widgets-pages-f8988534bd5b) - Simple ways to pass to and share data with widgets/pages by [Francesco Mineo](https://github.com/frideosapps)
 
 ### Advanced
 

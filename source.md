@@ -99,7 +99,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Rendering Engine Tutorial](https://medium.com/saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d) <!--claps:saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d--> - Flutter's Rendering Engine: A Tutorial by [AbdulRahman AlHamali](https://github.com/AbdulRahmanAlHamali/)
 - [Inherited Widget](https://medium.com/@chemamolins/is-flutters-inheritedwidget-a-good-fit-to-hold-app-state-2ec5b33d023e) - Flutter’s InheritedWidget to hold app state by [Chema Molins](https://github.com/jmolins)
 - [From Mobile to Desktop](https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e) - Building applications for smartphones and desktops by [Marcelo Henrique Neppel](https://neppel.com.br)
-- [Accessibility widgets](https://medium.com/flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc) <!--claps:lutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc--> - Deep dive information about all aspects of accessibility by [Muhammed Salih Güler](https://twitter.com/salihgueler)
+- [Accessibility widgets](https://medium.com/flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc) <!--claps:flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc--> - Deep dive information about all aspects of accessibility by [Muhammed Salih Güler](https://twitter.com/salihgueler)
+- [Profiling w/ Timeline](https://medium.com/flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3) <!--claps:flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3--> - Using the Timeline allows you to find and address specific performance issues in your application by [Chinmay Garde](https://medium.com/@chinmaygarde)
 
 ### Howtos
 
@@ -220,7 +221,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Instagram](https://hackernoon.com/instagram-authentication-with-flutter-df6424d2d56c) - Instagram auth by [Wilfried Mbouenda Mbogne](http://developer-journey.com/)
 - [Firebase Phone Auth](https://medium.com/@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b) <!--claps:@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b--> - Phone number auth via SMS by [Gildásio Filho](https://github.com/gildaswise)
 - [SimpleAuth](https://github.com/Clancey/simple_auth) <!--stargazers:Clancey/simple_auth--> - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey)
-- [Flutter AppAuth](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth-> - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
+- [Flutter AppAuth](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth--> - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
 
 ### Text & Rich Content
 

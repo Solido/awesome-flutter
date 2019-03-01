@@ -510,6 +510,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter talk](https://github.com/JHBitencourt/flutter_talk) de introdução ao Flutter em português by [Julio Bitencourt](http://juliobitencourt.com)
 - Slack [Flutter Brasil](https://flutterbr.slack.com)
 
+### 🇨🇮 Côte d'Ivoire (Ivory Coast)
+
+- Facebook [Page](https://web.facebook.com/flutterci/)
+- Facebook [Group](https://web.facebook.com/groups/1725273507587759/)
+
 ### 🇩🇰 Denmark
 
 - Meetup [Denmark](https://www.meetup.com/Flutter-Developers-Denmark/)
@@ -540,10 +545,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
 
-### 🇨🇮 Côte d'Ivoire (Ivory Coast)
-
-- Facebook [Page](https://web.facebook.com/flutterci/)
-- Facebook [Group](https://web.facebook.com/groups/1725273507587759/)
 
 ## License
 

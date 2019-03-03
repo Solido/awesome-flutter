@@ -7,7 +7,7 @@
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
     <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-20223-brightgreen.svg" />
   </a>
-  <img alt="Entries" src="https://img.shields.io/badge/Items-266-lightgrey.svg" />
+  <img alt="Entries" src="https://img.shields.io/badge/Items-267-lightgrey.svg" />
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   </a>
@@ -469,6 +469,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [TRex](https://github.com/renancaraujo/trex-flame) [90⭐] - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo).
 - [Crush](https://github.com/boeledi/flutter_crush) [116⭐] - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com).
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) [35⭐] - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo).
+- [Tetris](https://github.com/boyan01/flutter-tetris) - Tetris game by [YangBin](https://github.com/boyan01).
 
 ## Utilities
 

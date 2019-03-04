@@ -425,6 +425,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Ozzie](https://github.com/jorgecoca/ozzie.flutter) <!--stargazers:jorgecoca/ozzie.flutter--> - Ozzie will take an screenshot during integration tests whenever you need by [Jorge Coca](https://github.com/jorgecoca)
 
+### API
+
+- [Flutter Wordpress API](https://github.com/dreamsoftin/flutter_wordpress) <!--stargazers:dreamsoftin/flutter_wordpress--> - Build Flutter app for your Wordpress Website. This library provides API's for your application to interact with your WordPress website. Example app is included. by [Dreamsoft](https://github.com/dreamsoftin)
+
 ## Open Source Apps
 
 ### Premium

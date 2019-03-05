@@ -479,7 +479,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) <!--stargazers:hillelcoren/flutter-redux-starter--> - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren)
 - [FlutterIcon](http://fluttericon.com/) <!--stargazers:ilikerobots/polyicon--> - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
 - [IntelliJ Redux](https://plugins.jetbrains.com/plugin/11277-redux) - Navigate Redux app by [Hillel Coren](https://twitter.com/hillelcoren)
-- [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - A collection of commonly used Flutter classes and methods by [Nash](https://twitter.com/Nash0x7E2)
+
+### VSCode
+
+- [Awesome Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Collection of commonly used classes and methods by [Nash](https://twitter.com/Nash0x7E2)
 
 ### Desktop
 

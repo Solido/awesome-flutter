@@ -356,6 +356,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Blue](https://github.com/pauldemarco/flutter_blue) <!--stargazers:pauldemarco/flutter_blue--> - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
 - [Beacons](https://github.com/loup-v/beacons) <!--stargazers:loup-v/beacons--> - Flutter beacons plugin by [Loup](http://intheloup.io)
 - [NFC Reader](https://github.com/matteocrippa/flutter-nfc-reader) <!--stargazers:matteocrippa/flutter-nfc-reader--> - NFC reader plugin for iOS and Android by [Matteo Crippa](https://github.com/matteocrippa)
+- [Beacon broadcast](https://github.com/pszklarska/beacon_broadcast) <!--stargazers:pszklarska/beacon_broadcast--> - Library for turning your phone into a beacon by [Paulina Szklarska](https://github.com/pszklarska/)
 
 ### Storage
 

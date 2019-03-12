@@ -485,7 +485,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### VSCode
 
 - [Awesome Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Collection of commonly used classes and methods by [Nash](https://twitter.com/Nash0x7E2)
-- [Flutter Files](https://marketplace.visualstudio.com/items?itemName=gornivv.vscode-flutter-files) - Fast creation of files based on BLoC templates by context menu by [Gorniv](https://github.com/gorniv).
+- [Flutter Files](https://marketplace.visualstudio.com/items?itemName=gornivv.vscode-flutter-files) - Quick generation for BLoC templates files by context menu by [Gorniv](https://github.com/gorniv).
 
 ### Desktop
 

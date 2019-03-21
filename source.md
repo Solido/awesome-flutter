@@ -481,6 +481,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [FlutterIcon](http://fluttericon.com/) <!--stargazers:ilikerobots/polyicon--> - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
 - [IntelliJ Redux](https://plugins.jetbrains.com/plugin/11277-redux) - Navigate Redux app by [Hillel Coren](https://twitter.com/hillelcoren)
 - [FVM](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
+- [Dart JSON Mapper](https://github.com/k-paxian/dart-json-mapper) <!--stargazers:k-paxian/dart-json-mapper--> - This Package Allows to Annotate Dart Classes in Order to Serialize / Deserialize Them to / From JSON by [Alexander Mazuruk](https://github.com/k-paxian)
 
 ### VSCode
 

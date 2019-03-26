@@ -377,7 +377,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Log / Tracing
 
 - [Catcher](https://github.com/jhomlala/catcher) <!--stargazers:jhomlala/catcher--> - Automatically catches errors and handles them by [Jakub Homlala](https://github.com/jhomlala)
-- [Flipperkit](https://github.com/blankapp/flutter_flipperkit) [50⭐] - Use Flipper debug your Flutter apps running in an emulator/simulator or connected physical development devices by [JianyingLi](https://github.com/lijy91).
 
 ## Frameworks
 
@@ -474,7 +473,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Tetris](https://github.com/boyan01/flutter-tetris) - Tetris game by [YangBin](https://github.com/boyan01)
 
 ## Utilities
-
+- [Flutter Debugger](https://github.com/blankapp/flutter-debugger) - is a standalone app for debugging Flutter apps, Based on [Flipper](https://github.com/facebook/flipper) and provide more functionally. by [JianyingLi](https://github.com/lijy91)
 - [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya)
 - [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) <!--stargazers:hillelcoren/flutter-redux-starter--> - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren)

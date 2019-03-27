@@ -473,13 +473,13 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Tetris](https://github.com/boyan01/flutter-tetris) - Tetris game by [YangBin](https://github.com/boyan01)
 
 ## Utilities
-- [Flutter Debugger](https://github.com/blankapp/flutter-debugger) - is a standalone app for debugging Flutter apps, Based on [Flipper](https://github.com/facebook/flipper) and provide more functionally. by [JianyingLi](https://github.com/lijy91)
 - [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya)
 - [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) <!--stargazers:hillelcoren/flutter-redux-starter--> - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren)
 - [FlutterIcon](http://fluttericon.com/) <!--stargazers:ilikerobots/polyicon--> - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
 - [IntelliJ Redux](https://plugins.jetbrains.com/plugin/11277-redux) - Navigate Redux app by [Hillel Coren](https://twitter.com/hillelcoren)
 - [FVM](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
+- [Flutter Debugger](https://github.com/blankapp/flutter-debugger) - Standalone app for debugging Flutter apps based on [Flipper](https://github.com/facebook/flipper) by [JianyingLi](https://github.com/lijy91)
 
 ### VSCode
 

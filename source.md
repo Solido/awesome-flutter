@@ -524,6 +524,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Flutter talk](https://github.com/JHBitencourt/flutter_talk) de introdução ao Flutter em português by [Julio Bitencourt](http://juliobitencourt.com)
 - Slack [Flutter Brasil](https://flutterbr.slack.com)
+- Medium [Flutter Comunidade BR](https://medium.com/flutter-comunidade-br)
+- Twitter [Flutter Comunidade BR](https://twitter.com/br_flutter)
 
 ### 🇨🇮 Côte d'Ivoire (Ivory Coast)
 

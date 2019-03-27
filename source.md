@@ -316,7 +316,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [DrawApp](https://github.com/SnakeyHips/drawapp) <!--stargazers:SnakeyHips/drawapp--> - Sample Drawing App to demonstrate how to allow user to draw onto canvas with color picker and brush thickness slider by [Jake Gough](https://github.com/SnakeyHips)
 - [Starter Kit](https://github.com/KingWu/flutter_starter_kit) <!--stargazers:KingWu/flutter_starter_kit--> - App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by [King Wu](https://github.com/KingWu)
 - [Feather](https://github.com/jhomlala/feather) <!--stargazers:jhomlala/feather--> - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala)
-- [Ready to Go](https://github.com/JHBitencourt/ready_to_go) <!--stargazers:JHBitencourt/ready_to_go--> - A Flutter repo with a ready-to-go architecture containing flavors, bloc, device settings, json serialization and connectivity. by [JHBitencourt](https://github.com/JHBitencourt)
+- [Ready to Go](https://github.com/JHBitencourt/ready_to_go) <!--stargazers:JHBitencourt/ready_to_go--> - Ready-to-go architecture containing flavors, bloc, device settings, json serialization and connectivity. by [JHBitencourt](https://github.com/JHBitencourt)
 
 ### Clone
 

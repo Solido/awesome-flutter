@@ -107,9 +107,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) <!--youtube:video/p4yLzYwy_4g--> - Firebase live coding
 - [Securing Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) <!--claps:@mehmetf_71205/securing-flutter-apps-ada13e806a69--> - By Mehmet Fidanboylu
 - [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) <!--claps:@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a--> - How to make a custom plug-in by [Karthik Ponnam](https://medium.com/@KarthikPonnam)
-- [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) <!--claps:@salvatoregiordanoo/flavoring-flutter-392aaa875f36--> - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
 - [howtodothisinflutter.com](https://github.com/lesnitsky/howtodothisinflutter) <!--stargazers:lesnitsky/howtodothisinflutter--> – Cheat sheet for react native developers trying Flutter by [Andrei Lesnitsky](https://twitter.com/lesnitsky_a)
-- [Ready to Go/Flavors](https://github.com/JHBitencourt/ready_to_go) <!--stargazers:JHBitencourt/ready_to_go--> - How to properly architect your app and work with flavors (bloc, device settings, json and connectivity), by [JHBitencourt](https://github.com/JHBitencourt)
+
+#### Flavors
+
+- [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) <!--claps:@salvatoregiordanoo/flavoring-flutter-392aaa875f36--> - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
+- [Ready to Go/Flavors](https://github.com/JHBitencourt/ready_to_go) <!--stargazers:JHBitencourt/ready_to_go--> - Properly architect your app and work with flavors by [JHBitencourt](https://github.com/JHBitencourt)
 
 ## Videos
 

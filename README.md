@@ -420,7 +420,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Game Engine
 
 
-- [Flutter Unity Widget](https://github.com/snowballdigital/flutter-unity-view-widget) [18⭐] - Embeddable unity game engine view for Flutter[Rex Raphael](https://github.com/juicycleff).
+- [Flutter Unity Widget](https://github.com/snowballdigital/flutter-unity-view-widget) [18⭐] - Embeddable unity game engine view for Flutter [Rex Raphael](https://github.com/juicycleff).
 - [Flame](https://github.com/luanpotter/flame) [866⭐] - Minimalist game engine by [Luan Nico](https://github.com/luanpotter).
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) [624⭐] - Toolkit for building complex, high performance animations and 2D games by [Viktor Lidholt](https://github.com/vlidholt).
 

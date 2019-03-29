@@ -406,6 +406,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Data
 
 - [Graphql](https://github.com/zino-app/graphql-flutter) [625⭐] - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app).
+- [Flutter Graphql](https://github.com/snowballdigital/flutter-graphql) [15⭐] - A RAD port of [Graphql](https://github.com/zino-app/graphql-flutter) [625⭐] by [Rex Raphael](https://github.com/juicycleff).
 - [GeoFlutterFire](https://github.com/DarshanGowda0/GeoFlutterFire) [32⭐] - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/).
 
 ### Animation
@@ -418,6 +419,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Game Engine
 
+
+- [Flutter Unity Widget](https://github.com/snowballdigital/flutter-unity-view-widget) [18⭐] - Embeddable unity game engine view for Flutter[Rex Raphael](https://github.com/juicycleff).
 - [Flame](https://github.com/luanpotter/flame) [866⭐] - Minimalist game engine by [Luan Nico](https://github.com/luanpotter).
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) [624⭐] - Toolkit for building complex, high performance animations and 2D games by [Viktor Lidholt](https://github.com/vlidholt).
 

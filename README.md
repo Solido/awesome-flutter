@@ -402,6 +402,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Hooks](https://github.com/rrousselGit/flutter_hooks) [408⭐] - Advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit).
 - [Functional widget](https://github.com/rrousselGit/functional_widget) [84⭐] - Code generator writing widgets as functions with annotations by [Remi Rousselet](https://github.com/rrousselGit).
+- [mini-program](https://github.com/zhaomenghuan/flutter-mini-program) [18⭐] - A Flutter UI Framework by parsing HTML and CSS，is for developing mini-program by [zhaomenghuan](https://github.com/zhaomenghuan).
 
 ### Data
 

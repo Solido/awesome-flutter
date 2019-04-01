@@ -14,7 +14,7 @@
   <a href="https://saythanks.io/to/Solido" target="_blank">
     <img alt="Thanks" src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" />
   </a>
-  
+
   
 </p>
 
@@ -39,6 +39,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 </td>
   <td style="text-align: center">
 <img src="https://camo.githubusercontent.com/23d3c78b0a2b645567630468bd68d54c02c2076a/68747470733a2f2f63646e2e3264696d656e73696f6e732e636f6d2f315f53746172742e676966" width="200"/>
+</td>
+<td style="text-align: center">
+  <a href="https://github.com/TaurusXi/TxNaviBar" target="_blank">
+    <img alt="Thanks" src="https://raw.githubusercontent.com/TaurusXi/TxNaviBar/master/example.gif" />
+  </a>
 </td>
 </tr></table></div>
 
@@ -155,6 +160,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Folding Cell](https://github.com/faob-dev/folding_cell) <!--stargazers:faob-dev/folding_cell--> - Fold your widget by [Faob](https://github.com/faob-dev)
 - [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) <!--stargazers:RafaelBarbosatec/hidden_drawer_menu--> - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
 - [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) <!--stargazers:tunitowen/fancy_bottom_navigation--> - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
+- [Tx NaviBar](https://github.com/TaurusXi/TxNaviBar) <!--stargazers:TaurusXi/TxNaviBar--> - A amazing animation bottom navigation by [TaurusXi](https://github.com/TaurusXi).
 
 #### UI Helpers
 

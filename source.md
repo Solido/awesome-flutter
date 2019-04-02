@@ -416,6 +416,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
  
 - [Hooks](https://github.com/rrousselGit/flutter_hooks) <!--stargazers:rrousselGit/flutter_hooks--> - Advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit)
 - [Functional widget](https://github.com/rrousselGit/functional_widget) <!--stargazers:rrousselGit/functional_widget--> - Code generator writing widgets as functions with annotations by [Remi Rousselet](https://github.com/rrousselGit)
+- [Mini Program](https://github.com/zhaomenghuan/flutter-mini-program) <!--stargazers:zhaomenghuan/--> - A Flutter's mini-program development framework by parsing HTML and CSS by [zhaomenghuan](https://github.com/zhaomenghuan).
 
 ### Data
 

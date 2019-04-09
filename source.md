@@ -474,6 +474,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Deer](https://github.com/aleksanderwozniak/deer) <!--stargazers:aleksanderwozniak/deer--> - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
 - [TailorMade](https://github.com/jogboms/tailor_made) <!--stargazers:jogboms/tailor_made--> - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by [Jeremiah Ogbomo](https://twitter.com/jogboms)
 - [Instory](https://github.com/InvertedX/instory) <!--stargazers:InvertedX/instory--> - Instgram story downloader with a beautiful UI [Sarath](https://twitter.com/_sarath_kumar)
+- [MsgSchedule](https://github.com/marvinIsSacul/MsgSchedule) - A flutter app that schedules messages to be sent at a later time. For now the app only schedules SMS messages. [Marvin Kagiso](https://github.com/marvinIsSacul)
 
 ### 
 ### PWA

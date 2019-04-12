@@ -393,6 +393,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Catcher](https://github.com/jhomlala/catcher) <!--stargazers:jhomlala/catcher--> - Automatically catches errors and handles them by [Jakub Homlala](https://github.com/jhomlala)
 
+### Augmented Reality
+
+- [ARKit Plugin](https://github.com/olexale/arkit_flutter_plugin) - Wrapper for ARKit - Apple's augmented reality (AR) development platform for iOS mobile devices by [Olexandr Leuschenko](https://github.com/olexale).
+
 ## Frameworks
 
 ### State management

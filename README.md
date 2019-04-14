@@ -212,6 +212,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) [51⭐] - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com).
 - [Map](https://github.com/apptreesoftware/flutter_map) [603⭐] - Solution based on [Leaflet](http://leafletjs.com/) and customizable by [AppTree Software](https://github.com/apptreesoftware).
 - [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) [202⭐] - Interactive, customizable vector maps by Mapbox.
+- [Clustering Google Maps](https://github.com/giandifra/clustering_google_maps) [38⭐] - Perform clustering technique in a Google Maps widget by [Gian Marco Di Francesco](https://github.com/giandifra).
 
 ### Charts
 

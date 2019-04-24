@@ -583,6 +583,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
 
+### Indonesia
+- [Telegram](https://t.me/flutter_id) - Flutter public group in Indonesia.
+- [Facebook](https://www.facebook.com/groups/1738284952897937/) - Facebok Indonesia Flutter group.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

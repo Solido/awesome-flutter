@@ -120,7 +120,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) [78🎬] - Very rich content by [Tensor Programming](http://tensor-programming.com/).
 - [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value and in-depth challenges.
 - [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) [127🎬] - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan).
-- [Flutter in Motion](https://www.manning.com/livevideo/flutter-in-motion) - A liveVideo course that teaches you to build Flutter apps for iOS and Android by Scott Cornell.
 
 ## Components
 

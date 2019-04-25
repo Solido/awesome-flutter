@@ -149,6 +149,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Folding Cell](https://github.com/faob-dev/folding_cell) [100⭐] - Fold your widget by [Faob](https://github.com/faob-dev).
 - [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) [51⭐] - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) [249⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
+- [ProgressHUD](https://github.com/zhengbomo/bmprogresshud) - A lightweight progress HUD for Flutter app like SVProgressHUD by [bomo](https://github.com/zhengbomo)
+
 
 #### Bottom bars
 

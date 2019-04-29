@@ -66,7 +66,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Websites / Blogs
 
-- [SZAŁKO-BLOG](https://marcinszalek.pl/) - Step by step advanced design by [Marcin Szalek](https://marcinszalek.pl/).
+- [SZAŁKO-BLOG](https://marcinszalek.pl/) - Step by step advanced design by [Marcin Szalek](https://marcinszalek.pl).
 - [Sergi & Replace](https://sergiandreplace.com/) - Basic to advanced articles and tutorials [Sergi Martínez](https://github.com/sergiandreplace)
 - [Flutter by Example](https://flutterbyexample.com/) - Tutorials based on Redux, Firebase, Custom Animations, and UI
 - [Flutter Institute](https://flutter.institute/) - Very original content and tutorials by [Brian Armstrong](https://twitter.com/flutterinst)
@@ -104,10 +104,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Howtos
 
-- [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) <!--youtube:video/p4yLzYwy_4g--> - Firebase live coding
-- [Securing Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) <!--claps:@mehmetf_71205/securing-flutter-apps-ada13e806a69--> - By Mehmet Fidanboylu
-- [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) <!--claps:@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a--> - How to make a custom plug-in by [Karthik Ponnam](https://medium.com/@KarthikPonnam)
-- [howtodothisinflutter.com](https://github.com/lesnitsky/howtodothisinflutter) <!--stargazers:lesnitsky/howtodothisinflutter--> – Cheat sheet for react native developers trying Flutter by [Andrei Lesnitsky](https://twitter.com/lesnitsky_a)
+- [Parallax Effect](https://marcinszalek.pl/flutter/tickets-challenge-parallax) - Parallax & non linear animation by [Marcin Szalek](https://marcinszalek.pl).
 
 #### Flavors
 

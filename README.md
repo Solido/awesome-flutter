@@ -260,7 +260,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 #### Build solutions
 
 - [Bitrise for Flutter](https://devcenter.bitrise.io/getting-started/getting-started-with-flutter-apps/) - Flutter build, test and deployment automation, free for Open Source and smaller projects.
-- [Code Magic](https://codemagic.io/) - Automate the entire flow, build and distribution by (NeverCode)[https://nevercode.io/].
+- [Code Magic](https://codemagic.io/) - Automate the entire flow, build and distribution by [NeverCode](https://nevercode.io/).
 - [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) [45⭐] - Continuous integration by [Yegor Jbanov](https://twitter.com/yegorjbanov).
 
 #### Build articles

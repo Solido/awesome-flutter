@@ -481,7 +481,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Deer](https://github.com/aleksanderwozniak/deer) [108⭐] - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
 - [TailorMade](https://github.com/jogboms/tailor_made) [100⭐] - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 - [Instory](https://github.com/InvertedX/instory) [80⭐] - Instgram story downloader with a beautiful UI [Sarath](https://twitter.com/_sarath_kumar).
-- [spacex-go](https://github.com/jesusrp98/spacex-go) [177⭐] - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
 
 ###
 ### PWA

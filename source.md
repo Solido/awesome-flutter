@@ -186,6 +186,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel --> - Calendar carousel by [dooboolab](https://github.com/dooboolab/flutter_calendar_carousel)
 - [Date range picker](https://github.com/anicdh/date_range_picker) - Date range picker modified based on Flutter date picker by [An Doan](https://github.com/anicdh)
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) <!--stargazers:aleksanderwozniak/table_calendar--> - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
+- [calendar_carousel](https://github.com/zhengbomo/calendarcarousel) <!--stargazers:zhengbomo/calendarcarousel--> - A lightweight and highly customizable calendar view by [bomo](https://github.com/zhengbomo)
 
 ### Image
 

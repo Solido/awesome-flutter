@@ -433,6 +433,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Villains](https://github.com/Norbert515/flutter_villains) <!--stargazers:Norbert515/flutter_villains--> - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
 - [AnimatedTextKit](https://github.com/aagarwal1012/Animated-Text-Kit) <!--stargazers:aagarwal1012/Animated-Text-Kit--> - A collection of cool text animations by [Ayush Agarwal](https://github.com/aagarwal1012/)
 - [Drawing Animation](https://github.com/biocarl/drawing_animation) <!--stargazers:biocarl/drawing_animation--> - Create drawing line animations based on SVG path data by [Carl Hauck](https://twitter.com/cahaucks)
+- [Simple Animations](https://github.com/felixblaschke/simple_animations) - Create awesome custom animations easily by [Felix Blaschke](https://github.com/felixblaschke)
 
 ### Game Engine
 

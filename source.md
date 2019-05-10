@@ -54,7 +54,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Open Source Apps](#open-source-apps)
 - [Utilities](#utilities)
 - [Community](#community)
-- [Books](#books)
 - [Bonus](#bonus)
 
 ## Articles
@@ -514,11 +513,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google
 - [Golang Desktop Embedder](https://github.com/go-flutter-desktop/go-flutter) <!--stargazers:go-flutter-desktop/go-flutter--> - Golang embedder for desktop by [Pierre Champion](https://github.com/Drakirus)
 - [Rust Desktop Embedder](https://github.com/gliheng/flutter-rs) <!--stargazers:gliheng/flutter-rs--> - Rust embedder for desktop by [juju](https://github.com/gliheng).
-
-
-## Books
-
-- [Flutter in Action](https://www.manning.com/books/flutter-in-action?a_aid=flutterinaction&a_bid=d08c3247) - Complete Flutter and Dart resource, currently in 'Early Access'.
 
 ## Bonus
 

@@ -169,6 +169,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) [258⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) [40⭐] - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
 - [Offline](https://github.com/jogboms/flutter_offline) [247⭐] - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+- [material-about](https://github.com/JideGuru/material-about) [19⭐] - An about screen to use in your Mobile apps by [JideGuru](https://github.com/jideguru).
 
 #### Material Design
 

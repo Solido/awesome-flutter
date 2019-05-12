@@ -300,7 +300,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Monetization
 
-- [Admob](https://pub.dartlang.org/packages/admob) - GoogleAdmob supports interstitial ads in both iOS and Android by Brett Nesbitt.
+- [Admob](https://pub.dev/packages/admob) - GoogleAdmob supports interstitial ads in both iOS and Android by Brett Nesbitt.
 - [Firebase AdMob](https://github.com/flutter/plugins/tree/master/packages/firebase_admob) - Ad integration using Firebase.
 - [Billing](https://github.com/VolodymyrLykhonis/flutter_billing) [81⭐] - Enable billing on iOS and Android by [Volodymyr Lykhonis](http://vladimirlichonos.com).
 - [Payments](https://github.com/pplante/flutter_payments) [21⭐] - In App Purchases & Subscriptions by [Delightful Goods](https://delightfulgoods.co).
@@ -349,15 +349,15 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Plugins
 
-- [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Plugins filter in Dart Pub Repository.
+- [Pub packages](https://pub.dev/flutter/packages) - Flutter packages at Dart Pub Repository.
 - [Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins.
 
 ### Device
 
 - [WebView](https://github.com/dart-flitter/flutter_webview_plugin) [601⭐] - Render web content by [Hadrien Lejard](https://twitter.com/HadrienLejard).
 - [Location](https://github.com/Lyokone/flutterlocation) [236⭐] - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone).
-- [Battery](https://pub.dartlang.org/packages/battery) - Access various information about the battery.
-- [Proximity Sensor Plugin](https://pub.dartlang.org/packages/proximity_plugin) - A plugin to access the proximity sensor of your device by [Manoj NB](https://github.com/Samaritan1011001).
+- [Battery](https://pub.dev/packages/battery) - Access various information about the battery.
+- [Proximity Sensor Plugin](https://pub.dev/packages/proximity_plugin) - A plugin to access the proximity sensor of your device by [Manoj NB](https://github.com/Samaritan1011001).
 - [Geolocation](https://github.com/loup-v/geolocation) [129⭐] - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io).
 - [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) [382⭐] - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB).
 - [Device Calendar](https://github.com/builttoroam/flutter_plugins/tree/develop/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com).
@@ -391,7 +391,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Services
 
 - [Dialogflow](https://github.com/VictorRancesCode/flutter_dialogflow) [57⭐] - Plugin to easily integrate with dialogflow by [Victor Rances](https://github.com/VictorRancesCode/).
-- [Intercom](https://pub.dartlang.org/packages/intercom) [19⭐] - Add Intercom integration to your app by [Maido Kaara](https://github.com/v3rm0n).
+- [Intercom](https://pub.dev/packages/intercom) [19⭐] - Add Intercom integration to your app by [Maido Kaara](https://github.com/v3rm0n).
 - [OneSignal](https://github.com/OneSignal/OneSignal-Flutter-SDK) [171⭐] - Push notification service by [OneSignal](https://github.com/OneSignal).
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) [38⭐] - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish).
 - [App Rating](https://github.com/AppleEducate/app_review) [55⭐] - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com).

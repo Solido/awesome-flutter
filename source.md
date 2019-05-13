@@ -264,6 +264,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Test on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) <!--claps:@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c--> - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov)
 - [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) <!--claps:@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4--> - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov)
 - [Automatic code signing for iOS without Mac](https://blog.codemagic.io/automatic-code-signing-for-ios-that-doesnt-require-a-mac/) by Helina Ariva
+- [Multi environment Flutter application with Bitrise](https://medium.com/bewizyu/part-1-how-to-setup-a-flutter-application-with-bitrise-346dba7d1bab) <!--claps:@bewizyu/part-1-how-to-setup-a-flutter-application-with-bitrise-346dba7d1bab--> - How to setup multi environment Flutter application with Bitrise by [Nartawak](https://twitter.com/nartawak)
 
 ### Styling
 

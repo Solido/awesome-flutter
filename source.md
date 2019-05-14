@@ -426,7 +426,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Graphql](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
 - [GeoFlutterFire](https://github.com/DarshanGowda0/GeoFlutterFire) <!--stargazers:DarshanGowda0/GeoFlutterFire--> - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/)
-
+- [retrofit.dart](https://github.com/trevorwang/retrofit.dart) <!--stargazers:trevorwang/retrofit.dart--> - Implementation of the RESTful client by [Trevor Wang](https://mings.in)
 ### Animation
 
 - [Sequence Animation](https://github.com/Norbert515/flutter_sequence_animation) <!--stargazers:Norbert515/flutter_sequence_animation--> - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)

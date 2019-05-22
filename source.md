@@ -450,6 +450,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Ozzie](https://github.com/jorgecoca/ozzie.flutter) <!--stargazers:jorgecoca/ozzie.flutter--> - Ozzie will take an screenshot during integration tests whenever you need by [Jorge Coca](https://github.com/jorgecoca)
 
+### Others
+
+- [AspectD](https://github.com/alibaba-flutter/aspectd) <!--stargazers:jorgecoca/ozzie.flutter--> - Aspect-oriented programming (AOP) framework for Flutter (Dart) by [Kyle Wong](https://github.com/kangwang1988)
+
 ## Open Source Apps
 
 ### Premium

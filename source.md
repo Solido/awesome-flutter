@@ -421,6 +421,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Hooks](https://github.com/rrousselGit/flutter_hooks) <!--stargazers:rrousselGit/flutter_hooks--> - Advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit)
 - [Functional widget](https://github.com/rrousselGit/functional_widget) <!--stargazers:rrousselGit/functional_widget--> - Code generator writing widgets as functions with annotations by [Remi Rousselet](https://github.com/rrousselGit)
+- [OverlaySupport](https://github.com/boyan01/overlay_support) <!--stargazers:boyan01/overlay_support--> - Easy to build toast and internal notification for flutter by [YangBin](https://github.com/boyan01)
 
 ### Data
 

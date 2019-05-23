@@ -74,6 +74,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Iirokrankka.com](https://iirokrankka.com/) - Articles and tutorials about Flutter, Dart and anything related by [Iiro Krankka](https://twitter.com/koorankka).
 - [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515)
 - [Flutter Tips](https://medium.com/@diegoveloper) - Articles, tips & tricks in the development by [Diego Velásquez](https://twitter.com/diegoveloper)
+- [FilledStacks](https://www.filledstacks.com/) - Tutorials and guides on Flutter Development by [Dane Mackier](https://www.instagram.com/filledstacks/)
 
 ### Tutorial
 
@@ -486,6 +487,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [TailorMade](https://github.com/jogboms/tailor_made) <!--stargazers:jogboms/tailor_made--> - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by [Jeremiah Ogbomo](https://twitter.com/jogboms)
 - [Instory](https://github.com/InvertedX/instory) <!--stargazers:InvertedX/instory--> - Instgram story downloader with a beautiful UI [Sarath](https://twitter.com/_sarath_kumar)
 - [Spacex-Go](https://github.com/jesusrp98/spacex-go) [177⭐] - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
+- [FilledStacks Tutorials](https://github.com/FilledStacks/flutter-tutorials) <!--stargazers:FilledStacks/flutter-tutorials--> - Source for all the tutorials on [Youtube Channel](https://www.youtube.com/filledstacks)
 
 ###
 

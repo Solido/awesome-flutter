@@ -468,6 +468,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Premium
 
 - [History Of Everything](https://github.com/2d-inc/HistoryOfEverything) <!--stargazers:2d-inc/HistoryOfEverything--> - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/)
+- [Developer Quest](https://github.com/2d-inc/developer_quest)  <!--stargazers:2d-inc/HistoryOfEverything--> - Become a tech lead, slay bugs by [2D, Inc](https://www.2dimensions.com/)
 
 ### Top
 

@@ -568,6 +568,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - Medium [Flutter Comunidade BR](https://medium.com/flutter-comunidade-br)
 - Twitter [Flutter Comunidade BR](https://twitter.com/br_flutter)
 
+### 🇨🇦 Canada
+
+- Meetup [Toronto](https://www.meetup.com/FlutterToronto)
+
 ### 🇨🇮 Côte d'Ivoire (Ivory Coast)
 
 - Facebook [Page](https://web.facebook.com/flutterci/)

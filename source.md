@@ -406,6 +406,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Log / Tracing
 
 - [Catcher](https://github.com/jhomlala/catcher) <!--stargazers:jhomlala/catcher--> - Automatically catches errors and handles them by [Jakub Homlala](https://github.com/jhomlala)
+- [Logger](https://github.com/leisim/logger) <!--stargazers:leisim/logger--> - Easy to use and beautiful logs by [Simon Leier](https://github.com/leisim)
 
 ## Frameworks
 

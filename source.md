@@ -223,7 +223,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter Plot](https://github.com/RCHowell/flutter_plot) <!--stargazers:RCHowell/flutter_plot--> - Pretty plots by [R. C. Howell](https://github.com/RCHowell/)
 - [Candlesticks](https://github.com/trentpiercy/flutter-candlesticks) <!--stargazers:trentpiercy/flutter-candlesticks--> - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy)
 - [FCharts](https://github.com/thekeenant/fcharts) <!--stargazers:thekeenant/fcharts--> - Beautiful, responsive, animated charts by [Keenan Thompson](https://keenant.com)
-- [FL Chart](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - A library to draw fantastic charts in Flutter by [Iman Khoshabi](ikhoshabi.com)
+- [FL Chart](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - Draw fantastic charts in Flutter by [Iman Khoshabi](ikhoshabi.com)
+- [Bezier Chart](https://github.com/aeyrium/bezier_chart) <!--stargazers:aeyrium/bezier_chart--> - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
 
 ### Navigation
 
@@ -499,12 +500,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Instory](https://github.com/InvertedX/instory) <!--stargazers:InvertedX/instory--> - Instgram story downloader with a beautiful UI [Sarath](https://twitter.com/_sarath_kumar)
 - [Spacex-Go](https://github.com/jesusrp98/spacex-go) <!--stargazers:jesusrp98/spacex-go--> - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
 - [Superhero Interaction](https://github.com/pinkeshdarji/SuperHeroInteraction) <!--stargazers:pinkeshdarji/SuperHeroInteraction--> - Cool Superhero interaction animation by [Pinkesh Darji](https://github.com/pinkeshdarji)
-
-###
-
-### PWA
-
-- [InKino](https://github.com/roughike/inKino) <!--stargazers:roughike/inKino--> - Movie app with flutter_redux, animations and unit tests by [Iiro Krankka](https://github.com/roughike)
 
 ### Games
 

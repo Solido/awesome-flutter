@@ -312,6 +312,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Payments](https://github.com/pplante/flutter_payments) <!--stargazers:pplante/flutter_payments--> - In App Purchases & Subscriptions by [Delightful Goods](https://delightfulgoods.co)
 - [Inapp Purchase](https://github.com/dooboolab/flutter_inapp_purchase) <!--stargazers:dooboolab/flutter_inapp_purchase--> - Features set of 'in app purchase' derived from [react-native-iap](https://github.com/dooboolab/react-native-iap) by [dooboolab](https://github.com/dooboolab)
 - [Admob Flutter](https://github.com/YoussefKababe/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe)
+- [Facebook Audience Network](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & natvie ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
 
 ## Templates
 

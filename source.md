@@ -223,7 +223,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter Plot](https://github.com/RCHowell/flutter_plot) <!--stargazers:RCHowell/flutter_plot--> - Pretty plots by [R. C. Howell](https://github.com/RCHowell/)
 - [Candlesticks](https://github.com/trentpiercy/flutter-candlesticks) <!--stargazers:trentpiercy/flutter-candlesticks--> - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy)
 - [FCharts](https://github.com/thekeenant/fcharts) <!--stargazers:thekeenant/fcharts--> - Beautiful, responsive, animated charts by [Keenan Thompson](https://keenant.com)
-- [FL Chart](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - Draw fantastic charts in Flutter by [Iman Khoshabi](ikhoshabi.com)
+- [FL Chart](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
 - [Bezier Chart](https://github.com/aeyrium/bezier_chart) <!--stargazers:aeyrium/bezier_chart--> - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
 
 ### Navigation

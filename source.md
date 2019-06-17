@@ -142,7 +142,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Slide Container](https://pub.dev/packages/slide_container) Slide vertically and horizontally with a smooth dampened motion by [Quentin Le Guennec](https://github.com/quentinleguennec).
 - [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - An elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
 - [Direct Select](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
-- [Division](https://github.com/ReinBentdal/division) <!--stargazers:ReinBentdal/division--> - A simple to use styling widget taking inspiration from CSS by [Rein Gundersen Bentdal](https://github.com/ReinBentdal)
 
 #### Drawers
 
@@ -167,6 +166,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) <!--stargazers:aagarwal1012/Liquid-Pull-To-Refresh--> - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot)
 - [Offline](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+- [Division](https://github.com/ReinBentdal/division) <!--stargazers:ReinBentdal/division--> - A simple to use styling widget taking inspiration from CSS by [Rein Gundersen Bentdal](https://github.com/ReinBentdal)
 
 #### Material Design
 

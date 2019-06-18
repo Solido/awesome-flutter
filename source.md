@@ -601,6 +601,14 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Telegram](https://t.me/rudart) - Russian speaking Dart & Flutter community.
 
+### 🇱🇰 Sri Lanka
+
+- [Gitter](https://gitter.im/Colombo-Flutter-Community) - The place where you can meet developers and discuss about projects.
+- [Slack](https://fluttercmb.slack.com/) - Flutter community Slack channel.
+- [Community GitHub Page](https://github.com/Colombo-Flutter-Meetup) - Open Source Projects hosted by Colombo Flutter community.
+- [YouTube Channel](https://www.youtube.com/channel/UCTn0DzwU0YGvISOGiTKPhtg) -  To check meetups related videos.
+- [Facebook Page](https://www.facebook.com/flutterCMB/) - Facebook page of the Colombo Flutter community.
+
 ### 🇺🇸 United States
 
 - Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)

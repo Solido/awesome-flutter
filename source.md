@@ -167,6 +167,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot)
 - [Offline](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 - [Scroll To Index](https://github.com/quire-io/scroll-to-index) <!--stargazers:quire-io/scroll-to-index--> - Scroll to specified child element with given index for SliverList/ListView by [Jerry Chen](https://github.com/jerrywell/).
+- [In View Notifier List](https://github.com/rvamsikrishna/inview_notifier_list) - A Flutter package that builds a ListView and notifies when the widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/rvamsikrishna).
 
 #### Material Design
 

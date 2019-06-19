@@ -8,9 +8,9 @@
     <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-16,410-orange.svg" />
   </a>
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-33883-brightgreen.svg" />
+    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-33886-brightgreen.svg" />
   </a>
-  <img alt="Entries" src="https://img.shields.io/badge/Items-297-lightgrey.svg" />
+  <img alt="Entries" src="https://img.shields.io/badge/Items-298-lightgrey.svg" />
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   </a>
@@ -476,7 +476,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Top
 
 - [Flutter Team Samples](https://github.com/flutter/samples) [2976⭐] - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people).
-- [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app) [13215⭐] - Collection of official widgets demos & docs in chinese to help developers learn quickly by [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend).
+- [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app) [13216⭐] - Collection of official widgets demos & docs in chinese to help developers learn quickly by [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend).
 - [Meme Chat](https://github.com/efortuna/memechat) [382⭐] - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 - [Flitter](https://github.com/dart-flitter/flitter) [158⭐] - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
 - [Lime](https://github.com/fablue/lime-flutter) [261⭐] - Lime social network by Sebastian Sellmair.
@@ -590,6 +590,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - Meetup [Berlin](https://www.meetup.com/flutter-berlin/) - [Düsseldorf](https://www.meetup.com/flutter-school/) - [Karlsruhe](https://www.meetup.com/Karlsruhe-Flutter-Meetup/) - [Hamburg](https://www.meetup.com/Flutter-Hamburg/)
 - Twitter [Flutter Berlin](https://twitter.com/flutterBerlin) - [Düsseldorf](https://twitter.com/flutter_school).
 - Slack [Flutter Berlin](https://flutterberlin.slack.com/join/shared_invite/enQtMzQ1NDI0NjU4Mjc5LWVjOTg0NmUxZmU4YzZjZjFkMWNjYWYyYTI5NjMyZWE5MDZjNDM0YzgyNWQyM2EzM2E0NDE4ZmQyMzQyMzRlNjI)
+
+### 🇯🇵 Japan
+
+- Meetup - [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/).
 
 ### 🇳🇬Nigeria
 

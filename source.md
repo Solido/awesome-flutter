@@ -546,6 +546,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [The One](https://www.youtube.com/watch?v=sIIgtClYq0s) <!--youtube:video/sIIgtClYq0s-->
 
+### Hardware
+
+- [Matrix2](https://github.com/bus710/matrix2) - Sense Hat's LED matrix control game by [bus710](https://github.com/bus710)
+
+
 ## Community
 
 ### Presentation material

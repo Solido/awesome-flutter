@@ -142,6 +142,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Slide Container](https://pub.dev/packages/slide_container) Slide vertically and horizontally with a smooth dampened motion by [Quentin Le Guennec](https://github.com/quentinleguennec).
 - [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - An elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
 - [Direct Select](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
+- [Pin Input](https://github.com/TinoGuo/pin_input_text_field) <!--stargazers:TinoGuo/pin_input_text_field--> - Simple and out-of-the-box pin textfield by [TinoGuo](https://github.com/TinoGuo).
 
 #### Drawers
 

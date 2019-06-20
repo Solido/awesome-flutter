@@ -338,6 +338,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Feather](https://github.com/jhomlala/feather) <!--stargazers:jhomlala/feather--> - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala)
 - [Clone UI Challenges](https://github.com/javico2609/flutter-challenges) <!--stargazers:javico2609/flutter-challenges--> - Collection of useful UIs clones by [Javier González](https://github.com/javico2609)
 
+### Web
+
+- [Tasks](https://github.com/AppleEducate/tasks_clone) <!--stargazers:boyan01/AppleEducate/tasks_clone--> - Google Tasks for the Web by [Rody Davis](http://appleeducate.com)
+
 ### Clone
 
 - [GitTouch](https://github.com/pd4d10/git-touch) <!--stargazers:pd4d10/git-touch--> - Open source GitHub client by [Rongjian Zhang](https://github.com/pd4d10)
@@ -509,11 +513,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [TRex](https://github.com/renancaraujo/trex-flame) <!--stargazers:renancaraujo/trex-flame--> - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo)
 - [Crush](https://github.com/boeledi/flutter_crush) <!--stargazers:boeledi/flutter_crush--> - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com)
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) <!--stargazers:kevmoo/slide_puzzle--> - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo)
-- [Tetris](https://github.com/boyan01/flutter-tetris) - Tetris game by [YangBin](https://github.com/boyan01)
-
-## Web
-
-- [Peanut](https://github.com/kevmoo/peanut.dart) <!--stargazers:kevmoo/peanut.dart--> - Deploy your web app to GitHub pages by [Kevin Moore](https://github.com/kevmoo)
+- [Tetris](https://github.com/boyan01/flutter-tetris) <!--stargazers:boyan01/flutter-tetris--> - Tetris game by [YangBin](https://github.com/boyan01)
 
 
 ## Utilities

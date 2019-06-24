@@ -336,6 +336,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Starter Kit](https://github.com/KingWu/flutter_starter_kit) [276⭐] - App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by [King Wu](https://github.com/KingWu).
 - [Feather](https://github.com/jhomlala/feather) [197⭐] - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala).
 - [Clone UI Challenges](https://github.com/javico2609/flutter-challenges) [324⭐] - Collection of useful UIs clones by [Javier González](https://github.com/javico2609).
+- [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) [150⭐] - Restaurant app template from uplabs by  [JideGuru](https://github.com/JideGuru/FlutterFoodybite).
 
 ### Clone
 

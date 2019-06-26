@@ -17,8 +17,8 @@
   <a href="https://saythanks.io/to/Solido" target="_blank">
     <img alt="Thanks" src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" />
   </a>
-  
-  
+
+
 </p>
 
 <a href="https://flutter.dev/">Flutter</a> is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
@@ -564,6 +564,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Dev Discord](https://discord.gg/N7Yshp4) - Discord server to discuss and get help by [Pritykin](https://twitter.com/AndrewPritykin)
 - [Flutter Community](https://github.com/fluttercommunity) - Central place for community made packages
 - [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让 Flutter 更简单
+- [Flutter Events](https://flutterevents.com) - An open list of Flutter Events
 
 ### 🇧🇷 Brazil
 

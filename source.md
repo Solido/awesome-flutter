@@ -607,6 +607,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [WhatsApp](https://chat.whatsapp.com/FR2G7r33KjKAVQrB3AKp0H) - Dart & Flutter community
 - Twitter [FlutterLagos](https://twitter.com/FlutterLagos) - Dart & Flutter community (Lagos)
 
+### 🇵🇹 Portugal
+- [Meetup Flutter Portugal](https://www.meetup.com/flutterportugal/) Portuguese speaking Flutter Community
+
 ### 🇷🇺 Russia
 
 - [Telegram](https://t.me/rudart) - Russian speaking Dart & Flutter community.

@@ -440,6 +440,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Flutter in Action](https://www.manning.com/books/flutter-in-action?a_aid=flutterinaction&a_bid=d08c3247) - Complete Flutter and Dart resource, currently in 'Early Access'. (42% off with code 'slwindmill').
 
+## Jobs /Interview Questions
+
+- [Interview Questions](https://github.com/whatsupcoders/Flutter-Interview-Questions) - This repo contains a list of helpful Flutter related questions you can use to interview potential candidates by [Whatsupcoders](https://github.com/whatsupcoders/Whatsupcoders-flutter)
+
+
 ## Bonus
 
 - [It's All Widgets!](https://itsallwidgets.com) - Open list of published apps by [Hillel Coren](https://twitter.com/hillelcoren), [Thomas Burkhart](https://twitter.com/ThomasBurkhartB), [Simon Lightfoot](https://twitter.com/devangelslondon) and [Scott Stoll](https://twitter.com/scottstoll2017)

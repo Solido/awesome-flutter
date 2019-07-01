@@ -525,6 +525,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [FVM](https://github.com/leoafarias/fvm) [47⭐] - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 - [Flutter Debugger](https://github.com/blankapp/flutter-debugger) - Standalone app for debugging Flutter apps based on [Flipper](https://github.com/facebook/flipper) by [JianyingLi](https://github.com/lijy91).
 - [genLang](https://github.com/KingWu/gen_lang) [20⭐] - Code generator for Internationalization by [King Wu](https://github.com/KingWu).
+- [flutter_which_package_to_update](https://github.com/lsaudon/flutter_which_package_to_update) - A shell file to know which package to update by [Lucas Saudon].
 
 ### VSCode
 

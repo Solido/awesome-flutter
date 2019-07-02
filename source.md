@@ -604,13 +604,16 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### 🇯🇵 Japan
 
-- Meetup - [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
+- Meetup [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
 
 ### 🇳🇬Nigeria
 
 - Slack [DevCenter Square](https://devcenter-square-slack.herokuapp.com) - Square Team's #flutter community channel
 - [WhatsApp](https://chat.whatsapp.com/FR2G7r33KjKAVQrB3AKp0H) - Dart & Flutter community
 - Twitter [FlutterLagos](https://twitter.com/FlutterLagos) - Dart & Flutter community (Lagos)
+
+### 🇵🇹 Portugal
+- [Meetup](https://www.meetup.com/flutterportugal) - Portuguese speaking Flutter Community
 
 ### 🇷🇺 Russia
 

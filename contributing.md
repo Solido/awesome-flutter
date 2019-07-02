@@ -2,7 +2,7 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](https://github.com/spring-projects/spring-framework/blob/master/CODE_OF_CONDUCT.adoc). By participating in this project you agree to abide by its terms.
 
-- Use a meaningful name to your commit or I'll close it instantly
+- Use a meaningful name to your commit or I'll close it instantly, Update source.md is NOT a name
 - Do not commit on README, use SOURCE.md !
 - Flutter is all about UI, use screenshots and animated media for your widget
 - Paid solutions will be added if they offer free plan for open source or limited features for personnal devs but not limited in time. Fair is fair.
@@ -15,7 +15,7 @@ thus signaling the quality of your work and linking to others authors Awesome pr
  </a>
  
  ``` 
-<a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
+<a href="https://github.com/Solido/awesome-flutter">
     <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
 </a>
 ```

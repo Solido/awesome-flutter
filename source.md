@@ -613,7 +613,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - Meetup [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
 
-### 🇳🇬 Nigeria
+### 🇳🇬Nigeria
 
 - Slack [DevCenter Square](https://devcenter-square-slack.herokuapp.com) - Square Team's #flutter community channel
 - [WhatsApp](https://chat.whatsapp.com/FR2G7r33KjKAVQrB3AKp0H) - Dart & Flutter community
@@ -634,7 +634,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [YouTube Channel](https://www.youtube.com/channel/UCTn0DzwU0YGvISOGiTKPhtg) -  To check meetups related videos.
 - [Facebook Page](https://www.facebook.com/flutterCMB/) - Facebook page of the Colombo Flutter community.
 
-### 🇺🇸 United States
+### 🇬🇧United Kingdom
+
+- Meetup [London](https://www.meetup.com/FlutterLDN/) / 🐦[Twitter](https://twitter.com/FlutterLDN) / 📹[YouTube](https://www.youtube.com/channel/UC_a-vGdkAIRMKT1zzZ4I2ag)
+
+### 🇺🇸United States
 
 - Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
 

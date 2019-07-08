@@ -544,6 +544,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ## Bonus
 
 - [It's All Widgets!](https://itsallwidgets.com) - Open list of published apps by [Hillel Coren](https://twitter.com/hillelcoren), [Thomas Burkhart](https://twitter.com/ThomasBurkhartB), [Simon Lightfoot](https://twitter.com/devangelslondon) and [Scott Stoll](https://twitter.com/scottstoll2017)
+- [Flutter Press Weekly](https://www.xriblu.com/flutter-press-weekly) - Weekly newsletter of each week's best articles about Flutter development. Hand-picked every Sunday by [Paul Blundell](https://github.com/blundell) and [Xavi Rigau](https://github.com/xrigau).
 
 ### Fun
 

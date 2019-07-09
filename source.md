@@ -571,7 +571,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter Community](https://github.com/fluttercommunity) - Central place for community made packages
 - [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让 Flutter 更简单
 - [Flutter Events](https://flutterevents.com) - An open list of Flutter events by [@hillelcoren](https://twitter.com/hillelcoren)
-- [FlutterX](https://flutterx.com) - Searchable List of Flutter Resources by [Hillel Coren](https://twitter.com/hillelcoren)
+- [FlutterX](https://flutterx.com) - Searchable list of resources by [Hillel Coren](https://twitter.com/hillelcoren)
 
 ### 🇦🇴Angola
 - Facebook [Group](https://facebook.com/groups/556888664681938)

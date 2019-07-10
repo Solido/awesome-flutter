@@ -98,6 +98,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [From Mobile to Desktop](https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e) - Building applications for smartphones and desktops by [Marcelo Henrique Neppel](https://neppel.com.br)
 - [Accessibility widgets](https://medium.com/flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc) <!--claps:flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc--> - Deep dive information about all aspects of accessibility by [Muhammed Salih Güler](https://twitter.com/salihgueler)
 - [Profiling w/ Timeline](https://medium.com/flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3) <!--claps:flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3--> - Using the Timeline allows you to find and address specific performance issues in your application by [Chinmay Garde](https://medium.com/@chinmaygarde)
+- [Handling network requests](https://medium.com/flutter-community/handling-network-calls-like-a-pro-in-flutter-31bd30c86be1) <!--claps:flutter-community/handling-network-calls-like-a-pro-in-flutter-31bd30c86be1--> - Handling Network Calls like a Pro in Flutter by [Sahil Kumar](https://medium.com/@xsahil03x)
 
 ### Howtos
 

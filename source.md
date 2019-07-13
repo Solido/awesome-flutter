@@ -513,6 +513,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Superhero Interaction](https://github.com/pinkeshdarji/SuperHeroInteraction) <!--stargazers:pinkeshdarji/SuperHeroInteraction--> - Cool Superhero interaction animation by [Pinkesh Darji](https://github.com/pinkeshdarji)
 - [Reply](https://github.com/flschweiger/reply) <!--stargazers:flschweiger/reply--> - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger)
 - [Enigma](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki)
+- [Chillify](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
 
 ### Games
 

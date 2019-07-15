@@ -185,6 +185,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Parallax](https://github.com/FlutterRocks/page-transformer) <!--stargazers:FlutterRocks/page-transformer--> - ViewPager by [Iiro Krankka](https://github.com/roughike)
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) <!--stargazers:hnvn/flutter_shimmer--> - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
 - [Wave](https://github.com/i-protoss/wave) <!--stargazers:i-protoss/wave--> - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
+- [Liquid Swipe](https://github.com/iamSahdeep/liquid_swipe_flutter) - A plugin to provide a Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
 
 #### Calendar
 

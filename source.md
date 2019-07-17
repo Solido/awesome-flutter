@@ -347,7 +347,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Web
 
-- [Tasks](https://github.com/AppleEducate/tasks_clone) <!--stargazers:boyan01/AppleEducate/tasks_clone--> - Google Tasks for the Web by [Rody Davis](http://appleeducate.com)
+- [Tasks](https://github.com/AppleEducate/tasks_clone) <!--stargazers:AppleEducate/tasks_clone--> - Google Tasks for the Web by [Rody Davis](http://appleeducate.com)
 
 ### Clone
 

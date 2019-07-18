@@ -598,6 +598,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### 🇨🇦Canada
 
 - Meetup [Toronto](https://www.meetup.com/FlutterToronto)
+- Meetup [Montreal](https://www.meetup.com/FlutterMontreal)
+- Meetup [Calgary](https://www.meetup.com/FlutterCalgary)
 
 ### 🇨🇮Côte d'Ivoire (Ivory Coast)
 

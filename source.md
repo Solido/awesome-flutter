@@ -98,6 +98,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [From Mobile to Desktop](https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e) - Building applications for smartphones and desktops by [Marcelo Henrique Neppel](https://neppel.com.br)
 - [Accessibility widgets](https://medium.com/flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc) <!--claps:flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc--> - Deep dive information about all aspects of accessibility by [Muhammed Salih Güler](https://twitter.com/salihgueler)
 - [Profiling w/ Timeline](https://medium.com/flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3) <!--claps:flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3--> - Using the Timeline allows you to find and address specific performance issues in your application by [Chinmay Garde](https://medium.com/@chinmaygarde)
+- [Toasts and Snackbars](https://www.youtube.com/watch?v=FRCvqkyeCzQ) <!--youtube:video/FRCvqkyeCzQ--> - Global notification using flutter routes by [Javier González](https://twitter.com/javico_glez)
 
 ### Howtos
 
@@ -197,7 +198,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab](https://github.com/dooboolab/flutter_calendar_carousel)
 - [Date range picker](https://github.com/anicdh/date_range_picker) <!-- stargazers:anicdh/date_range_picker--> - Date range picker modified based on Flutter date picker by [An Doan](https://github.com/anicdh)
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) <!--stargazers:aleksanderwozniak/table_calendar--> - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
-
 
 #### Backend-Driven
 
@@ -488,7 +488,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Premium
 
 - [History Of Everything](https://github.com/2d-inc/HistoryOfEverything) <!--stargazers:2d-inc/HistoryOfEverything--> - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/)
-- [Developer Quest](https://github.com/2d-inc/developer_quest)  <!--stargazers:2d-inc/developer_quest--> - Become a tech lead, slay bugs by [2D, Inc](https://www.2dimensions.com/)
+- [Developer Quest](https://github.com/2d-inc/developer_quest) <!--stargazers:2d-inc/developer_quest--> - Become a tech lead, slay bugs by [2D, Inc](https://www.2dimensions.com/)
 
 ### Top
 
@@ -528,7 +528,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Crush](https://github.com/boeledi/flutter_crush) <!--stargazers:boeledi/flutter_crush--> - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com)
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) <!--stargazers:kevmoo/slide_puzzle--> - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo)
 - [Tetris](https://github.com/boyan01/flutter-tetris) <!--stargazers:boyan01/flutter-tetris--> - Tetris game by [YangBin](https://github.com/boyan01)
-
 
 ## Utilities
 
@@ -645,7 +644,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Gitter](https://gitter.im/Colombo-Flutter-Community) - The place where you can meet developers and discuss about projects.
 - [Slack](https://fluttercmb.slack.com/) - Flutter community Slack channel.
 - [Community GitHub Page](https://github.com/Colombo-Flutter-Meetup) - Open Source Projects hosted by Colombo Flutter community.
-- [YouTube Channel](https://www.youtube.com/channel/UCTn0DzwU0YGvISOGiTKPhtg) -  To check meetups related videos.
+- [YouTube Channel](https://www.youtube.com/channel/UCTn0DzwU0YGvISOGiTKPhtg) - To check meetups related videos.
 - [Facebook Page](https://www.facebook.com/flutterCMB/) - Facebook page of the Colombo Flutter community.
 
 ### 🇬🇧United Kingdom

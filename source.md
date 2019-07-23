@@ -519,6 +519,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Reply](https://github.com/flschweiger/reply) <!--stargazers:flschweiger/reply--> - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger)
 - [Enigma](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki)
 - [Chillify](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
+- [Pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
 
 ### Games
 

@@ -577,11 +577,14 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Communication
 
 - [Gitter](https://gitter.im/flutter/flutter) - Exchange channel
-- [r/FlutterDev Subreddit](https://www.reddit.com/r/FlutterDev/) - Reddit community by [u/JaapVermeulen](https://www.reddit.com/user/JaapVermeulen)
-- [Dev Discord](https://discord.gg/N7Yshp4) - Discord server to discuss and get help by [Pritykin](https://twitter.com/AndrewPritykin)
-- [Flutter Community on Hashnode](https://hashnode.com/n/flutter) - Read and write Flutter-related posts, participate in Flutter discussions or ask questions about working with Flutter.
+- [r/FlutterDev](https://www.reddit.com/r/FlutterDev/) - Reddit community by [u/JaapVermeulen](https://www.reddit.com/user/JaapVermeulen)
+- [Discord](https://discord.gg/N7Yshp4) - Discord server to discuss and get help by [Pritykin](https://twitter.com/AndrewPritykin)
 - [Flutter Community](https://github.com/fluttercommunity) - Central place for community made packages
 - [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让 Flutter 更简单
+- [Hashnode](https://hashnode.com/n/flutter) - Read and write posts, participate in discussions or ask questions.
+
+#### Misc
+
 - [Flutter Events](https://flutterevents.com) - An open list of Flutter events by [@hillelcoren](https://twitter.com/hillelcoren)
 - [FlutterX](https://flutterx.com) - Searchable list of resources by [Hillel Coren](https://twitter.com/hillelcoren)
 

@@ -400,6 +400,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
 - [Fast QR Reader View](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
+- [Edge/Paper Detection](https://github.com/sawankumarbundelkhandi/edge_detection) <!--stargazers:sawankumarbundelkhandi/edge_detection--> - A plugin to detect object edges/corners in a live camera, take the picture of detected object, crop it and save it. by [Sawan Kumar Bundelkhandi](https://github.com/sawankumarbundelkhandi)
 
 #### Bluetooth / NFC / Beacon
 

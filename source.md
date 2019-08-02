@@ -214,6 +214,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by
 - [Multi Image Picker](https://github.com/Sh1d0w/multi_image_picker) <!--stargazers:Sh1d0w/multi_image_picker--> - Display multi image picker by [Radoslav Vitanov](https://github.com/Sh1d0w)
 - [Lottie](https://github.com/CameronStuartSmith/flutter_lottie) <!--stargazers:CameronStuartSmith/flutter_lottie--> - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [Cameron Smith](https://github.com/CameronStuartSmith)
+- [Koukicons](https://github.com/Ademking/koukicons_flutter) <!--stargazers:Ademking/koukicons_flutter--> - +700 Icon widgets by [Adem Kouki](https://github.com/Ademking).
 
 ### Map
 

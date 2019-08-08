@@ -71,6 +71,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515)
 - [Flutter Tips](https://medium.com/@diegoveloper) - Articles, tips & tricks in the development by [Diego Velásquez](https://twitter.com/diegoveloper)
 - [FilledStacks](https://www.filledstacks.com/) - Tutorials and guides on development by [Dane Mackier](https://www.instagram.com/filledstacks/)
+- [Flutter Widget Live Book](https://flutter-widget-livebook.blankapp.org/) - Live preview example for flutter widgets by [JianyingLi](https://github.com/lijy91/)
 
 ### Tutorial
 

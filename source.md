@@ -143,6 +143,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - An elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
 - [Direct Select](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 - [Before After](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - A beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
+- [Custom Radio and Grouped Button](https://github.com/ketanchoyal/custom_radio_grouped_button) <!--stargazers:ketanchoyal/custom_radio_grouped_button--> - Custom Flutter widgets that makes Checkbox and Radio Buttons much cleaner and easier, by [Ketan Choyal](https://github.com/ketanchoyal).
 
 #### Sticky Headers
 

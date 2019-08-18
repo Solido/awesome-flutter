@@ -183,6 +183,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Unicorn Speed Dial](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins)
 - [Slidable](https://github.com/letsar/flutter_slidable) <!--stargazers:letsar/flutter_slidable--> - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar)
 
+#### Cupertino Design
+
+- [Peek & Pop](https://github.com/aliyigitbireroglu/flutter-peek-and-pop) <!--stargazers:aliyigitbireroglu/flutter-peek-and-pop--> - Peek & Pop implementation for Flutter based on the iOS functionality of the same name by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu)
+
 #### Effect
 
 - [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) - Render effect by [Collin Jackson](http://www.collinjackson.com)

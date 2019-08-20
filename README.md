@@ -396,6 +396,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [File Picker](https://github.com/miguelpruivo/plugins_flutter_file_picker) [119⭐] - Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo).
 - [VPN](https://github.com/X-dea/Flutter_VPN)<!--stargazers:X-dea/Flutter_VPN--> - Access VPN services by [Jason C.H](https://github.com/ctrysbita).
 
+
+#### Real time Messaging
+- [Flutter-RTM](https://github.com/agoraio/flutter-rtm)[11⭐] - A real-time messaging plugin which base on [agora.io](https://www.agora.io/) cloud services by agora [developers](https://github.com/AgoraIO/Flutter-RTM/graphs/contributors)
+
+
 #### Scanner
 
 - [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) [138⭐] - QR Code reader plugin by [Matheus Villela](https://github.com/villela).

@@ -267,10 +267,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Text & Rich Content
 
 - [Markdown](https://github.com/flutter/flutter_markdown) <!--stargazers:flutter/flutter_markdown--> - Markdown renderer for Flutter. It supports the original format, but no inline html
-- [Rich Text Editor](https://github.com/long1eu/rich_editor) <!--stargazers:long1eu/rich_editor--> - Text editor with style by [Lung Razvan](https://github.com/long1eu)
 - [Masked Text](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
 - [Zefyr](https://github.com/memspace/zefyr) <!--stargazers:memspace/zefyr--> - Soft and gentle rich text editing by [Memspace](https://github.com/memspace/zefyr)
 - [AutoSizeText](https://github.com/leisim/auto_size_text) <!--stargazers:leisim/auto_size_text--> - Automatically resizes text to fit perfectly within its bounds by [Simon Leier](https://github.com/leisim).
+- [Parsed Text](https://github.com/fayeed/flutter_parsed_text) <!--stargazers:fayeed/flutter_parsed_text--> - Interactive text based on content recognition, also supports Regex by [Fayeed Pawaskar](https://github.com/fayeed/)
 
 ### Analytics
 
@@ -660,14 +660,14 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### 🇷🇺 Russia
 
-- [Telegram](https://t.me/rudart) 
+- [Telegram](https://t.me/rudart)
 
 ### 🇱🇰 Sri Lanka
 
-- [Gitter](https://gitter.im/Colombo-Flutter-Community) 
+- [Gitter](https://gitter.im/Colombo-Flutter-Community)
 - [Slack](https://fluttercmb.slack.com/)
 - [Community GitHub Page](https://github.com/Colombo-Flutter-Meetup)
-- [Facebook Page](https://www.facebook.com/flutterCMB/) 
+- [Facebook Page](https://www.facebook.com/flutterCMB/)
 
 ### 🇹🇷 Turkey
 
@@ -681,8 +681,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### 🇬🇧 United Kingdom
 
-- Meetup [London](https://www.meetup.com/FlutterLDN/) 
-- [Twitter](https://twitter.com/FlutterLDN) 
+- Meetup [London](https://www.meetup.com/FlutterLDN/)
+- [Twitter](https://twitter.com/FlutterLDN)
 - [YouTube](https://www.youtube.com/channel/UC_a-vGdkAIRMKT1zzZ4I2ag)
 
 ### 🇺🇸 United States

@@ -185,7 +185,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Cupertino Design
 
-- [Peek & Pop](https://github.com/aliyigitbireroglu/flutter-peek-and-pop) <!--stargazers:aliyigitbireroglu/flutter-peek-and-pop--> - Peek & Pop implementation for Flutter based on the iOS functionality of the same name by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu)
+- [Peek & Pop](https://github.com/aliyigitbireroglu/flutter-peek-and-pop) <!--stargazers:aliyigitbireroglu/flutter-peek-and-pop--> - Peek & Pop implementation based on the iOS functionality by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu)
 
 #### Effect
 

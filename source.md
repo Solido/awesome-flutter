@@ -593,29 +593,29 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter Events](https://flutterevents.com) - An open list of Flutter events by [@hillelcoren](https://twitter.com/hillelcoren)
 - [FlutterX](https://flutterx.com) - Searchable list of resources by [Hillel Coren](https://twitter.com/hillelcoren)
 
-### 🇦🇴Angola
+### 🇦🇴 Angola
 - Facebook [Group](https://facebook.com/groups/556888664681938)
 - Facebook [Page](https://facebook.com/Flutter-Angola-2076395262380886/)
 - Twitter [Page](https://twitter.com/AngolaFlutter)
 
-### 🇧🇷Brazil
+### 🇧🇷 Brazil
 - Slack [Flutter Brasil](https://flutterbr.slack.com)
 - Medium [Flutter Comunidade BR](https://medium.com/flutter-comunidade-br)
 - Twitter [Flutter Comunidade BR](https://twitter.com/br_flutter)
 - Meetup [São Paulo](https://www.meetup.com/flutter-sp)
 
-### 🇨🇦Canada
+### 🇨🇦 Canada
 
 - Meetup [Toronto](https://www.meetup.com/FlutterToronto)
 - Meetup [Montreal](https://www.meetup.com/FlutterMontreal)
 - Meetup [Calgary](https://www.meetup.com/FlutterCalgary)
 
-### 🇨🇮Côte d'Ivoire (Ivory Coast)
+### 🇨🇮 Côte d'Ivoire (Ivory Coast)
 
 - Facebook [Page](https://web.facebook.com/flutterci/)
 - Facebook [Group](https://web.facebook.com/groups/1725273507587759/)
 
-### 🇩🇰Denmark
+### 🇩🇰 Denmark
 
 - Meetup [Denmark](https://www.meetup.com/Flutter-Developers-Denmark/)
 
@@ -623,49 +623,59 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Telegram](https://t.me/flutter_forum/)
 
-### 🇫🇷France
+### 🇫🇷 France
 
 - Meetup [Bordeaux](https://www.meetup.com/fr-FR/Flutter-Bordeaux) - [Paris](https://www.meetup.com/fr-FR/Flutter-Paris) - [Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
 - [Twitter](https://twitter.com/FlutterDev)
 - [Slack](https://slack.flutter-france.fr)
 
-### 🇩🇪Germany
+### 🇩🇪 Germany
 
 - Meetup [Berlin](https://www.meetup.com/flutter-berlin/) - [Düsseldorf](https://www.meetup.com/flutter-school/) - [Karlsruhe](https://www.meetup.com/Karlsruhe-Flutter-Meetup/) - [Hamburg](https://www.meetup.com/Flutter-Hamburg/)
 - Twitter [Flutter Berlin](https://twitter.com/flutterBerlin) - [Düsseldorf](https://twitter.com/flutter_school)
 - Slack [Flutter Berlin](https://flutterberlin.slack.com/join/shared_invite/enQtMzQ1NDI0NjU4Mjc5LWVjOTg0NmUxZmU4YzZjZjFkMWNjYWYyYTI5NjMyZWE5MDZjNDM0YzgyNWQyM2EzM2E0NDE4ZmQyMzQyMzRlNjI)
 
-### 🇯🇵Japan
+### 🇯🇵 Japan
 
 - Meetup [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
 
-### 🇳🇬Nigeria
+### 🇳🇬 Nigeria
 
 - Slack [DevCenter Square](https://devcenter-square-slack.herokuapp.com)
 - [WhatsApp](https://chat.whatsapp.com/FR2G7r33KjKAVQrB3AKp0H)
 - Twitter [FlutterLagos](https://twitter.com/FlutterLagos)
 
-### 🇵🇹Portugal
+### 🇵🇹 Portugal
 - [Meetup](https://www.meetup.com/flutterportugal)
 
-### 🇷🇺Russia
+### 🇷🇺 Russia
 
 - [Telegram](https://t.me/rudart) 
 
-### 🇱🇰Sri Lanka
+### 🇱🇰 Sri Lanka
 
 - [Gitter](https://gitter.im/Colombo-Flutter-Community) 
 - [Slack](https://fluttercmb.slack.com/)
 - [Community GitHub Page](https://github.com/Colombo-Flutter-Meetup)
 - [Facebook Page](https://www.facebook.com/flutterCMB/) 
 
-### 🇬🇧United Kingdom
+### 🇹🇷 Turkey
+
+- [Twitter](https://twitter.com/flutter_turkiye)
+- [Medium](https://medium.com/flutter-türkiye/)
+- [Telegram Channel](https://t.me/FlutterTurk)
+- [Telegram Group](https://t.me/FlutterTR)
+- [Slack](https://bit.ly/flutterturkiye)
+- [Github](https://github.com/flutterturkey)
+- [Youtube](https://www.youtube.com/channel/UCirgzDK3lBEf4dZVfAei_9Q)
+
+### 🇬🇧 United Kingdom
 
 - Meetup [London](https://www.meetup.com/FlutterLDN/) 
 - [Twitter](https://twitter.com/FlutterLDN) 
 - [YouTube](https://www.youtube.com/channel/UC_a-vGdkAIRMKT1zzZ4I2ag)
 
-### 🇺🇸United States
+### 🇺🇸 United States
 
 - Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
 

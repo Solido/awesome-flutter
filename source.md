@@ -613,7 +613,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - Medium [Flutter Comunidade BR](https://medium.com/flutter-comunidade-br)
 - Twitter [Flutter Comunidade BR](https://twitter.com/br_flutter)
 - Meetup [São Paulo](https://www.meetup.com/flutter-sp)
-- [Flutter para iniciantes](https://flutterparainiciantes.com.br)
+- [Flutter para iniciantes](https://www.flutterparainiciantes.com.br)
 
 ### 🇨🇦 Canada
 

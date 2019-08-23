@@ -123,6 +123,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter Examples](https://github.com/nisrulz/flutter-examples) <!--stargazers:nisrulz/flutter-examples--> - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz)
 - [Flutter Catalog](https://github.com/X-Wei/flutter_catalog) <!--stargazers:X-Wei/flutter_catalog--> - An app showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei)
 
+#### Web Demonstration
+
+- [Flutter Widget Live Book](https://flutter-widget-livebook.blankapp.org/) - Live web preview of widgets by [JianyingLi](https://github.com/lijy91/)
+
 ### UI
 
 - [Contact Picker](https://github.com/goderbauer/contact_picker) <!--stargazers:goderbauer/contact_picker--> - Picking contact from the address book by [Michael Goderbauer](https://github.com/goderbauer)
@@ -140,9 +144,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Folding Cell](https://github.com/faob-dev/folding_cell) <!--stargazers:faob-dev/folding_cell--> - Fold your widget by [Faob](https://github.com/faob-dev)
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) <!--stargazers:aagarwal1012/Liquid-Pull-To-Refresh--> - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Slide Container](https://pub.dev/packages/slide_container) Slide vertically and horizontally with a smooth dampened motion by [Quentin Le Guennec](https://github.com/quentinleguennec).
-- [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - An elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
+- [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
 - [Direct Select](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
-- [Before After](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - A beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
+- [Before After](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
 
 #### Sticky Headers
 
@@ -153,7 +157,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 #### Drawers
 
 - [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) <!--stargazers:RafaelBarbosatec/hidden_drawer_menu--> - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
-- [Flutter Inner Drawer](https://github.com/Dn-a/flutter_inner_drawer) <!--stargazers:Dn-a/flutter_inner_drawer--> - An easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
+- [Flutter Inner Drawer](https://github.com/Dn-a/flutter_inner_drawer) <!--stargazers:Dn-a/flutter_inner_drawer--> - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
 
 
 #### Bottom bars
@@ -172,16 +176,22 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Reorderables](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) <!--stargazers:aagarwal1012/Liquid-Pull-To-Refresh--> - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
-- [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot)
+- [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
 - [Offline](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 - [Scroll To Index](https://github.com/quire-io/scroll-to-index) <!--stargazers:quire-io/scroll-to-index--> - Scroll to specified child element with given index for SliverList/ListView by [Jerry Chen](https://github.com/jerrywell/).
 - [In View Notifier List](https://github.com/rvamsikrishna/inview_notifier_list) - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/rvamsikrishna).
+- [Snap](https://github.com/aliyigitbireroglu/flutter-snap) <!--stargazers:aliyigitbireroglu/flutter-snap--> - Tool/Widget for extensive snap management & snapping between widgets by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
+- [Flick](https://github.com/aliyigitbireroglu/flutter-flick) <!--stargazers:aliyigitbireroglu/flutter-flick--> - Tool/Widget for extensive flick management. Work flawlessly with the snap lib or standalone by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 
 #### Material Design
 
 - [Material Color Picker](https://github.com/long1eu/material_color_picker) <!--stargazers:long1eu/material_color_picker--> - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu)
 - [Unicorn Speed Dial](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins)
 - [Slidable](https://github.com/letsar/flutter_slidable) <!--stargazers:letsar/flutter_slidable--> - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar)
+
+#### Cupertino Design
+
+- [Peek & Pop](https://github.com/aliyigitbireroglu/flutter-peek-and-pop) <!--stargazers:aliyigitbireroglu/flutter-peek-and-pop--> - Peek & Pop implementation based on the iOS functionality by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu)
 
 #### Effect
 
@@ -257,10 +267,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Text & Rich Content
 
 - [Markdown](https://github.com/flutter/flutter_markdown) <!--stargazers:flutter/flutter_markdown--> - Markdown renderer for Flutter. It supports the original format, but no inline html
-- [Rich Text Editor](https://github.com/long1eu/rich_editor) <!--stargazers:long1eu/rich_editor--> - Text editor with style by [Lung Razvan](https://github.com/long1eu)
 - [Masked Text](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
 - [Zefyr](https://github.com/memspace/zefyr) <!--stargazers:memspace/zefyr--> - Soft and gentle rich text editing by [Memspace](https://github.com/memspace/zefyr)
 - [AutoSizeText](https://github.com/leisim/auto_size_text) <!--stargazers:leisim/auto_size_text--> - Automatically resizes text to fit perfectly within its bounds by [Simon Leier](https://github.com/leisim).
+- [Parsed Text](https://github.com/fayeed/flutter_parsed_text) <!--stargazers:fayeed/flutter_parsed_text--> - Interactive text based on content recognition, also supports Regex by [Fayeed Pawaskar](https://github.com/fayeed/)
 
 ### Analytics
 
@@ -411,7 +421,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Storage
 
 - [Sqflite](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
-- [MMKV](https://github.com/OpenFlutter/mmkv_flutter) <!--stargazers:OpenFlutter/mmkv_flutter--> - WeChat ultra fast & persistent key-value storage by [BigBug](https://github.com/yuyongmao)
 - [Hive](https://github.com/leisim/hive) <!--stargazers:leisim/hive--> - Lightweight and blazing fast key-value store written in pure Dart by [Simon Leier](https://github.com/leisim)
 
 ### Services
@@ -441,7 +450,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Built redux](https://github.com/davidmarne/flutter_built_redux) <!--stargazers:davidmarne/flutter_built_redux--> - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne)
 - [Redux.dart](https://github.com/johnpryan/redux.dart) <!--stargazers:johnpryan/redux.dart--> - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects)
 - [Redux](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets
-- [Dartea](https://github.com/p69/dartea) <!--stargazers:p69/dartea--> - Model View Update inspired by TEA from ELM by [Shilyagov P](https://github.com/p69)
 - [Inject](https://github.com/google/inject.dart) <!--stargazers:google/inject.dart--> - Compile-time dependency injection by Google
 - [Flux](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google
 - [Fish](https://github.com/alibaba/fish-redux) <!--stargazers:alibaba/fish-redux--> - Alibaba Redux implementation
@@ -464,6 +472,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [AnimatedTextKit](https://github.com/aagarwal1012/Animated-Text-Kit) <!--stargazers:aagarwal1012/Animated-Text-Kit--> - A collection of cool text animations by [Ayush Agarwal](https://github.com/aagarwal1012/)
 - [Drawing Animation](https://github.com/biocarl/drawing_animation) <!--stargazers:biocarl/drawing_animation--> - Create drawing line animations based on SVG path data by [Carl Hauck](https://twitter.com/cahaucks)
 - [Simple Animations](https://github.com/felixblaschke/simple_animations) - Create awesome custom animations easily by [Felix Blaschke](https://github.com/felixblaschke)
+- [flutter-animation-set](https://github.com/efoxTeam/flutter-animation-set) - Easy to build an animation set by [efoxTeam](https://github.com/efoxTeam)
 
 ### Game Engine
 
@@ -594,29 +603,29 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter Events](https://flutterevents.com) - An open list of Flutter events by [@hillelcoren](https://twitter.com/hillelcoren)
 - [FlutterX](https://flutterx.com) - Searchable list of resources by [Hillel Coren](https://twitter.com/hillelcoren)
 
-### 🇦🇴Angola
+### 🇦🇴 Angola
 - Facebook [Group](https://facebook.com/groups/556888664681938)
 - Facebook [Page](https://facebook.com/Flutter-Angola-2076395262380886/)
 - Twitter [Page](https://twitter.com/AngolaFlutter)
 
-### 🇧🇷Brazil
+### 🇧🇷 Brazil
 - Slack [Flutter Brasil](https://flutterbr.slack.com)
 - Medium [Flutter Comunidade BR](https://medium.com/flutter-comunidade-br)
 - Twitter [Flutter Comunidade BR](https://twitter.com/br_flutter)
 - Meetup [São Paulo](https://www.meetup.com/flutter-sp)
 
-### 🇨🇦Canada
+### 🇨🇦 Canada
 
 - Meetup [Toronto](https://www.meetup.com/FlutterToronto)
 - Meetup [Montreal](https://www.meetup.com/FlutterMontreal)
 - Meetup [Calgary](https://www.meetup.com/FlutterCalgary)
 
-### 🇨🇮Côte d'Ivoire (Ivory Coast)
+### 🇨🇮 Côte d'Ivoire (Ivory Coast)
 
 - Facebook [Page](https://web.facebook.com/flutterci/)
 - Facebook [Group](https://web.facebook.com/groups/1725273507587759/)
 
-### 🇩🇰Denmark
+### 🇩🇰 Denmark
 
 - Meetup [Denmark](https://www.meetup.com/Flutter-Developers-Denmark/)
 
@@ -624,49 +633,59 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Telegram](https://t.me/flutter_forum/)
 
-### 🇫🇷France
+### 🇫🇷 France
 
 - Meetup [Bordeaux](https://www.meetup.com/fr-FR/Flutter-Bordeaux) - [Paris](https://www.meetup.com/fr-FR/Flutter-Paris) - [Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
 - [Twitter](https://twitter.com/FlutterDev)
 - [Slack](https://slack.flutter-france.fr)
 
-### 🇩🇪Germany
+### 🇩🇪 Germany
 
 - Meetup [Berlin](https://www.meetup.com/flutter-berlin/) - [Düsseldorf](https://www.meetup.com/flutter-school/) - [Karlsruhe](https://www.meetup.com/Karlsruhe-Flutter-Meetup/) - [Hamburg](https://www.meetup.com/Flutter-Hamburg/)
 - Twitter [Flutter Berlin](https://twitter.com/flutterBerlin) - [Düsseldorf](https://twitter.com/flutter_school)
 - Slack [Flutter Berlin](https://flutterberlin.slack.com/join/shared_invite/enQtMzQ1NDI0NjU4Mjc5LWVjOTg0NmUxZmU4YzZjZjFkMWNjYWYyYTI5NjMyZWE5MDZjNDM0YzgyNWQyM2EzM2E0NDE4ZmQyMzQyMzRlNjI)
 
-### 🇯🇵Japan
+### 🇯🇵 Japan
 
 - Meetup [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
 
-### 🇳🇬Nigeria
+### 🇳🇬 Nigeria
 
 - Slack [DevCenter Square](https://devcenter-square-slack.herokuapp.com)
 - [WhatsApp](https://chat.whatsapp.com/FR2G7r33KjKAVQrB3AKp0H)
 - Twitter [FlutterLagos](https://twitter.com/FlutterLagos)
 
-### 🇵🇹Portugal
+### 🇵🇹 Portugal
 - [Meetup](https://www.meetup.com/flutterportugal)
 
-### 🇷🇺Russia
+### 🇷🇺 Russia
 
-- [Telegram](https://t.me/rudart) 
+- [Telegram](https://t.me/rudart)
 
-### 🇱🇰Sri Lanka
+### 🇱🇰 Sri Lanka
 
-- [Gitter](https://gitter.im/Colombo-Flutter-Community) 
+- [Gitter](https://gitter.im/Colombo-Flutter-Community)
 - [Slack](https://fluttercmb.slack.com/)
 - [Community GitHub Page](https://github.com/Colombo-Flutter-Meetup)
-- [Facebook Page](https://www.facebook.com/flutterCMB/) 
+- [Facebook Page](https://www.facebook.com/flutterCMB/)
 
-### 🇬🇧United Kingdom
+### 🇹🇷 Turkey
 
-- Meetup [London](https://www.meetup.com/FlutterLDN/) 
-- [Twitter](https://twitter.com/FlutterLDN) 
+- [Twitter](https://twitter.com/flutter_turkiye)
+- [Medium](https://medium.com/flutter-türkiye/)
+- [Telegram Channel](https://t.me/FlutterTurk)
+- [Telegram Group](https://t.me/FlutterTR)
+- [Slack](https://bit.ly/flutterturkiye)
+- [Github](https://github.com/flutterturkey)
+- [Youtube](https://www.youtube.com/channel/UCirgzDK3lBEf4dZVfAei_9Q)
+
+### 🇬🇧 United Kingdom
+
+- Meetup [London](https://www.meetup.com/FlutterLDN/)
+- [Twitter](https://twitter.com/FlutterLDN)
 - [YouTube](https://www.youtube.com/channel/UC_a-vGdkAIRMKT1zzZ4I2ag)
 
-### 🇺🇸United States
+### 🇺🇸 United States
 
 - Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
 

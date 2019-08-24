@@ -148,6 +148,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Direct Select](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 - [Before After](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
 - [Fancy Alert Dialog](https://github.com/DokkarRachidReda/Fancy-Flutter-Alert-Dialog) - Custom animated Alert dialog which allow you to show Gifs and images and comes with 2 themes 'Fancy' and 'Flat', by [Dokkar Rachid Reda](https://github.com/https://github.com/DokkarRachidReda).
+- [Interactive Add Button Layout](https://github.com/DokkarRachidReda/Interactive-Add-Button-Layout) - Custom animated layout with interactive add button to impove your UI and UX, by [Dokkar Rachid Reda](https://github.com/https://github.com/DokkarRachidReda).
+
 #### Sticky Headers
 
 - [Sticky Infinite List](https://github.com/TatsuUkraine/flutter_sticky_infinite_list) <!--stargazers:TatsuUkraine/flutter_sticky_infinite_list--> - Highly configurable multi directional infinite list with Sticky Headers by [TatsuUkraine](https://github.com/TatsuUkraine)

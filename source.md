@@ -126,6 +126,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 #### Web Demonstration
 
 - [Flutter Widget Live Book](https://flutter-widget-livebook.blankapp.org/) - Live web preview of widgets by [JianyingLi](https://github.com/lijy91/)
+- [Hive Drawing Board](https://leisim.github.io/hive/demos/drawing_board/#/) - Online drawing app with instant persistence by [Simon Leier](https://github.com/leisim)
 
 ### UI
 

@@ -165,6 +165,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) <!--stargazers:tunitowen/fancy_bottom_navigation--> - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
 - [Circular Bottom Navigation](https://github.com/imaNNeoFighT/circular_bottom_navigation) <!--stargazers:imaNNeoFighT/circular_bottom_navigation--> - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
 - [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) <!--stargazers:pedromassango/bottom_navy_bar--> - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
+- [Floating Expandable Navigation](https://github.com/ketanchoyal/extended_navbar_scaffold) <!--stargazers:ketanchoyal/extended_navbar_scaffold--> - Custom Flutter widgets that makes Bottom Navigation Floating and can be expanded with much cleaner and easier way by [Ketan Choyal](https://github.com/ketanchoyal).
 
 #### Sliders
 

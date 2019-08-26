@@ -271,6 +271,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Zefyr](https://github.com/memspace/zefyr) <!--stargazers:memspace/zefyr--> - Soft and gentle rich text editing by [Memspace](https://github.com/memspace/zefyr)
 - [AutoSizeText](https://github.com/leisim/auto_size_text) <!--stargazers:leisim/auto_size_text--> - Automatically resizes text to fit perfectly within its bounds by [Simon Leier](https://github.com/leisim).
 - [Parsed Text](https://github.com/fayeed/flutter_parsed_text) <!--stargazers:fayeed/flutter_parsed_text--> - Interactive text based on content recognition, also supports Regex by [Fayeed Pawaskar](https://github.com/fayeed/)
+- [Highlight](https://github.com/pd4d10/highlight) <!--stargazers:pd4d10/highlight--> - Syntax highlighting by [Rongjian Zhang](https://github.com/pd4d10)
 
 ### Analytics
 

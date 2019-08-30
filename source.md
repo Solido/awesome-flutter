@@ -335,6 +335,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Admob Flutter](https://github.com/YoussefKababe/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe)
 - [Facebook Audience Network](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & natvie ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
 - [Square In-App Payments SDK](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
+- [Native Ads](https://github.com/sakebook/flutter_native_ads) - Flutter plugin for AdMob Native Ads. Compatible with Android and iOS using PlatformView by [sakebook](https://github.com/sakebook).
 
 ## Templates
 

@@ -321,6 +321,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Firebase Storage](https://github.com/flutter/plugins/tree/master/packages/firebase_storage) - Firebase as data storage
 - [Secure Storage](https://github.com/mogol/flutter_secure_storage) <!--stargazers:mogol/flutter_secure_storage--> - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol)
+- [Simple JSON Persistence](https://github.com/hpoul/simple_json_persistence) <!--stargazers:hpoul/simple_json_persistence--> - Dart-native storage solution: Store any JSON serializable object. by [Herbert Poul](https://codeux.design/)
 
 #### Preferences
 

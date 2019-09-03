@@ -302,6 +302,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Audio
 
+- [Audio Player Plugin](https://github.com/luanpotter/audioplayers) [370⭐] - A Flutter plugin to play multiple audio files simultaneously (Android/iOS) by [Luan Nico](https://github.com/luanpotter).
 - [Audio Plugin](https://github.com/rxlabz/audioplayer) [318⭐] - Beta by [Erick Ghaumez](https://twitter.com/rxlabz).
 - [Audio Recorder](https://github.com/ZaraclaJ/audio_recorder) [97⭐] - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz).
 - [Stereo](https://github.com/2find/stereo) [54⭐] - Playing music on iOS and Android by [2Find](https://github.com/2find).

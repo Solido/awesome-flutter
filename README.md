@@ -208,7 +208,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Date range picker](https://github.com/anicdh/date_range_picker) <!-- stargazers:anicdh/date_range_picker--> - Date range picker modified based on Flutter date picker by [An Doan](https://github.com/anicdh)
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) [234⭐] - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
 
-
+#### Icon
+-[flutter_icons](https://github.com/flutter-studio/flutter-icons) -Customizable Icons for Flutter 💥 by [flutter-studio](https://github.com/flutter-studio)
+ 
 #### Backend-Driven
 
 - [Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) [205⭐] - Build your dynamic UI with json, and the json format is very similar with flutter widget code by [Denny Deng](https://github.com/dengyin2000).

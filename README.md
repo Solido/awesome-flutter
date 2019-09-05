@@ -466,7 +466,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Animation
 
-- [Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) [15⭐] - Easily add staggered animations to your ListView, GridView, Column and Row children by [mobiten](https://mobiten.com/)
+- [Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) [32⭐] - Easily add staggered animations to your ListView, GridView, Column and Row children by [mobiten](https://mobiten.com/)
 - [Sequence Animation](https://github.com/Norbert515/flutter_sequence_animation) [203⭐] - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir).
 - [SpinKit](https://github.com/jogboms/flutter_spinkit) [1048⭐] - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 - [Villains](https://github.com/Norbert515/flutter_villains) [223⭐] - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir).

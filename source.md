@@ -171,6 +171,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [RangeSlider](https://github.com/boeledi/RangeSlider) <!--stargazers:boeledi/RangeSlider--> - 2-thumb configurable RangeSlider by [Didier Boelens](https://www.didierboelens.com)
 - [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) <!--stargazers:rvamsikrishna/flutter_fluid_slider--> - A slider with a minimal design and fluid like animation by [Vamsi Krishna](https://github.com/rvamsikrishna)
 - [Flutter Xlider](https://github.com/Ali-Azmoud/flutter_xlider) <!--stargazers:Ali-Azmoud/flutter_xlider--> - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud)
+- [Review Slider](https://github.com/kherel/review_slider) <!--stargazers:kherel/review_slider--> - Animated review slider with emoji [Kherel](https://github.com/kherel)
 
 #### UI Helpers
 

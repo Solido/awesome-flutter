@@ -474,6 +474,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Drawing Animation](https://github.com/biocarl/drawing_animation) <!--stargazers:biocarl/drawing_animation--> - Create drawing line animations based on SVG path data by [Carl Hauck](https://twitter.com/cahaucks)
 - [Simple Animations](https://github.com/felixblaschke/simple_animations) - Create awesome custom animations easily by [Felix Blaschke](https://github.com/felixblaschke)
 - [flutter-animation-set](https://github.com/efoxTeam/flutter-animation-set) - Easy to build an animation set by [efoxTeam](https://github.com/efoxTeam)
+- [Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) - Easily add staggered animations to your ListView, GridView, Column and Row children by [mobiten](https://mobiten.com/)
 
 ### Game Engine
 

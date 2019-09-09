@@ -430,6 +430,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [OneSignal](https://github.com/OneSignal/OneSignal-Flutter-SDK) <!--stargazers:OneSignal/OneSignal-Flutter-SDK--> - Push notification service by [OneSignal](https://github.com/OneSignal)
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
 - [App Rating](https://github.com/AppleEducate/app_review) <!--stargazers:AppleEducate/app_review--> - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
+- [Freshchat](https://github.com/fayeed/flutter_freshchat) <!--stargazers:fayeed/flutter_freshchat--> - Live Chat service for modern messaging from Freshdesk by [Fayeed Pawaskar](https://github.com/fayeed/)
 
 ### Log / Tracing
 

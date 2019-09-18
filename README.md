@@ -19,7 +19,6 @@
     <img alt="Thanks" src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" />
   </a>
 
-
 </p>
 
 <a href="https://flutter.dev/">Flutter</a> is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
@@ -114,8 +113,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Whatsupcoders](https://www.youtube.com/c/whatsupcoders) [81🎬] - Free video series on Flutter Widgets by [Kamal](https://github.com/whatsupcoders).
 - [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value and in-depth challenges.
 
-
-
 ## Components
 
 ### Demonstrations
@@ -159,7 +156,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) [92⭐] - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
 - [Flutter Inner Drawer](https://github.com/Dn-a/flutter_inner_drawer) [75⭐] - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
-
 
 #### Bottom bars
 
@@ -208,7 +204,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab](https://github.com/dooboolab/flutter_calendar_carousel)
 - [Date range picker](https://github.com/anicdh/date_range_picker) <!-- stargazers:anicdh/date_range_picker--> - Date range picker modified based on Flutter date picker by [An Doan](https://github.com/anicdh)
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) [257⭐] - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
-
 
 #### Backend-Driven
 
@@ -543,7 +538,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) [57⭐] - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo).
 - [Tetris](https://github.com/boyan01/flutter-tetris) [551⭐] - Tetris game by [YangBin](https://github.com/boyan01).
 
-
 ## Utilities
 
 - [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya).
@@ -562,7 +556,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### IntelliJ / Android Studio
 
 - [Enhancement_Suite](https://github.com/marius-h/flutter_enhancement_suite) [48⭐] - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by [Marius Höfler](https://github.com/marius-h).
-
 
 ### Desktop
 
@@ -586,7 +579,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Interview Questions](https://github.com/whatsupcoders/Flutter-Interview-Questions) - List of helpful questions you can use to interview potential candidates by [Whatsupcoders](https://github.com/whatsupcoders/Whatsupcoders-flutter).
 
-
 ## Community
 
 ### Presentation material
@@ -608,11 +600,13 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [FlutterX](https://flutterx.com) - Searchable list of resources by [Hillel Coren](https://twitter.com/hillelcoren).
 
 ### 🇦🇴 Angola
+
 - Facebook [Group](https://facebook.com/groups/556888664681938)
 - Facebook [Page](https://facebook.com/Flutter-Angola-2076395262380886/)
 - Twitter [Page](https://twitter.com/AngolaFlutter)
 
 ### 🇧🇷 Brazil
+
 - Slack [Flutter Brasil](https://flutterbr.slack.com)
 - Medium [Flutter Comunidade BR](https://medium.com/flutter-comunidade-br)
 - Twitter [Flutter Comunidade BR](https://twitter.com/br_flutter)
@@ -660,6 +654,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - Twitter [FlutterLagos](https://twitter.com/FlutterLagos)
 
 ### 🇵🇹 Portugal
+
 - [Meetup](https://www.meetup.com/flutterportugal)
 
 ### 🇷🇺 Russia
@@ -693,13 +688,19 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
 
-
 ## Hall Of Fame
 
-[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/0)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/0)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/1)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/1)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/2)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/2)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/3)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/3)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/4)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/4)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/5)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/5)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/6)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/6)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/7)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/7)
+[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/0)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/0)
+[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/1)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/1)
+[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/2)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/2)
+[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/3)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/3)
+[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/4)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/4)
+[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/5)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/5)
+[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/6)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/6)
+[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/7)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/7)
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Robert Felker](https://www.linkedin.com/in/robert-felker/) has waived all copyright and related or neighboring rights to this work.

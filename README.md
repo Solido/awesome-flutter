@@ -2,7 +2,7 @@
 
 ## Getting effective quickly
 
-[<img src="https://flutter.dev/images/flutter-mark-square-100.png" width="100">](http://flutter.dev)
+[<img src="https://img.stackshare.io/service/7180/flutter-mark-square-100.png" width="100">](http://flutter.dev)
 
 > An awesome style list that curates the best [Flutter](http://flutter.dev) libraries, tools, tutorials, articles and more.
 

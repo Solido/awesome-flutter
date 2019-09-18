@@ -2,8 +2,6 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](https://github.com/spring-projects/spring-framework/blob/master/CODE_OF_CONDUCT.adoc). By participating in this project you agree to abide by its terms.
 
--
-
 Ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
@@ -22,4 +20,3 @@ Ensure your pull request adheres to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 
 Thank you for your suggestions!
-

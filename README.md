@@ -2,9 +2,9 @@
 
 ## Getting effective quickly
 
-[<img src="https://flutter.io/images/flutter-mark-square-100.png" width="100">](http://flutter.io)
+[<img src="https://flutter.dev/images/flutter-mark-square-100.png" width="100">](http://flutter.dev)
 
-> An awesome style list that curates the best [Flutter](http://flutter.io) libraries, tools, tutorials, articles and more.
+> An awesome style list that curates the best [Flutter](http://flutter.dev) libraries, tools, tutorials, articles and more.
 
 Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
 
@@ -67,6 +67,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app)
 
 #### Video
+
 - [Flutter Talks](https://www.youtube.com/playlist?list=PLW08AvVvHDpHFQjXnjv4CKPyAdFLPMW4q&disable_polymer=true) - Extensive list of Flutter videos in a dedicated Youtube Channel by [Brandon Donnelson](https://twitter.com/branflake2267), Dart Developer Summit and others.
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) - Very rich content by [Tensor Programming](http://tensor-programming.com/)
 - [Dart Streams](https://www.youtube.com/playlist?list=PLlpxjI4sVd-zZ1jpJHJMSHGiWInsvwwf_) - Flutter dedicated channel on Dart-Streams
@@ -207,7 +208,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 
 ### IDE
 
-- [IntelliJ Plugin](https://flutter.io/intellij-setup) - Flutter on Intellij and Webstorm
+- [IntelliJ Plugin](https://flutter.dev/docs/get-started/editor) - Flutter on Android Studio / IntelliJ and Visual Studio Code
 - [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Plugin to get Dart with Visual Studio Code by [Danny Tuppeny](https://twitter.com/DanTup)
 - [IntelliJ Snippets](https://github.com/Solido/flutter-snippet) - More More More Snippets to get stuffs done even faster and also learn quickly by [Robert Felker](https://github.com/Solido)
 - [VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=franzsilva.fs-flutter-snippets) - Translated from IntelliJ IDEA Official Snippets by Franz Silva
@@ -228,8 +229,8 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 
 ### Bluetooth
 
- - [Flutter Ble](https://github.com/Polidea/FlutterBleLib) - Bluetooth by [Polidea](http://www.polidea.com)
- - [Flutter Blue](https://github.com/pauldemarco/flutter_blue) - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
+- [Flutter Ble](https://github.com/Polidea/FlutterBleLib) - Bluetooth by [Polidea](http://www.polidea.com)
+- [Flutter Blue](https://github.com/pauldemarco/flutter_blue) - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
 
 ## Open Source Apps
 
@@ -275,6 +276,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 ## Bonus
 
 ### Published Apps
+
 - [Hamilton](https://itunes.apple.com/fr/app/hamilton-the-official-app/id1255231054?mt=8&ign-mpt=uo%3D4) - Introducing Hamilton — The Official App. Fans’ access to all things Hamilton: An American Musical.
 - [Newsvoice](https://itunes.apple.com/se/app/newsvoice/id1208421834?l=en&mt=8) - Newsvoice shows all the news and perspectives from high quality sources in one place.
 - [Bendometer](https://itunes.apple.com/us/app/bendometer/id772557902?mt=8) - "Harmonica tuner". Learn how to play bends on your harmonica.

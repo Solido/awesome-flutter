@@ -359,6 +359,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Feather](https://github.com/jhomlala/feather) <!--stargazers:jhomlala/feather--> - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala)
 - [Clone UI Challenges](https://github.com/javico2609/flutter-challenges) <!--stargazers:javico2609/flutter-challenges--> - Collection of useful UIs clones by [Javier González](https://github.com/javico2609)
 - [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) <!--stargazers:JideGuru/FlutterFoodybite--> - A beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
+- [Skroller](https://github.com/luckycreationsindia/skroller) - A simple scroll animation example for flutter like Scrollmagic by [Lokesh Jain](https://github.com/luckycreationsindia)
 
 ### Web
 

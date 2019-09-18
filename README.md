@@ -129,7 +129,6 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Flutter Plot](https://github.com/RCHowell/flutter_plot) - Pretty plots by [R. C. Howell](https://github.com/RCHowell/).
 - [Candlesticks](https://github.com/trentpiercy/flutter-candlesticks) - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy).
 
-
 ### Navigation
 
 - [Fluro](https://github.com/goposse/fluro) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)

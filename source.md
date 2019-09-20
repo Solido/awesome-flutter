@@ -665,6 +665,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [WhatsApp](https://chat.whatsapp.com/FR2G7r33KjKAVQrB3AKp0H)
 - Twitter [FlutterLagos](https://twitter.com/FlutterLagos)
 
+### 🇵🇱 Poland
+- Meetup [Tricity](https://www.meetup.com/pl-PL/Flutter-Tricity/)
+- Twitter [Tricity](https://twitter.com/FlutterTricity/)
+
 ### 🇵🇹 Portugal
 - [Meetup](https://www.meetup.com/flutterportugal)
 

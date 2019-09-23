@@ -183,6 +183,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [In View Notifier List](https://github.com/rvamsikrishna/inview_notifier_list) - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/rvamsikrishna).
 - [Snap](https://github.com/aliyigitbireroglu/flutter-snap) <!--stargazers:aliyigitbireroglu/flutter-snap--> - Tool/Widget for extensive snap management & snapping between widgets by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 - [Flick](https://github.com/aliyigitbireroglu/flutter-flick) <!--stargazers:aliyigitbireroglu/flutter-flick--> - Tool/Widget for extensive flick management. Work flawlessly with the snap lib or standalone by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
+- [ShowCaseView](https://github.com/simformsolutions/flutter_showcaseview) <!--stargazers:simformsolutions/flutter_showcaseview--> - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
 
 #### Material Design
 
@@ -200,7 +201,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Parallax](https://github.com/FlutterRocks/page-transformer) <!--stargazers:FlutterRocks/page-transformer--> - ViewPager by [Iiro Krankka](https://github.com/roughike)
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) <!--stargazers:hnvn/flutter_shimmer--> - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
 - [Wave](https://github.com/i-protoss/wave) <!--stargazers:i-protoss/wave--> - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
-- [Liquid Swipe](https://github.com/iamSahdeep/liquid_swipe_flutter) - A plugin to provide a Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
+- [Liquid Swipe](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
+
 
 #### Calendar
 

@@ -614,6 +614,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - Facebook [Page](https://facebook.com/Flutter-Angola-2076395262380886/)
 - Twitter [Page](https://twitter.com/AngolaFlutter)
 
+### 🇦🇺 Australia
+- Slack [GDG Sydney](https://gdg-sydney.slack.com)
+- Meetup [GDG Sydney](https://www.meetup.com/gdgsydney)
+- Twitter [Flutter Sydney](https://twitter.com/FlutterSydney)
+
 ### 🇧🇷 Brazil
 - Slack [Flutter Brasil](https://flutterbr.slack.com)
 - Medium [Flutter Comunidade BR](https://medium.com/flutter-comunidade-br)

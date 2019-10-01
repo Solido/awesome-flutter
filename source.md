@@ -710,6 +710,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
 
+### 🏴 Kurdistan
+
+- Meetup [Kurdistan](https://www.meetup.com/Flutter-Kurdistan/)
 
 ## Hall Of Fame
 

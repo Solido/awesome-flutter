@@ -104,6 +104,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Parallax Effect](https://marcinszalek.pl/flutter/tickets-challenge-parallax) - Parallax & non linear animation by [Marcin Szalek](https://marcinszalek.pl).
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) <!--claps:@salvatoregiordanoo/flavoring-flutter-392aaa875f36--> - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
+- [Flutter + Dart Tips](https://github.com/ibhavikmakwana/FlutterDartTips) - Useful Flutter and Dart Tips for the community by the community.
 
 ## Videos
 

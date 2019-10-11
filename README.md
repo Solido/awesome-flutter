@@ -227,6 +227,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) [775⭐] - Show images from the internet and keep them in the cache directory by.
 - [Multi Image Picker](https://github.com/Sh1d0w/multi_image_picker) [426⭐] - Display multi image picker by [Radoslav Vitanov](https://github.com/Sh1d0w).
 - [Lottie](https://github.com/CameronStuartSmith/flutter_lottie) [83⭐] - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [Cameron Smith](https://github.com/CameronStuartSmith).
+- [photofilters](https://github.com/skkallayath/photofilters)[94⭐] -  iOS and Android add filters to an image both preset and custom by [skkallayath](https://github.com/skkallayath)
 
 ### Map
 

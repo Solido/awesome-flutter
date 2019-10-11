@@ -148,7 +148,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) [198⭐] - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
 - [Direct Select](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 - [Before After](https://github.com/xsahil03x/before_after) [232⭐] - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
-
+- [Story View](https://github.com/blackmann/story_view)[49⭐]- Story view for apps with stories like instagram/whats app, by [blackmann](https://github.com/blackmann).
 #### Sticky Headers
 
 - [Sticky Infinite List](https://github.com/TatsuUkraine/flutter_sticky_infinite_list) [37⭐] - Highly configurable multi directional infinite list with Sticky Headers by [TatsuUkraine](https://github.com/TatsuUkraine).

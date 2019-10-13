@@ -148,6 +148,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
 - [Direct Select](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 - [Before After](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
+- [Argon Buttons (Loading and Timer)](https://github.com/iamyogik/argon_buttons_flutter) <!--https://github.com/iamyogik/argon_buttons_flutter--> - Create beautiful Loading and Timer buttons using Argon Buttons. No need to worry about handling animations or timers as this pakage does all that for you. [Yogesh Kumawat](https://github.com/iamyogik).
 
 #### Sticky Headers
 

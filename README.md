@@ -228,6 +228,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Multi Image Picker](https://github.com/Sh1d0w/multi_image_picker) [454⭐] - Display multi image picker by [Radoslav Vitanov](https://github.com/Sh1d0w).
 - [Lottie](https://github.com/CameronStuartSmith/flutter_lottie) [88⭐] - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [Cameron Smith](https://github.com/CameronStuartSmith).
 - [Bitmap](https://github.com/renancaraujo/bitmap) [42⭐] - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo).
+- [Photofilters](https://github.com/skkallayath/photofilters) [99⭐] - A flutter package for applying filter to an image by [Sharafudheen KK](https://github.com/skkallayath).
 
 ### Map
 

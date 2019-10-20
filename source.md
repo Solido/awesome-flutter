@@ -115,7 +115,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value and in-depth challenges.
 
 
-
 ## Components
 
 ### Demonstrations
@@ -203,6 +202,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) <!--stargazers:hnvn/flutter_shimmer--> - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
 - [Wave](https://github.com/i-protoss/wave) <!--stargazers:i-protoss/wave--> - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
 - [Liquid Swipe](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
+- [PhotoFilters](https://github.com/skkallayath/photofilters) <!--stargazers:skkallayath/photofilters--> - Apply filters to an image by [Sharafudheen KK](https://github.com/skkallayath).
 
 
 #### Calendar
@@ -719,10 +719,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### 🏴 Kurdistan
 
 - Meetup [Kurdistan](https://www.meetup.com/Flutter-Kurdistan/)
-
-## Hall Of Fame
-
-[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/0)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/0)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/1)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/1)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/2)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/2)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/3)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/3)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/4)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/4)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/5)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/5)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/6)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/6)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/7)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/7)
 
 ## License
 

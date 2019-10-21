@@ -18,8 +18,9 @@
   <a href="https://saythanks.io/to/Solido" target="_blank">
     <img alt="Thanks" src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" />
   </a>
-
-
+  <a href="https://app.releasly.co/sites/Solido/awesome-flutter?utm_source=github_badge&utm_campaign=awesome-flutter" target="_blank">
+    <img alt="Thanks" src="https://app.releasly.co/assets/badges/badge-awesome-blue.svg" />
+  </a>
 </p>
 
 <a href="https://flutter.dev/">Flutter</a> is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.

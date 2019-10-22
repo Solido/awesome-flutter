@@ -18,7 +18,9 @@
   <a href="https://saythanks.io/to/Solido" target="_blank">
     <img alt="Thanks" src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" />
   </a>
-
+  <a href="https://app.releasly.co/sites/Solido/awesome-flutter?utm_source=github_badge&utm_campaign=awesome-flutter" target="_blank">
+    <img alt="Subscribe to new links" src="https://app.releasly.co/assets/badges/badge-awesome-blue.svg" />
+  </a>
 
 </p>
 

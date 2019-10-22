@@ -115,7 +115,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value and in-depth challenges.
 
 
-
 ## Components
 
 ### Demonstrations
@@ -148,6 +147,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
 - [Direct Select](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 - [Before After](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
+- [Scratcher](https://github.com/vintage/scratcher) <!--stargazers:vintage/scratcher--> - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
 
 #### Sticky Headers
 
@@ -202,6 +202,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) <!--stargazers:hnvn/flutter_shimmer--> - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
 - [Wave](https://github.com/i-protoss/wave) <!--stargazers:i-protoss/wave--> - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
 - [Liquid Swipe](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
+- [PhotoFilters](https://github.com/skkallayath/photofilters) <!--stargazers:skkallayath/photofilters--> - Apply filters to an image by [Sharafudheen KK](https://github.com/skkallayath).
 
 
 #### Calendar
@@ -336,7 +337,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Firebase AdMob](https://github.com/flutter/plugins/tree/master/packages/firebase_admob) - Ad integration using Firebase
 - [Billing](https://github.com/VolodymyrLykhonis/flutter_billing) <!--stargazers:VolodymyrLykhonis/flutter_billing--> - Enable billing on iOS and Android by [Volodymyr Lykhonis](http://vladimirlichonos.com)
 - [Inapp Purchase](https://github.com/dooboolab/flutter_inapp_purchase) <!--stargazers:dooboolab/flutter_inapp_purchase--> - Features set of 'in app purchase' derived from [react-native-iap](https://github.com/dooboolab/react-native-iap) by [dooboolab](https://github.com/dooboolab)
-- [Admob Flutter](https://github.com/YoussefKababe/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe)
+- [Admob Flutter](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
 - [Facebook Audience Network](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & natvie ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
 - [Square In-App Payments SDK](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
 
@@ -718,10 +719,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### 🏴 Kurdistan
 
 - Meetup [Kurdistan](https://www.meetup.com/Flutter-Kurdistan/)
-
-## Hall Of Fame
-
-[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/0)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/0)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/1)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/1)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/2)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/2)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/3)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/3)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/4)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/4)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/5)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/5)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/6)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/6)[![](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/images/7)](https://sourcerer.io/fame/Solido/Solido/awesome-flutter/links/7)
 
 ## License
 

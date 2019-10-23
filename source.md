@@ -672,6 +672,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - Meetup [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
 
+### 🇰🇷 Korea
+
+- Meetup [Flutter Korea](https://www.meetup.com/ko-KR/Flutter-Korea/)
+- Facebook [Flutter Korea User Group](https://www.facebook.com/groups/flutterkorea/)
+- Slack [GDG Korea #flutter channel](http://slack.gdg.kr/)
+
 ### 🇳🇬 Nigeria
 
 - Slack [DevCenter Square](https://devcenter-square-slack.herokuapp.com)

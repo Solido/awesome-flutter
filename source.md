@@ -284,6 +284,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Segment.com Analytics](https://github.com/FaisalAbid/segment-analytics-flutter) <!--stargazers:FaisalAbid/segment-analytics-flutter--> - Make your Segment.com analytics a breeze! by [Faisal Abid](https://twitter.com/FaisalAbid)
 - [Pure Mixpanel](https://github.com/seenickcode/pure_mixpanel) <!--stargazers:seenickcode/pure_mixpanel--> - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode)
 
+### Internationalization
+
+- [Flutter Translate](https://github.com/bratan/flutter_translate) <!--stargazers:bratan/flutter_translate--> - The internationalization (i18n) library for Flutter by [Florin Bratan](http://bratan.me)
+
 ### Build automation
 
 #### Build solutions

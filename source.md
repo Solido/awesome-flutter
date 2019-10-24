@@ -286,7 +286,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Internationalization
 
-- [Flutter Translate](https://github.com/bratan/flutter_translate) <!--stargazers:bratan/flutter_translate--> - The internationalization (i18n) library for Flutter by [Florin Bratan](http://bratan.me)
+- [GenLang](https://github.com/KingWu/gen_lang) <!--stargazers:KingWu/gen_lang--> - Code generator for Internationalization by [King Wu](https://github.com/KingWu)
+- [Flutter Translate](https://github.com/bratan/flutter_translate) <!--stargazers:bratan/flutter_translate--> - Internationalization (i18n) library by [Florin Bratan](http://bratan.me)
 
 ### Build automation
 
@@ -561,7 +562,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [FlutterIcon](http://fluttericon.com/) <!--stargazers:ilikerobots/polyicon--> - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
 - [FVM](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 - [Flutter Debugger](https://github.com/blankapp/flutter-debugger) <!--stargazers:blankapp/flutter-debugger--> - Standalone app for debugging Flutter apps based on [Flipper](https://github.com/facebook/flipper) by [JianyingLi](https://github.com/lijy91)
-- [genLang](https://github.com/KingWu/gen_lang) <!--stargazers:KingWu/gen_lang--> - Code generator for Internationalization by [King Wu](https://github.com/KingWu)
 
 ### VSCode
 

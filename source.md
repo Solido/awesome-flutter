@@ -544,6 +544,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Chillify](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
 - [Pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
 - [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) <!--stargazers:janoodleFTW/timy-messenger--> - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling)
+- [Expenses Pal](https://github.com/artrmz/expenses-pal) <!--stargazers:artrmz/expenses-pal--> -The financial app focused on helping to manage you your expenses to find out where you spend your money the most by [Artur Rymarz](https://github.com/artrmz)
 
 ### Games
 

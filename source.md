@@ -465,6 +465,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flux](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google
 - [Fish](https://github.com/alibaba/fish-redux) <!--stargazers:alibaba/fish-redux--> - Alibaba Redux implementation
 - [Async Redux](https://pub.dev/packages/async_redux) <!--stargazers:marcglasberg/async_redux--> - Redux without boilerplate. Allows for both sync and async reducers by [Marcelo Glasberg](https://github.com/marcglasberg/)
+- [Jugger](https://github.com/ivk1800/jugger.dart) <!--stargazers:ivk1800/jugger.dart--> - Compile-time dependency injection for Dart and Flutter.
 
 ### Widgets
 

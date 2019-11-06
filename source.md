@@ -195,6 +195,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 #### Cupertino Design
 
 - [Peek & Pop](https://github.com/aliyigitbireroglu/flutter-peek-and-pop) <!--stargazers:aliyigitbireroglu/flutter-peek-and-pop--> - Peek & Pop implementation based on the iOS functionality by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu)
+- [Cupertino StackView](https://github.com/aliyigitbireroglu/flutter-cupertino-stackview) <!--stargazers:aliyigitbireroglu/flutter-cupertino-stackview--> - A very easy-to-use navigation tool/widget for having iOS 13 style stacks by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu)
 
 #### Effect
 

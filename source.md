@@ -195,6 +195,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 #### Cupertino Design
 
 - [Peek & Pop](https://github.com/aliyigitbireroglu/flutter-peek-and-pop) <!--stargazers:aliyigitbireroglu/flutter-peek-and-pop--> - Peek & Pop implementation based on the iOS functionality by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu)
+- [Cupertino Tab Bar](https://github.com/aliyigitbireroglu/flutter-cupertino-tabbar) <!--stargazers:aliyigitbireroglu/flutter-cupertino-tabbar--> - A highly customisable and simple widget for having iOS 13 style tab bars by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu)
 
 #### Effect
 

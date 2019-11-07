@@ -18,7 +18,7 @@
   <a href="https://saythanks.io/to/Solido" target="_blank">
     <img alt="Thanks" src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" />
   </a>
-
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/solido/awesome-flutter?style=flat">
 
 </p>
 
@@ -120,7 +120,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Demonstrations
 
 - [Official Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo for the material design widgets provided by Flutter Team.
-- [Flutter Examples](https://github.com/nisrulz/flutter-examples) [3725⭐] - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz).
+- [Flutter Examples](https://github.com/nisrulz/flutter-examples) ![GitHub stars](https://img.shields.io/github/stars/nisrulz/flutter-examples.svg?style=flat) - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz).
 - [Flutter Catalog](https://github.com/X-Wei/flutter_catalog) [760⭐] - An app showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei).
 
 #### Web Demonstration

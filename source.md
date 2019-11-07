@@ -184,6 +184,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Snap](https://github.com/aliyigitbireroglu/flutter-snap) <!--stargazers:aliyigitbireroglu/flutter-snap--> - Tool/Widget for extensive snap management & snapping between widgets by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 - [Flick](https://github.com/aliyigitbireroglu/flutter-flick) <!--stargazers:aliyigitbireroglu/flutter-flick--> - Tool/Widget for extensive flick management. Work flawlessly with the snap lib or standalone by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 - [ShowCaseView](https://github.com/simformsolutions/flutter_showcaseview) <!--stargazers:simformsolutions/flutter_showcaseview--> - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
+- [Drag Select GridView](https://github.com/hugocbpassos/drag_select_grid_view) <!--stargazers:hugocbpassos/drag_select_grid_view--> - GridView that supports both dragging and tapping to select its items by [Hugo Passos](https://github.com/hugocbpassos).
 
 #### Material Design
 
@@ -283,6 +284,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Firebase Analytics](https://github.com/flutter/plugins/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API
 - [Segment.com Analytics](https://github.com/FaisalAbid/segment-analytics-flutter) <!--stargazers:FaisalAbid/segment-analytics-flutter--> - Make your Segment.com analytics a breeze! by [Faisal Abid](https://twitter.com/FaisalAbid)
 - [Pure Mixpanel](https://github.com/seenickcode/pure_mixpanel) <!--stargazers:seenickcode/pure_mixpanel--> - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode)
+
+### Internationalization
+
+- [GenLang](https://github.com/KingWu/gen_lang) <!--stargazers:KingWu/gen_lang--> - Code generator for Internationalization by [King Wu](https://github.com/KingWu)
+- [Flutter Translate](https://github.com/bratan/flutter_translate) <!--stargazers:bratan/flutter_translate--> - Internationalization (i18n) library by [Florin Bratan](http://bratan.me)
 
 ### Build automation
 
@@ -547,7 +553,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Crush](https://github.com/boeledi/flutter_crush) <!--stargazers:boeledi/flutter_crush--> - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com)
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) <!--stargazers:kevmoo/slide_puzzle--> - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo)
 - [Tetris](https://github.com/boyan01/flutter-tetris) <!--stargazers:boyan01/flutter-tetris--> - Tetris game by [YangBin](https://github.com/boyan01)
-
+- [Party Charades](https://github.com/vintage/party_flutter) <!--stargazers:vintage/party_flutter--> - Party charades by [Kamil Rykowski](https://github.com/vintage)
 
 ## Utilities
 
@@ -557,7 +563,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [FlutterIcon](http://fluttericon.com/) <!--stargazers:ilikerobots/polyicon--> - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
 - [FVM](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 - [Flutter Debugger](https://github.com/blankapp/flutter-debugger) <!--stargazers:blankapp/flutter-debugger--> - Standalone app for debugging Flutter apps based on [Flipper](https://github.com/facebook/flipper) by [JianyingLi](https://github.com/lijy91)
-- [genLang](https://github.com/KingWu/gen_lang) <!--stargazers:KingWu/gen_lang--> - Code generator for Internationalization by [King Wu](https://github.com/KingWu)
 
 ### VSCode
 
@@ -572,7 +577,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Desktop
 
 - [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google
-- [Golang Desktop Embedder](https://github.com/go-flutter-desktop/go-flutter) <!--stargazers:go-flutter-desktop/go-flutter--> - Golang embedder for desktop by [Pierre Champion](https://github.com/Drakirus)
+- [Golang Desktop Embedder](https://github.com/go-flutter-desktop/go-flutter) <!--stargazers:go-flutter-desktop/go-flutter--> - Golang embedder for desktop by [Pierre Champion](https://github.com/pchampio)
 - [Rust Desktop Embedder](https://github.com/gliheng/flutter-rs) <!--stargazers:gliheng/flutter-rs--> - Rust embedder for desktop by [juju](https://github.com/gliheng).
 
 ## Bonus
@@ -671,6 +676,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### 🇯🇵 Japan
 
 - Meetup [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
+
+### 🇰🇷 Korea
+
+- Meetup [Flutter Korea](https://www.meetup.com/ko-KR/Flutter-Korea/)
+- Facebook [Flutter Korea User Group](https://www.facebook.com/groups/flutterkorea/)
+- Slack [GDG Korea #flutter channel](http://slack.gdg.kr/)
 
 ### 🇳🇬 Nigeria
 

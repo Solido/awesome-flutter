@@ -454,6 +454,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 #### Standard
 
 - [Bloc](https://github.com/felangel/bloc) [2899⭐] - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel).
+- [Provider](https://github.com/rrousselGit/provider) [1478⭐] - A mixture between dependency injection (DI) and state management, built with widgets for widgets.
 - [MobX](https://github.com/mobxjs/mobx.dart) [847⭐] - Supercharge the state-management in your apps with Transparent Functional Reactive Programming (TFRP). Port of MobX from the Js/React land.
 
 #### Redux / ELM / Dependency Injection

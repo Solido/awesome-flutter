@@ -503,6 +503,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Ozzie](https://github.com/jorgecoca/ozzie.flutter) <!--stargazers:jorgecoca/ozzie.flutter--> - Ozzie will take an screenshot during integration tests whenever you need by [Jorge Coca](https://github.com/jorgecoca)
 - [Flutter Gherkin](https://github.com/jonsamwell/flutter_gherkin) <!--stargazers:jonsamwell/flutter_gherkin--> - Fully featured Gherkin parser and UI automated test runner by [Jon Samwell](https://github.com/jonsamwell)
 
+### Extension methods
+- [dartx](https://github.com/leisim/dartx) <!--stargazers:leisim/dartx--> - Superpowers for Dart. Collection of useful static extension methods by [Simon Leier](https://github.com/leisim)
+
 ### Others
 
 - [AspectD](https://github.com/alibaba-flutter/aspectd) <!--stargazers:alibaba-flutter/aspectd--> - Aspect-oriented programming (AOP) framework for Flutter (Dart) by [Kyle Wong](https://github.com/kangwang1988)

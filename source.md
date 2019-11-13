@@ -732,6 +732,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - Meetup [Kurdistan](https://www.meetup.com/Flutter-Kurdistan/)
 
+### 🇳🇴 Norway
+- [Meetup Oslo](https://www.meetup.com/Oslo-Flutter-Dart-Meetup/)
+- [Meetup Stavanger](https://www.meetup.com/Flutter-Stavanger/)
+- [Twitter](https://twitter.com/flutterNorway)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

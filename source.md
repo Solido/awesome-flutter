@@ -257,6 +257,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Fluro](https://github.com/goposse/fluro) <!--stargazers:goposse/fluro--> - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
 - [PageView Indicator](https://github.com/leocavalcante/page_view_indicator) <!--stargazers:leocavalcante/page_view_indicator--> - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante)
 - [Swiper](https://github.com/jzoom/flutter_swiper) <!--stargazers:long1eu/circle_indicator--> - Horizontal, Vertical, Partial swipe with indicator by [Xueliang Ren](https://github.com/jzoom)
+- [Get](https://github.com/jonataslaw/get) - Navigate with no context on Flutter mobile and get full support for friendly url routes in Flutter_web. by [Jonny Borges](https://github.com/jonataslaw).
 
 ### Auth
 

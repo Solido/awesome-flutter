@@ -165,7 +165,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) [252⭐] - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
 - [Circular Bottom Navigation](https://github.com/imaNNeoFighT/circular_bottom_navigation) [216⭐] - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
-- [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) [278⭐] - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
+- [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) [314⭐] - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
+- [Titled Navigation Bar](https://github.com/pedromassango/titled_navigation_bar) [89⭐]- A beautiful and simple bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango)
 
 #### Sliders
 

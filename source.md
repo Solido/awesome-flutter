@@ -61,6 +61,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19) <!--claps:flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19--> - Building beautiful, flexible user interfaces
 - [Presentation](https://speakerdeck.com/hjjunior/why-i-chose-flutter) - by [Helio S. Junior](https://github.com/hjJunior)
 - [Flutter Web](https://medium.com/flutter-community/ins-and-outs-of-flutter-web-7a82721dc19a) <!--claps:flutter-community/ins-and-outs-of-flutter-web-7a82721dc19a--> - Ins and Outs of Flutter Web by [Nash](https://nash0x7e2.github.io/)
+- [DevonFw Flutter Guide](https://github.com/devonfw-forge/devonfw4flutter) - Indepth guide containing current best-practices, conventions, architecture recommendations, and more by [Sebastian Faust](https://github.com/Fasust)
 
 ### Websites / Blogs
 

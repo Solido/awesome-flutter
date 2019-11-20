@@ -544,7 +544,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Chillify](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry).
 - [Pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz).
 - [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) [904⭐] - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling).
-
+- [The Rick and Morty App](https://github.com/NandanSatheesh/Rick-And-Morty-Flutter-App)[1⭐] -  The Rick and Morty App with a mix of neat UI and Pagination  by [Nandan Satheesh](https://github.com/NandanSatheesh).
+  
 ### Games
 
 - [Flip](https://github.com/RedBrogdon/flutterflip) [144⭐] - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon).

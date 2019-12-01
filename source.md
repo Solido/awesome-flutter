@@ -715,9 +715,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Medium](https://medium.com/flutter-türkiye/)
 - [Telegram Channel](https://t.me/FlutterTurk)
 - [Telegram Group](https://t.me/FlutterTR)
-- [Slack](https://bit.ly/flutterturkiye)
+- [Slack](https://bit.ly/flutterTR)
 - [Github](https://github.com/flutterturkey)
-- [Youtube](https://www.youtube.com/channel/UCirgzDK3lBEf4dZVfAei_9Q)
 
 ### 🇬🇧 United Kingdom
 

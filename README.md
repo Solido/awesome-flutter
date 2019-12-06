@@ -148,6 +148,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Direct Select](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 - [Before After](https://github.com/xsahil03x/before_after) [249⭐] - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
 - [Scratcher](https://github.com/vintage/scratcher) [58⭐] - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
+- [Beautifu_Popup](https://github.com/jaweii/Flutter_beautiful_popup) [0⭐] - Beautify your app popup, by [jaweii](https://github.com/jaweii).
 
 #### Sticky Headers
 

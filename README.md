@@ -558,6 +558,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ## Utilities
 
 - [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya).
+- [FlutterPad](http://flutterpad.com/) - Online Flutter Code Editor, based on VSCode and Dart-Code plugin.
 - [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva).
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) [219⭐] - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren).
 - [FlutterIcon](http://fluttericon.com/) [137⭐] - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots).

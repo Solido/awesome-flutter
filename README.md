@@ -72,6 +72,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515).
 - [Flutter Tips](https://medium.com/@diegoveloper) - Articles, tips & tricks in the development by [Diego Velásquez](https://twitter.com/diegoveloper).
 - [FilledStacks](https://www.filledstacks.com/) - Tutorials and guides on development by [Dane Mackier](https://www.instagram.com/filledstacks/).
+- [Cool Flutter](https://www.coolflutter.com/) - Libraries, open-source flutter apps, cool widgets and more. by [Ali Anıl Koçak](https://github.com/AliAnilKocak/).
 
 ### Tutorial
 

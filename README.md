@@ -437,7 +437,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Services
 
 - [Dialogflow](https://github.com/VictorRancesCode/flutter_dialogflow) [103⭐] - Plugin to easily integrate with dialogflow by [Victor Rances](https://github.com/VictorRancesCode/).
-- [Intercom](https://pub.dev/packages/intercom) [22⭐] - Add Intercom integration to your app by [Maido Kaara](https://github.com/v3rm0n).
+- [Intercom](https://pub.dev/packages/intercom_flutter) [22⭐] - Add Intercom integration to your app by [Maido Kaara](https://github.com/v3rm0n).
 - [OneSignal](https://github.com/OneSignal/OneSignal-Flutter-SDK) [258⭐] - Push notification service by [OneSignal](https://github.com/OneSignal).
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) [44⭐] - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish).
 - [App Rating](https://github.com/AppleEducate/app_review) [6⭐] - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com).

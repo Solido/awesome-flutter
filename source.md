@@ -150,6 +150,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Scratcher](https://github.com/vintage/scratcher) <!--stargazers:vintage/scratcher--> - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
 - [Image Sequence Animator](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) <!--stargazers:aliyigitbireroglu/flutter-image-sequence-animator--> - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 - [Beautiful_Popup](https://github.com/jaweii/Flutter_beautiful_popup) <!--stargazers:jaweii/Flutter_beautiful_popup--> - Beautify your app popup by [jaweii](https://github.com/jaweii).
+- [Flutter EasyLoading](https://github.com/huangjianke/flutter_easyloading) <!--stargazers:huangjianke/flutter_easyloading--> - A clean and lightweight Loading widget for Flutter App, easy to use without context, by [huangjianke](https://github.com/huangjianke).
 
 #### Sticky Headers
 

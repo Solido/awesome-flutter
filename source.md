@@ -722,6 +722,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### 🇬🇧 United Kingdom
 
+- [Flutter London](https://flutterldn.dev/)
 - Meetup [London](https://www.meetup.com/FlutterLDN/)
 - [Twitter](https://twitter.com/FlutterLDN)
 - [YouTube](https://www.youtube.com/channel/UC_a-vGdkAIRMKT1zzZ4I2ag)

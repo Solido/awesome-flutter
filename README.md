@@ -627,6 +627,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - Meetup [GDG Sydney](https://www.meetup.com/gdgsydney)
 - Twitter [Flutter Sydney](https://twitter.com/FlutterSydney)
 
+### 🇧🇪 Belgium
+
+- [Meetup](https://www.meetup.com/Flutter-Belgium/)
+- [Twitter](https://twitter.com/FlutterBelgium)
+- [Slack](https://join.slack.com/t/flutter-belgium/shared_invite/enQtNjMwODUwNTk0NDk5LWJmYzFhOTUyNzZiYzJkM2Y2NjIwYjRjYWY2ODI5YjM4MjA3YmUyZDZlMzU2OTEwNDIzYzFjY2U1MjkzMDZmN2M)
+
 ### 🇧🇷 Brazil
 - Slack [Flutter Brasil](https://flutterbr.slack.com)
 - Medium [Flutter Comunidade BR](https://medium.com/flutter-comunidade-br)

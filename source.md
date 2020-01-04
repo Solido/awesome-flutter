@@ -147,7 +147,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Direct Select](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 - [Before After](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
 - [Scratcher](https://github.com/vintage/scratcher) <!--stargazers:vintage/scratcher--> - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
-- [Image Sequence Animator](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) <!--stargazers:aliyigitbireroglu/flutter-image-sequence-animator--> - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu)
+- [Image Sequence Animator](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) <!--stargazers:aliyigitbireroglu/flutter-image-sequence-animator--> - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
+- [Beautiful_Popup](https://github.com/jaweii/Flutter_beautiful_popup) <!--stargazers:jaweii/Flutter_beautiful_popup--> - Beautify your app popup by [jaweii](https://github.com/jaweii).
 
 #### Sticky Headers
 
@@ -165,6 +166,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) <!--stargazers:tunitowen/fancy_bottom_navigation--> - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
 - [Circular Bottom Navigation](https://github.com/imaNNeoFighT/circular_bottom_navigation) <!--stargazers:imaNNeoFighT/circular_bottom_navigation--> - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
 - [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) <!--stargazers:pedromassango/bottom_navy_bar--> - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
+- [Titled Navigation Bar](https://github.com/pedromassango/titled_navigation_bar) <!--stargazers:pedromassango/titled_navigation_bar--> - Animated bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango)
 
 #### Sliders
 
@@ -258,6 +260,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Fluro](https://github.com/goposse/fluro) <!--stargazers:goposse/fluro--> - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
 - [PageView Indicator](https://github.com/leocavalcante/page_view_indicator) <!--stargazers:leocavalcante/page_view_indicator--> - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante)
 - [Swiper](https://github.com/jzoom/flutter_swiper) <!--stargazers:long1eu/circle_indicator--> - Horizontal, Vertical, Partial swipe with indicator by [Xueliang Ren](https://github.com/jzoom)
+- [Deep Link Navigation](https://github.com/Dennis-Krasnov/Flutter-Deep-Link-Navigation) <!--stargazers:Dennis-Krasnov/Flutter-Deep-Link-Navigation--> - Elegant abstraction for complete deep linking navigation in Flutter by [Dennis Krasnov](https://denniskrasnov.com)
 
 ### Auth
 
@@ -413,7 +416,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Badger](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
 - [UDID](https://github.com/GigaDroid/flutter_udid) <!--stargazers:GigaDroid/flutter_udid--> - Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
 - [Downloader](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
-- [InAppBrowser](https://github.com/pichillilorenzo/flutter_inappbrowser) <!--stargazers:pichillilorenzo/flutter_inappbrowser--> - Add inline WebView widgets or open an in-app browser window by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+- [InAppWebView](https://github.com/pichillilorenzo/flutter_inappwebview) <!--stargazers:pichillilorenzo/flutter_inappwebview--> - Add inline WebView widgets or open an in-app browser window by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 - [AppAvailability](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 - [Aeyrium Sensor](https://github.com/aeyrium/aeyrium-sensor) <!--stargazers:aeyrium/aeyrium-sensor--> - A plugin which provide easy access to the Pitch and Roll on Android and iOS devices by [Diego Velásquez](https://github.com/aeyrium).
 - [File Picker](https://github.com/miguelpruivo/plugins_flutter_file_picker) <!--stargazers:miguelpruivo/plugins_flutter_file_picker--> - Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo)
@@ -715,12 +718,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Medium](https://medium.com/flutter-türkiye/)
 - [Telegram Channel](https://t.me/FlutterTurk)
 - [Telegram Group](https://t.me/FlutterTR)
-- [Slack](https://bit.ly/flutterturkiye)
+- [Slack](https://bit.ly/flutterTR)
 - [Github](https://github.com/flutterturkey)
-- [Youtube](https://www.youtube.com/channel/UCirgzDK3lBEf4dZVfAei_9Q)
 
 ### 🇬🇧 United Kingdom
 
+- [Flutter London](https://flutterldn.dev/)
 - Meetup [London](https://www.meetup.com/FlutterLDN/)
 - [Twitter](https://twitter.com/FlutterLDN)
 - [YouTube](https://www.youtube.com/channel/UC_a-vGdkAIRMKT1zzZ4I2ag)
@@ -732,6 +735,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### 🏴 Kurdistan
 
 - Meetup [Kurdistan](https://www.meetup.com/Flutter-Kurdistan/)
+
+### 🇳🇴 Norway
+- [Meetup Oslo](https://www.meetup.com/Oslo-Flutter-Dart-Meetup/)
+- [Meetup Stavanger](https://www.meetup.com/Flutter-Stavanger/)
+- [Twitter](https://twitter.com/flutterNorway)
 
 ## License
 

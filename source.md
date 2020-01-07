@@ -731,6 +731,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### 🇺🇸 United States
 
 - Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
+- Meetup [Washington DC] (https://www.meetup.com/DCFlutter/)
 
 ### 🏴 Kurdistan
 

@@ -695,6 +695,13 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - Twitter [FlutterLagos](https://twitter.com/FlutterLagos)
 
 ### 🇵🇱 Poland
+- [Flutter Developers Poland Facebook Group](https://www.facebook.com/groups/2228619364094561/about/)
+- [Flutter Poland Slack workspace](http://bit.ly/flutter-pl-slack)
+- [Flutter Warsaw Meetup](https://www.meetup.com/Flutter-Warsaw/)
+- [Flutter Warsaw Twitter](https://twitter.com/flutterwarsaw)
+- [Flutter Warsaw YouTube Channel](https://www.youtube.com/channel/UCO7yMprO8cFwV4QnuhTMVlQ)
+- [Poznan Flutter Developer Group](https://www.meetup.com/poznan-flutter-developers/)
+- [Flutter Wrocław Meetup](https://www.meetup.com/Flutter-Wroc%C5%82aw/)
 - Meetup [Tricity](https://www.meetup.com/pl-PL/Flutter-Tricity/)
 - Twitter [Tricity](https://twitter.com/FlutterTricity/)
 

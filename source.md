@@ -186,6 +186,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flick](https://github.com/aliyigitbireroglu/flutter-flick) <!--stargazers:aliyigitbireroglu/flutter-flick--> - Tool/Widget for extensive flick management. Work flawlessly with the snap lib or standalone by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 - [ShowCaseView](https://github.com/simformsolutions/flutter_showcaseview) <!--stargazers:simformsolutions/flutter_showcaseview--> - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
 - [Drag Select GridView](https://github.com/hugocbpassos/drag_select_grid_view) <!--stargazers:hugocbpassos/drag_select_grid_view--> - GridView that supports both dragging and tapping to select its items by [Hugo Passos](https://github.com/hugocbpassos).
+- [Fluid layout](https://github.com/jamesblasco/fluid_layout) <!--stargazers:jamesblasco/fluid_layout--> - Layout widgets for creating responsive layouts for mobile, web and desktop by [Jaime Blasco](https://github.com/jamesblasco).
 
 #### Material Design
 

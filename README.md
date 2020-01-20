@@ -127,6 +127,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Flutter Widget Live Book](https://flutter-widget-livebook.blankapp.org/) - Live web preview of widgets by [JianyingLi](https://github.com/lijy91/).
 
+### UI Library 
+- [GetFlutter UI Library](https://github.com/ionicfirebaseapp/getflutter) - GetFlutter is open-source UI library with 1000+ pre-build components.
+
 ### UI
 
 - [Contact Picker](https://github.com/goderbauer/contact_picker) [57⭐] - Picking contact from the address book by [Michael Goderbauer](https://github.com/goderbauer).

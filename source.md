@@ -706,6 +706,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### 🇵🇹 Portugal
 - [Meetup](https://www.meetup.com/flutterportugal)
 
+### 🇵🇪 Peru
+
+- Facebook [Flutter Peru Group](https://www.facebook.com/groups/flutterperu/)
+- Meetup [Flutter Peru](https://meetup.com/Flutter-Peru/)
+- Twitter [Flutter Peru](https://twitter.com/FlutterPeru)
+
 ### 🇷🇺 Russia
 
 - [Telegram](https://t.me/rudart)

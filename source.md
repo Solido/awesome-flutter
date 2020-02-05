@@ -280,6 +280,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [AutoSizeText](https://github.com/leisim/auto_size_text) <!--stargazers:leisim/auto_size_text--> - Automatically resizes text to fit perfectly within its bounds by [Simon Leier](https://github.com/leisim).
 - [Parsed Text](https://github.com/fayeed/flutter_parsed_text) <!--stargazers:fayeed/flutter_parsed_text--> - Interactive text based on content recognition, also supports Regex by [Fayeed Pawaskar](https://github.com/fayeed/)
 
+### Forms
+
+- [form_bloc](https://github.com/GiancarloCode/form_bloc) - Easy form state management using BLoC pattern, the easiest way to prefill, async validation, update form fields, and show progress, failures, successes or navigate by reacting to the form state! by [GiancarloCode](https://github.com/GiancarloCode)
+
 ### Analytics
 
 - [Usage](https://github.com/dart-lang/usage) <!--stargazers:dart-lang/usage--> - Google Analytics wrapper for command-line, web, and Flutter apps

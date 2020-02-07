@@ -106,7 +106,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) [182🎬] - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan).
 - [Flutter in Practice](https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN) - Free video course for beginners & non-programmers by [Zaiste](https://zaiste.net/).
 - [Whatsupcoders](https://www.youtube.com/c/whatsupcoders) [83🎬] - Free video series on Flutter Widgets by [Kamal](https://github.com/whatsupcoders).
-- [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value and in-depth challenges.
 
 
 ## Components

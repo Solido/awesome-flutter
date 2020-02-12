@@ -741,6 +741,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Slack](https://bit.ly/flutterTR)
 - [Github](https://github.com/flutterturkey)
 
+### 🇺🇦 Ukraine
+- [Telegram](https://t.me/artflutter)
+- [Twitter](https://twitter.com/ArtFlutter)
+
 ### 🇬🇧 United Kingdom
 
 - [Flutter London](https://flutterldn.dev/)

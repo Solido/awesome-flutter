@@ -294,6 +294,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Build automation
 
+#### Build configuration
+
+- [Envoronment Configuration](https://github.com/TatsuUkraine/dart_environment_config) <!--stargazers:TatsuUkraine/dart_environment_config--> - CLI command to generate App configuration for particular environment
+as Dart Class and `.env` file by [TatsuUkraine](https://github.com/TatsuUkraine)
+
 #### Build solutions
 
 - [Bitrise for Flutter](https://devcenter.bitrise.io/getting-started/getting-started-with-flutter-apps/) - Flutter build, test and deployment automation, free for Open Source and smaller projects.

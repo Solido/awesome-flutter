@@ -297,7 +297,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 #### Build configuration
 
 - [Envoronment Configuration](https://github.com/TatsuUkraine/dart_environment_config) <!--stargazers:TatsuUkraine/dart_environment_config--> - CLI command to generate App configuration for particular environment
-as Dart Class and `.env` file by [TatsuUkraine](https://github.com/TatsuUkraine)
+as Dart Class and `.env` file to use inside Flutter application by [TatsuUkraine](https://github.com/TatsuUkraine)
 
 #### Build solutions
 

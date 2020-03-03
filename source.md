@@ -572,6 +572,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [FlutterIcon](http://fluttericon.com/) <!--stargazers:ilikerobots/polyicon--> - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
 - [FVM](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 - [Flutter Debugger](https://github.com/blankapp/flutter-debugger) <!--stargazers:blankapp/flutter-debugger--> - Standalone app for debugging Flutter apps based on [Flipper](https://github.com/facebook/flipper) by [JianyingLi](https://github.com/lijy91)
+- [JSON to Dart Models](https://javiercbk.github.io/json_to_dart/) - Easily convert JSONs to Dart Models with a simple copy and paste! Useful when working with HTTP and receiving REST responses! [Javier Lecuona](https://github.com/javiercbk)
 
 ### VSCode
 

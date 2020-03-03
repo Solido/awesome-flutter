@@ -265,7 +265,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Local Auth](https://github.com/flutter/plugins/tree/master/packages/local_auth) - Touch ID, lock code, fingerprint auth on iOS and Android
 - [Login](https://github.com/AppleEducate/flutter_login) <!--stargazers:AppleEducate/flutter_login--> - FaceID, TouchID, and Fingerprint Reader by [Rody Davis](http://appleeducate.com)
 - [Google Sign-In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in) - Google OAuth
-- [Firebase Auth](https://github.com/flutter/plugins/tree/master/packages/firebase_auth) - Firebase OAuth
+- [Firebase Auth](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth) - Firebase OAuth
 - [Facebook Login](https://github.com/roughike/flutter_facebook_login) <!--stargazers:roughike/flutter_facebook_login--> - Authenticate with native Android & iOS Facebook login SDKs by [Iiro Krankka](https://github.com/roughike)
 - [Apple Sign-In](https://github.com/tomgilder/flutter_apple_sign_in) <!--stargazers:tomgilder/flutter_apple_sign_in--> - Apple sign in by [Tom Gilder](https://github.com/tomgilder)
 - [OAuth](https://github.com/hitherejoe/FlutterOAuth) <!--stargazers:hitherejoe/FlutterOAuth--> - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com)
@@ -284,7 +284,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Analytics
 
 - [Usage](https://github.com/dart-lang/usage) <!--stargazers:dart-lang/usage--> - Google Analytics wrapper for command-line, web, and Flutter apps
-- [Firebase Analytics](https://github.com/flutter/plugins/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API
+- [Firebase Analytics](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API
 - [Segment.com Analytics](https://github.com/FaisalAbid/segment-analytics-flutter) <!--stargazers:FaisalAbid/segment-analytics-flutter--> - Make your Segment.com analytics a breeze! by [Faisal Abid](https://twitter.com/FaisalAbid)
 - [Pure Mixpanel](https://github.com/seenickcode/pure_mixpanel) <!--stargazers:seenickcode/pure_mixpanel--> - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode)
 
@@ -333,7 +333,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Storage
 
-- [Firebase Storage](https://github.com/flutter/plugins/tree/master/packages/firebase_storage) - Firebase as data storage
+- [Firebase Storage](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_storage) - Firebase as data storage
 - [Secure Storage](https://github.com/mogol/flutter_secure_storage) <!--stargazers:mogol/flutter_secure_storage--> - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol)
 
 #### Preferences
@@ -343,7 +343,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Monetization
 
 - [Admob](https://pub.dev/packages/admob) - GoogleAdmob supports interstitial ads in both iOS and Android by Brett Nesbitt
-- [Firebase AdMob](https://github.com/flutter/plugins/tree/master/packages/firebase_admob) - Ad integration using Firebase
+- [Firebase AdMob](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_admob) - Ad integration using Firebase
 - [Billing](https://github.com/VolodymyrLykhonis/flutter_billing) <!--stargazers:VolodymyrLykhonis/flutter_billing--> - Enable billing on iOS and Android by [Volodymyr Lykhonis](http://vladimirlichonos.com)
 - [Inapp Purchase](https://github.com/dooboolab/flutter_inapp_purchase) <!--stargazers:dooboolab/flutter_inapp_purchase--> - Features set of 'in app purchase' derived from [react-native-iap](https://github.com/dooboolab/react-native-iap) by [dooboolab](https://github.com/dooboolab)
 - [Admob Flutter](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).

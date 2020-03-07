@@ -162,6 +162,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Circular Bottom Navigation](https://github.com/imaNNeoFighT/circular_bottom_navigation) <!--stargazers:imaNNeoFighT/circular_bottom_navigation--> - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
 - [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) <!--stargazers:pedromassango/bottom_navy_bar--> - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
 - [Titled Navigation Bar](https://github.com/pedromassango/titled_navigation_bar) <!--stargazers:pedromassango/titled_navigation_bar--> - Animated bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango)
+- [Custom Navigation Bar](https://github.com/rickywen911/custom_bubble_navigation_bar) <!--stargazers:rickywen911/custom_bubble_navigation_bar--> - A custom navigation bar with bubble click effect by [Chaoxiang Wen](https://github.com/rickywen911)
 
 #### Sliders
 

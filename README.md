@@ -143,6 +143,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Scratcher](https://github.com/vintage/scratcher) [90⭐] - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
 - [Image Sequence Animator](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) [18⭐] - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 - [Beautiful_Popup](https://github.com/jaweii/Flutter_beautiful_popup) [155⭐] - Beautify your app popup by [jaweii](https://github.com/jaweii).
+- [CountryCode picker](https://github.com/imtoori/CountryCodePicker) [108⭐] - A flutter package for showing a country code selector by [imtoori](https://github.com/imtoori).
 
 #### Sticky Headers
 

@@ -572,6 +572,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
 - [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) <!--stargazers:janoodleFTW/timy-messenger--> - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling)
 
+## Open Source Katas
+
+### Testing
+
+- [API integration testing flutter Kata](hhttps://github.com/xurxodev/api-integration-testing-flutter-kata) - The main goal is to practice api integration testing using MockWebServer by [Jorge Sánchez Fernández(xuroxdev)](https://github.com/xurxodev)
+
 ## Utilities
 
 - [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya)

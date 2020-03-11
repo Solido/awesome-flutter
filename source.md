@@ -102,6 +102,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Parallax Effect](https://marcinszalek.pl/flutter/tickets-challenge-parallax) - Parallax & non linear animation by [Marcin Szalek](https://marcinszalek.pl).
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) <!--claps:@salvatoregiordanoo/flavoring-flutter-392aaa875f36--> - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
 
+### Testing
+- [REST API client tests in Flutter](https://medium.com/@xurxodev/how-to-create-a-rest-api-client-and-its-integration-tests-in-flutter-924f71e23e0d) - How to create a REST API client and its integration tests in Flutter by [Jorge Sánchez Fernández(xuroxdev)](https://github.com/xurxodev)
+
 ## Videos
 
 - [Boring Show](https://www.youtube.com/watch?v=CPmN4-i9zC8&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK) - Exploration with the Flutter Team.

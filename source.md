@@ -261,6 +261,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [PageView Indicator](https://github.com/leocavalcante/page_view_indicator) <!--stargazers:leocavalcante/page_view_indicator--> - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante)
 - [Swiper](https://github.com/jzoom/flutter_swiper) <!--stargazers:long1eu/circle_indicator--> - Horizontal, Vertical, Partial swipe with indicator by [Xueliang Ren](https://github.com/jzoom)
 - [Deep Link Navigation](https://github.com/Dennis-Krasnov/Flutter-Deep-Link-Navigation) <!--stargazers:Dennis-Krasnov/Flutter-Deep-Link-Navigation--> - Elegant abstraction for complete deep linking navigation in Flutter by [Dennis Krasnov](https://denniskrasnov.com)
+- [Get](https://github.com/jonataslaw/get) <!--stargazers:jonataslaw/get--> - Navigate between screens, display snackbars, and open dialogs/bottomSheets, from anywhere in your code without context with Get. by [Jonny Borges](https://github.com/jonataslaw)
 
 ### Auth
 

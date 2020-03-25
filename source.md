@@ -182,7 +182,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flick](https://github.com/aliyigitbireroglu/flutter-flick) <!--stargazers:aliyigitbireroglu/flutter-flick--> - Tool/Widget for extensive flick management. Work flawlessly with the snap lib or standalone by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 - [ShowCaseView](https://github.com/simformsolutions/flutter_showcaseview) <!--stargazers:simformsolutions/flutter_showcaseview--> - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
 - [Drag Select GridView](https://github.com/hugocbpassos/drag_select_grid_view) <!--stargazers:hugocbpassos/drag_select_grid_view--> - GridView that supports both dragging and tapping to select its items by [Hugo Passos](https://github.com/hugocbpassos).
-- [styled_widget](https://github.com/ReinBentdal/styled_widget) <!--stargazers:ReinBentdal/styled_widget--> - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
 
 #### Material Design
 
@@ -352,6 +351,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Admob Flutter](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
 - [Facebook Audience Network](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & natvie ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
 - [Square In-App Payments SDK](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
+
+### Experimental
+
+This section contains libraries that take an experimental or unorthodox approach to Flutter.
+
+- [styled_widget](https://github.com/ReinBentdal/styled_widget) <!--stargazers:ReinBentdal/styled_widget--> - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
 
 ## Templates
 

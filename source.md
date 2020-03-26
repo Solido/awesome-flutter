@@ -282,7 +282,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Forms
 
-- [form_bloc](https://github.com/GiancarloCode/form_bloc) - Easy form state management using BLoC pattern, the easiest way to prefill, async validation, update form fields, and show progress, failures, successes or navigate by reacting to the form state! by [GiancarloCode](https://github.com/GiancarloCode)
+- [form_bloc](https://giancarlocode.github.io/form_bloc/) - Easy form state management using BLoC pattern. Wizard/Stepper forms, async validation, dynamic and conditional fields, submission progress, loading and async initializing form, serialization and more! by [GiancarloCode](https://github.com/GiancarloCode)
 
 ### Analytics
 

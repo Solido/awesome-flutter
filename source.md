@@ -512,6 +512,13 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [AspectD](https://github.com/alibaba-flutter/aspectd) <!--stargazers:alibaba-flutter/aspectd--> - Aspect-oriented programming (AOP) framework for Flutter (Dart) by [Kyle Wong](https://github.com/kangwang1988)
 
+
+## Experimental
+
+This section contains libraries that take an experimental or unorthodox approach.
+
+- [styled_widget](https://github.com/ReinBentdal/styled_widget) <!--stargazers:ReinBentdal/styled_widget--> - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
+
 ## Gaming
 
 ### Game Engines

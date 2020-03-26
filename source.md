@@ -352,12 +352,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Facebook Audience Network](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & natvie ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
 - [Square In-App Payments SDK](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
 
-### Experimental
-
-This section contains libraries that take an experimental or unorthodox approach to Flutter.
-
-- [styled_widget](https://github.com/ReinBentdal/styled_widget) <!--stargazers:ReinBentdal/styled_widget--> - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
-
 ## Templates
 
 - [Movie Details](https://github.com/FlutterRocks/movie-details-ui) <!--stargazers:FlutterRocks/movie-details-ui--> - Movie details page by [Iiro Krankka](https://github.com/roughike)
@@ -517,6 +511,13 @@ This section contains libraries that take an experimental or unorthodox approach
 ### Others
 
 - [AspectD](https://github.com/alibaba-flutter/aspectd) <!--stargazers:alibaba-flutter/aspectd--> - Aspect-oriented programming (AOP) framework for Flutter (Dart) by [Kyle Wong](https://github.com/kangwang1988)
+
+
+## Experimental
+
+This section contains libraries that take an experimental or unorthodox approach.
+
+- [styled_widget](https://github.com/ReinBentdal/styled_widget) <!--stargazers:ReinBentdal/styled_widget--> - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
 
 ## Gaming
 

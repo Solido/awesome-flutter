@@ -42,6 +42,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Template](#templates)
 - [Plugins](#plugins)
 - [Frameworks](#frameworks)
+- [Experimental](#experimental)
 - [Gaming](#gaming)
 - [Open Source Apps](#open-source-apps)
 - [Web](#web)

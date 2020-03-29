@@ -261,6 +261,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [PageView Indicator](https://github.com/leocavalcante/page_view_indicator) [81⭐] - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante).
 - [Swiper](https://github.com/jzoom/flutter_swiper) [40⭐] - Horizontal, Vertical, Partial swipe with indicator by [Xueliang Ren](https://github.com/jzoom).
 - [Deep Link Navigation](https://github.com/Dennis-Krasnov/Flutter-Deep-Link-Navigation) [20⭐] - Elegant abstraction for complete deep linking navigation in Flutter by [Dennis Krasnov](https://denniskrasnov.com).
+- [thrio](https://github.com/hellobike/thrio) [39⭐] - Thrio makes it easy and fast to add flutter to existing mobile applications, and provide a simple and consistent navigator APIs. by [foxsofter](https://github.com/foxsofter).
 
 ### Auth
 

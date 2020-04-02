@@ -726,6 +726,10 @@ This section contains libraries that take an experimental or unorthodox approach
 - [WhatsApp](https://chat.whatsapp.com/FR2G7r33KjKAVQrB3AKp0H)
 - Twitter [FlutterLagos](https://twitter.com/FlutterLagos)
 
+### 🇵🇰 Pakistan
+
+- [Facebook Group](https://www.facebook.com/groups/FlutterPK/)
+
 ### 🇵🇭 Philippines
 - [Website](https://flutter.ph/)
 - [Meetup](https://www.meetup.com/flutterph/)

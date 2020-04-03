@@ -242,6 +242,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Map](https://github.com/apptreesoftware/flutter_map) <!--stargazers:apptreesoftware/flutter_map--> - Solution based on [Leaflet](http://leafletjs.com/) and customizable by [AppTree Software](https://github.com/apptreesoftware)
 - [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) <!--stargazers:mapbox/flutter-mapbox-gl--> - Interactive, customizable vector maps by Mapbox
 - [AMap](https://github.com/fluttify-project/amap_map_fluttify) <!--stargazers:fluttify-project/amap_map_fluttify--> - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project)
+- [Corona Virus Map](https://github.com/hooshyar/Corona-Virus-Flutter) <!--stargazers:hooshyar/Corona-Virus-Flutter--> - Corona virus spread Map and Statistics by [hooshyar](https://github.com/hooshyar)
 
 ### Charts
 

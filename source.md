@@ -79,11 +79,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Beginner
 
-- [Zero to One Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) <!--claps:dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb--> - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn)
-- [Animations in Flutter](https://proandroiddev.com/animations-in-flutter-6e02ee91a0b2) <!--claps:@muhammedsalihguler/animations-in-flutter-6e02ee91a0b2--> - Commonly used animation examples by [Muhammed Salih Güler](https://proandroiddev.com/@muhammedsalihguler)
+- [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap) <!--stargazers:olexale/flutter_roadmap--> - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
 - [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - Extensive examples of layout widgets by [Tomek Polański](https://github.com/tomaszpolanski)
-- [Pooja's Guide to Flutterverse](https://medium.com/flutter-community/i-want-to-learn-flutter-how-to-start-ffb4145f9b26) <!--claps:flutter-community/i-want-to-learn-flutter-how-to-start-ffb4145f9b26--> - Step by step guide for learning Flutter for super beginners by [Pooja Bhaumik](https://twitter.com/pblead26).
-- [Roadmap To Become A Flutter Developer](https://medium.com/flutterdevs/roadmap-to-become-a-flutter-developer-resources-for-beginners-ccb68718c84b) - A quick step by step resource guide for those who want to learn flutter by [Ashish Rawat](https://www.ashishrawat.dev).
+
 
 ### Advanced
 

@@ -577,6 +577,8 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Chillify](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry).
 - [Pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz).
 - [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) [1266⭐] - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling).
+- [Sharik](https://github.com/marchellodev/sharik) - File sharing app for Android, Windows, Linux and MacOS using LAN (Wi-Fi or Hotspot) by [marchellodev](https://github.com/marchellodev).
+
 
 ## Utilities
 

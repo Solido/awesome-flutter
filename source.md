@@ -807,6 +807,9 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Meetup Stavanger](https://www.meetup.com/Flutter-Stavanger/)
 - [Twitter](https://twitter.com/flutterNorway)
 
+### 🇺🇿 Uzbekistan
+ - [Telegram](https://t.me/dartdevuz)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

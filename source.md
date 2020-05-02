@@ -81,7 +81,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap) <!--stargazers:olexale/flutter_roadmap--> - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
 - [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - Extensive examples of layout widgets by [Tomek Polański](https://github.com/tomaszpolanski)
-
+- [Flutter Tutorial for Beginners](https://milapneupane.com.np/2020/05/01/the-ultimate-flutter-tutorial-for-beginners) - Learn visualizing covid19 data from scratch by [Milap Neupane](https://twitter.com/_milap)
 
 ### Advanced
 

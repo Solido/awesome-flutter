@@ -294,11 +294,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Build automation
 
-#### Build configuration
-
-- [Envoronment Configuration](https://github.com/TatsuUkraine/dart_environment_config) <!--stargazers:TatsuUkraine/dart_environment_config--> - CLI command to generate App configuration for particular environment
-as Dart Class and `.env` file to use inside Flutter application by [TatsuUkraine](https://github.com/TatsuUkraine)
-
 #### Build solutions
 
 - [Bitrise for Flutter](https://devcenter.bitrise.io/getting-started/getting-started-with-flutter-apps/) - Flutter build, test and deployment automation, free for Open Source and smaller projects.
@@ -576,6 +571,8 @@ as Dart Class and `.env` file to use inside Flutter application by [TatsuUkraine
 - [FlutterIcon](http://fluttericon.com/) <!--stargazers:ilikerobots/polyicon--> - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
 - [FVM](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 - [Flutter Debugger](https://github.com/blankapp/flutter-debugger) <!--stargazers:blankapp/flutter-debugger--> - Standalone app for debugging Flutter apps based on [Flipper](https://github.com/facebook/flipper) by [JianyingLi](https://github.com/lijy91)
+- [Envoronment Configuration](https://github.com/TatsuUkraine/dart_environment_config) <!--stargazers:TatsuUkraine/dart_environment_config--> - CLI command to generate App configuration for particular environment
+as Dart Class and `.env` file to use inside Flutter application by [TatsuUkraine](https://github.com/TatsuUkraine)
 
 ### VSCode
 

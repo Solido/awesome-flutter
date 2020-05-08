@@ -147,7 +147,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
 - [Direct Select](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 - [Before After](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
-- [Fancy Alert Dialog](https://github.com/DokkarRachidReda/Fancy-Flutter-Alert-Dialog) [59 :star:]- Custom animated Alert dialog which allow you to show Gifs and images and comes with 2 themes 'Fancy' and 'Flat', by [Dokkar Rachid Reda](https://github.com/DokkarRachidReda).
+- [Fancy Alert Dialog](https://github.com/DokkarRachidReda/Fancy-Flutter-Alert-Dialog) [59 :star:]- Custom animated Alert dialog which allow you to show Gifs and images and comes with 2 themes 'Fancy' and 'Flat', by [Dokkar Rachid Reda](https://github.com/DokkarRachidReda). 
 
 
 #### Sticky Headers

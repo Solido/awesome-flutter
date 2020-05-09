@@ -511,6 +511,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [AspectD](https://github.com/alibaba-flutter/aspectd) [587⭐] - Aspect-oriented programming (AOP) framework for Flutter (Dart) by [Kyle Wong](https://github.com/kangwang1988).
 
+### Date Time Utilities
+
+- [Jiffy](https://github.com/jama5262/jiffy) Jiffy is a Flutter (Android, IOS and Web) date time package inspired by momentjs for parsing, manipulating, querying and formatting dates
 
 ## Experimental
 

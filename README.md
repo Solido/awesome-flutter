@@ -773,6 +773,11 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Community GitHub Page](https://github.com/Colombo-Flutter-Meetup)
 - [Facebook Page](https://www.facebook.com/flutterCMB/)
 
+### 🇸🇩 Sudan
+
+- [Facebook Group] (https://www.facebook.com/groups/2144606092282336)
+
+
 ### 🇹🇷 Turkey
 
 - [Twitter](https://twitter.com/flutter_turkiye)

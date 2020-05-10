@@ -775,7 +775,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### 🇸🇩 Sudan
 
-- Facebook Group [Flutter Sudan](https://www.facebook.com/groups/2144606092282336)
+- Facebook Group [Flutter Sudan](https://www.facebook.com/groups/fluttersudan)
 
 
 ### 🇹🇷 Turkey

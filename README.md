@@ -324,6 +324,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Video
 
+- [IQPlayer](https://github.com/muhmdhsn313/iqplayer) - Powerful video player kit, included (Screen, Widget, Subtitle, Custom Theme) by [Muhammad Hasan Alasady](https://github.com/muhmdhsn313).
 - [WebRTC](https://github.com/cloudwebrtc/flutter-webrtc) [1277⭐] - WebRTC plugin for iOS/Android by [CloudWebRtc](https://github.com/cloudwebrtc).
 - [Chewie](https://github.com/brianegan/chewie) [872⭐] - Provides low-level access to video playback by [Brian Egan](https://github.com/brianegan).
 

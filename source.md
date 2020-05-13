@@ -722,6 +722,10 @@ This section contains libraries that take an experimental or unorthodox approach
 - Facebook [Flutter Korea User Group](https://www.facebook.com/groups/flutterkorea/)
 - Slack [GDG Korea #flutter channel](http://slack.gdg.kr/)
 
+### 🇲🇾 Malaysia
+
+- Telegram [Flutter/Dart Dev Malaysia](https://t.me/flutterdevmalaysia)
+
 ### 🇳🇬 Nigeria
 
 - Slack [DevCenter Square](https://devcenter-square-slack.herokuapp.com)

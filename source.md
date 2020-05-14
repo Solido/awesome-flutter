@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
     <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-@stackoverflow@-orange.svg" />
-  </a>
+  </a>ad
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
     <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-@repositories@-brightgreen.svg" />
   </a>
@@ -498,7 +498,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Simple Animations](https://github.com/felixblaschke/simple_animations) - Create awesome custom animations easily by [Felix Blaschke](https://github.com/felixblaschke)
 - [Flutter-animation-set](https://github.com/efoxTeam/flutter-animation-set) <!--stargazers:efoxTeam/flutter-animation-set--> - Easy to build an animation set by [efoxTeam](https://github.com/efoxTeam)
 - [Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) <!--stargazers:mobiten/flutter_staggered_animations--> - Easily add staggered animations to your ListView, GridView, Column and Row by [mobiten](https://mobiten.com/)
-- [animate_do](https://pub.dev/packages/animate_do) - An animation package inspired in Animate.css, built using only Flutter animations, no extra packages by [Fernando Herrera](https://twitter.com/Fernando_Her85).
+- [Animate Do](https://pub.dev/packages/animate_do) - Animation package inspired like Animate.css by [Fernando Herrera](https://twitter.com/Fernando_Her85).
 
 ### Misc
 

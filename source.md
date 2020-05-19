@@ -100,6 +100,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Parallax Effect](https://marcinszalek.pl/flutter/tickets-challenge-parallax) - Parallax & non linear animation by [Marcin Szalek](https://marcinszalek.pl).
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) <!--claps:@salvatoregiordanoo/flavoring-flutter-392aaa875f36--> - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
+- [Build Flavor](https://medium.com/@angeloavv/easily-build-flavors-in-flutter-android-and-ios-with-flutter-flavorizr-d48cbf956e4) - Easily build flavors in Flutter (Android and iOS) with flutter_flavorizr by [Angelo Cassano](https://medium.com/@angeloavv)
 
 ## Videos
 
@@ -589,6 +590,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [FlutterIcon](http://fluttericon.com/) <!--stargazers:ilikerobots/polyicon--> - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
 - [FVM](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 - [Environment Configuration](https://github.com/TatsuUkraine/dart_environment_config) <!--stargazers:TatsuUkraine/dart_environment_config--> - CLI tool to generate `.env` configurations for application environments by [TatsuUkraine](https://github.com/TatsuUkraine)
+- [Flutter Flavorizr](https://github.com/AngeloAvv/flutter_flavorizr) <!--stargazers:AngeloAvv/flutter_flavorizr--> - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by [Angelo Cassano](https://github.com/AngeloAvv)
 
 ### VSCode
 

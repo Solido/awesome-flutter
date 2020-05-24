@@ -143,6 +143,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Image Sequence Animator](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) <!--stargazers:aliyigitbireroglu/flutter-image-sequence-animator--> - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 - [Beautiful_Popup](https://github.com/jaweii/Flutter_beautiful_popup) <!--stargazers:jaweii/Flutter_beautiful_popup--> - Beautify your app popup by [jaweii](https://github.com/jaweii).
 - [Credit Card Form](https://github.com/Origogi/Flutter-Credit-Card-Input) <!--stargazers:Origogi/Flutter-Credit-Card-Input--> - Animated credit card input form [Origogi](https://github.com/Origogi).
+- [Explode View](https://github.com/mdg-soc-19/explode-view) <!--stargazers:mdg-soc-19/explode-view--> - A beautiful explosion animation for Flutter by [Hemil Panchiwala](https://github.com/hemilpanchiwala).
 
 #### Sticky Headers
 

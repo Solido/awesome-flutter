@@ -137,7 +137,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Folding Cell](https://github.com/faob-dev/folding_cell) <!--stargazers:faob-dev/folding_cell--> - Fold your widget by [Faob](https://github.com/faob-dev)
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) <!--stargazers:aagarwal1012/Liquid-Pull-To-Refresh--> - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Slide Container](https://pub.dev/packages/slide_container) Slide vertically and horizontally with a smooth dampened motion by [Quentin Le Guennec](https://github.com/quentinleguennec).
-- [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
 - [Direct Select](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 - [Before After](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
 - [Scratcher](https://github.com/vintage/scratcher) <!--stargazers:vintage/scratcher--> - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
@@ -162,6 +161,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Circular Bottom Navigation](https://github.com/imaNNeoFighT/circular_bottom_navigation) <!--stargazers:imaNNeoFighT/circular_bottom_navigation--> - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
 - [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) <!--stargazers:pedromassango/bottom_navy_bar--> - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
 - [Titled Navigation Bar](https://github.com/pedromassango/titled_navigation_bar) <!--stargazers:pedromassango/titled_navigation_bar--> - Animated bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango)
+
+#### Bottom Sheets
+- [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
+- [Modal Bottom Sheet](https://github.com/jamesblasco/modal_bottom_sheet) <!--stargazers:jamesblasco/modal_bottom_sheet--> - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by [Jaime Blasco](https://github.com/jamesblasco).
 
 #### Sliders
 

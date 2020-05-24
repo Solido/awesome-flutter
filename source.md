@@ -730,7 +730,7 @@ This section contains libraries that take an experimental or unorthodox approach
 ### 🇳🇬 Nigeria
 
 - Slack [DevCenter Square](https://devcenter-square-slack.herokuapp.com)
-- [WhatsApp](https://chat.whatsapp.com/FR2G7r33KjKAVQrB3AKp0H)
+- Telegram [FlutterLagos](https://t.me/joinchat/PAH0fVA0l7F_zMM537lo9w)
 - Twitter [FlutterLagos](https://twitter.com/FlutterLagos)
 
 ### 🇵🇰 Pakistan

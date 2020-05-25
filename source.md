@@ -537,7 +537,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) <!--stargazers:kevmoo/slide_puzzle--> - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo)
 - [Tetris](https://github.com/boyan01/flutter-tetris) <!--stargazers:boyan01/flutter-tetris--> - Tetris game by [YangBin](https://github.com/boyan01)
 - [Party Charades](https://github.com/vintage/party_flutter) <!--stargazers:vintage/party_flutter--> - Party charades by [Kamil Rykowski](https://github.com/vintage)
-- [Snake Game](https://github.com/aryan29/Snake-Game-Flutter) -Classic snake game with 3 playing modes by [Aryan Khandelwal](https://github.com/aryan29)
+- [Snake Game](https://github.com/aryan29/Snake-Game-Flutter) <!--stargazers:aryan29/Snake-Game-Flutter--> - Classic snake game with 4 playing modes by [Aryan Khandelwal](https://github.com/aryan29)
 
 #### Lists
 

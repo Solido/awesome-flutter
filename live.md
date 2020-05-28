@@ -30,7 +30,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 
 
-
 ### 🇺🇸 United States
 
 | Monday          | Tuesday         | Wednesday       | Thursday        | Friday          | Saturday        | Sunday              

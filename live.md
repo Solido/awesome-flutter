@@ -35,7 +35,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 | Monday          | Tuesday         | Wednesday       | Thursday        | Friday          | Saturday        | Sunday              
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | ---------------
-|        |        |        | Rody Davis **9:45 AM	CET** <img alt="Thanks" src="https://img.shields.io/badge/streaming-now-green.svg" />      |        |        |    
+|        |        |        | [Rody Davis](https://www.youtube.com/channel/UCqc2elhr0N52GVsyNaWtLvA) **9:45 AM	CET** <img alt="Thanks" src="https://img.shields.io/badge/streaming-now-green.svg" />      |        |        |    
     
 
 ### 🇦🇴 Angola

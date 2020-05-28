@@ -16,6 +16,7 @@
   </a>
 </p>
 
+
 <a href="https://flutter.dev/">Flutter</a> is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
 
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
@@ -109,8 +110,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 | Monday          | Tuesday         | Wednesday       | Thursday        | Friday          | Saturday        | Sunday              
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | ---------------
-| Content Cell    | Content Cell    | Content Cell    | Content Cell    | Content Cell    | Content Cell    | Content Cell
-
+|        |        |        | Rody Davis      |        |        |    
+|        |        |        |  <img alt="Thanks" src="https://img.shields.io/badge/streaming-now-green.svg" />   |        |        |    
+|        |        |        | 9:45 AM	CET     |        |        |    
+|        |        |        | GMT -8.         |        |        |    
 
 ### 🏴 Kurdistan
 

@@ -28,6 +28,16 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Streams
 
+
+
+
+### 🇺🇸 United States
+
+| Monday          | Tuesday         | Wednesday       | Thursday        | Friday          | Saturday        | Sunday              
+| --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | ---------------
+|        |        |        | Rody Davis <img alt="Thanks" src="https://img.shields.io/badge/streaming-now-green.svg" />      |        |        |    
+|        |        |        | 9:45 AM	CET     |        |        |      
+
 ### 🇦🇴 Angola
 
 
@@ -105,13 +115,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### 🇬🇧 United Kingdom
 
-
-### 🇺🇸 United States
-
-| Monday          | Tuesday         | Wednesday       | Thursday        | Friday          | Saturday        | Sunday              
-| --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | ---------------
-|        |        |        | Rody Davis <img alt="Thanks" src="https://img.shields.io/badge/streaming-now-green.svg" />      |        |        |    
-|        |        |        | 9:45 AM	CET     |        |        |      
+//////////////////////////////////////
 
 ### 🏴 Kurdistan
 

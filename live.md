@@ -24,10 +24,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Live
 
-- [Streams](#steams)
+- [Streams](#streams)
 
 ## Streams
-
 
 
 
@@ -64,6 +63,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### 🇩🇪 Germany
 
+| Stream Information                                                                                          | Monday | Tuesday | Wednesday                                                                               | Thursday | Friday | Saturday                                                                            | Sunday |
+| ----------------------------------------------------------------------------------------------------------- | ------ | ------- | --------------------------------------------------------------------------------------- | -------- | ------ | ----------------------------------------------------------------------------------- | ------ |
+| [Channel: FlutterExplained](https://youtube/c/flutterexplained)<br/>Platform: Youtube<br/>Language: English |        |         | [Pair Programming - Flutter Explained](https://flutterexplained.live)<br/>3:00 p.m. CET |          |        | [Solo Programming / Just Chatting](https://flutterexplained.live)<br/>3:00 p.m. CET |        |
 
 ### 🇬🇷 Greece
 

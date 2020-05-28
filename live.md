@@ -25,6 +25,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ## Live
 
 - [Streams](#streams)
+- [Podcasts](#podcasts)
 
 ## Streams
 
@@ -126,6 +127,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 
 ### 🇺🇿 Uzbekistan
+
+
+## Podcasts
 
 
 ## License

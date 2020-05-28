@@ -110,10 +110,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 | Monday          | Tuesday         | Wednesday       | Thursday        | Friday          | Saturday        | Sunday              
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | ---------------
-|        |        |        | Rody Davis      |        |        |    
-|        |        |        |  <img alt="Thanks" src="https://img.shields.io/badge/streaming-now-green.svg" />   |        |        |    
-|        |        |        | 9:45 AM	CET     |        |        |    
-|        |        |        | GMT -8.         |        |        |    
+|        |        |        | Rody Davis <img alt="Thanks" src="https://img.shields.io/badge/streaming-now-green.svg" />      |        |        |    
+|        |        |        | 9:45 AM	CET     |        |        |      
 
 ### 🏴 Kurdistan
 

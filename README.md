@@ -33,7 +33,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 </td>
 </tr></table></div>
 
-## Contents wes
+## Contents 
 
 - [Articles](#articles)
 - [Videos](#videos)

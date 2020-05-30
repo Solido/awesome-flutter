@@ -493,6 +493,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Graphql](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
 - [GeoFlutterFire](https://github.com/DarshanGowda0/GeoFlutterFire) <!--stargazers:DarshanGowda0/GeoFlutterFire--> - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/)
+- [Flutter TeX](https://github.com/shah-xad/flutter_tex) <!--stargazers:shah-xad/flutter_tex--> - A Flutter Package to render Mathematics Equations with full HTML and JavaScript support by [Shahzad Akram](https://github.com/shah-xad)
 
 ### Animation
 

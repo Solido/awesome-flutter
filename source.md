@@ -464,7 +464,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Log / Tracing
 
 - [Catcher](https://github.com/jhomlala/catcher) <!--stargazers:jhomlala/catcher--> - Automatically catches errors and handles them by [Jakub Homlala](https://github.com/jhomlala)
-- [Logger](https://github.com/leisim/logger) <!--stargazers:leisim/logger--> - Easy to use and beautiful logs by [Simon Leier](https://github.com/leisim)
+- [Logger](https://github.com/leisim/logger) <!--stargazers:flutter/sentry--> - Easy to use and beautiful logs by [Simon Leier](https://github.com/leisim)
+
+### Crash monitoring
+
+- [Sentry](https://sentry.io/) <!--stargazers:leisim/logger--> - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time by [Flutter](https://github.com/flutter/sentry)
 
 ## Frameworks
 

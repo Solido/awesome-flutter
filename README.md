@@ -328,6 +328,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Audio Recorder](https://github.com/ZaraclaJ/audio_recorder) [130⭐] - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz).
 - [Stereo](https://github.com/2find/stereo) [66⭐] - Playing music on iOS and Android by [2Find](https://github.com/2find).
 - [Flutter Sound](https://github.com/dooboolab/flutter_sound) [353⭐] - Flutter audio recorder and player at one hand by [dooboolab](https://github.com/dooboolab).
+- [AssetsAudioPlayer](https://github.com/florent37/Flutter-AssetsAudioPlayer) [162⭐] Play simultaneously music/audio from assets/network/file directly from Flutter, compatible with android / ios / web / macos, displays notifications.
 
 #### Video
 

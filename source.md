@@ -259,6 +259,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [FL Chart](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
 - [Bezier Chart](https://github.com/aeyrium/bezier-chart) <!--stargazers:aeyrium/bezier-chart--> - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
 - [Echarts](https://github.com/entronad/flutter_echarts) <!--stargazers:entronad/flutter_echarts--> - Large collection of advanced reactives charts by [LIN Chen](https://github.com/entronad)
+- [Pie Chart](https://github.com/apgapg/pie_chart) <!--stargazers:apgapg/pie_chart--> - Pie Chart Widget with cool animation by [Ayush P Gupta](https://github.com/apgapg)
 
 ### Navigation
 

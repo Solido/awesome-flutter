@@ -718,6 +718,14 @@ This section contains libraries that take an experimental or unorthodox approach
 - Meetup [Athens](https://www.meetup.com/Athens-Flutter-Group/)
 - Slack [Flutter GR](https://join.slack.com/t/fluttergr/shared_invite/enQtNzQwODM2NzIxOTg0LWFjNWYxYzkyMTdmYWQ4ZWYyMWI2YjcyOTI4YzAzYjY2Nzk3OWNkMTkwZGRjNjRiMGFlNzgyOGRhMmEyZTQ3MmM)
 
+### 🇮🇳 India
+
+#### **Flutter India**
+- Website [https://flutterindia.dev](https://flutterindia.dev/#/)
+- YouTube [Flutter India](https://www.youtube.com/channel/UCQ6LuIX6WBwIEOiVakjWM6w)
+- Twitter [IndiaFlutter](https://twitter.com/IndiaFlutter)
+- Facebook [IndiaFlutter](https://www.facebook.com/IndiaFlutter)
+
 ### 🇮🇩 Indonesia
 - Telegram [Flutter Indonesia](https://t.me/flutter_id)
 

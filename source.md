@@ -448,6 +448,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [NFC Reader](https://github.com/matteocrippa/flutter-nfc-reader) <!--stargazers:matteocrippa/flutter-nfc-reader--> - NFC reader plugin for iOS and Android by [Matteo Crippa](https://github.com/matteocrippa)
 - [Beacon broadcast](https://github.com/pszklarska/beacon_broadcast) <!--stargazers:pszklarska/beacon_broadcast--> - Library for turning your phone into a beacon by [Paulina Szklarska](https://github.com/pszklarska/)
 - [Reactive Ble](https://github.com/PhilipsHue/flutter_reactive_ble) <!--stargazers:PhilipsHue/flutter_reactive_ble--> - Handles BLE operations for multiple devices by [Philips Hue](https://github.com/PhilipsHue)
+- [NFC Manager](https://github.com/okadan/flutter-nfc-manager) <!--stargazers:okadan/flutter-nfc-manager--> - Generic NFC plugin for iOS and Android by [Naoki Okada](https://github.com/okadan)
 
 ### Storage
 

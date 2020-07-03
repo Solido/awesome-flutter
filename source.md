@@ -146,6 +146,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Credit Card Form](https://github.com/Origogi/Flutter-Credit-Card-Input) <!--stargazers:Origogi/Flutter-Credit-Card-Input--> - Animated credit card input form [Origogi](https://github.com/Origogi).
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
 - [Flutter Tags](https://github.com/Dn-a/flutter_tags) <!--stargazers:Dn-a/flutter_tags--> - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
+- [Flutter Neumorphic](https://github.com/Idean/Flutter-Neumorphic) <!--stargazers:Idean/Flutter-Neumorphic--> - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.
 
 #### Sticky Headers
 

@@ -213,9 +213,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Calendar Widget](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
 - [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab](https://github.com/dooboolab/flutter_calendar_carousel)
-- [Date range picker](https://github.com/anicdh/date_range_picker) <!-- stargazers:anicdh/date_range_picker--> - Date range picker modified based on Flutter date picker by [An Doan](https://github.com/anicdh)
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) <!--stargazers:aleksanderwozniak/table_calendar--> - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
-- [SomeCalendar](https://github.com/agryva/Some-Calendar) <!--stargazers:agryva/Some-Calendar--> - Custom calendar dialog (multi select, single select, date range) mode by [agryva](https://github.com/agryva)
+- [SomeCalendar](https://github.com/agryva/Some-Calendar) <!--stargazers:agryva/Some-Calendar--> - Multi-select & range configurable calendar by [agryva](https://github.com/agryva)
 
 #### Login
 

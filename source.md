@@ -649,8 +649,8 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ## Jobs
 
-- [Flutter jobs](https://flutterjobs.info/) - A job board for Flutter by [Cogitas Ltd](https://cogitas.net/)
-- [Jobs in Flutter](https://jobsinflutter.io/) - A job board for Flutter Developers. List amazing jobs in your company! Jobs, resources, tips and join to community! by [Toby Allen](https://twitter.com/tobyallen007)
+- [Flutter jobs](https://flutterjobs.info/) - A job board for Flutter developers
+- [Jobs in Flutter](https://jobsinflutter.io/) - A job board for Flutter developers
 
 ### Interview questions
 

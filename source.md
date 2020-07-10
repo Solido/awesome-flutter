@@ -47,6 +47,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Open Source Apps](#open-source-apps)
 - [Web](#web)
 - [Utilities](#utilities)
+- [Books](#books)
 - [Bonus](#bonus)
 - [Jobs](#jobs)
 - [Community](#community)

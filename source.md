@@ -387,6 +387,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) <!--stargazers:JideGuru/FlutterFoodybite--> - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
 - [Flutter Samples](https://github.com/diegoveloper/flutter-samples) <!--stargazers:diegoveloper/flutter-samples--> - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
 - [ActingWeb First_App](https://github.com/gregertw/actingweb_firstapp) <!--stargazers:gregertw/actingweb_firstapp--> - Starter app with basic elements for a team-developed production-quality app by [Greger Wedel](https://github.com/gregertw) 
+- [Flutter Shopping UI Kit](https://github.com/AliAnilKocak/Flutter-Shopping-UI-Kit) <!--AliAnilKocak/Flutter-Shopping-UI-Kit--> - Shopping app template ui kit by [Ali Anil Kocak](https://github.com/AliAnilKocak) 
 
 ### Web
 

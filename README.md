@@ -144,6 +144,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Image Sequence Animator](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) [28⭐] - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 - [Beautiful_Popup](https://github.com/jaweii/Flutter_beautiful_popup) [199⭐] - Beautify your app popup by [jaweii](https://github.com/jaweii).
 - [Credit Card Form](https://github.com/Origogi/Flutter-Credit-Card-Input) [74⭐] - Animated credit card input form [Origogi](https://github.com/Origogi).
+ - [Radial Gauge](https://www.syncfusion.com/flutter-widgets/flutter-radial-gauge) - Highly Customizable and Interactive Radial Gauge by [Syncfusion](https://www.syncfusion.com).
+ - [Barcode Generator](https://www.syncfusion.com/flutter-widgets/flutter-barcodes) - Feature-rich Barcode Generator by [Syncfusion](https://www.syncfusion.com).
 
 #### Sticky Headers
 
@@ -168,6 +170,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [RangeSlider](https://github.com/boeledi/RangeSlider) [211⭐] - 2-thumb configurable RangeSlider by [Didier Boelens](https://www.didierboelens.com).
 - [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) [195⭐] - A slider with a minimal design and fluid like animation by [Vamsi Krishna](https://github.com/rvamsikrishna).
 - [Flutter Xlider](https://github.com/Ali-Azmoud/flutter_xlider) [161⭐] - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud).
+- [Slider](https://www.syncfusion.com/flutter-widgets/flutter-slider) - Highly Customizable Flutter Slider by [Syncfusion](https://www.syncfusion.com).
+- [Range Slider](https://www.syncfusion.com/flutter-widgets/flutter-range-slider) - Highly Customizable Flutter Range Slider by [Syncfusion](https://www.syncfusion.com).  
+- [Range Selector](https://www.syncfusion.com/flutter-widgets/flutter-range-selector) - Highly Customizable Flutter Range Selector by [Syncfusion](https://www.syncfusion.com).  
 
 #### UI Helpers
 
@@ -209,6 +214,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab](https://github.com/dooboolab/flutter_calendar_carousel)
 - [Date range picker](https://github.com/anicdh/date_range_picker) <!-- stargazers:anicdh/date_range_picker--> - Date range picker modified based on Flutter date picker by [An Doan](https://github.com/anicdh)
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) [552⭐] - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
+- [Calendar](https://www.syncfusion.com/flutter-widgets/flutter-calendar) Flexible Event Scheduler by [Syncfusion](https://www.syncfusion.com).
+- [Date Range Picker](https://www.syncfusion.com/flutter-widgets/flutter-daterangepicker) Flexible Date Range Picker by [Syncfusion](https://www.syncfusion.com).
 
 #### Login
 
@@ -240,6 +247,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Map](https://github.com/apptreesoftware/flutter_map) [44⭐] - Solution based on [Leaflet](http://leafletjs.com/) and customizable by [AppTree Software](https://github.com/apptreesoftware).
 - [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) [231⭐] - Interactive, customizable vector maps by Mapbox.
 - [AMap](https://github.com/fluttify-project/amap_map_fluttify) [288⭐] - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project).
+- [Maps](https://www.syncfusion.com/flutter-widgets/flutter-maps) - Highly Customizable Flutter Maps by [Syncfusion](https://www.syncfusion.com)
 
 ### Charts
 
@@ -253,6 +261,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [FL Chart](https://github.com/imaNNeoFighT/fl_chart) [1616⭐] - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com).
 - [Bezier Chart](https://github.com/aeyrium/bezier-chart) [248⭐] - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper).
 - [Echarts](https://github.com/entronad/flutter_echarts) [181⭐] - Large collection of advanced reactives charts by [LIN Chen](https://github.com/entronad).
+- [30+ Charts](https://www.syncfusion.com/flutter-widgets/flutter-charts) - Beautiful and Interactive Charts & Graphs by [Syncfusion](https://www.syncfusion.com).
+
+### DataGrid
+
+- [DataGrid](https://www.syncfusion.com/flutter-widgets/flutter-datagrid) - A High-Performance and Interactive Grid by [Syncfusion](https://www.syncfusion.com).
+
 
 ### Navigation
 
@@ -501,6 +515,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Cache Manager](https://github.com/renefloor/flutter_cache_manager) [319⭐] - Generic cache manager by [Rene Floor](https://github.com/renefloor).
 - [Frideos](https://github.com/frideosapps/frideos_flutter) - Helpers for streams, BLoC pattern and various widgets (blur, transitions, timed widgets, ...) by [Francesco Mineo](https://github.com/frideosapps).
+- [PDF library](https://www.syncfusion.com/flutter-widgets/pdf-library) - A library to create PDF documents in Flutter by [Syncfusion](https://www.syncfusion.com).
 
 ### Testing
 
@@ -609,9 +624,11 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Flutter for Beginners](https://www.amazon.com/Flutter-Beginners-introductory-cross-platform-applications/dp/1788996089) - by [Alessandro Biessek](https://github.com/biessek).
 - [Flutter in Action](https://www.amazon.com/Flutter-Action-Eric-Windmill/dp/1617269147) - by [Eric Windmill](https://github.com/ericwindmill).
 - [Learn Google Flutter Fast](https://www.amazon.com/Learn-Google-Flutter-Fast-Example/dp/1092297375) - by [Mark Clow](https://github.com/markclow).
+- [Flutter Succinctly](https://www.syncfusion.com/ebooks/flutter-succinctly) by [Syncfusion](https://www.syncfusion.com).
 
 ### Cookbooks
 - [Practical Flutter](https://www.amazon.com/Practical-Flutter-Improve-Development-Open-Source/dp/1484249712) - by [Frank Zammetti](https://github.com/fzammetti).
+
 
 
 ## Bonus

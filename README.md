@@ -247,7 +247,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Map](https://github.com/apptreesoftware/flutter_map) [44⭐] - Solution based on [Leaflet](http://leafletjs.com/) and customizable by [AppTree Software](https://github.com/apptreesoftware).
 - [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) [231⭐] - Interactive, customizable vector maps by Mapbox.
 - [AMap](https://github.com/fluttify-project/amap_map_fluttify) [288⭐] - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project).
-- [Maps](https://www.syncfusion.com/flutter-widgets/flutter-maps) - Highly Customizable Flutter Maps by [Syncfusion](https://www.syncfusion.com)
+- [Maps](https://www.syncfusion.com/flutter-widgets/flutter-maps) - Highly customizable and interactive data viz widget to render GeoJSON data as geographical shapes by [Syncfusion](https://www.syncfusion.com)
 
 ### Charts
 

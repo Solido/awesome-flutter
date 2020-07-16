@@ -75,11 +75,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs by Google Code Labs.
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase integration by Google Code Labs.
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Detailed planets design tutorial.
-- [Todo List](https://github.com/lesnitsky/todolist_flutter) [178⭐] – Step by step tutorial how to build Todo List with Flutter by [Andrei Lesnitsky](https://twitter.com/lesnitsky_a)
+- [Todo List](https://github.com/lesnitsky/todolist_flutter) ![](https://flat.badgen.net/github/stars/lesnitsky/todolist_flutter) – Step by step tutorial how to build Todo List with Flutter by [Andrei Lesnitsky](https://twitter.com/lesnitsky_a)
 
 ### Beginner
 
-- [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap) [543⭐] - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
+- [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap) ![](https://flat.badgen.net/github/stars/olexale/flutter_roadmap) - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
 - [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - Extensive examples of layout widgets by [Tomek Polański](https://github.com/tomaszpolanski).
 
 
@@ -114,9 +114,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Demonstrations
 
-- [Official Gallery](https://github.com/flutter/gallery) - Demo for the material design widgets provided by Flutter Team.
-- [Flutter Examples](https://github.com/nisrulz/flutter-examples) [4821⭐] - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz).
-- [Flutter Catalog](https://github.com/X-Wei/flutter_catalog) [1109⭐] - An app showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei).
+- [Official Gallery](https://github.com/flutter/gallery) ![](https://flat.badgen.net/github/stars/flutter/gallery) - Demo for the material design widgets provided by Flutter Team.
+- [Flutter Examples](https://github.com/nisrulz/flutter-examples) ![](https://flat.badgen.net/github/stars/nisrulz/flutter-examples) - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz).
+- [Flutter Catalog](https://github.com/X-Wei/flutter_catalog) ![](https://flat.badgen.net/github/stars/X-Wei/flutter_catalog) - An app showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei).
 
 #### Web Demonstration
 
@@ -124,29 +124,29 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### UI
 
-- [Contact Picker](https://github.com/goderbauer/contact_picker) [62⭐] - Picking contact from the address book by [Michael Goderbauer](https://github.com/goderbauer).
-- [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) [1505⭐] - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar).
-- [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) [324⭐] - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts).
-- [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) [482⭐] - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu).
-- [Flip Panel](https://github.com/hnvn/flutter_flip_panel) [322⭐] - Flip panel with built-in animation by [HungHD](https://github.com/hnvn).
-- [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) [182⭐] - Facebook reactions widget by [Duy Tran](https://github.com/duytq94).
-- [Flushbar](https://github.com/AndreHaueisen/flushbar) [630⭐] - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen).
-- [Stepper Touch](https://github.com/Rahiche/stepper_touch) [163⭐] - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
-- [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) [372⭐] - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali).
-- [Snaplist](https://github.com/ariedov/flutter_snaplist) [278⭐] - Create snappable list views by [David Leibovych](https://github.com/ariedov).
-- [Pin Code](https://github.com/LiewJunTung/pin_code_text_field) [126⭐] - Animated & customisable Pin code for login and OTP by [Liew Jun Tung](https://github.com/liewjuntung).
-- [Folding Cell](https://github.com/faob-dev/folding_cell) [256⭐] - Fold your widget by [Faob](https://github.com/faob-dev).
-- [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) [610⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
+- [Contact Picker](https://github.com/goderbauer/contact_picker) ![](https://flat.badgen.net/github/stars/goderbauer/contact_picker) - Picking contact from the address book by [Michael Goderbauer](https://github.com/goderbauer).
+- [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) ![](https://flat.badgen.net/github/stars/letsar/flutter_staggered_grid_view) - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar).
+- [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) ![](https://flat.badgen.net/github/stars/xqwzts/flutter_radial_menu) - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts).
+- [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) ![](https://flat.badgen.net/github/stars/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu).
+- [Flip Panel](https://github.com/hnvn/flutter_flip_panel) ![](https://flat.badgen.net/github/stars/hnvn/flutter_flip_panel) - Flip panel with built-in animation by [HungHD](https://github.com/hnvn).
+- [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) ![](https://flat.badgen.net/github/stars/duytq94/facebook-reaction-animation) - Facebook reactions widget by [Duy Tran](https://github.com/duytq94).
+- [Flushbar](https://github.com/AndreHaueisen/flushbar) ![](https://flat.badgen.net/github/stars/AndreHaueisen/flushbar) - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen).
+- [Stepper Touch](https://github.com/Rahiche/stepper_touch) ![](https://flat.badgen.net/github/stars/Rahiche/stepper_touch) - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
+- [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) ![](https://flat.badgen.net/github/stars/AbdulRahmanAlHamali/flutter_typeahead) - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali).
+- [Snaplist](https://github.com/ariedov/flutter_snaplist) ![](https://flat.badgen.net/github/stars/ariedov/flutter_snaplist) - Create snappable list views by [David Leibovych](https://github.com/ariedov).
+- [Pin Code](https://github.com/LiewJunTung/pin_code_text_field) ![](https://flat.badgen.net/github/stars/LiewJunTung/pin_code_text_field) - Animated & customisable Pin code for login and OTP by [Liew Jun Tung](https://github.com/liewjuntung).
+- [Folding Cell](https://github.com/faob-dev/folding_cell) ![](https://flat.badgen.net/github/stars/faob-dev/folding_cell) - Fold your widget by [Faob](https://github.com/faob-dev).
+- [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) ![](https://flat.badgen.net/github/stars/aagarwal1012/Liquid-Pull-To-Refresh) - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Slide Container](https://pub.dev/packages/slide_container) Slide vertically and horizontally with a smooth dampened motion by [Quentin Le Guennec](https://github.com/quentinleguennec).
-- [Direct Select](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
-- [Before After](https://github.com/xsahil03x/before_after) [332⭐] - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
-- [Scratcher](https://github.com/vintage/scratcher) [125⭐] - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
-- [Image Sequence Animator](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) [41⭐] - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
-- [Beautiful_Popup](https://github.com/jaweii/Flutter_beautiful_popup) [231⭐] - Beautify your app popup by [jaweii](https://github.com/jaweii).
-- [Credit Card Form](https://github.com/Origogi/Flutter-Credit-Card-Input) [105⭐] - Animated credit card input form [Origogi](https://github.com/Origogi).
-- [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
-- [Flutter Tags](https://github.com/Dn-a/flutter_tags) [138⭐] - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
-- [Flutter Neumorphic](https://github.com/Idean/Flutter-Neumorphic) [489⭐] - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.
+- [Direct Select](https://github.com/LanarsInc/direct-select-flutter) ![](https://flat.badgen.net/github/stars/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
+- [Before After](https://github.com/xsahil03x/before_after) ![](https://flat.badgen.net/github/stars/xsahil03x/before_after) - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
+- [Scratcher](https://github.com/vintage/scratcher) ![](https://flat.badgen.net/github/stars/vintage/scratcher) - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
+- [Image Sequence Animator](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) ![](https://flat.badgen.net/github/stars/aliyigitbireroglu/flutter-image-sequence-animator) - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
+- [Beautiful_Popup](https://github.com/jaweii/Flutter_beautiful_popup) ![](https://flat.badgen.net/github/stars/jaweii/Flutter_beautiful_popup) - Beautify your app popup by [jaweii](https://github.com/jaweii).
+- [Credit Card Form](https://github.com/Origogi/Flutter-Credit-Card-Input) ![](https://flat.badgen.net/github/stars/Origogi/Flutter-Credit-Card-Input) - Animated credit card input form [Origogi](https://github.com/Origogi).
+- [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) ![](https://flat.badgen.net/github/stars/sbilketay/animated_selection_slide) - An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
+- [Flutter Tags](https://github.com/Dn-a/flutter_tags) ![](https://flat.badgen.net/github/stars/Dn-a/flutter_tags) - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
+- [Flutter Neumorphic](https://github.com/Idean/Flutter-Neumorphic) ![](https://flat.badgen.net/github/stars/Idean/Flutter-Neumorphic) - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.
 
 #### Sticky Headers
 

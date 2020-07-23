@@ -558,6 +558,11 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Awesome Flame](https://github.com/flame-engine/awesome-flame)<!--stargazers:flame-engine/awesome-flame--> - Curated list of the best Flame games, projects, libraries, tools, tutorials, articles and more by [Flame Engine](https://github.com/flame-engine) 
 - [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) [5⭐] - Ghost Rigger is a cyberpunk inspired puzzle game by [Iain Smith](https://github.com/b099l3) and [Julio Ernesto Rodríguez Cabañas](https://https://github.com/ernestoyaquello).
 
+#### Starter Games
+
+- [Scratch and win game](https://github.com/harshkumarkhatri/Scratch-and-Win-Game-Flutter)<!--stargazers:harshkumarkhatri/Scratch-and-Win-Game-Flutter--> - Starter game for beginers [Harsh Kumar Khatri](https://github.com/harshkumarkhatri) 
+- [Tic tac toe game](https://github.com/harshkumarkhatri/Tic-Tac-Toe-Game-Flutter)<!--stargazers:harshkumarkhatri/Tic-Tac-Toe-Game-Flutter--> - Starter game for beginers [Harsh Kumar Khatri](https://github.com/harshkumarkhatri) 
+
 
 ## Open Source Apps
 

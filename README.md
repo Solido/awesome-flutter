@@ -597,6 +597,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz).
 - [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) [1359⭐] - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling).
 - [GitJournal](https://github.com/GitJournal/GitJournal) [307⭐] - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda).
+- [NewsApp](https://github.com/j-j-gajjar/FLUTTER_NewsApp) -  Live News Using API with Many API filterrs by [J-J-GAJJAR](https://github.com/j-j-gajjar) .
 
 ## Utilities
 

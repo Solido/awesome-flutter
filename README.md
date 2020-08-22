@@ -837,6 +837,9 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### 🇺🇿 Uzbekistan
  - [Telegram](https://t.me/dartdevuz)
+ 
+ ### Bangladesh
+ - [Facebook Group](https://www.facebook.com/groups/flutter.bangladesh/)
 
 ## License
 

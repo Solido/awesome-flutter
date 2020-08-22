@@ -147,7 +147,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
 - [Flutter Tags](https://github.com/Dn-a/flutter_tags) [138⭐] - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
 - [Flutter Neumorphic](https://github.com/Idean/Flutter-Neumorphic) [489⭐] - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.
-- [flutter timeline](https://github.com/softmarshmallow/flutter-timeline) [48⭐] - A fully customizable generic timeline, ready for production.
+- [flutter timeline](https://github.com/softmarshmallow/flutter-timeline) [72⭐] - A fully customizable generic timeline, ready for production.
 
 #### Sticky Headers
 

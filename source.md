@@ -599,6 +599,8 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) <!--stargazers:janoodleFTW/timy-messenger--> - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling)
 - [GitJournal](https://github.com/GitJournal/GitJournal) <!--stargazers:GitJournal/GitJournal--> - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda)
 - [AuthPass](https://github.com/authpass/authpass) <!--stargazers:authpass/authpass--> - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul)
+- [FoodOrderingApp](https://github.com/Tarikul711/flutter-food-delivery-app-ui) [256⭐] - Food delivery and ordering app Git Repo by [Md Tarikul Islam](https://github.com/Tarikul711).
+- [EcommerceApp](https://github.com/Tarikul711/flutter-ecommerce) [225⭐] - Ecommerce App with API integration Git Repo by [Md Tarikul Islam](https://github.com/Tarikul711).
 
 ## Utilities
 
@@ -842,6 +844,9 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### 🇺🇿 Uzbekistan
  - [Telegram](https://t.me/dartdevuz)
+ 
+### Bangladesh
+ - [Facebook Group](https://www.facebook.com/groups/flutter.bangladesh/)
 
 ## License
 

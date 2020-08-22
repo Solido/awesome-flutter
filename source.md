@@ -69,7 +69,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515)
 - [Flutter Tips](https://medium.com/@diegoveloper) - Articles, tips & tricks in the development by [Diego Velásquez](https://twitter.com/diegoveloper)
 - [FilledStacks](https://www.filledstacks.com/) - Tutorials and guides on development by [Dane Mackier](https://www.instagram.com/filledstacks/)
-- [❤️ Awesome Flutter ❤️ tips and tricks ❤️](https://github.com/erluxman/awesomefluttertips/) [1.8K ⭐]- Tips and Tricks that will amaze developers and increase productivity  by [erluxman](https://twitter.com/erluxman/).
+- [Awesome Flutter tips and tricks](https://github.com/erluxman/awesomefluttertips/) <!--stargazers:erluxman/awesomefluttertips--> - Tips and Tricks that will help developers learn and increase productivity  by [erluxman](https://twitter.com/erluxman/).
 
 ### Tutorial
 

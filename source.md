@@ -119,10 +119,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter Examples](https://github.com/nisrulz/flutter-examples) <!--stargazers:nisrulz/flutter-examples--> - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz)
 - [Flutter Catalog](https://github.com/X-Wei/flutter_catalog) <!--stargazers:X-Wei/flutter_catalog--> - An app showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei)
 
-#### Web Demonstration
-
-- [Flutter Widget Live Book](https://flutter-widget-livebook.blankapp.org/) - Live web preview of widgets by [JianyingLi](https://github.com/lijy91/)
-
 ### UI
 
 - [Contact Picker](https://github.com/goderbauer/contact_picker) <!--stargazers:goderbauer/contact_picker--> - Picking contact from the address book by [Michael Goderbauer](https://github.com/goderbauer)

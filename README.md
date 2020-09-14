@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<a href="https://flutter.dev/">Flutter</a> is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
+<a href="https://flutter.dev/">Flutter</a> is a tool that allows you to build native cross platform (iOS, Android) apps with one programming language and codebase.
 
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 

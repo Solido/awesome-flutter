@@ -647,11 +647,6 @@ This section contains libraries that take an experimental or unorthodox approach
 
 - [Matrix2](https://github.com/bus710/matrix2) - Sense Hat's LED matrix control game by [bus710](https://github.com/bus710)
 
-## Jobs
-
-- [Flutter jobs](https://flutterjobs.info/) - A job board for Flutter developers
-- [Jobs in Flutter](https://jobsinflutter.io/) - A job board for Flutter developers
-
 ### Interview questions
 
 - [Interview Questions](https://github.com/whatsupcoders/Flutter-Interview-Questions) - List of helpful questions you can use to interview potential candidates by [Whatsupcoders](https://github.com/whatsupcoders/Whatsupcoders-flutter)

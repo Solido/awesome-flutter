@@ -731,6 +731,10 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### 🇮🇳 India
 - Telegram [Flutter India 🇮🇳](https://t.me/flutterindia)
+- Telegram [Flutter App Development | Community 🇮🇳](https://t.me/flutterappdevelopers)
+- Telegram [Flutter Mumbai 🇮🇳](https://t.me/FlutterMumbai)
+- Telegram [Flutter Ahmedabad 🇮🇳](https://t.me/FlutterAhm)
+- LinkedIn Group [Flutter India #FlutterIND 🇮🇳](https://www.linkedin.com/groups/13864243/)
 
 ### 🇮🇩 Indonesia
 - Telegram [Flutter Indonesia](https://t.me/flutter_id)

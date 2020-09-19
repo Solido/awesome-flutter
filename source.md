@@ -686,6 +686,9 @@ This section contains libraries that take an experimental or unorthodox approach
 - Meetup [GDG Sydney](https://www.meetup.com/gdgsydney)
 - Twitter [Flutter Sydney](https://twitter.com/FlutterSydney)
 
+### Bangladesh
+ - [Facebook Group](https://www.facebook.com/groups/flutter.bangladesh/)
+
 ### 🇧🇷 Brazil
 - Slack [Flutter Brasil](https://flutterbr.slack.com)
 - Medium [Flutter Comunidade BR](https://medium.com/flutter-comunidade-br)

@@ -145,6 +145,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter Tags](https://github.com/Dn-a/flutter_tags) <!--stargazers:Dn-a/flutter_tags--> - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
 - [Flutter Neumorphic](https://github.com/Idean/Flutter-Neumorphic) <!--stargazers:Idean/Flutter-Neumorphic--> - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.
 - [Dough](https://github.com/HatFeather/flutter_dough) <!--stargazers:HatFeather/flutter_dough--> - Widgets for a squishy user interface by [Josiah Saunders](https://github.com/HatFeather).
+- [Flutter EasyLoading](https://github.com/huangjianke/flutter_easyloading)  [241⭐] - ✨A clean and lightweight Loading/Toast widget for Flutter, easy to use without context, support iOS、Android and Web, by [huangjianke](https://github.com/huangjianke).
 
 #### Sticky Headers
 

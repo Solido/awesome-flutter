@@ -76,6 +76,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase integration by Google Code Labs.
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Detailed planets design tutorial.
 - [Todo List](https://github.com/lesnitsky/todolist_flutter) [191⭐] – Step by step tutorial how to build Todo List with Flutter by [Andrei Lesnitsky](https://twitter.com/lesnitsky_a)
+- [Custom Android Launcher](https://medium.com/@mhshifat757/make-your-own-custom-android-launcher-using-flutter-b204b86ec89a) - Make Your Own Custom Android Launcher using Flutter by [Mehedi Hasan Shifat](https://medium.com/@mhshifat757)
 
 ### Beginner
 
@@ -596,6 +597,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) [1481⭐] - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling).
 - [GitJournal](https://github.com/GitJournal/GitJournal) [468⭐] - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda).
 - [AuthPass](https://github.com/authpass/authpass) [332⭐] - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul).
+- [Visual-Codeforces](https://github.com/jspw/Visual-Codeforces)  - Visialize Codeforces (An Online Judge) using Codeforces API by [Mehedi Hasan Shifat](https://github.com/jspw)
 
 ## Utilities
 
@@ -608,6 +610,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Flutter Flavorizr](https://github.com/AngeloAvv/flutter_flavorizr) [67⭐] - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by [Angelo Cassano](https://github.com/AngeloAvv).
 - [Fontify](https://github.com/westracer/fontify) [43⭐] - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by [Igor Kharakhordin](https://github.com/westracer).
 - [FlutterGen](https://github.com/FlutterGen/flutter_gen) [347⭐] - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
+- [Ubuntu Launcher](https://github.com/jspw/Ubuntu-Launcher) [27⭐] - A Custom Lightweight and Fast Android Launcher looks like Ubuntu (Linux distribution) by [Mehedi Hasan Shifat](https://github.com/jspw)
 
 ### VSCode
 

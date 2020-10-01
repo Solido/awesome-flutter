@@ -101,6 +101,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Parallax Effect](https://marcinszalek.pl/flutter/tickets-challenge-parallax) - Parallax & non linear animation by [Marcin Szalek](https://marcinszalek.pl).
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) <!--claps:@salvatoregiordanoo/flavoring-flutter-392aaa875f36--> - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
 - [Build Flavor](https://medium.com/@angeloavv/easily-build-flavors-in-flutter-android-and-ios-with-flutter-flavorizr-d48cbf956e4) - Easily build flavors in Flutter (Android and iOS) with flutter_flavorizr by [Angelo Cassano](https://medium.com/@angeloavv)
+- [Custom Android Launcher](https://medium.com/@mhshifat757/make-your-own-custom-android-launcher-using-flutter-b204b86ec89a) - Make Your Own Custom Android Launcher using Flutter by [Mehedi Hasan Shifat](https://medium.com/@mhshifat757)
 
 ## Videos
 
@@ -596,6 +597,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [GitJournal](https://github.com/GitJournal/GitJournal) <!--stargazers:GitJournal/GitJournal--> - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda)
 - [AuthPass](https://github.com/authpass/authpass) <!--stargazers:authpass/authpass--> - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul)
 - [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) <!--stargazers:TheAlphamerc/flutter_twitter_clone--> - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc)
+- [Visual-Codeforces](https://github.com/jspw/Visual-Codeforces)  - Visialize Codeforces (An Online Judge) using Codeforces API by [Mehedi Hasan Shifat](https://github.com/jspw)
 
 ## Utilities
 
@@ -608,6 +610,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Flutter Flavorizr](https://github.com/AngeloAvv/flutter_flavorizr) <!--stargazers:AngeloAvv/flutter_flavorizr--> - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by [Angelo Cassano](https://github.com/AngeloAvv)
 - [Fontify](https://github.com/westracer/fontify) <!--stargazers:westracer/fontify--> - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by [Igor Kharakhordin](https://github.com/westracer)
 - [FlutterGen](https://github.com/FlutterGen/flutter_gen) <!--stargazers:FlutterGen/flutter_gen--> - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
+- [Ubuntu Launcher](https://github.com/jspw/Ubuntu-Launcher) [27⭐] - A Custom Lightweight and Fast Android Launcher looks like Ubuntu (Linux distribution) by [Mehedi Hasan Shifat](https://github.com/jspw)
 
 ### VSCode
 

@@ -109,6 +109,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) [214🎬] - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan).
 - [Flutter in Practice](https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN) - Free video courssd for beginners & non-programmers by [Zaiste](https://zaiste.net/).
 - [Whatsupcoders](https://www.youtube.com/c/whatsupcoders) [82🎬] - Free video series on Flutter Widgets by [Kamal](https://github.com/whatsupcoders).
+- [Flutter for Beginners](https://www.youtube.com/watch?v=fmPmrJGbb6w&list=PLlxmoA0rQ-Lw6tAs2fGFuXGP13-dWdKsB) - Free video playlist about building apps with Flutter
+- [Dart for Beginners](https://www.youtube.com/watch?v=5rtujDjt50I&list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q) - Free video playlist about the Dart programming language
 
 ## Components
 

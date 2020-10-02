@@ -548,6 +548,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) <!--stargazers:kevmoo/slide_puzzle--> - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo)
 - [Tetris](https://github.com/boyan01/flutter-tetris) <!--stargazers:boyan01/flutter-tetris--> - Tetris game by [YangBin](https://github.com/boyan01)
 - [Party Charades](https://github.com/vintage/party_flutter) <!--stargazers:vintage/party_flutter--> - Party charades by [Kamil Rykowski](https://github.com/vintage)
+- [Pacman](https://github.com/mayurpatilll/pacman) <!--stargazers:mayurpatilll/pacman--> - A retro 2D Game [Mayur Patil](https://github.com/mayurpatilll)
 
 #### Flame Engine
 

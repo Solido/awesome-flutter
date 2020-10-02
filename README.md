@@ -548,7 +548,6 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) [93⭐] - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo).
 - [Tetris](https://github.com/boyan01/flutter-tetris) [982⭐] - Tetris game by [YangBin](https://github.com/boyan01).
 - [Party Charades](https://github.com/vintage/party_flutter) [140⭐] - Party charades by [Kamil Rykowski](https://github.com/vintage).
-- [Pacman](https://github.com/mayurpatilll/pacman) [1⭐] - A retro 2D Flutter game [Mayur Patil](https://github.com/mayurpatilll).
 
 #### Flame Engine
 

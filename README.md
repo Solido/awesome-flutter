@@ -351,7 +351,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Streaming Shared Preferences](https://github.com/roughike/streaming_shared_preferences)<!--stargazers:roughike/streaming_shared_preferences--> - Reactive key-value store, shared preferences with Streams by [Iiro Krankka](https://github.com/roughike).
 
 ### Monetization
-
 - [Admob](https://pub.dev/packages/admob) - GoogleAdmob supports interstitial ads in both iOS and Android by Brett Nesbitt.
 - [Firebase AdMob](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_admob) - Ad integration using Firebase.
 - [Billing](https://github.com/VolodymyrLykhonis/flutter_billing) [98⭐] - Enable billing on iOS and Android by [Volodymyr Lykhonis](http://vladimirlichonos.com).
@@ -361,7 +360,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Square In-App Payments SDK](https://github.com/square/in-app-payments-flutter-plugin) [239⭐] - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square).
 
 ## Templates
-
 - [Movie Details](https://github.com/FlutterRocks/movie-details-ui) [344⭐] - Movie details page by [Iiro Krankka](https://github.com/roughike).
 - [Mates](https://github.com/CodemateLtd/FlutterMates) [409⭐] - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike).
 - [Weather](https://github.com/alessandroaime/Weather) [136⭐] - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime).

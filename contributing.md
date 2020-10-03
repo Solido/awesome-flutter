@@ -2,6 +2,7 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](https://github.com/spring-projects/spring-framework/blob/master/CODE_OF_CONDUCT.adoc). By participating in this project you agree to abide by its terms.
 
+- If you commit for fame or money interest instead of contributing to the community I'll close instantly
 - Use a meaningful name to your commit or I'll close it instantly, Update source.md is NOT a name
 - Do not commit on README, use SOURCE.md !
 - Does your app bring something really interesting ?

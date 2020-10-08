@@ -109,6 +109,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) <!--youtube:list/PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV--> - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan)
 - [Flutter in Practice](https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN) - Free video courssd for beginners & non-programmers by [Zaiste](https://zaiste.net/)
 - [Whatsupcoders](https://www.youtube.com/c/whatsupcoders) <!--youtube:list/PL6BTtm1PxwOUpt1muzFD3ErxWdCzLkYbI--> - Free video series on Flutter Widgets by [Kamal](https://github.com/whatsupcoders)
+- [JohannesMilke](https://www.youtube.com/watch?v=PvDOgOdUgkU&list=PL1WkZqhlAdC_MPQBXUFwAHviZ3XkWPDBG) <!--youtube:list/PL1WkZqhlAdC_MPQBXUFwAHviZ3XkWPDBG--> - Free Flutter video tutorials for beginners & advanced by [Johannes Milke](https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1).
 
 ## Components
 

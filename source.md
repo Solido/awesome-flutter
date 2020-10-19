@@ -238,6 +238,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Bitmap](https://github.com/renancaraujo/bitmap) <!--stargazers:renancaraujo/bitmap--> - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo)
 - [Crop](https://github.com/xclud/flutter_crop) <!--stargazers:xclud/flutter_crop--> - Crop any widget/image in Android, iOS, Web and Desktop by [Mahdi K. Fard](https://github.com/xclud/)
 
+### pdf
+
+- [flutter_cached_pdfview](https://github.com/AbdOoSaed/flutter_cached_pdfview) - Show pdf from a path, Asset or internet and keep them in the cache by [Abdelrahman Saed](https://github.com/AbdOoSaed)
+
 ### Map
 
 - [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) <!--stargazers:apptreesoftware/flutter_google_map_view--> - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/)

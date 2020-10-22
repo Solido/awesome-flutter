@@ -595,6 +595,8 @@ This section contains libraries that take an experimental or unorthodox approach
 - [GitJournal](https://github.com/GitJournal/GitJournal) <!--stargazers:GitJournal/GitJournal--> - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda)
 - [AuthPass](https://github.com/authpass/authpass) <!--stargazers:authpass/authpass--> - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul)
 - [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) <!--stargazers:TheAlphamerc/flutter_twitter_clone--> - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc)
+- [Receipt Manager](https://github.com/ReceiptManager/ReceiptManager) - Receipt parser and manager created by [Monolidth](https://github.com/monolidth)
+
 
 ## Utilities
 

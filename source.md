@@ -388,6 +388,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Web
 
 - [Tasks](https://github.com/AppleEducate/tasks_clone) <!--stargazers:AppleEducate/tasks_clone--> - Google Tasks for the Web by [Rody Davis](http://appleeducate.com)
+- [flutter_web_dashboard](https://github.com/kalismeras61/flutter_web_dashboard) <!--stargazers:kalismeras61/flutter_web_dashboard--> - Flutter Bootstrap Style Admin UI by [Yasin ilhan](https://github.com/kalismeras61)
+- [Portfolio-Demo](https://github.com/zubairehman/Portfolio-Demo) <!--stargazers:zubairehman/Portfolio-Demo--> - A portfolio build by using flutter for web by [Zubair Rehman](https://github.com/zubairehman)
+- [flutter-web-admin-dashboard](https://github.com/GeekyAnts/flutter-web-admin-dashbaord) <!--stargazers:GeekyAnts/flutter-web-admin-dashbaord--> - Admin Dashboard built using Flutter Web by [GeekyAnts](https://github.com/GeekyAnts)
+- [FlutterMinimalWebsite](https://github.com/Codelessly/FlutterMinimalWebsite) <!--stargazers:Codelessly/FlutterMinimalWebsite--> - A minimalistic Flutter website template for blogs and portfolios by [Codelessly](https://github.com/Codelessly)
 
 ### Clone
 

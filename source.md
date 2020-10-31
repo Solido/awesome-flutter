@@ -747,7 +747,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### 🇮🇹 Italy
  - Telegram [Flutter Italia Developers](https://t.me/flutteritdevs)
- - Website [flutteritalia.dev](flutteritalia.dev)
+ - Website [flutteritalia.dev](https://flutteritalia.dev)
 
 ### 🇮🇳 India
 - Telegram [Flutter India 🇮🇳](https://t.me/flutterindia)

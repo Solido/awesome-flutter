@@ -478,6 +478,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Bloc](https://github.com/felangel/bloc) [5751⭐] - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel).
 - [MobX](https://github.com/mobxjs/mobx.dart) [1669⭐] - Supercharge the state-management in your apps with Transparent Functional Reactive Programming (TFRP). Port of MobX from the Js/React land.
+- [Provider](https://github.com/rrousselGit/provider) [3029⭐] - Most popular state-management technique for Flutter by [Remi Rousselet](https://github.com/rrousselGit)
+- [RiverPod](https://github.com/rrousselGit/river_pod) [820⭐] - Another very good state-management technique for Flutter by [Remi Rousselet](https://github.com/rrousselGit)
+- [getX](https://github.com/jonataslaw/getx) [1407⭐] - GetX is an extra-light and powerful solution for Flutter by [Jonny Borges](https://github.com/jonataslaw)
 
 #### Redux / ELM / Dependency Injection
 

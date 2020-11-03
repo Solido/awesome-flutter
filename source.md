@@ -608,6 +608,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Flutter Flavorizr](https://github.com/AngeloAvv/flutter_flavorizr) <!--stargazers:AngeloAvv/flutter_flavorizr--> - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by [Angelo Cassano](https://github.com/AngeloAvv)
 - [Fontify](https://github.com/westracer/fontify) <!--stargazers:westracer/fontify--> - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by [Igor Kharakhordin](https://github.com/westracer)
 - [FlutterGen](https://github.com/FlutterGen/flutter_gen) <!--stargazers:FlutterGen/flutter_gen--> - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
+- [Minimal Flutter Installer for Windows](https://github.com/Mr-13/flutter-installer-windows) <!--stargazers:Mr-13/flutter-installer-windows--> - Utility to install minimal Flutter setup (Flutter + Adopt OpenJdk8 + Android SDK) on windows 10 by [Mr.13](https://github.com/Mr-13)
 
 ### VSCode
 

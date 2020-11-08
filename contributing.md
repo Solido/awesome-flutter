@@ -9,6 +9,7 @@ Please note that this project is released with a [Contributor Code of Conduct](h
 - Is there a direct link so I we can check the détails of your repo ?
 - Flutter is all about UI, use screenshots and animated media for your widget
 - Paid solutions will be added if they offer free plan for open source or limited features for personnal devs but not limited in time. Fair is fair.
+- Remember the team is giving its own time to help the community. This is not a paid job yet it take a lot of time to curate and review.
 
 When your contribution is accepted you can add the Awesome Flutter Badge to your repository
 thus signaling the quality of your work and linking to others authors Awesome projets

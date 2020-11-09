@@ -749,6 +749,9 @@ This section contains libraries that take an experimental or unorthodox approach
 ### 🇮🇳 India
 - Telegram [Flutter India 🇮🇳](https://t.me/flutterindia)
 
+### 🇮s Israel
+- Facebook [Flutter Israel Developers](https://www.facebook.com/groups/2779846762051712)
+
 ### 🇮🇩 Indonesia
 - Telegram [Flutter Indonesia](https://t.me/flutter_id)
 

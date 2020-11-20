@@ -145,6 +145,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter Neumorphic](https://github.com/Idean/Flutter-Neumorphic) <!--stargazers:Idean/Flutter-Neumorphic--> - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.
 - [Dough](https://github.com/HatFeather/flutter_dough) <!--stargazers:HatFeather/flutter_dough--> - Widgets for a squishy user interface by [Josiah Saunders](https://github.com/HatFeather).
 - [Card Settings](https://github.com/codegrue/card_settings) <!--stargazers:codegrue/card_settings--> - package for building settings forms by [codegrue](https://github.com/codegrue).
+- [Flutter Rating Bar](https://github.com/sarbagyastha/flutter_rating_bar) <!--stargazers:sarbagyastha/flutter_rating_bar--> - package for fully customizable ratingbar and indicator by [Sarbagya Dhaubanjar](https://github.com/sarbagyastha).
 
 #### Sticky Headers
 

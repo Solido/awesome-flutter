@@ -186,10 +186,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Offline](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 - [Scroll To Index](https://github.com/quire-io/scroll-to-index) <!--stargazers:quire-io/scroll-to-index--> - Scroll to specified child element with given index for SliverList/ListView by [Jerry Chen](https://github.com/jerrywell/).
 - [In View Notifier List](https://github.com/rvamsikrishna/inview_notifier_list) - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/rvamsikrishna).
-- [Snap](https://github.com/aliyigitbireroglu/flutter-snap) <!--stargazers:aliyigitbireroglu/flutter-snap--> - Tool/Widget for extensive snap management & snapping between widgets by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
-- [Flick](https://github.com/aliyigitbireroglu/flutter-flick) <!--stargazers:aliyigitbireroglu/flutter-flick--> - Tool/Widget for extensive flick management. Work flawlessly with the snap lib or standalone by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 - [ShowCaseView](https://github.com/simformsolutions/flutter_showcaseview) <!--stargazers:simformsolutions/flutter_showcaseview--> - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
-- [Drag Select GridView](https://github.com/hugocbpassos/drag_select_grid_view) <!--stargazers:hugocbpassos/drag_select_grid_view--> - GridView that supports both dragging and tapping to select its items by [Hugo Passos](https://github.com/hugocbpassos).
 
 #### Material Design
 
@@ -251,10 +248,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Charts
 
 - [Circular Chart](https://github.com/xqwzts/flutter_circular_chart) <!--stargazers:xqwzts/flutter_circular_chart--> - Animated radial and pie charts by [Victor Choueiri](https://github.com/xqwzts)
-- [Charts](https://github.com/mzimmerm/flutter_charts) <!--stargazers:mzimmerm/flutter_charts--> - LineChart and VerticalBarChart Library by [Milan Zimmermann](https://github.com/mzimmerm)
 - [Sparkline](https://github.com/xqwzts/flutter_sparkline) <!--stargazers:xqwzts/flutter_sparkline--> - Sparkline by [Victor Choueiri](https://github.com/xqwzts)
 - [Charts](https://github.com/google/charts) <!--stargazers:google/charts--> - By Google Charts Team
-- [Flutter Plot](https://github.com/RCHowell/flutter_plot) <!--stargazers:RCHowell/flutter_plot--> - Pretty plots by [R. C. Howell](https://github.com/RCHowell/)
 - [Candlesticks](https://github.com/trentpiercy/flutter-candlesticks) <!--stargazers:trentpiercy/flutter-candlesticks--> - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy)
 - [FCharts](https://github.com/thekeenant/fcharts) <!--stargazers:thekeenant/fcharts--> - Beautiful, responsive, animated charts by [Keenan Thompson](https://keenant.com)
 - [FL Chart](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
@@ -266,7 +261,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Fluro](https://github.com/goposse/fluro) <!--stargazers:goposse/fluro--> - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
 - [PageView Indicator](https://github.com/leocavalcante/page_view_indicator) <!--stargazers:leocavalcante/page_view_indicator--> - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante)
-- [Swiper](https://github.com/jzoom/flutter_swiper) <!--stargazers:long1eu/circle_indicator--> - Horizontal, Vertical, Partial swipe with indicator by [Xueliang Ren](https://github.com/jzoom)
 - [Deep Link Navigation](https://github.com/Dennis-Krasnov/Flutter-Deep-Link-Navigation) <!--stargazers:Dennis-Krasnov/Flutter-Deep-Link-Navigation--> - Elegant abstraction for complete deep linking navigation in Flutter by [Dennis Krasnov](https://denniskrasnov.com)
 - [Get](https://github.com/jonataslaw/get) <!--stargazers:jonataslaw/get--> - Navigate between screens & display snackbars/dialogs/bottomSheets without context by [Jonny Borges](https://github.com/jonataslaw)
 
@@ -297,7 +291,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Usage](https://github.com/dart-lang/usage) <!--stargazers:dart-lang/usage--> - Google Analytics wrapper for command-line, web, and Flutter apps
 - [Firebase Analytics](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API
-- [Segment.com Analytics](https://github.com/FaisalAbid/segment-analytics-flutter) <!--stargazers:FaisalAbid/segment-analytics-flutter--> - Make your Segment.com analytics a breeze! by [Faisal Abid](https://twitter.com/FaisalAbid)
 - [Pure Mixpanel](https://github.com/seenickcode/pure_mixpanel) <!--stargazers:seenickcode/pure_mixpanel--> - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode)
 
 ### Internationalization
@@ -330,7 +323,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Flutter Audio Recorder](https://github.com/shadow-app/flutter_audio_recorder) - Provides full controls and access to recording details such as level metering by [Wenyan Li](https://github.com/nikli2009).
 - [Audio Recorder](https://github.com/ZaraclaJ/audio_recorder) <!--stargazers:ZaraclaJ/audio_recorder--> - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz)
-- [Stereo](https://github.com/2find/stereo) <!--stargazers:2find/stereo--> - Playing music on iOS and Android by [2Find](https://github.com/2find)
 - [Flutter Sound](https://github.com/dooboolab/flutter_sound) <!--stargazers:dooboolab/flutter_sound--> - Flutter audio recorder and player at one hand by [dooboolab](https://github.com/dooboolab)
 - [AssetsAudioPlayer](https://github.com/florent37/Flutter-AssetsAudioPlayer) <!--stargazers:florent37/Flutter-AssetsAudioPlayer-->  Simultaneous playback of audio from assets/network/file and displaying notifications [android / ios / web / macos]
 
@@ -359,7 +351,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Admob](https://pub.dev/packages/admob) - GoogleAdmob supports interstitial ads in both iOS and Android by Brett Nesbitt
 - [Firebase AdMob](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_admob) - Ad integration using Firebase
-- [Billing](https://github.com/VolodymyrLykhonis/flutter_billing) <!--stargazers:VolodymyrLykhonis/flutter_billing--> - Enable billing on iOS and Android by [Volodymyr Lykhonis](http://vladimirlichonos.com)
 - [Inapp Purchase](https://github.com/dooboolab/flutter_inapp_purchase) <!--stargazers:dooboolab/flutter_inapp_purchase--> - Features set of 'in app purchase' derived from [react-native-iap](https://github.com/dooboolab/react-native-iap) by [dooboolab](https://github.com/dooboolab)
 - [Admob Flutter](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
 - [Facebook Audience Network](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & natvie ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
@@ -398,7 +389,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Machine Learning
 
 - [MLKit](https://github.com/azihsoyn/flutter_mlkit) <!--stargazers:azihsoyn/flutter_mlkit--> - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn)
-- [IBM Watson](https://github.com/VictorRancesCode/flutter_ibm_watson) <!--stargazers:VictorRancesCode/flutter_ibm_watson--> Easily integrate with IBM Watson by [Victor Rances](https://github.com/VictorRancesCode/)
 - [m2gen](https://github.com/BayesWitnesses/m2cgen) <!--stargazers:BayesWitnesses/m2cgen--> - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses)
 
 ### Vision
@@ -430,7 +420,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Downloader](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
 - [InAppWebView](https://github.com/pichillilorenzo/flutter_inappwebview) <!--stargazers:pichillilorenzo/flutter_inappwebview--> - Add inline WebView widgets or open an in-app browser window by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 - [AppAvailability](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
-- [Aeyrium Sensor](https://github.com/aeyrium/aeyrium-sensor) <!--stargazers:aeyrium/aeyrium-sensor--> - A plugin which provide easy access to the Pitch and Roll on Android and iOS devices by [Diego Velásquez](https://github.com/aeyrium).
 - [File Picker](https://github.com/miguelpruivo/plugins_flutter_file_picker) <!--stargazers:miguelpruivo/plugins_flutter_file_picker--> - Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo)
 - [VPN](https://github.com/X-dea/Flutter_VPN)<!--stargazers:X-dea/Flutter_VPN--> - Access VPN services by [Jason C.H](https://github.com/ctrysbita)
 - [Geolocator](https://github.com/baseflow/flutter-geolocator)<!--stargazers:baseflow/flutter-geolocator--> - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
@@ -454,7 +443,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Storage
 
 - [Sqflite](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
-- [Hive](https://github.com/leisim/hive) <!--stargazers:leisim/hive--> - Lightweight and blazing fast key-value store written in pure Dart by [Simon Leier](https://github.com/leisim)
 
 ### Services
 
@@ -464,14 +452,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
 - [App Rating](https://github.com/AppleEducate/app_review) <!--stargazers:AppleEducate/app_review--> - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
 
-### Log / Tracing
-
-- [Catcher](https://github.com/jhomlala/catcher) <!--stargazers:jhomlala/catcher--> - Automatically catches errors and handles them by [Jakub Homlala](https://github.com/jhomlala)
-- [Logger](https://github.com/leisim/logger) <!--stargazers:leisim/logger--> - Easy to use and beautiful logs by [Simon Leier](https://github.com/leisim)
-
-### Crash monitoring
-
-- [Sentry](https://sentry.io/) <!--stargazers:flutter/sentry--> - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time by [Flutter](https://github.com/flutter/sentry)
 
 ## Frameworks
 

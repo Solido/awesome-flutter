@@ -516,10 +516,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) <!--stargazers:mobiten/flutter_staggered_animations--> - Easily add staggered animations to your ListView, GridView, Column and Row by [mobiten](https://mobiten.com/)
 - [Animate Do](https://pub.dev/packages/animate_do) - Animation package inspired in Animate.css by [Fernando Herrera](https://twitter.com/Fernando_Her85).
 
-### Misc
-
-- [Cache Manager](https://github.com/renefloor/flutter_cache_manager) <!--stargazers:renefloor/flutter_cache_manager--> - Generic cache manager by [Rene Floor](https://github.com/renefloor)
-- [Frideos](https://github.com/frideosapps/frideos_flutter) - Helpers for streams, BLoC pattern and various widgets (blur, transitions, timed widgets, ...) by [Francesco Mineo](https://github.com/frideosapps)
 
 ### Testing
 

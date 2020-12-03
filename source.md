@@ -1,9 +1,7 @@
 [<img src="https://user-images.githubusercontent.com/1295961/45949308-cbb2f680-bffb-11e8-8054-28c35ed6d132.png" align="center" width="850">](https://flutter.dev/)
 
 <p align="center">
-  <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
-    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-@stackoverflow@-orange.svg" />
-  </a>
+
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
     <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-@repositories@-brightgreen.svg" />
   </a>

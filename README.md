@@ -7,7 +7,7 @@
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
     <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-155145-brightgreen.svg" />
   </a>
-  <img alt="Entries" src="https://img.shields.io/badge/Items-351-lightgrey.svg" />
+  <img alt="Entries" src="https://img.shields.io/badge/Items-353-lightgrey.svg" />
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   </a>
@@ -464,6 +464,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Provider](https://github.com/rrousselGit/provider) [3130⭐] - State-management library for Flutter by [Remi Rousselet](https://github.com/rrousselGit).
 - [RiverPod](https://github.com/rrousselGit/river_pod) [923⭐] - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit).
 - [GetX](https://github.com/jonataslaw/getx) <!--jonataslaw/getx--> - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw).
+- [Binder](https://github.com/letsar/binder) [129⭐] -  A lightweight, yet powerful way to bind your application state with your business logic, by [Romain Rastel](https://github.com/letsar).
 
 #### Redux / ELM / Dependency Injection
 
@@ -498,6 +499,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter-animation-set](https://github.com/efoxTeam/flutter-animation-set) [208⭐] - Easy to build an animation set by [efoxTeam](https://github.com/efoxTeam).
 - [Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) [656⭐] - Easily add staggered animations to your ListView, GridView, Column and Row by [mobiten](https://mobiten.com/).
 - [Animate Do](https://pub.dev/packages/animate_do) - Animation package inspired in Animate.css by [Fernando Herrera](https://twitter.com/Fernando_Her85).
+- [Funvas](https://github.com/creativecreatorormaybenot/funvas) [45⭐] - Create fun *time based canvas animations* by [creativecreatorormaybenot](https://twitter.com/creativemaybeno).
 
 
 ### Testing

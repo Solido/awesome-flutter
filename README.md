@@ -213,7 +213,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Calendar Widget](https://github.com/pinkfish/flutter_calendar) [127⭐] - Calendar widget by [David Bennett](https://github.com/pinkfish).
 - [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab](https://github.com/dooboolab/flutter_calendar_carousel)
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) [784⭐] - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
-
+- [Flutter Date Picker Timeline](https://github.com/sobimor/flutter_date_picker_timeline) [11⭐] - Gregorian and Jalali customizable date picker as a horizontal timeline [Sobhan Moradi](https://github.com/sobimor).
 
 #### Login
 

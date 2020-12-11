@@ -6,7 +6,7 @@ Please note that this project is released with a [Contributor Code of Conduct](h
 - Use a meaningful name to your commit or I'll close it instantly, Update source.md is NOT a name
 - Do not commit on README, use SOURCE.md !
 - Does your app bring something really interesting ?
-- Is there a direct link so I we can check the détails of your repo ?
+- Is there a direct link so I we can check the details of your repo ?
 - Flutter is all about UI, use screenshots and animated media for your widget
 - Paid solutions will be added if they offer free plan for open source or limited features for personnal devs but not limited in time. Fair is fair.
 - Remember the team is giving its own time to help the community. This is not a paid job yet it take a lot of time to curate and review.

@@ -225,7 +225,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Image
 
-- [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
 - [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) <!--stargazers:serenader2014/flutter_carousel_slider--> - Carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014)
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) <!--stargazers:pulyaevskiy/parallax-image--> - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
 - [Photo View](https://github.com/renancaraujo/photo_view) <!--stargazers:renancaraujo/photo_view--> - Scalable image view with loading placeholder by [Renan C. Araújo](https://github.com/renancaraujo)
@@ -236,8 +235,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Lottie](https://github.com/CameronStuartSmith/flutter_lottie) <!--stargazers:CameronStuartSmith/flutter_lottie--> - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [Cameron Smith](https://github.com/CameronStuartSmith)
 - [Bitmap](https://github.com/renancaraujo/bitmap) <!--stargazers:renancaraujo/bitmap--> - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo)
 - [Crop](https://github.com/xclud/flutter_crop) <!--stargazers:xclud/flutter_crop--> - Crop any widget/image in Android, iOS, Web and Desktop by [Mahdi K. Fard](https://github.com/xclud/)
-- [WeChat Assets Picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) <!--stargazers:fluttercandies/flutter_wechat_assets_picker--> - An assets picker in WeChat style, support multi assets picking by [Alex Li](https://github.com/AlexV525).
-- [WeChat Camera Picker](https://github.com/fluttercandies/flutter_wechat_camera_picker) <!--stargazers:fluttercandies/flutter_wechat_camera_picker--> - A camera picker in WeChat style which is the extension for the assets picker by [Alex Li](https://github.com/AlexV525).
+
+#### Image Picker
+
+- [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
+- [WeChat Assets Picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) <!--stargazers:fluttercandies/flutter_wechat_assets_picker--> - Assets picker in WeChat style, support multi assets by [Alex Li](https://github.com/AlexV525).
 
 ### Map
 

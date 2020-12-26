@@ -35,6 +35,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Navigation](#navigation)
 - [Template](#templates)
 - [Plugins](#plugins)
+- [Adding To Existing App](#adding-to-existing-app)
 - [Frameworks](#frameworks)
 - [Experimental](#experimental)
 - [Gaming](#gaming)
@@ -392,6 +393,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Pub packages](https://pub.dev/flutter/packages) - Packages filter in Dart Pub Repository.
 - [Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins
+
+## Adding To Existing App
+
+- [Flutter Boost](https://github.com/alibaba/flutter_boost) - Enables hybrid integration for your existing native apps with minimum efforts
+- [Faraday](https://github.com/gfaraday/g_faraday) - A plugin for building hybrid stack apps
 
 ### Device
 

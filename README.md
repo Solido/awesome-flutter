@@ -56,6 +56,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19)  - Building beautiful, flexible user interfaces.
 - [Presentation](https://speakerdeck.com/hjjunior/why-i-chose-flutter) - by [Helio S. Junior](https://github.com/hjJunior).
 - [Flutter Web](https://medium.com/flutter-community/ins-and-outs-of-flutter-web-7a82721dc19a)  - Ins and Outs of Flutter Web by [Nash](https://github.com/nash0x7e2).
+- [Flutter Firebase](https://firebase.flutter.dev/) -documentation
 
 ### Websites / Blogs
 
@@ -395,7 +396,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Pub packages](https://pub.dev/flutter/packages) - Packages filter in Dart Pub Repository.
 - [Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins.
-
+- [Velocity x](https://velocityx.dev/) - Responsive flutter ui deign - by [Pawan Kumar](https://github.com/iampawan)
 ### Device
 
 - [WebView](https://github.com/dart-flitter/flutter_webview_plugin) [1267⭐] - Render web content by [Hadrien Lejard](https://twitter.com/HadrienLejard).

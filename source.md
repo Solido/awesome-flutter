@@ -174,9 +174,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [RangeSlider](https://github.com/boeledi/RangeSlider) <!--stargazers:boeledi/RangeSlider--> - 2-thumb configurable RangeSlider by [Didier Boelens](https://www.didierboelens.com)
 - [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) <!--stargazers:rvamsikrishna/flutter_fluid_slider--> - A slider with a minimal design and fluid like animation by [Vamsi Krishna](https://github.com/rvamsikrishna)
 - [Flutter Xlider](https://github.com/Ali-Azmoud/flutter_xlider) <!--stargazers:Ali-Azmoud/flutter_xlider--> - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud)
-- [Slider](https://www.syncfusion.com/flutter-widgets/flutter-slider) - Highly Customizable Flutter Slider by [Syncfusion](https://www.syncfusion.com).
-- [Range Slider](https://www.syncfusion.com/flutter-widgets/flutter-range-slider) - Highly Customizable Flutter Range Slider by [Syncfusion](https://www.syncfusion.com).  
-- [Range Selector](https://www.syncfusion.com/flutter-widgets/flutter-range-selector) - Highly Customizable Flutter Range Selector by [Syncfusion](https://www.syncfusion.com). 
+- [Slider](https://www.syncfusion.com/flutter-widgets/flutter-slider) - Highly Customizable Slider by [Syncfusion](https://www.syncfusion.com).
+- [Range Slider](https://www.syncfusion.com/flutter-widgets/flutter-range-slider) - Highly Customizable Range Slider by [Syncfusion](https://www.syncfusion.com).  
+- [Range Selector](https://www.syncfusion.com/flutter-widgets/flutter-range-selector) - Highly Customizable Range Selector by [Syncfusion](https://www.syncfusion.com). 
 
 #### UI Helpers
 
@@ -598,10 +598,10 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Flutter Flavorizr](https://github.com/AngeloAvv/flutter_flavorizr) <!--stargazers:AngeloAvv/flutter_flavorizr--> - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by [Angelo Cassano](https://github.com/AngeloAvv)
 - [Fontify](https://github.com/westracer/fontify) <!--stargazers:westracer/fontify--> - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by [Igor Kharakhordin](https://github.com/westracer)
 - [FlutterGen](https://github.com/FlutterGen/flutter_gen) <!--stargazers:FlutterGen/flutter_gen--> - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
-- [PDF Viewer](https://www.syncfusion.com/flutter-widgets/flutter-pdf-viewer) - A widget to view the PDFs seamlessly in Flutter by [Syncfusion](https://www.syncfusion.com).
-- [PDF Library](https://www.syncfusion.com/flutter-widgets/pdf-library) - A library to create PDF documents in Flutter by [Syncfusion](https://www.syncfusion.com).
-- [Excel Library](https://www.syncfusion.com/flutter-widgets/excel-library) - A library to create Excel documents in Flutter by [Syncfusion](https://www.syncfusion.com).
-- [Signature Pad](https://www.syncfusion.com/flutter-widgets/flutter-signaturepad) - A library to capture smooth and realistic signatures in Flutter by [Syncfusion](https://www.syncfusion.com).
+- [PDF Viewer](https://www.syncfusion.com/flutter-widgets/flutter-pdf-viewer) - A widget to view the PDFs seamlessly by [Syncfusion](https://www.syncfusion.com).
+- [PDF Library](https://www.syncfusion.com/flutter-widgets/pdf-library) - A library to create PDF documents by [Syncfusion](https://www.syncfusion.com).
+- [Excel Library](https://www.syncfusion.com/flutter-widgets/excel-library) - A library to create Excel documents by [Syncfusion](https://www.syncfusion.com).
+- [Signature Pad](https://www.syncfusion.com/flutter-widgets/flutter-signaturepad) - A library to capture smooth and realistic signatures by [Syncfusion](https://www.syncfusion.com).
 
 ### VSCode
 

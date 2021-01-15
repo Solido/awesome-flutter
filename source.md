@@ -144,6 +144,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Dough](https://github.com/HatFeather/flutter_dough) <!--stargazers:HatFeather/flutter_dough--> - Widgets for a squishy user interface by [Josiah Saunders](https://github.com/HatFeather).
 - [Card Settings](https://github.com/codegrue/card_settings) <!--stargazers:codegrue/card_settings--> - package for building settings forms by [codegrue](https://github.com/codegrue).
 - [Timelines](https://github.com/chulwoo-park/timelines) <!--stargazers:chulwoo-park/timelines--> - Powerful & Easy to use timeline package by [Chulwoo Park](https://github.com/chulwoo-park).
+- [Radial Gauge](https://www.syncfusion.com/flutter-widgets/flutter-radial-gauge) - Highly Customizable and Interactive Radial Gauge by [Syncfusion](https://www.syncfusion.com).
+- [Barcode Generator](https://www.syncfusion.com/flutter-widgets/flutter-barcodes) - Feature-rich Barcode Generator by [Syncfusion](https://www.syncfusion.com).
 
 #### Sticky Headers
 
@@ -172,6 +174,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [RangeSlider](https://github.com/boeledi/RangeSlider) <!--stargazers:boeledi/RangeSlider--> - 2-thumb configurable RangeSlider by [Didier Boelens](https://www.didierboelens.com)
 - [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) <!--stargazers:rvamsikrishna/flutter_fluid_slider--> - A slider with a minimal design and fluid like animation by [Vamsi Krishna](https://github.com/rvamsikrishna)
 - [Flutter Xlider](https://github.com/Ali-Azmoud/flutter_xlider) <!--stargazers:Ali-Azmoud/flutter_xlider--> - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud)
+- [Slider](https://www.syncfusion.com/flutter-widgets/flutter-slider) - Highly Customizable Flutter Slider by [Syncfusion](https://www.syncfusion.com).
+- [Range Slider](https://www.syncfusion.com/flutter-widgets/flutter-range-slider) - Highly Customizable Flutter Range Slider by [Syncfusion](https://www.syncfusion.com).  
+- [Range Selector](https://www.syncfusion.com/flutter-widgets/flutter-range-selector) - Highly Customizable Flutter Range Selector by [Syncfusion](https://www.syncfusion.com). 
 
 #### UI Helpers
 
@@ -208,7 +213,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Calendar Widget](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
 - [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab](https://github.com/dooboolab/flutter_calendar_carousel)
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) <!--stargazers:aleksanderwozniak/table_calendar--> - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
-
+- [Calendar](https://www.syncfusion.com/flutter-widgets/flutter-calendar) Flexible Event Scheduler by [Syncfusion](https://www.syncfusion.com).
+- [Date Range Picker](https://www.syncfusion.com/flutter-widgets/flutter-daterangepicker) Flexible Date Range Picker by [Syncfusion](https://www.syncfusion.com).
 
 #### Login
 
@@ -243,6 +249,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) <!--stargazers:aloisdeniel/flutter_geocoder--> - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com)
 - [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) <!--stargazers:mapbox/flutter-mapbox-gl--> - Interactive, customizable vector maps by Mapbox
 - [AMap](https://github.com/fluttify-project/amap_map_fluttify) <!--stargazers:fluttify-project/amap_map_fluttify--> - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project)
+- [Maps](https://www.syncfusion.com/flutter-widgets/flutter-maps) - Highly customizable and interactive data viz widget to render GeoJSON data as geographical shapes by [Syncfusion](https://www.syncfusion.com)
 
 ### Charts
 
@@ -255,6 +262,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Bezier Chart](https://github.com/aeyrium/bezier-chart) <!--stargazers:aeyrium/bezier-chart--> - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
 - [Echarts](https://github.com/entronad/flutter_echarts) <!--stargazers:entronad/flutter_echarts--> - Large collection of advanced reactives charts by [LIN Chen](https://github.com/entronad)
 - [Graphic](https://github.com/entronad/graphic) <!--stargazers:entronad/graphic--> - Data visualization library based on the Grammar of Graphics by [LIN Chen](https://github.com/entronad)
+- [30+ Charts](https://www.syncfusion.com/flutter-widgets/flutter-charts) - Beautiful and Interactive Charts & Graphs by [Syncfusion](https://www.syncfusion.com).
+- [Spark/Micro Charts](https://www.syncfusion.com/flutter-widgets/flutter-spark-charts) - Lightweight micro Charts & Graphs by [Syncfusion](https://www.syncfusion.com).
+
+### DataGrid
+
+- [DataGrid](https://www.syncfusion.com/flutter-widgets/flutter-datagrid) - A High-Performance and Interactive Grid by [Syncfusion](https://www.syncfusion.com).
 
 ### Navigation
 
@@ -585,6 +598,10 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Flutter Flavorizr](https://github.com/AngeloAvv/flutter_flavorizr) <!--stargazers:AngeloAvv/flutter_flavorizr--> - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by [Angelo Cassano](https://github.com/AngeloAvv)
 - [Fontify](https://github.com/westracer/fontify) <!--stargazers:westracer/fontify--> - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by [Igor Kharakhordin](https://github.com/westracer)
 - [FlutterGen](https://github.com/FlutterGen/flutter_gen) <!--stargazers:FlutterGen/flutter_gen--> - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
+- [PDF Viewer](https://www.syncfusion.com/flutter-widgets/flutter-pdf-viewer) - A widget to view the PDFs seamlessly in Flutter by [Syncfusion](https://www.syncfusion.com).
+- [PDF Library](https://www.syncfusion.com/flutter-widgets/pdf-library) - A library to create PDF documents in Flutter by [Syncfusion](https://www.syncfusion.com).
+- [Excel Library](https://www.syncfusion.com/flutter-widgets/excel-library) - A library to create Excel documents in Flutter by [Syncfusion](https://www.syncfusion.com).
+- [Signature Pad](https://www.syncfusion.com/flutter-widgets/flutter-signaturepad) - A library to capture smooth and realistic signatures in Flutter by [Syncfusion](https://www.syncfusion.com).
 
 ### VSCode
 
@@ -613,6 +630,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Flutter for Beginners](https://www.amazon.com/Flutter-Beginners-introductory-cross-platform-applications/dp/1788996089) - by [Alessandro Biessek](https://github.com/biessek)
 - [Flutter in Action](https://www.amazon.com/Flutter-Action-Eric-Windmill/dp/1617296147) - by [Eric Windmill](https://github.com/ericwindmill)
 - [Learn Google Flutter Fast](https://www.amazon.com/Learn-Google-Flutter-Fast-Example/dp/1092297375) - by [Mark Clow](https://github.com/markclow)
+- [Flutter Succinctly](https://www.syncfusion.com/ebooks/flutter-succinctly) by [Syncfusion](https://www.syncfusion.com).
 
 ### Cookbooks
 - [Practical Flutter](https://www.amazon.com/Practical-Flutter-Improve-Development-Open-Source/dp/1484249712) - by [Frank Zammetti](https://github.com/fzammetti)

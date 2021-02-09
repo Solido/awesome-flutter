@@ -689,6 +689,11 @@ This section contains libraries that take an experimental or unorthodox approach
 - Meetup [São Paulo](https://www.meetup.com/flutter-sp)
 - [Flutter para iniciantes](https://www.flutterparainiciantes.com.br)
 
+### cm Cameroon
+
+- Twitter [Flutter Cameroon](https://twitter.com/fluttercm)
+- Telegram [Flutter & Dart Community CM](https://t.me/fluttercameroon)
+
 ### 🇨🇦 Canada
 
 - Meetup [Toronto](https://www.meetup.com/FlutterToronto)

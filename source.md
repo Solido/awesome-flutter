@@ -497,6 +497,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Web
 
 - [Responsive Framework](https://github.com/Codelessly/ResponsiveFramework) <!--stargazers:Codelessly/ResponsiveFramework--> - Automatically adapt UI to different screen sizes. Responsiveness made simple by [Codelessly](https://codelessly.com) 
+- [Graph Coloring Algorithm Visualization](https://github.com/utkarshshendge/Flutter-Graph-coloring-visualization) - Visualization of m-coloring problem using recursive, backtracking and greedy approach by [Utkarsh Shendge](https://github.com/utkarshshendge)
 
 ### Others
 

@@ -463,6 +463,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Fish](https://github.com/alibaba/fish-redux) <!--stargazers:alibaba/fish-redux--> - Alibaba Redux implementation
 - [Async Redux](https://pub.dev/packages/async_redux) <!--stargazers:marcglasberg/async_redux--> - Redux without boilerplate. Allows for both sync and async reducers by [Marcelo Glasberg](https://github.com/marcglasberg/)
 
+#### Multi-threading
+
+- [Isolator](https://github.com/alphamikle/isolator) - Simplest way to using isolates with business logic by [Mikhail Alfa](https://github.com/alphamikle)
+
 ### Widgets
 
 - [Hooks](https://github.com/rrousselGit/flutter_hooks) <!--stargazers:rrousselGit/flutter_hooks--> - Advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit)

@@ -510,6 +510,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 This section contains libraries that take an experimental or unorthodox approach.
 
 - [styled_widget](https://github.com/ReinBentdal/styled_widget) <!--stargazers:ReinBentdal/styled_widget--> - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
+- [graphx](https://github.com/roipeker/graphx) <!--stargazers:roipeker/graphx--> - Making drawings and animations in Flutter extremely simple, by [Roi Peker](https://github.com/roipeker).
 
 ## Gaming
 

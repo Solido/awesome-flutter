@@ -575,7 +575,8 @@ This section contains libraries that take an experimental or unorthodox approach
 - [GitJournal](https://github.com/GitJournal/GitJournal) [1114⭐] - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda).
 - [AuthPass](https://github.com/authpass/authpass) [578⭐] - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul).
 - [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) [1104⭐] - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc).
-
+- [shuimushequ](https://github.com/dirkhe1051931999/flutter_shuimushequ) [2⭐] - Mizuki Community --- Kochi community originated from Tsinghua University [he jen from china](https://github.com/dirkhe1051931999).
+- 
 ## Utilities
 
 - [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya).

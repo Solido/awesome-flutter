@@ -151,6 +151,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Sticky Infinite List](https://github.com/TatsuUkraine/flutter_sticky_infinite_list) <!--stargazers:TatsuUkraine/flutter_sticky_infinite_list--> - Highly configurable multi directional infinite list with Sticky Headers by [TatsuUkraine](https://github.com/TatsuUkraine)
 - [Sticky Header](https://github.com/letsar/flutter_sticky_header) <!--stargazers:letsar/flutter_sticky_header--> - Sliver based sticky headers by [Romain Rastel](https://github.com/letsar)
 - [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) <!--stargazers:slightfoot/flutter_sticky_headers--> - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/)
+- [Sticky And Expandable List](https://github.com/tp7309/flutter_sticky_and_expandable_list) <!--stargazers:tp7309/flutter_sticky_and_expandable_list--> - Customizable list with sticky headers by [tp7309](https://github.com/tp7309)
 
 #### Drawers
 

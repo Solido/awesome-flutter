@@ -454,7 +454,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [RiverPod](https://github.com/rrousselGit/river_pod) <!--stargazers:rrousselGit/river_pod--> - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit)
 - [GetX](https://github.com/jonataslaw/getx) <!--jonataslaw/getx--> - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw)
 - [Binder](https://github.com/letsar/binder) <!--stargazers:letsar/binder--> -  A lightweight, yet powerful way to bind your application state with your business logic, by [Romain Rastel](https://github.com/letsar).
-- [Okito](https://github.com/ragokan/okito) <!--agokan/okito--> - A lightweight and not opinionated state-management solution that doesn't require context by [ragokan](https://github.com/ragokan)
+- [Okito](https://github.com/ragokan/okito) <!--ragokan/okito--> - A lightweight and not opinionated state-management solution that doesn't require context by [ragokan](https://github.com/ragokan)
 
 #### Redux / ELM / Dependency Injection
 

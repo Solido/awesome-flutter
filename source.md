@@ -593,6 +593,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Fontify](https://github.com/westracer/fontify) <!--stargazers:westracer/fontify--> - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by [Igor Kharakhordin](https://github.com/westracer)
 - [FlutterGen](https://github.com/FlutterGen/flutter_gen) <!--stargazers:FlutterGen/flutter_gen--> - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
 - [Very Good Cli](https://github.com/VeryGoodOpenSource/very_good_cli) <!--stargazers:VeryGoodOpenSource/very_good_cli--> - Very Good Command Line Interface for Dart created by  [Very Good Ventures](https://github.com/VeryGoodOpenSource)  
+- [Zeplin Extensions - Flutter Gen](https://github.com/naver/zeplin-flutter-gen) - The Flutter dart code generator from zeplin. ex) Container, Text, RichText, ... - Save your time. by [yutae](https://github.com/yutae)
 
 ### VSCode
 

@@ -306,7 +306,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Flutterial](https://github.com/rxlabz/flutterial) <!--stargazers:rxlabz/flutterial--> - Flutter Material Theme explorer by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Pigment](https://github.com/bregydoc/pigment) <!--stargazers:bregydoc/pigment--> - Simple but useful package for use colors in flutter
-
+- [animated_theme_switcher](https://pub.dev/packages/animated_theme_switcher) - Animated theme switcher with options
+ 
 ### Media
 
 #### Audio
@@ -505,7 +506,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Others
 
 - [AspectD](https://github.com/alibaba-flutter/aspectd) <!--stargazers:alibaba-flutter/aspectd--> - Aspect-oriented programming (AOP) framework for Flutter (Dart) by [Kyle Wong](https://github.com/kangwang1988)
-
+- [pixel_perfect](https://pub.dev/packages/pixel_perfect) - Development tool to compare your layouts with design mockups
 
 ## Experimental
 

@@ -306,7 +306,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Flutterial](https://github.com/rxlabz/flutterial) <!--stargazers:rxlabz/flutterial--> - Flutter Material Theme explorer by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Pigment](https://github.com/bregydoc/pigment) <!--stargazers:bregydoc/pigment--> - Simple but useful package for use colors in flutter
-
+ 
 ### Media
 
 #### Audio
@@ -502,11 +502,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Responsive Framework](https://github.com/Codelessly/ResponsiveFramework) <!--stargazers:Codelessly/ResponsiveFramework--> - Automatically adapt UI to different screen sizes. Responsiveness made simple by [Codelessly](https://codelessly.com) 
 
-### Others
-
-- [AspectD](https://github.com/alibaba-flutter/aspectd) <!--stargazers:alibaba-flutter/aspectd--> - Aspect-oriented programming (AOP) framework for Flutter (Dart) by [Kyle Wong](https://github.com/kangwang1988)
-
-
 ## Experimental
 
 This section contains libraries that take an experimental or unorthodox approach.
@@ -594,7 +589,8 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Fontify](https://github.com/westracer/fontify) <!--stargazers:westracer/fontify--> - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by [Igor Kharakhordin](https://github.com/westracer)
 - [FlutterGen](https://github.com/FlutterGen/flutter_gen) <!--stargazers:FlutterGen/flutter_gen--> - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
 - [Very Good Cli](https://github.com/VeryGoodOpenSource/very_good_cli) <!--stargazers:VeryGoodOpenSource/very_good_cli--> - Very Good Command Line Interface for Dart created by  [Very Good Ventures](https://github.com/VeryGoodOpenSource)  
-- [Zeplin Extensions - Flutter Gen](https://github.com/naver/zeplin-flutter-gen) - The Flutter dart code generator from zeplin. ex) Container, Text, RichText, ... - Save your time. by [yutae](https://github.com/yutae)
+- [Zeplin Extensions](https://github.com/naver/zeplin-flutter-gen) - Zeplin code generator by [yutae](https://github.com/yutae)
+- [Pixel Perfect](https://github.com/kherel/pixel_perfect) - Development tool to compare your layouts with design mockups by [Kherel](https://github.com/kherel)
 
 ### VSCode
 

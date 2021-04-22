@@ -145,6 +145,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Card Settings](https://github.com/codegrue/card_settings) <!--stargazers:codegrue/card_settings--> - package for building settings forms by [codegrue](https://github.com/codegrue).
 - [Timelines](https://github.com/chulwoo-park/timelines) <!--stargazers:chulwoo-park/timelines--> - Powerful & Easy to use timeline package by [Chulwoo Park](https://github.com/chulwoo-park).
 - [Timeline Tile](https://github.com/JHBitencourt/timeline_tile) <!--stargazers:JHBitencourt/timeline_tile--> - A tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+- [Flutter number animation](https://github.com/studioidan/flutter_number_animation) <!--stargazers:JHBitencourt/timeline_tile--> - Display numbers or any other text more nicely [Idan Ben Shimon](https://github.com/studioidan).
 
 #### Sticky Headers
 

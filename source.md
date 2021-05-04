@@ -332,6 +332,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Firebase Storage](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_storage) - Firebase as data storage
 - [Secure Storage](https://github.com/mogol/flutter_secure_storage) <!--stargazers:mogol/flutter_secure_storage--> - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol)
+- [Moor](https://github.com/simolus3/moor) - Moor is an easy to use, reactive, typesafe persistence library for Dart & Flutter by [
+Simon Binder](https://github.com/simolus3)
 
 #### Preferences
 

@@ -640,6 +640,10 @@ This section contains libraries that take an experimental or unorthodox approach
 
 - [Código Flutter](https://open.spotify.com/show/3QUTYR6jspNxHK8akJFxYf?si=MZtgjIMyTi6-WgN9Go6vZQ) - by [Guillermo García](https://guillermogarcia.es/).
 
+### Russian
+
+- [Flutter Dev Podcast](https://open.spotify.com/show/5qc1VFD4pkJlUYZBVTOFCI?si=OWn7VCELRO2QV03Gi2u8nA&nd=1) - by [Eugene Saturov](https://twitter.com/saturovv).
+
 ## Bonus
 
 - [It's All Widgets!](https://itsallwidgets.com) - Open list of published apps by [Hillel Coren](https://twitter.com/hillelcoren), [Thomas Burkhart](https://twitter.com/ThomasBurkhartB), [Simon Lightfoot](https://twitter.com/devangelslondon) and [Scott Stoll](https://twitter.com/scottstoll2017)

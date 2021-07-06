@@ -145,6 +145,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Card Settings](https://github.com/codegrue/card_settings) <!--stargazers:codegrue/card_settings--> - package for building settings forms by [codegrue](https://github.com/codegrue).
 - [Timelines](https://github.com/chulwoo-park/timelines) <!--stargazers:chulwoo-park/timelines--> - Powerful & Easy to use timeline package by [Chulwoo Park](https://github.com/chulwoo-park).
 - [Timeline Tile](https://github.com/JHBitencourt/timeline_tile) <!--stargazers:JHBitencourt/timeline_tile--> - A tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+- [Flutter RichText Composer](https://github.com/rockerhieu/flutter_richtext_composer) - A widget for composing RichText in a i18n friendly way by [Hieu Hua](https://github.com/rockerhieu).
 
 #### Sticky Headers
 

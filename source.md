@@ -762,6 +762,10 @@ This section contains libraries that take an experimental or unorthodox approach
 
 - Meetup [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
 
+### 🇰🇪 Kenya
+- Meetup [Flutter Developers Kenya](https://www.meetup.com/KenyaFlutterDev/)
+- Twitter [Flutter Developers Kenya](https://twitter.com/KenyaFlutterDev/)
+
 ### 🇰🇷 Korea
 
 - Meetup [Flutter Korea](https://www.meetup.com/ko-KR/Flutter-Korea/)

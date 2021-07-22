@@ -246,6 +246,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) <!--stargazers:aloisdeniel/flutter_geocoder--> - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com)
 - [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) <!--stargazers:mapbox/flutter-mapbox-gl--> - Interactive, customizable vector maps by Mapbox
 - [AMap](https://github.com/fluttify-project/amap_map_fluttify) <!--stargazers:fluttify-project/amap_map_fluttify--> - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project)
+- [Map](https://github.com/xclud/flutter_map) <!--stargazers:xclud/flutter_map--> - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by [Mahdi K. Fard](https://github.com/xclud/)
 
 ### Charts
 

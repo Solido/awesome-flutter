@@ -583,6 +583,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ## Utilities
 
+- [Flutter Sidekick](https://github.com/leoafarias/sidekick) - A simple app to make Flutter development more delightful by [Leo Farias](https://github.com/leoafarias).
 - [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya)
 - [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) <!--stargazers:hillelcoren/flutter-redux-starter--> - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren)

@@ -25,6 +25,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   <td style="text-align: center">
 <img src="https://camo.githubusercontent.com/23d3c78b0a2b645567630468bd68d54c02c2076a/68747470733a2f2f63646e2e3264696d656e73696f6e732e636f6d2f315f53746172742e676966" width="200"/>
 </td>
+</td>
+  <td style="text-align: center">
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/blueaquilae.svg?style=social&label=Follow%20%40blueaquilae)](https://twitter.com/blueaquilae)
+</td>  
+  
+
 </tr></table></div>
 
 ## Contents

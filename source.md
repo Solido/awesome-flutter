@@ -579,22 +579,19 @@ This section contains libraries that take an experimental or unorthodox approach
 - [GitJournal](https://github.com/GitJournal/GitJournal) <!--stargazers:GitJournal/GitJournal--> - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda)
 - [AuthPass](https://github.com/authpass/authpass) <!--stargazers:authpass/authpass--> - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul)
 - [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) <!--stargazers:TheAlphamerc/flutter_twitter_clone--> - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc)
-- [Harpy](https://github.com/robertodoering/harpy) <!--stargazers:robertodoering/harpy--> - A feature rich Twitter client by [Roberto Doering](https://github.com/robertodoering)
+- [Harpy](https://github.com/robertodoering/harpy) <!--stargazers:robertodoering/harpy--> - Feature rich Twitter client by [Roberto Doering](https://github.com/robertodoering)
 
 ## Utilities
 
-- [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya)
 - [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
-- [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) <!--stargazers:hillelcoren/flutter-redux-starter--> - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren)
 - [FlutterIcon](http://fluttericon.com/) <!--stargazers:ilikerobots/polyicon--> - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
 - [FVM](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 - [Environment Configuration](https://github.com/TatsuUkraine/dart_environment_config) <!--stargazers:TatsuUkraine/dart_environment_config--> - CLI tool to generate `.env` configurations for application environments by [TatsuUkraine](https://github.com/TatsuUkraine)
 - [Flutter Flavorizr](https://github.com/AngeloAvv/flutter_flavorizr) <!--stargazers:AngeloAvv/flutter_flavorizr--> - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by [Angelo Cassano](https://github.com/AngeloAvv)
 - [Fontify](https://github.com/westracer/fontify) <!--stargazers:westracer/fontify--> - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by [Igor Kharakhordin](https://github.com/westracer)
 - [FlutterGen](https://github.com/FlutterGen/flutter_gen) <!--stargazers:FlutterGen/flutter_gen--> - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
-- [Very Good Cli](https://github.com/VeryGoodOpenSource/very_good_cli) <!--stargazers:VeryGoodOpenSource/very_good_cli--> - Very Good Command Line Interface for Dart created by  [Very Good Ventures](https://github.com/VeryGoodOpenSource)  
-- [Zeplin Extensions](https://github.com/naver/zeplin-flutter-gen) - Zeplin code generator by [yutae](https://github.com/yutae)
-- [Pixel Perfect](https://github.com/kherel/pixel_perfect) - Development tool to compare your layouts with design mockups by [Kherel](https://github.com/kherel)
+- [Very Good Cli](https://github.com/VeryGoodOpenSource/very_good_cli) <!--stargazers:VeryGoodOpenSource/very_good_cli--> - Very Good Command Line Interface for Dart created by  [Very Good Ventures](https://github.com/VeryGoodOpenSource)
+- [Flutter Sidekick](https://github.com/leoafarias/sidekick)  <!--stargazers:leoafarias/sidekick--> - Simple app to make Flutter development more delightful by [Leo Farias](https://github.com/leoafarias)
 
 ### VSCode
 

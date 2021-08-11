@@ -9,6 +9,9 @@
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   </a>
+   <a href="https://twitter.com/blueaquilae">
+    <img alt="Awesome" src="https://img.shields.io/twitter/url/https/twitter.com/blueaquilae.svg?style=social&label=Follow%20%40blueaquilae" />
+  </a>
 </p>
 
 <a href="https://flutter.dev/">Flutter</a> is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
@@ -25,6 +28,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   <td style="text-align: center">
 <img src="https://camo.githubusercontent.com/23d3c78b0a2b645567630468bd68d54c02c2076a/68747470733a2f2f63646e2e3264696d656e73696f6e732e636f6d2f315f53746172742e676966" width="200"/>
 </td>
+</td>
+  <td style="text-align: center">
+
+</td>
+
+
 </tr></table></div>
 
 ## Contents
@@ -317,7 +326,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Video
 
-- [WebRTC](https://github.com/cloudwebrtc/flutter-webrtc) [2467⭐] - WebRTC plugin for iOS/Android by [CloudWebRtc](https://github.com/cloudwebrtc).
+- [WebRTC](https://github.com/cloudwebrtc/flutter-webrtc) [2468⭐] - WebRTC plugin for iOS/Android by [CloudWebRtc](https://github.com/cloudwebrtc).
 - [Chewie](https://github.com/brianegan/chewie) [1269⭐] - Provides low-level access to video playback by [Brian Egan](https://github.com/brianegan).
 - [Video Trimmer](https://github.com/sbis04/video_trimmer) [227⭐] - Visualise and trim videos by [Souvik Biswas](https://github.com/sbis04).
 - [CamerAwesome](https://github.com/Apparence-io/camera_awesome) [253⭐] - Community camera plugin rework by [Apparence.io studio](https://apparence.io).

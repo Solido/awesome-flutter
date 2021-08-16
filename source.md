@@ -81,16 +81,23 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase integration by Google Code Labs
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Detailed planets design tutorial
 - [Todo List](https://github.com/lesnitsky/todolist_flutter) <!--stargazers:lesnitsky/todolist_flutter--> – Step by step tutorial how to build Todo List with Flutter by [Andrei Lesnitsky](https://twitter.com/lesnitsky_dev)
+- [Flutter and Dart development](https://suragch.medium.com/flutter-and-dart-development-articles-981be9ef7b23) - Articles and tutorials by [Suragch](https://twitter.com/Suragch1)
 
 ### Beginner
 
 - [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap) <!--stargazers:olexale/flutter_roadmap--> - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
 - [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - Extensive examples of layout widgets by [Tomek Polański](https://github.com/tomaszpolanski)
+- [Getting Started with Flutter](https://www.raywenderlich.com/24499516-getting-started-with-flutter) - by [raywenderlich.com](https://www.raywenderlich.com)
+- [Dart Basics](https://www.raywenderlich.com/22685966-dart-basics) - by [raywenderlich.com](https://www.raywenderlich.com)
 
+### Intermediate
+
+- [How to get good at Flutter and Dart](https://suragch.medium.com/how-to-get-good-at-flutter-and-dart-2729aa2cd14?sk=e64561caa87fb4324a7a2fcb9da3997f) - A checklist of areas you may still need to grow in by [Suragch](https://twitter.com/Suragch1)
+- [Flutter state management for minimalists](https://suragch.medium.com/flutter-state-management-for-minimalists-4c71a2f2f0c1?sk=6f9cedfb550ca9cc7f88317e2e7055a0) - Understanding app architecture without relying on third-party frameworks by [Suragch](https://twitter.com/Suragch1). See also [State Management](#state-management)
 
 ### Advanced
 
-- [Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU) <!--youtube:video/UUfXWzp0-DU--> - Engine architecture by Adam Barth
+- [Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU) <!--youtube:video/UUfXWzp0-DU--> and [Let's build a render tree](https://www.youtube.com/watch?v=VsYbFnucHsU) - Engine architecture by Adam Barth
 - [Render Objects](https://medium.com/flutter-community/flutter-what-are-widgets-renderobjects-and-elements-630a57d05208) <!--claps:flutter-community/flutter-what-are-widgets-renderobjects-and-elements-630a57d05208--> - What are Widgets, RenderObjects and Elements? by [Norbert515](https://github.com/Norbert515)
 - [Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) - Skillmatters presentation by [Brian Egan](https://github.com/brianegan)
 - [Gesture System](https://medium.com/flutter-community/flutter-deep-dive-gestures-c16203b3434f) <!--claps:flutter-community/flutter-deep-dive-gestures-c16203b3434f--> - Flutter Deep Dive: Gestures by [Nash](https://github.com/nash0x7e2)
@@ -100,6 +107,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [From Mobile to Desktop](https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e) - Building applications for smartphones and desktops by [Marcelo Henrique Neppel](https://neppel.com.br)
 - [Accessibility widgets](https://medium.com/flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc) <!--claps:flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc--> - Deep dive information about all aspects of accessibility by [Muhammed Salih Güler](https://twitter.com/salihgueler)
 - [Profiling w/ Timeline](https://medium.com/flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3) <!--claps:flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3--> - Using the Timeline allows you to find and address specific performance issues in your application by [Chinmay Garde](https://medium.com/@chinmaygarde)
+- [How text editing works internally in Flutter](https://medium.com/flutter-community/how-text-editing-works-internally-in-flutter-45cde5df54b4?sk=1ce1d021848fdb1ce64af0d225bdd463) - Walking through the text editing related layers of the Flutter framework by [Suragch](https://twitter.com/Suragch1).
+- [Creating a Flutter widget from scratch](https://medium.com/flutter-community/how-text-editing-works-internally-in-flutter-45cde5df54b4?sk=1ce1d021848fdb1ce64af0d225bdd463) - A detailed guide to building your own render object by [Suragch](https://twitter.com/Suragch1)
 
 ### Howtos
 
@@ -323,6 +332,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Audio Recorder](https://github.com/ZaraclaJ/audio_recorder) <!--stargazers:ZaraclaJ/audio_recorder--> - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz)
 - [Flutter Sound](https://github.com/dooboolab/flutter_sound) <!--stargazers:dooboolab/flutter_sound--> - Flutter audio recorder and player at one hand by [dooboolab](https://github.com/dooboolab)
 - [AssetsAudioPlayer](https://github.com/florent37/Flutter-AssetsAudioPlayer) <!--stargazers:florent37/Flutter-AssetsAudioPlayer-->  Simultaneous playback of audio from assets/network/file and displaying notifications [android / ios / web / macos]
+- [Just Audio](https://pub.dev/packages/just_audio) - Audio player by [Ryan Heise](https://github.com/ryanheise). Tutorial series on [playing audio clips](https://suragch.medium.com/playing-short-audio-clips-in-flutter-with-just-audio-3c80eb7eb6ea?sk=aaf6cc523c2c6fc747b5087277932607), [streaming](https://suragch.medium.com/steaming-audio-in-flutter-with-just-audio-7435fcf672bf?sk=c7163e8496b914c9e0e5446ec6020f04), and [managing playlists](https://suragch.medium.com/managing-playlists-in-flutter-with-just-audio-c4b8f2af12eb?sk=1b1ffa2cb0b3ed50a320d8cc32cef342) by [Suragch](https://twitter.com/Suragch1).
+- [Audio Service](https://pub.dev/packages/audio_service) - System background audio support by [Ryan Heise](https://github.com/ryanheise). [Tutorial](https://suragch.medium.com/background-audio-in-flutter-with-audio-service-and-just-audio-3cce17b4a7d?sk=0837a1b1773e27a4f879ff3072e90305) by [Suragch](https://twitter.com/Suragch1).
 
 #### Video
 
@@ -606,6 +617,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Awesome Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Collection of commonly used classes and methods by [Nash](https://twitter.com/Nash0x7E2)
 - [Flutter Files](https://marketplace.visualstudio.com/items?itemName=gornivv.vscode-flutter-files) - Quick generation for BLoC templates files by context menu by [Gorniv](https://github.com/gorniv).
 - [Flutter Intl](https://marketplace.visualstudio.com/items?itemName=localizely.flutter-intl) - i18n binding from arb files by [Localizely](https://twitter.com/localizely)
+- [Moving to Visual Studio Code from Android Studio](https://medium.com/flutter-community/moving-to-visual-studio-code-from-android-studio-a-guide-for-flutter-developers-8ce506406faf?sk=6c0843b0aadaff59fddb4945a11889e2) - Guide for Android Studio users by [Suragch](https://twitter.com/Suragch1)
 
 ### IntelliJ / Android Studio
 

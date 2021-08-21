@@ -74,6 +74,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter Tips](https://medium.com/@diegoveloper) - Articles, tips & tricks in the development by [Diego Velásquez](https://twitter.com/diegoveloper)
 - [FilledStacks](https://www.filledstacks.com/) - Tutorials and guides on development by [Dane Mackier](https://www.instagram.com/filledstacks/)
 - [Awesome Flutter tips](https://github.com/erluxman/awesomefluttertips/) - Tips to help developers increase productivity by [erluxman](https://twitter.com/erluxman/).
+- [Awesome Flutter tips website](https://github.com/erluxman/awesomefluttertips/) - Collection of flutter tips & tricks to level you up as flutter developer [Flutter Tips](https://andronasef.github.io/FlutterAwesomeTips/).
+
 
 ### Tutorial
 
@@ -600,6 +602,8 @@ This section contains libraries that take an experimental or unorthodox approach
 - [FlutterGen](https://github.com/FlutterGen/flutter_gen) <!--stargazers:FlutterGen/flutter_gen--> - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
 - [Very Good Cli](https://github.com/VeryGoodOpenSource/very_good_cli) <!--stargazers:VeryGoodOpenSource/very_good_cli--> - Very Good Command Line Interface for Dart created by  [Very Good Ventures](https://github.com/VeryGoodOpenSource)
 - [Flutter Sidekick](https://github.com/leoafarias/sidekick)  <!--stargazers:leoafarias/sidekick--> - Simple app to make Flutter development more delightful by [Leo Farias](https://github.com/leoafarias)
+- [Native Splash](https://github.com/jonbhanson/flutter_native_splash) - Automatically generates native code for adding splash screens in Android and iOS. by [Jon Hanson
+](https://github.com/jonbhanson)
 
 ### VSCode
 

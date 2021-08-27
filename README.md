@@ -452,7 +452,7 @@ Simon Binder](https://github.com/simolus3)
 - [OneSignal](https://github.com/OneSignal/OneSignal-Flutter-SDK) [459⭐] - Push notification service by [OneSignal](https://github.com/OneSignal).
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) [45⭐] - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish).
 - [App Rating](https://github.com/AppleEducate/app_review) [27⭐] - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com).
-
+- [Parse for Flutter](https://github.com/parse-community/Parse-SDK-Flutter/tree/master/packages/flutter) [394⭐] - Open source backend framework by  [ParsePlatform](https://parseplatform.org/).
 
 ## Frameworks
 

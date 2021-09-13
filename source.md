@@ -88,11 +88,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap) <!--stargazers:olexale/flutter_roadmap--> - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
 - [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - Extensive examples of layout widgets by [Tomek Polański](https://github.com/tomaszpolanski)
 - [Getting Started with Flutter](https://www.raywenderlich.com/24499516-getting-started-with-flutter) - by [raywenderlich.com](https://www.raywenderlich.com)
-- [Dart Basics](https://www.raywenderlich.com/22685966-dart-basics) - by [raywenderlich.com](https://www.raywenderlich.com)
 
 ### Intermediate
 
-- [How to get good at Flutter and Dart](https://suragch.medium.com/how-to-get-good-at-flutter-and-dart-2729aa2cd14?sk=e64561caa87fb4324a7a2fcb9da3997f) - A checklist of areas you may still need to grow in by [Suragch](https://twitter.com/Suragch1)
 - [Flutter state management for minimalists](https://suragch.medium.com/flutter-state-management-for-minimalists-4c71a2f2f0c1?sk=6f9cedfb550ca9cc7f88317e2e7055a0) - Understanding app architecture without relying on third-party frameworks by [Suragch](https://twitter.com/Suragch1). See also [State Management](#state-management)
 
 ### Advanced
@@ -107,8 +105,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [From Mobile to Desktop](https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e) - Building applications for smartphones and desktops by [Marcelo Henrique Neppel](https://neppel.com.br)
 - [Accessibility widgets](https://medium.com/flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc) <!--claps:flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc--> - Deep dive information about all aspects of accessibility by [Muhammed Salih Güler](https://twitter.com/salihgueler)
 - [Profiling w/ Timeline](https://medium.com/flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3) <!--claps:flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3--> - Using the Timeline allows you to find and address specific performance issues in your application by [Chinmay Garde](https://medium.com/@chinmaygarde)
-- [How text editing works internally in Flutter](https://medium.com/flutter-community/how-text-editing-works-internally-in-flutter-45cde5df54b4?sk=1ce1d021848fdb1ce64af0d225bdd463) - Walking through the text editing related layers of the Flutter framework by [Suragch](https://twitter.com/Suragch1).
-- [Creating a Flutter widget from scratch](https://medium.com/flutter-community/how-text-editing-works-internally-in-flutter-45cde5df54b4?sk=1ce1d021848fdb1ce64af0d225bdd463) - A detailed guide to building your own render object by [Suragch](https://twitter.com/Suragch1)
 
 ### Howtos
 

@@ -252,6 +252,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 #### Image Picker
 
 - [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
+- [Advance Image Picker](https://pub.dev/packages/advance_image_picker) - Flutter plugin in pure Dart code for selecting/editing multiple images from the Android/iOS image library and taking new pictures with the camera in the same view, by [WetaVN](https://github.com/weta-vn)
 - [WeChat Assets Picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) <!--stargazers:fluttercandies/flutter_wechat_assets_picker--> - Assets picker in WeChat style, support multi assets by [Alex Li](https://github.com/AlexV525).
 
 ### Map

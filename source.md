@@ -500,7 +500,9 @@ Simon Binder](https://github.com/simolus3)
 
 ### Backend
 
+- [Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) <!--stargazers:dengyin2000/dynamic_widget--> - Build your dynamic UI with json, and the json format is very similar with flutter widget code by [Denny Deng](https://github.com/dengyin2000).
 - [NETCoreSync](https://github.com/aldycool/NETCoreSync) - Centralized database synchronization framework for multiple clients, built on top of [Moor](https://github.com/simolus3/moor) library by [Aldy J](https://github.com/aldycool)
+- [Parse for Flutter](https://github.com/parse-community/Parse-SDK-Flutter/tree/master/packages/flutter) [394⭐] - Open source backend framework by  [ParsePlatform](https://parseplatform.org/).
 
 ### Animation
 

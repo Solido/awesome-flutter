@@ -14,6 +14,8 @@
   </a>
 </p>
 
+![bitstamp](https://user-images.githubusercontent.com/1295961/134912154-10f5bf44-60b7-4f92-917d-f6cf9fbba351.png)
+
 <a href="https://flutter.dev/">Flutter</a> is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 

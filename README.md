@@ -413,6 +413,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Pub packages](https://pub.dev/flutter/packages) - Packages filter in Dart Pub Repository.
 - [Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins.
+- [Pub package](https://pub.dev/packages/dart_sentiment) - AFINN-based sentiment analysis for dart.
 
 ### Device
 

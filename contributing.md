@@ -2,6 +2,7 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](https://github.com/spring-projects/spring-framework/blob/master/CODE_OF_CONDUCT.adoc). By participating in this project you agree to abide by its terms.
 
+- 35 stars minimum are required to apply, it mean your project hold interest
 - Paid solutions are not allowed anymore in any forms only free projects to be fair to everyone
 - If you commit for fame or money interests instead of contributing to the community I'll close instantly
 - Use a meaningful name to your commit or I'll close it instantly, Update source.md is NOT a name

@@ -462,6 +462,8 @@ Simon Binder](https://github.com/simolus3)
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
 - [App Rating](https://github.com/AppleEducate/app_review) <!--stargazers:AppleEducate/app_review--> - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
 
+## Finance
+- [Expense Manager](https://github.com/ToyZ-95/expense_manager.git)  - Manage your expenses and budgets like a data analyst [Asad Patel](https://github.com/ToyZ-95)
 
 ## Frameworks
 

@@ -31,8 +31,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 </td>
   <td style="text-align: center">
 
-</td>  
-  
+</td>
+
 
 </tr></table></div>
 
@@ -273,6 +273,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Bezier Chart](https://github.com/aeyrium/bezier-chart) <!--stargazers:aeyrium/bezier-chart--> - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
 - [Echarts](https://github.com/entronad/flutter_echarts) <!--stargazers:entronad/flutter_echarts--> - Large collection of advanced reactives charts by [LIN Chen](https://github.com/entronad)
 - [Graphic](https://github.com/entronad/graphic) <!--stargazers:entronad/graphic--> - Data visualization library based on the Grammar of Graphics by [LIN Chen](https://github.com/entronad)
+- [Bubble Chart](https://github.com/lpongetti/bubble_chart) <!--stargazers:lpongetti/bubble_chart--> - A simple Dart implementation of bubble chart by [Lorenzo Pongetti](https://github.com/lpongetti)
+- [Tree Map](https://github.com/lpongetti/treemap) <!--stargazers:lpongetti/treemap--> - A simple Dart implementation of treemap by [Lorenzo Pongetti](https://github.com/lpongetti)
 
 ### Navigation
 
@@ -322,7 +324,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Flutterial](https://github.com/rxlabz/flutterial) <!--stargazers:rxlabz/flutterial--> - Flutter Material Theme explorer by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Pigment](https://github.com/bregydoc/pigment) <!--stargazers:bregydoc/pigment--> - Simple but useful package for use colors in flutter
- 
+
 ### Media
 
 #### Audio
@@ -386,7 +388,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Clone UI Challenges](https://github.com/javico2609/flutter-challenges) <!--stargazers:javico2609/flutter-challenges--> - Collection of useful UIs clones by [Javier González](https://github.com/javico2609)
 - [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) <!--stargazers:JideGuru/FlutterFoodybite--> - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
 - [Flutter Samples](https://github.com/diegoveloper/flutter-samples) <!--stargazers:diegoveloper/flutter-samples--> - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
-- [ActingWeb First_App](https://github.com/gregertw/actingweb_firstapp) <!--stargazers:gregertw/actingweb_firstapp--> - Starter app with basic elements for a team-developed production-quality app by [Greger Wedel](https://github.com/gregertw) 
+- [ActingWeb First_App](https://github.com/gregertw/actingweb_firstapp) <!--stargazers:gregertw/actingweb_firstapp--> - Starter app with basic elements for a team-developed production-quality app by [Greger Wedel](https://github.com/gregertw)
 - [Smart Washing Machine](https://github.com/pawlik92/flutter_whirlpool) <!--stargazers:pawlik92/flutter_whirlpool--> - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
 - [Beautiful Timelines](https://github.com/JHBitencourt/beautiful_timelines) <!--stargazers:JHBitencourt/beautiful_timelines--> - A set of beautiful timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 
@@ -526,7 +528,7 @@ Simon Binder](https://github.com/simolus3)
 
 ### Web
 
-- [Responsive Framework](https://github.com/Codelessly/ResponsiveFramework) <!--stargazers:Codelessly/ResponsiveFramework--> - Automatically adapt UI to different screen sizes. Responsiveness made simple by [Codelessly](https://codelessly.com) 
+- [Responsive Framework](https://github.com/Codelessly/ResponsiveFramework) <!--stargazers:Codelessly/ResponsiveFramework--> - Automatically adapt UI to different screen sizes. Responsiveness made simple by [Codelessly](https://codelessly.com)
 
 ## Experimental
 
@@ -536,11 +538,11 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ## Engines
 
-### Rendering 
+### Rendering
 
 - [Graphx](https://github.com/roipeker/graphx) <!--stargazers:roipeker/graphx--> - Making drawings and animations extremely simple, inspired by Flash, by [Roi Peker](https://github.com/roipeker).
 
-### Game 
+### Game
 
 - [Flame](https://github.com/flame-engine/flame) <!--stargazers:flame-engine/flame--> - Minimalist game engine by [Luan Nico](https://github.com/luanpotter)
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) <!--stargazers:spritewidget/spritewidget--> - Toolkit for building complex, high performance animations and 2D games by [Viktor Lidholt](https://github.com/vlidholt)
@@ -559,7 +561,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 #### Game Engine resources
 
-- [Awesome Flame](https://github.com/flame-engine/awesome-flame)<!--stargazers:flame-engine/awesome-flame--> - Curated list of the best Flame games, projects, libraries, tools, tutorials, articles and more by [Flame Engine](https://github.com/flame-engine) 
+- [Awesome Flame](https://github.com/flame-engine/awesome-flame)<!--stargazers:flame-engine/awesome-flame--> - Curated list of the best Flame games, projects, libraries, tools, tutorials, articles and more by [Flame Engine](https://github.com/flame-engine)
 
 
 ## Open Source Apps

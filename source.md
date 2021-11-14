@@ -161,6 +161,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Timelines](https://github.com/chulwoo-park/timelines) <!--stargazers:chulwoo-park/timelines--> - Powerful & Easy to use timeline package by [Chulwoo Park](https://github.com/chulwoo-park).
 - [Timeline Tile](https://github.com/JHBitencourt/timeline_tile) <!--stargazers:JHBitencourt/timeline_tile--> - A tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 - [Rounded Loading Button](https://github.com/chrisedg87/flutter_rounded_loading_button) <!--stargazers:chrisedg87/flutter_rounded_loading_button--> - Button with a loading indicator, complete with success and error animations by [Chris Edgington](https://twitter.com/ChrisTheEdg)
+- [PlutoGrid](https://github.com/bosskmk/pluto_grid) <!--stargazers:bosskmk/pluto_grid--> - A DataGrid that can be controlled by the keyboard on desktop and web package by [bosskmk](https://github.com/bosskmk).
 
 #### Sticky Headers
 

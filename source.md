@@ -758,9 +758,10 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### 🇫🇷 France
 
-- Meetup [Bordeaux](https://www.meetup.com/fr-FR/Flutter-Bordeaux) - [Paris](https://www.meetup.com/fr-FR/Flutter-Paris) - [Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
-- [Twitter](https://twitter.com/FlutterDev)
-- [Slack](https://slack.flutter-france.fr)
+- Meetup [Bordeaux](https://www.meetup.com/fr-FR/Flutter-Bordeaux) - [Lille](https://www.meetup.com/fr-FR/Flutter-Lille) - [Paris](https://www.meetup.com/fr-FR/Flutter-Paris) - [Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
+- [Twitter](https://twitter.com/FlutterFrance)
+- [Slack](https://linktr.ee/flutter_france)
+- [Newsletter Flutter Digest](https://www.flutter-digest.com/)
 
 ### 🇩🇪 Germany
 

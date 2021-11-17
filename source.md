@@ -322,6 +322,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Flutterial](https://github.com/rxlabz/flutterial) <!--stargazers:rxlabz/flutterial--> - Flutter Material Theme explorer by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Pigment](https://github.com/bregydoc/pigment) <!--stargazers:bregydoc/pigment--> - Simple but useful package for use colors in flutter
+- [dotup_flutter_themed](https://github.com/dotupNET/dotup_flutter_themed) <!--stargazers:dotupNET/dotup_flutter_themed--> - Extend your Flutter themes easy  by [Peter Ullich](https://dotup.de)
  
 ### Media
 

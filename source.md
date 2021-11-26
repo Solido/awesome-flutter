@@ -390,6 +390,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [ActingWeb First_App](https://github.com/gregertw/actingweb_firstapp) <!--stargazers:gregertw/actingweb_firstapp--> - Starter app with basic elements for a team-developed production-quality app by [Greger Wedel](https://github.com/gregertw) 
 - [Smart Washing Machine](https://github.com/pawlik92/flutter_whirlpool) <!--stargazers:pawlik92/flutter_whirlpool--> - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
 - [Beautiful Timelines](https://github.com/JHBitencourt/beautiful_timelines) <!--stargazers:JHBitencourt/beautiful_timelines--> - A set of beautiful timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+- [DDD-ToDo](https://github.com/longhoang2984/ddd_todoapp) - To Do app with Domain-Driven Design and Parse SDK by [Long Hoàng](https://github.com/longhoang2984).
 
 ### Clone
 
@@ -409,6 +410,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [ARKit Plugin](https://github.com/olexale/arkit_flutter_plugin) <!--stargazers:olexale/arkit_flutter_plugin--> - Wrapper for ARKit - Apple's augmented reality platform for iOS by [Olexandr Leuschenko](https://github.com/olexale).
 - [ARCore Plugin](https://github.com/giandifra/arcore_flutter_plugin) <!--stargazers:giandifra/arcore_flutter_plugin--> - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
+
 
 ## Plugins
 

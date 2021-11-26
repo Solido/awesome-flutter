@@ -260,7 +260,6 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) <!--stargazers:iampawan/Flutter-UI-Kit--> - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan)
 - [Book](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
 - [The Gorgeous Login](https://github.com/huextrat/TheGorgeousLogin) <!--stargazers:huextrat/TheGorgeousLogin--> - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat)
-- [DDD-ToDo](https://github.com/longhoang2984/ddd_todoapp) - To Do app with Domain-Driven Design and Parse SDK by [Long Hoàng](https://github.com/longhoang2984).
 
 ## Plugins
 

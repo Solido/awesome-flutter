@@ -568,6 +568,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 - [History Of Everything](https://github.com/2d-inc/HistoryOfEverything) [5847⭐] - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/).
 - [Developer Quest](https://github.com/2d-inc/developer_quest)  [2912⭐] - Become a tech lead, slay bugs by [2D, Inc](https://www.2dimensions.com/).
+- [AppFlowy](https://github.com/AppFlowy-IO/appflowy) [11123⭐] - The Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by [AppFlowy team](https://www.appflowy.io/).
 
 ### Top
 

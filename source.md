@@ -194,6 +194,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### UI Helpers
 
+- [Mix](https://github.com/leoafarias/mix) <!--stargazers:leoafarias/mix--> - An expressive way to effortlessly build design systems in Flutter by [Leo Farias](https://github.com/leoafarias).
 - [Reorderables](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) <!--stargazers:aagarwal1012/Liquid-Pull-To-Refresh--> - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).

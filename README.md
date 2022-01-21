@@ -37,10 +37,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 </tr></table></div>
 
-<a href="https://www.reddit.com/r/Bitstamp/comments/qzxk0r/please_bitstamp_respond_its_been_1_year_and_now_2/">
-  <img width="500" alt="Bitstamp want to keep my tokens" src="https://user-images.githubusercontent.com/1295961/147749304-22f5695f-fbf5-4f08-a30b-67bcaa4b92f4.png" />
-</a>
-
 ## Contents
 
 - [Articles](#articles)

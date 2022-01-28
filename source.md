@@ -74,6 +74,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter Tips](https://medium.com/@diegoveloper) - Articles, tips & tricks in the development by [Diego Velásquez](https://twitter.com/diegoveloper)
 - [FilledStacks](https://www.filledstacks.com/) - Tutorials and guides on development by [Dane Mackier](https://www.instagram.com/filledstacks/)
 - [Awesome Flutter tips](https://github.com/erluxman/awesomefluttertips/) - Tips to help developers increase productivity by [erluxman](https://twitter.com/erluxman/).
+- [Flutter Stack Weekly](https://blog.canopas.com/tagged/canopas-flutter-weekly) - A weekly newsletter on new development and updates of Flutter universe curated by [Jimmy Sanghani](https://twitter.com/jimmys0251)
 
 ### Tutorial
 

@@ -3,11 +3,9 @@
 Please note that this project is released with a [Contributor Code of Conduct](https://github.com/spring-projects/spring-framework/blob/master/CODE_OF_CONDUCT.adoc). By participating in this project you agree to abide by its terms.
 
 - 35 stars minimum are required to apply, it mean your project hold interest
-- Paid solutions are not allowed anymore in any forms only free projects to be fair to everyone
-- If you commit for fame or money interests instead of contributing to the community I'll close instantly
 - Use a meaningful name to your commit or I'll close it instantly, Update source.md is NOT a name
-- Do not commit on README, use SOURCE.md !
 - Does your app bring something really interesting ?
+- Do not commit on README, use SOURCE.md !
 - Is there a direct link so I we can check the details of your repo ?
 - Flutter is all about UI, use screenshots and animated media for your widget
 - Remember the team is giving its own time to help the community. This is not a paid job yet it take a lot of time to curate and review.

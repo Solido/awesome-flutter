@@ -395,6 +395,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [ActingWeb First_App](https://github.com/gregertw/actingweb_firstapp) [285⭐] - Starter app with basic elements for a team-developed production-quality app by [Greger Wedel](https://github.com/gregertw).
 - [Smart Washing Machine](https://github.com/pawlik92/flutter_whirlpool) [590⭐] - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92).
 - [Beautiful Timelines](https://github.com/JHBitencourt/beautiful_timelines) [186⭐] - A set of beautiful timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+- [Great Online Course UI](https://github.com/sangvaleap/app-flutter-online-course) - A brilliant concept design of Online Course app by [Sangvaleap Vanny](https://github.com/sangvaleap).
 
 ### Clone
 

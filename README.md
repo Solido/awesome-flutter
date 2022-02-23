@@ -122,6 +122,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Whatsupcoders](https://www.youtube.com/c/whatsupcoders) [82🎬] - Free video series on Flutter Widgets by [Kamal](https://github.com/whatsupcoders).
 - [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA) - Intermediate and advanced videos by [Matej Rešetár](https://github.com/ResoCoder).
 
+- [Flutter UI tutorial](https://www.youtube.com/watch?v=VVDL10mAfWc) - UI layouts in flutter explained by [Coding is Love](https://codingislove.com/).
+
 ## Components
 
 ### Demonstrations

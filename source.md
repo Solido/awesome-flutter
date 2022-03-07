@@ -335,7 +335,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
  
 ### Media
 
-- [photo_manager](https://github.com/fluttercandies/flutter_photo_manager) <!--stargazers:fluttercandies/flutter_photo_manager--> - A Flutter plugin that provides assets abstraction management APIs without UI integration by [CaiJingLong](https://github.com/CaiJingLong) and [Alex Li](https://github.com/AlexV525).
+- [photo_manager](https://github.com/fluttercandies/flutter_photo_manager) <!--stargazers:fluttercandies/flutter_photo_manager--> - A Flutter plugin that providing assets (image/video/audio) abstraction management APIs easily without UI integration by [CaiJingLong](https://github.com/CaiJingLong) and [Alex Li](https://github.com/AlexV525).
 
 #### Audio
 

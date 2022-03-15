@@ -1,5 +1,4 @@
 [<img src="https://user-images.githubusercontent.com/1295961/45949308-cbb2f680-bffb-11e8-8054-28c35ed6d132.png" align="center" width="850">](https://flutter.dev/)
-
 <p align="center">
 
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
@@ -12,6 +11,10 @@
     <img alt="Awesome" src="https://img.shields.io/twitter/url/https/twitter.com/blueaquilae.svg?style=social&label=Follow%20%40blueaquilae" />
   </a>
 </p>
+
+<a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome-Flutter">
+![headband](https://user-images.githubusercontent.com/1295961/158435043-6f4e1b5b-34d1-465f-b09a-61ff6ec1a02e.png)
+</a>
 
 <a href="https://flutter.dev/">Flutter</a> is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏

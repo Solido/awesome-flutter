@@ -19,7 +19,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
   <a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome-Flutter">
-    <img src="https://user-images.githubusercontent.com/1295961/158429732-0a5dc21e-d051-4c8a-8eea-e58734f9cfd7.gif" width="180"/></a>
+    <img src="https://user-images.githubusercontent.com/1295961/158429732-0a5dc21e-d051-4c8a-8eea-e58734f9cfd7.gif" width="180"/>
+    
+    Instant 
+    Chat Integration
+    with Stream!
+  </a>
 </td>
 </td>
   <td style="text-align: center">

@@ -16,23 +16,15 @@
 <a href="https://flutter.dev/">Flutter</a> is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
-
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
-  <a href="https://twitter.com/BlueAquilae/status/1049315328835182592">
-    <img src="https://i.imgur.com/1Xdsp92.gif" width="200"/></a>
-</td>
-<td style="text-align: center">
-<img src="https://github.com/flschweiger/reply/blob/master/gif/reply.gif" width="400"/>
-</td>
-  <td style="text-align: center">
-<img src="https://camo.githubusercontent.com/23d3c78b0a2b645567630468bd68d54c02c2076a/68747470733a2f2f63646e2e3264696d656e73696f6e732e636f6d2f315f53746172742e676966" width="200"/>
+  <a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome-Flutter">
+    <img src="https://user-images.githubusercontent.com/1295961/158428022-9c7842f8-a3ea-44c6-ad03-9fd99a3222dc.gif" width="180"/></a>
 </td>
 </td>
   <td style="text-align: center">
 
 </td>
-
 
 </tr></table></div>
 

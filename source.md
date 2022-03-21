@@ -465,6 +465,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Sqflite](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
 - [Moor](https://github.com/simolus3/moor) - Moor is an easy to use, reactive, typesafe persistence library for Dart & Flutter by [
 Simon Binder](https://github.com/simolus3)
+- [CBL](https://github.com/cbl-dart/cbl-dart/tree/main/packages/cbl) - NoSQL Database With Data Sync, Expressive Queries, Full-Text Search and Change Notifications by [Gabriel Terwesten](https://github.com/blaugold)
 
 ### Services
 

@@ -14,14 +14,13 @@
 </p>
 
 
+<a href="https://flutter.dev/">Flutter</a> is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
 <a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
 <img src="https://user-images.githubusercontent.com/1295961/160238710-1b5a987a-478e-41b4-b11c-37be8670a8c9.png"/>
 </a>
 
-<Br/>
-<a href="https://flutter.dev/">Flutter</a> is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
-If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
 
 #### Demonstrations

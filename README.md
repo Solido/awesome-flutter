@@ -1,7 +1,7 @@
 [<img src="https://user-images.githubusercontent.com/1295961/45949308-cbb2f680-bffb-11e8-8054-28c35ed6d132.png" align="center" width="850">](https://flutter.dev/)
 
-<p align="center">
 
+<p align="center">
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
     <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-254629-brightgreen.svg" />
   </a>
@@ -13,25 +13,42 @@
   </a>
 </p>
 
+
 <a href="https://flutter.dev/">Flutter</a> is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
+<a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
+<img src="https://user-images.githubusercontent.com/1295961/160238710-1b5a987a-478e-41b4-b11c-37be8670a8c9.png"/>
+</a>
 
+
+
+#### Demonstrations
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
-  <a href="https://twitter.com/BlueAquilae/status/1049315328835182592">
-    <img src="https://i.imgur.com/1Xdsp92.gif" width="200"/></a>
-</td>
-<td style="text-align: center">
-<img src="https://github.com/flschweiger/reply/blob/master/gif/reply.gif" width="400"/>
-</td>
-  <td style="text-align: center">
-<img src="https://camo.githubusercontent.com/23d3c78b0a2b645567630468bd68d54c02c2076a/68747470733a2f2f63646e2e3264696d656e73696f6e732e636f6d2f315f53746172742e676966" width="200"/>
-</td>
-</td>
-  <td style="text-align: center">
+  <a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
+    <img src="https://user-images.githubusercontent.com/1295961/158429732-0a5dc21e-d051-4c8a-8eea-e58734f9cfd7.gif" width="180"/>
+    
+    Instant 
+    Chat Integration
+    with Stream!
+  </a>
+  </td>
+   <td style="text-align: center">
+    <img width="180" alt="BMW" src="https://user-images.githubusercontent.com/1295961/160239273-ce881c0c-c3de-4953-9448-dfd12d7ffe30.png">
+  
+    BMW
+    Connect
 
-</td>
+  </td>
+  <td style="text-align: center">
+    <img width="180" alt="BlueAquilae Twitter Meteo" src="https://user-images.githubusercontent.com/1295961/160238906-540a4a0d-b721-4c73-8b58-58b96b5e6414.png">
+  
+
+    Calendar 
+    Meteo
+
+  </td>
 
 
 </tr></table></div>

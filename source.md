@@ -362,6 +362,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter Sound](https://github.com/dooboolab/flutter_sound) <!--stargazers:dooboolab/flutter_sound--> - Flutter audio recorder and player at one hand by [dooboolab](https://github.com/dooboolab)
 - [AssetsAudioPlayer](https://github.com/florent37/Flutter-AssetsAudioPlayer) <!--stargazers:florent37/Flutter-AssetsAudioPlayer-->  Simultaneous playback of audio from assets/network/file and displaying notifications [android / ios / web / macos]
 - [Audio Service](https://pub.dev/packages/audio_service) - System background audio support by [Ryan Heise](https://github.com/ryanheise). [Tutorial](https://suragch.medium.com/background-audio-in-flutter-with-audio-service-and-just-audio-3cce17b4a7d?sk=0837a1b1773e27a4f879ff3072e90305) by [Suragch](https://twitter.com/Suragch1).
+- [Stream Music Player](https://github.com/vellt/GetX-Stream-Music-Player-Flutter) - A music player for online content with GetX architecture by [vellt](https://github.com/vellt).
 
 #### Video
 

@@ -482,6 +482,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Sqflite](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
 - [Moor](https://github.com/simolus3/moor) - Moor is an easy to use, reactive, typesafe persistence library for Dart & Flutter by [
 Simon Binder](https://github.com/simolus3)
+- [Realm](https://github.com/realm/realm-dart) <!--stargazers:realm/realm-dart--> - Realm is a cross-platform mobile database
+  with an object-oriented data model by [MongoDB Realm](https://github.com/realm).
 
 ### Services
 

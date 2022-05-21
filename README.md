@@ -24,17 +24,14 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Demonstrations
 <div style="text-align: center"><table><tr>
-  <td style="text-align: center">
+  <td style="text-align: center, width: 180">
     
 <a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
-<img alt="Stream" width="180" src="./.github/stream-animation.gif" /> 
+    <img alt="Stream" src="./.github/stream-animation.gif" /> 
     </a>
-   
     
 [Instant Chat Integration with Stream!](https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome)
     
-    
- 
 
   </td>
    <td style="text-align: center">
@@ -66,13 +63,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Plugins](#plugins)
 - [Frameworks](#frameworks)
 - [Experimental](#experimental)
-- [Gaming](#gaming)
 - [Open Source Apps](#open-source-apps)
 - [Web](#web)
 - [Utilities](#utilities)
 - [Books](#books)
 - [Bonus](#bonus)
-- [Jobs](#jobs)
 - [Community](#community)
 
 ## Articles

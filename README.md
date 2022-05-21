@@ -22,17 +22,17 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 </a>
 
 
-
 #### Demonstrations
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
-  <a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
-    <img src="https://user-images.githubusercontent.com/1295961/158429732-0a5dc21e-d051-4c8a-8eea-e58734f9cfd7.gif" width="180"/>
     
-    Instant 
-    Chat Integration
-    with Stream!
-  </a>
+<a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
+<img alt="alt_text" width="180" src="https://user-images.githubusercontent.com/1295961/169645108-060b7d31-7477-4d4d-954b-83c49cf1edb9.gif" /> 
+    </a>
+    
+[Instant Chat Integration with Stream!](https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome)
+    
+
   </td>
    <td style="text-align: center">
     <img width="180" alt="BMW" src="https://user-images.githubusercontent.com/1295961/160239273-ce881c0c-c3de-4953-9448-dfd12d7ffe30.png">

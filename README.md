@@ -30,8 +30,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 <img alt="alt_text" width="180" src="https://user-images.githubusercontent.com/1295961/169645108-060b7d31-7477-4d4d-954b-83c49cf1edb9.gif" /> 
     </a>
     
-[Instant Chat Integration with Stream!](https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome)
-    
+ 
 
   </td>
    <td style="text-align: center">

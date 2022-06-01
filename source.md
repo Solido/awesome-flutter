@@ -271,6 +271,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Lottie](https://github.com/xvrh/lottie-flutter) <!--stargazers:xvrh/lottie-flutter--> - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [xvrh](https://github.com/xvrh/lottie-flutter)
 - [Bitmap](https://github.com/renancaraujo/bitmap) <!--stargazers:renancaraujo/bitmap--> - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo)
 - [Crop](https://github.com/xclud/flutter_crop) <!--stargazers:xclud/flutter_crop--> - Crop any widget/image in Android, iOS, Web and Desktop by [Mahdi K. Fard](https://github.com/xclud/)
+- [Power Image](https://github.com/alibaba/power_image) <!--stargazers:alibaba/power_image--> - A powerful plugin that fully uses the native image library's ability to display images on the flutter side by [Alibaba](https://github.com/alibaba)
 
 #### Image Picker
 

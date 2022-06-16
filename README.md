@@ -627,6 +627,8 @@ This section contains libraries that take an experimental or unorthodox approach
 - [AuthPass](https://github.com/authpass/authpass) [1061⭐] - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul).
 - [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) [1523⭐] - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc).
 - [Harpy](https://github.com/robertodoering/harpy) [825⭐] - Feature rich Twitter client by [Roberto Doering](https://github.com/robertodoering).
+- [web-demo](https://github.com/swiftdo/web-demo) About
+Responsive web app powered by Flutter and Dart, also supports desktop.[swiftdo](https://github.com/swiftdo)
 
 ## Utilities
 

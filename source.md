@@ -141,6 +141,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter in Practice](https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN) - Free video courssd for beginners & non-programmers by [Zaiste](https://zaiste.net/)
 - [Whatsupcoders](https://www.youtube.com/c/whatsupcoders) <!--youtube:list/PL6BTtm1PxwOUpt1muzFD3ErxWdCzLkYbI--> - Free video series on Flutter Widgets by [Kamal](https://github.com/whatsupcoders)
 - [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA) - Intermediate and advanced videos by [Matej Rešetár](https://github.com/ResoCoder)
+- [Vandad Nahavandipoor](https://www.youtube.com/c/VandadNP) - Free Flutter, State Management and Full-stack courses by [vandadnp](https://github.com/vandadnp)
 
 ## Components
 

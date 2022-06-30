@@ -96,6 +96,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs by Google Code Labs
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase integration by Google Code Labs
+- [Supabase Chat](https://supabase.com/blog/2022/06/30/flutter-tutorial-building-a-chat-app) - Real time chat application using Supabase by [Supabase](https://supabase.com/)
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Detailed planets design tutorial
 - [Flutter and Dart development](https://suragch.medium.com/flutter-and-dart-development-articles-981be9ef7b23) - Articles and tutorials by [Suragch](https://twitter.com/Suragch1)
 

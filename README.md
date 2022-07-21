@@ -566,6 +566,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 - [Flame](https://github.com/flame-engine/flame) [5173⭐] - Minimalist game engine by [Luan Nico](https://github.com/luanpotter).
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) [1186⭐] - Toolkit for building complex, high performance animations and 2D games by [Viktor Lidholt](https://github.com/vlidholt).
+- [Zerker](https://github.com/flutterkit/zerker) [501⭐] - Lightweight and powerful flutter graphic animation library by [drawcall](https://github.com/drawcall).
 
 #### Open source games
 

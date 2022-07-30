@@ -22,36 +22,40 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 </a>
 
 
-
 #### Demonstrations
 <div style="text-align: center"><table><tr>
-  <td style="text-align: center">
-  <a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
-    <img src="https://user-images.githubusercontent.com/1295961/158429732-0a5dc21e-d051-4c8a-8eea-e58734f9cfd7.gif" width="180"/>
+  <td style="text-align: center, width: 180">
+    
+        
+[Instant Chat Integration](https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome)
+    
+<a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
+    <img alt="Stream" src="./.github/stream-animation.gif" /> 
+    </a>
+    
+[with Stream!](https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome)
+    
 
-    Instant
-    Chat Integration
-    with Stream!
-  </a>
   </td>
    <td style="text-align: center">
     <img width="180" alt="BMW" src="https://user-images.githubusercontent.com/1295961/160239273-ce881c0c-c3de-4953-9448-dfd12d7ffe30.png">
-
+  
     BMW
     Connect
 
   </td>
   <td style="text-align: center">
     <img width="180" alt="BlueAquilae Twitter Meteo" src="https://user-images.githubusercontent.com/1295961/160238906-540a4a0d-b721-4c73-8b58-58b96b5e6414.png">
+  
 
-
-    Calendar
+    Calendar 
     Meteo
 
   </td>
 
 
 </tr></table></div>
+
 
 ## Contents
 

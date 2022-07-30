@@ -575,8 +575,8 @@ This section contains libraries that take an experimental or unorthodox approach
 
 - [Flame](https://github.com/flame-engine/flame) <!--stargazers:flame-engine/flame--> - Minimalist game engine by [Luan Nico](https://github.com/luanpotter)
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) <!--stargazers:spritewidget/spritewidget--> - Toolkit for building complex, high performance animations and 2D games by [Viktor Lidholt](https://github.com/vlidholt)
-- [Bonfire](https://github.com/RafaelBarbosatec/bonfire) - Flame engine based game engine for 2D RPG games
-- [Zerker](https://github.com/flutterkit/zerker) - Lightweight and powerful flutter graphic animation library by [drawcall](https://github.com/drawcall).
+- [Bonfire](https://github.com/RafaelBarbosatec/bonfire) <!--stargazers:RafaelBarbosatec/bonfire--> - Flame engine based game engine for 2D RPG games
+- [Zerker](https://github.com/flutterkit/zerker) <!--stargazers:flutterkit/zerker--> - Lightweight and powerful graphic animation library by [drawcall](https://github.com/drawcall).
 
 #### Open source games
 

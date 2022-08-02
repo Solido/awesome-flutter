@@ -93,6 +93,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [FilledStacks](https://www.filledstacks.com/) - Tutorials and guides on development by [Dane Mackier](https://www.instagram.com/filledstacks/).
 - [Awesome Flutter tips](https://github.com/erluxman/awesomefluttertips/) - Tips to help developers increase productivity by [erluxman](https://twitter.com/erluxman/).
 
+- [Flutter Libraries](https://blog.canopas.com/flutter-1-minute-guide-to-useful-tips-and-libraries-in-2022-6dafba34ed40) - blog, tips & Libraries in the development. 
+
+
 ### Tutorial
 
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs by Google Code Labs.

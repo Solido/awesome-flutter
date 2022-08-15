@@ -504,7 +504,7 @@ Simon Binder](https://github.com/simolus3)
 - [RiverPod](https://github.com/rrousselGit/river_pod) <!--stargazers:rrousselGit/river_pod--> - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit)
 - [GetX](https://github.com/jonataslaw/getx) <!--jonataslaw/getx--> - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw)
 - [Binder](https://github.com/letsar/binder) <!--stargazers:letsar/binder--> -  A lightweight, yet powerful way to bind your application state with your business logic, by [Romain Rastel](https://github.com/letsar).
-- [Creator](https://github.com/terryl1900/creator) <!--stargazers:terryl1900/creator--> - Inspired by Riverpod, with simple and stream-like API, by [Terry Liang](https://github.com/terryl1900).
+- [Creator](https://github.com/liangxianzhe/creator) <!--stargazers:liangxianzhe/creator--> - Inspired by Riverpod, with simple and stream-like API, by [Xianzhe Liang](https://github.com/liangxianzhe).
 
 
 #### Redux / ELM / Dependency Injection

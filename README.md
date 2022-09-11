@@ -723,7 +723,6 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### Communication
 
-- [Gitter](https://gitter.im/flutter/flutter) - Exchange channel.
 - [r/FlutterDev](https://www.reddit.com/r/FlutterDev/) - Reddit community by [u/JaapVermeulen](https://www.reddit.com/user/JaapVermeulen).
 - [Discord](https://discord.gg/N7Yshp4) - Discord server to discuss and get help by [Pritykin](https://twitter.com/AndrewPritykin).
 - [Flutter Community](https://github.com/fluttercommunity) - Central place for community made packages.
@@ -732,7 +731,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 #### Misc
 
-- [Flutter Events](https://flutterevents.com) - An open list of Flutter events by [@hillelcoren](https://twitter.com/hillelcoren).
+- [Flutter Events](https://flutterevents.com) - Open list of Flutter events by [@hillelcoren](https://twitter.com/hillelcoren).
 - [FlutterX](https://flutterx.com) - Searchable list of resources by [Hillel Coren](https://twitter.com/hillelcoren).
 
 ### 🇦🇴 Angola

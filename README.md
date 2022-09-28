@@ -674,6 +674,8 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Flutter for Beginners](https://www.amazon.com/Flutter-Beginners-introductory-cross-platform-applications/dp/1788996089) - by [Alessandro Biessek](https://github.com/biessek).
 - [Flutter in Action](https://www.amazon.com/Flutter-Action-Eric-Windmill/dp/1617296147) - by [Eric Windmill](https://github.com/ericwindmill).
 - [Learn Google Flutter Fast](https://www.amazon.com/Learn-Google-Flutter-Fast-Example/dp/1092297375) - by [Mark Clow](https://github.com/markclow).
+- [Pragmatic Flutter](https://www.amazon.com/Pragmatic-Flutter-Building-Cross-Platform-Android/dp/0367612097) - by [Priyanka Tyagi](https://github.com/ptyagicodecamp).
+- [Flutter Apprentice](https://www.amazon.com/Flutter-Apprentice-Second-Learn-Cross-Platform/dp/1950325482) - by [raywenderlich Tutorial Team, Michael Katz, et al.](https://github.com/raywenderlich).
 
 ### Cookbooks
 - [Practical Flutter](https://www.amazon.com/Practical-Flutter-Improve-Development-Open-Source/dp/1484249712) - by [Frank Zammetti](https://github.com/fzammetti).

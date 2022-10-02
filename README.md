@@ -543,7 +543,7 @@ Simon Binder](https://github.com/simolus3)
 
 ### Testing
 
-
+- [Patrol](https://github.com/leancodepl/patrol)[158⭐️] - Powerful Flutter-native UI testing framework eliminating limitations of `flutter_test`, `integration_test`, and `flutter_driver`.
 - [Flutter Gherkin](https://github.com/jonsamwell/flutter_gherkin) [150⭐] - Fully featured Gherkin parser and UI automated test runner by [Jon Samwell](https://github.com/jonsamwell).
 
 ### Web

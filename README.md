@@ -627,6 +627,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [AuthPass](https://github.com/authpass/authpass) [1061⭐] - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul).
 - [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) [1523⭐] - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc).
 - [Harpy](https://github.com/robertodoering/harpy) [825⭐] - Feature rich Twitter client by [Roberto Doering](https://github.com/robertodoering).
+- [mitt](https://github.com/anyone-developer/anyone-dart-mitt) - Dart event emitter/pubsub. inspired by npm [mitt](https://www.npmjs.com/package/mitt#mitt).
 
 ## Utilities
 
@@ -640,6 +641,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Very Good Cli](https://github.com/VeryGoodOpenSource/very_good_cli) [1135⭐] - Very Good Command Line Interface for Dart created by  [Very Good Ventures](https://github.com/VeryGoodOpenSource).
 - [Flutter Sidekick](https://github.com/leoafarias/sidekick)  [544⭐] - Simple app to make Flutter development more delightful by [Leo Farias](https://github.com/leoafarias).
 - [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) [430⭐] - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
+- [tailrec](https://github.com/anyone-developer/anyone-dart-tailrec) - This package help you to convert recursive function into the while-loop codes. so that program won't meet out of memory that caused by stack overflow.
 
 ### VSCode
 

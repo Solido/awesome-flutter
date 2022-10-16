@@ -665,6 +665,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Awesome Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Collection of commonly used classes and methods by [Nash](https://twitter.com/Nash0x7E2)
 - [Flutter Files](https://marketplace.visualstudio.com/items?itemName=gornivv.vscode-flutter-files) - Quick generation for BLoC templates files by context menu by [Gorniv](https://github.com/gorniv).
 - [Flutter Intl](https://marketplace.visualstudio.com/items?itemName=localizely.flutter-intl) - i18n binding from arb files by [Localizely](https://twitter.com/localizely)
+- [QuickType](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) - Quick way to generate normal, freezed, and json_serializable JSON models by [Quicktype](https://github.com/quicktype/)
 
 
 ### IntelliJ / Android Studio

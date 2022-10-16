@@ -645,6 +645,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Harpy](https://github.com/robertodoering/harpy) <!--stargazers:robertodoering/harpy--> - Feature rich Twitter client by [Roberto Doering](https://github.com/robertodoering)
 - [Mooltik](https://github.com/ruskakimov/mooltik) <!--stargazers:ruskakimov/mooltik--> - Animation app for making cartoons by [Rustem Kakimov](https://github.com/ruskakimov)
 - [Spotube](https://github.com/KRTirtho/spotube) <!--stargazers:KRTirtho/spotube--> - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho)
+- [mitt](https://github.com/anyone-developer/anyone-dart-mitt) - Dart event emitter/pubsub. inspired by npm [mitt](https://www.npmjs.com/package/mitt#mitt).
 
 ## Utilities
 

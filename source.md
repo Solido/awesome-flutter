@@ -429,6 +429,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Clone
 
 - [GitTouch](https://github.com/pd4d10/git-touch) <!--stargazers:pd4d10/git-touch--> - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by [Rongjian Zhang](https://github.com/pd4d10)
+- [RustDesk](https://github.com/rustdesk/rustdesk) <!--stargazers:rustdesk/rustdesk-->- Open source virtual / remote desktop. TeamViewer alternative.  Built with Rust by [RustDesk team](https://www.rustdesk.com/)
 
 ### Machine Learning
 

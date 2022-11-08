@@ -362,6 +362,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Chewie](https://github.com/brianegan/chewie) [1353⭐] - Provides low-level access to video playback by [Brian Egan](https://github.com/brianegan).
 - [Video Trimmer](https://github.com/sbis04/video_trimmer) [276⭐] - Visualise and trim videos by [Souvik Biswas](https://github.com/sbis04).
 - [CamerAwesome](https://github.com/Apparence-io/camera_awesome) [295⭐] - Community camera plugin rework by [Apparence.io studio](https://apparence.io).
+- [100ms](https://github.com/100mslive/100ms-flutter) [71⭐] - Build Live Video Conferencing experiences by [100ms](https://github.com/100mslive/)
 
 #### Voice
 

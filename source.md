@@ -929,6 +929,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### 🇺🇿 Uzbekistan
  - [Telegram](https://t.me/dartdevuz)
+ - [Twitter](https://twitter.com/FlutterUz)
 
 ## License
 

@@ -499,6 +499,9 @@ Simon Binder](https://github.com/simolus3)
 - [App Rating](https://github.com/AppleEducate/app_review) <!--stargazers:AppleEducate/app_review--> - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
 
 
+### Security
+- [freeRASP](https://github.com/talsec/Free-RASP-Flutter) <!--stargazers:talsec/Free-RASP-Flutter--> - Plugin for improving app security and threat monitoring on Android and iOS mobile devices by [Talsec](https://talsec.app)
+
 ## Frameworks
 
 ### State management

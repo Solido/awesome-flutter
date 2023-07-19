@@ -901,6 +901,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Telegram Group](https://t.me/FlutterTR)
 - [Slack](https://bit.ly/flutterTR)
 - [Github](https://github.com/flutterturkey)
+- [Udemy](https://www.udemy.com/course/sifirdan-flutter-ile-android-ve-ios-apps-development)
 
 ### 🇺🇦 Ukraine
 - [Telegram](https://t.me/artflutter)

@@ -375,6 +375,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Chewie](https://github.com/brianegan/chewie) <!--stargazers:brianegan/chewie--> - Provides low-level access to video playback by [Brian Egan](https://github.com/brianegan)
 - [Video Trimmer](https://github.com/sbis04/video_trimmer) <!--stargazers:sbis04/video_trimmer--> - Visualise and trim videos by [Souvik Biswas](https://github.com/sbis04)
 - [CamerAwesome](https://github.com/Apparence-io/camera_awesome) <!--stargazers:Apparence-io/camera_awesome--> - Community camera plugin rework by [Apparence.io studio](https://apparence.io)
+- [Video Editor](https://github.com/LeGoffMael/video_editor) <!--stargazers:LeGoffMael/video_editor--> - Edit (crop, trim, rotate) a video and a its cover by [Maël Le Goff](https://github.com/LeGoffMael)
 
 #### Voice
 

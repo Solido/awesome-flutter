@@ -311,6 +311,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Get](https://github.com/jonataslaw/get) <!--stargazers:jonataslaw/get--> - Navigate between screens & display snackbars/dialogs/bottomSheets without context by [Jonny Borges](https://github.com/jonataslaw)
 - [Beamer](https://github.com/slovnicki/beamer) <!--stargazers:slovnicki/beamer--> - Route through guarded page stacks and URLs using the Navigator 2.0 API effortlessly by [Sandro Lovnički](https://github.com/slovnicki)
 - [go_router](https://github.com/csells/go_router) <!--stargazers:csells/go_router--> - Declarative routes to reduce complexity, deep linking for mobile and the web while maintaining developer experience by [Chris Sells](https://github.com/csells).
+- [auto_route](https://github.com/Milad-Akarie/auto_route_library) <!--stargazers:Milad-Akarie/auto_route_library--> - AutoRoute is a declarative routing solution, where everything needed for navigation is automatically generated for you. [Milad_Akarie](https://github.com/Milad-Akarie).
 
 ### Auth
 

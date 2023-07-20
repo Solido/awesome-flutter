@@ -553,6 +553,7 @@ Simon Binder](https://github.com/simolus3)
 - [Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) <!--stargazers:mobiten/flutter_staggered_animations--> - Easily add staggered animations to your ListView, GridView, Column and Row by [mobiten](https://mobiten.com/)
 - [Animate Do](https://pub.dev/packages/animate_do) - Animation package inspired in Animate.css by [Fernando Herrera](https://twitter.com/Fernando_Her85).
 - [Funvas](https://github.com/creativecreatorormaybenot/funvas) <!--stargazers:creativecreatorormaybenot/funvas--> - Create fun *time based canvas animations* by [creativecreatorormaybenot](https://twitter.com/creativemaybeno).
+- [Flutter Animate](https://pub.dev/packages/flutter_animate) <!--stargazers:gskinner/flutter_animate--> - A performant library that makes it simple to add almost any kind of animated effect by [gskinner](https://gskinner.com/)
 
 
 ### Testing

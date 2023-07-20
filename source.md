@@ -276,6 +276,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Lottie](https://github.com/xvrh/lottie-flutter) <!--stargazers:xvrh/lottie-flutter--> - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [xvrh](https://github.com/xvrh/lottie-flutter)
 - [Bitmap](https://github.com/renancaraujo/bitmap) <!--stargazers:renancaraujo/bitmap--> - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo)
 - [Crop](https://github.com/xclud/flutter_crop) <!--stargazers:xclud/flutter_crop--> - Crop any widget/image in Android, iOS, Web and Desktop by [Mahdi K. Fard](https://github.com/xclud/)
+- [Custom Carousel Slider](https://github.com/coskuncay/flutter_custom_carousel_slider) <!--stargazers:coskuncay/flutter_custom_carousel_slider--> - Carousel slider Flutter widget, supports custom decoration suitable for news and blog by [coskuncay](https://github.com/coskuncay)
 
 #### Image Picker
 

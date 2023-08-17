@@ -363,6 +363,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Audio
 
+- [Audio Players Plugin](https://github.com/luanpotter/audioplayers) <!--stargazers:luanpotter/audioplayers--> - Play multiple audio files simultaneously (Android/iOS) by [Luan Nico](https://github.com/luanpotter).
 - [Flutter Audio Recorder](https://github.com/shadow-app/flutter_audio_recorder) - Provides full controls and access to recording details such as level metering by [Wenyan Li](https://github.com/nikli2009).
 - [Audio Recorder](https://github.com/ZaraclaJ/audio_recorder) <!--stargazers:ZaraclaJ/audio_recorder--> - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz)
 - [Flutter Sound](https://github.com/dooboolab/flutter_sound) <!--stargazers:dooboolab/flutter_sound--> - Flutter audio recorder and player at one hand by [dooboolab](https://github.com/dooboolab)

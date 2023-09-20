@@ -130,6 +130,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Parallax Effect](https://marcinszalek.pl/flutter/tickets-challenge-parallax) - Parallax & non linear animation by [Marcin Szalek](https://marcinszalek.pl).
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36)  - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo).
 - [Build Flavor](https://medium.com/@angeloavv/easily-build-flavors-in-flutter-android-and-ios-with-flutter-flavorizr-d48cbf956e4) - Easily build flavors in Flutter (Android and iOS) with flutter_flavorizr by [Angelo Cassano](https://medium.com/@angeloavv).
+- [Integrate Video Editor SDK in Flutter Apps](https://www.banuba.com/blog/introducing-the-flutter-video-editor-sample)
 
 ## Videos
 
@@ -362,6 +363,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Chewie](https://github.com/brianegan/chewie) [1353⭐] - Provides low-level access to video playback by [Brian Egan](https://github.com/brianegan).
 - [Video Trimmer](https://github.com/sbis04/video_trimmer) [276⭐] - Visualise and trim videos by [Souvik Biswas](https://github.com/sbis04).
 - [CamerAwesome](https://github.com/Apparence-io/camera_awesome) [295⭐] - Community camera plugin rework by [Apparence.io studio](https://apparence.io).
+- [Video Editor SDK](https://github.com/Banuba/ve-sdk-flutter-integration-sample)[22⭐] - [Video Editor SDK](https://www.banuba.com/video-editor-sdk-best-for-developers) (Android & iOS) is a fully-functional video editor that can be integrated into an app in minutes, designed to create exciting social media content with a wide range of effects and filters for professional-quality videos on phones.
 
 #### Voice
 

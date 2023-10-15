@@ -219,6 +219,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Scroll To Index](https://github.com/quire-io/scroll-to-index) [332⭐] - Scroll to specified child element with given index for SliverList/ListView by [Jerry Chen](https://github.com/jerrywell/).
 - [In View Notifier List](https://github.com/rvamsikrishna/inview_notifier_list) - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/rvamsikrishna).
 - [ShowCaseView](https://github.com/simformsolutions/flutter_showcaseview) [687⭐] - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions).
+- [Mix](https://github.com/leoafarias/mix) <!--stargazers:leoafarias/mix--> - An expressive way to effortlessly build design systems by [Leo Farias](https://github.com/leoafarias).
 
 #### Material Design
 

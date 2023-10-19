@@ -500,7 +500,7 @@ Simon Binder](https://github.com/simolus3)
 
 ### Code generator
 
-- [AutoMappr](https://github.com/netglade/auto_mappr) <!--stargazers:netglade/auto_mappr--> - AutoMappr is a code-generation package that helps with writing object-to-object mappings, so you don't have to write code by hand. By [NetGlade](https://github.com/netglade).
+- [AutoMappr](https://github.com/netglade/auto_mappr) <!--stargazers:netglade/auto_mappr--> - AutoMappr is a code-generation package that helps with writing object-to-object mappings, so you don't have to write code by hand by [NetGlade](https://github.com/netglade).
 
 ## Frameworks
 

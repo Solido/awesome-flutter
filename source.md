@@ -498,6 +498,9 @@ Simon Binder](https://github.com/simolus3)
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
 - [App Rating](https://github.com/AppleEducate/app_review) <!--stargazers:AppleEducate/app_review--> - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
 
+### Code generator
+
+- [AutoMappr](https://github.com/netglade/auto_mappr) <!--stargazers:netglade/auto_mappr--> - AutoMappr is a code-generation package that helps with writing object-to-object mappings, so you don't have to write code by hand. By [NetGlade](https://github.com/netglade).
 
 ## Frameworks
 

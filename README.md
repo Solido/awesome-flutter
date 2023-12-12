@@ -180,7 +180,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Timeline Tile](https://github.com/JHBitencourt/timeline_tile) [446⭐] - A tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 - [Rounded Loading Button](https://github.com/chrisedg87/flutter_rounded_loading_button) [127⭐] - Button with a loading indicator, complete with success and error animations by [Chris Edgington](https://twitter.com/ChrisTheEdg).
 - [PlutoGrid](https://github.com/bosskmk/pluto_grid) [182⭐] - Web and desktop datagrid that can be controlled by the keyboard by [bosskmk](https://github.com/bosskmk).
-- [Animated Visibility Widget](https://github.com/canopas/animated-visibility-widget) - Animate appearance and disappearance using pre-built effects with the AnimatedVisibility widget by [canopas](https://github.com/canopas).
+- [Animated Visibility](https://github.com/canopas/animated-visibility) - Animate appearance and disappearance using pre-built effects with the AnimatedVisibility by [canopas](https://github.com/canopas).
 
 #### Sticky Headers
 

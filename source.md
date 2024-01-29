@@ -188,6 +188,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [PlutoGrid](https://github.com/bosskmk/pluto_grid) <!--stargazers:bosskmk/pluto_grid--> - Web and desktop datagrid that can be controlled by the keyboard by [bosskmk](https://github.com/bosskmk).
 - [Flyer Chat](https://github.com/flyerhq/flutter_chat_ui) <!--stargazers:flyerhq/flutter_chat_ui--> - Community-driven chat UI implementation by the [Flyer Chat team](https://github.com/flyerhq)
 
+#### Splash Screens
+
+- [Another Flutter Splash Screen](https://github.com/ToyZ-95/another_flutter_splash_screen) <!--stargazers:ToyZ-95/another_flutter_splash_screen--> - A package which facilitates creating a splash screen with the support of selecting next screen dynamically by [Asad Patel](https://github.com/ToyZ-95)
+
 #### Sticky Headers
 
 - [Sticky Infinite List](https://github.com/TatsuUkraine/flutter_sticky_infinite_list) <!--stargazers:TatsuUkraine/flutter_sticky_infinite_list--> - Highly configurable multi directional infinite list with Sticky Headers by [TatsuUkraine](https://github.com/TatsuUkraine)

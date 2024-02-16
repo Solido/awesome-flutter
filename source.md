@@ -646,6 +646,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Harpy](https://github.com/robertodoering/harpy) <!--stargazers:robertodoering/harpy--> - Feature rich Twitter client by [Roberto Doering](https://github.com/robertodoering)
 - [Mooltik](https://github.com/ruskakimov/mooltik) <!--stargazers:ruskakimov/mooltik--> - Animation app for making cartoons by [Rustem Kakimov](https://github.com/ruskakimov)
 - [Spotube](https://github.com/KRTirtho/spotube) <!--stargazers:KRTirtho/spotube--> - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho)
+- [GitConnect](https://github.com/TheAlphamerc/flutter-GitConnect) <!--stargazers:TheAlphamerc/flutter-GitConnect--> - Github mobile app built in flutter framwork [Sonu Sharma](https://github.com/TheAlphamerc)
 
 ## Utilities
 

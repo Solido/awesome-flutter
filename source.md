@@ -660,6 +660,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Flutter Sidekick](https://github.com/leoafarias/sidekick)  <!--stargazers:leoafarias/sidekick--> - Simple app to make Flutter development more delightful by [Leo Farias](https://github.com/leoafarias)
 - [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) <!--stargazers:dart-code-checker/dart-code-metrics--> - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
 - [Melos](https://github.com/invertase/melos) <!--stargazers:invertase/melos--> - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase)
+- [LLAMA.cpp Dart](https://github.com/netdur/llama_cpp_dart) <!--stargazers:netdur/llama_cpp_dart--> - A Dart port of LLAMA.cpp library for running open source LLM in local environement. 
 
 ### VSCode
 

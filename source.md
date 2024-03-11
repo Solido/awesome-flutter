@@ -339,6 +339,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Form Builder](https://github.com/danvick/flutter_form_builder) <!--stargazers:danvick/flutter_form_builder--> - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by [Danvick Miller](https://github.com/danvick)
 - [Reactive Forms](https://github.com/joanpablo/reactive_forms) <!--stargazers:joanpablo/reactive_forms--> - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.
 
+### Forms
+
+- [form_bloc](https://giancarlocode.github.io/form_bloc/) - Easy form state management using BLoC pattern. Wizard/Stepper forms, async validation, dynamic and conditional fields, submission progress, loading and async initializing form, serialization and more! by [GiancarloCode](https://github.com/GiancarloCode)
+
 ### Analytics
 
 - [Usage](https://github.com/dart-lang/usage) <!--stargazers:dart-lang/usage--> - Google Analytics wrapper for command-line, web, and Flutter apps

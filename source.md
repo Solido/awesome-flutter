@@ -511,6 +511,7 @@ Simon Binder](https://github.com/simolus3)
 - [RiverPod](https://github.com/rrousselGit/river_pod) <!--stargazers:rrousselGit/river_pod--> - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit)
 - [GetX](https://github.com/jonataslaw/getx) <!--jonataslaw/getx--> - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw)
 - [Binder](https://github.com/letsar/binder) <!--stargazers:letsar/binder--> -  A lightweight, yet powerful way to bind your application state with your business logic, by [Romain Rastel](https://github.com/letsar).
+- [Elementary](https://github.com/Elementary-team/flutter-elementary) <!--stargazers:Elementary-team/flutter-elementary--> - A simple and reliable way to build applications with MVVM by [Mikhail Zotyev](https://github.com/MbIXjkee).
 
 #### Redux / ELM / Dependency Injection
 

@@ -650,6 +650,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Harpy](https://github.com/robertodoering/harpy) <!--stargazers:robertodoering/harpy--> - Feature rich Twitter client by [Roberto Doering](https://github.com/robertodoering)
 - [Mooltik](https://github.com/ruskakimov/mooltik) <!--stargazers:ruskakimov/mooltik--> - Animation app for making cartoons by [Rustem Kakimov](https://github.com/ruskakimov)
 - [Spotube](https://github.com/KRTirtho/spotube) <!--stargazers:KRTirtho/spotube--> - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho)
+- [Let's Draw](https://github.com/JideGuru/flutter_drawing_board) <!--stargazers:JideGuru/flutter_drawing_board--> - A simple drawing app made by [JideGuru](https://github.com/JideGuru)
 - [Openreads](https://github.com/mateusz-bak/openreads-android) <!--stargazers:mateusz-bak/openreads-android--> - A simple privacy oriented mobile books tracker using Open Library API by [mateusz-bak](https://github.com/mateusz-bak)
 
 ## Utilities

@@ -879,6 +879,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 - [Telegram](https://t.me/rudart)
 - [Telegram - Oh, my Flutter](https://t.me/ohmyflutter)
+- Meetup [Flutter Voronezh](https://www.meetup.com/flutter-voronezh/)
 
 ### 🇪🇸 Spain
 

@@ -921,6 +921,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 - Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
 - Meetup [Washington DC] (https://www.meetup.com/DCFlutter/)
+- Meetup [NYC](https://www.meetup.com/flutter-nyc/)
 
 ### 🏴 Kurdistan
 

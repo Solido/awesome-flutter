@@ -1,8 +1,8 @@
 Please read [How to contribute](https://github.com/Solido/awesome-flutter/blob/master/contributing.md) before creating a submission.
 
-## Description
+## Description and links to repo and pubdev if any 
 
-Submission description here
+Submission description/links here
 
 ---
 

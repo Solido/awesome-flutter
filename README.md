@@ -2,15 +2,15 @@
 
 
 <p align="center">
-  <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-254629-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/sindresorhus/awesome">
-    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
-  </a>
-   <a href="https://twitter.com/blueaquilae">
-    <img alt="Awesome" src="https://img.shields.io/twitter/url/https/twitter.com/blueaquilae.svg?style=social&label=Follow%20%40blueaquilae" />
-  </a>
+<a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
+<img alt="Github Repositories" src="https://img.shields.io/badge/Repos-254629-brightgreen.svg" />
+</a>
+<a href="https://github.com/sindresorhus/awesome">
+<img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
+</a>
+<a href="https://twitter.com/blueaquilae">
+<img alt="Awesome" src="https://img.shields.io/twitter/url/https/twitter.com/blueaquilae.svg?style=social&label=Follow%20%40blueaquilae" />
+</a>
 </p>
 
 
@@ -24,34 +24,34 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Demonstrations
 <div style="text-align: center"><table><tr>
-  <td style="text-align: center, width: 180">
-    
-        
+<td style="text-align: center, width: 180">
+
+
 [Instant Chat Integration](https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome)
-    
+
 <a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
-    <img alt="Stream" src="./.github/stream-animation.gif" /> 
-    </a>
-    
+<img alt="Stream" src="./.github/stream-animation.gif" />
+</a>
+
 [with Stream!](https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome)
-    
 
-  </td>
-   <td style="text-align: center">
-    <img width="180" alt="BMW" src="https://user-images.githubusercontent.com/1295961/160239273-ce881c0c-c3de-4953-9448-dfd12d7ffe30.png">
-  
-    BMW
-    Connect
 
-  </td>
-  <td style="text-align: center">
-    <img width="180" alt="BlueAquilae Twitter Meteo" src="https://user-images.githubusercontent.com/1295961/160238906-540a4a0d-b721-4c73-8b58-58b96b5e6414.png">
-  
+</td>
+<td style="text-align: center">
+<img width="180" alt="BMW" src="https://user-images.githubusercontent.com/1295961/160239273-ce881c0c-c3de-4953-9448-dfd12d7ffe30.png">
 
-    Calendar 
-    Meteo
+BMW
+Connect
 
-  </td>
+</td>
+<td style="text-align: center">
+<img width="180" alt="BlueAquilae Twitter Meteo" src="https://user-images.githubusercontent.com/1295961/160238906-540a4a0d-b721-4c73-8b58-58b96b5e6414.png">
+
+
+Calendar
+Meteo
+
+</td>
 
 
 </tr></table></div>
@@ -151,30 +151,21 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Official Gallery](https://github.com/flutter/gallery) - Demo for the material design widgets provided by Flutter Team
 - [Flutter Examples](https://github.com/nisrulz/flutter-examples) [6742⭐] - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz)
 - [Flutter Catalog](https://github.com/X-Wei/flutter_catalog) [2091⭐] - showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei)
-kotlin.Unit
 
 
 ### UI
 
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) [3037⭐] - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar)
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) [409⭐] - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
 - [Flushbar](https://github.com/AndreHaueisen/flushbar) [984⭐] - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
-kotlin.Unit
 - [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) [781⭐] - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali)
-kotlin.Unit
 - [Pin Code](https://github.com/LiewJunTung/pin_code_text_field) [376⭐] - Animated & customisable Pin code for login and OTP by [Liew Jun Tung](https://github.com/liewjuntung)
-kotlin.Unit
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) [1213⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Slide Container](https://pub.dev/packages/slide_container) Slide vertically and horizontally with a smooth dampened motion by [Quentin Le Guennec](https://github.com/quentinleguennec).
 - [Direct Select](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 - [Before After](https://github.com/xsahil03x/before_after) [870⭐] - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
 - [Scratcher](https://github.com/vintage/scratcher) [525⭐] - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
-kotlin.Unit
 - [Beautiful_Popup](https://github.com/jaweii/Flutter_beautiful_popup) [660⭐] - Beautify your app popup by [jaweii](https://github.com/jaweii).
-kotlin.Unit
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
 - [Flutter Tags](https://github.com/Dn-a/flutter_tags) [499⭐] - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
 - [Flutter Neumorphic](https://github.com/Idean/Flutter-Neumorphic) [1921⭐] - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.
@@ -188,7 +179,6 @@ kotlin.Unit
 - [smooth_page_indicator](https://github.com/Milad-Akarie/smooth_page_indicator) [1081⭐] - Customizable animated page indicator with a set of built-in effects. [Milad Akarie](https://github.com/Milad-Akarie)
 #### Sticky Headers
 
-kotlin.Unit
 - [Sticky Header](https://github.com/letsar/flutter_sticky_header) [876⭐] - Sliver based sticky headers by [Romain Rastel](https://github.com/letsar)
 - [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) [1053⭐] - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/)
 
@@ -202,7 +192,6 @@ kotlin.Unit
 - [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) [733⭐] - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
 - [Circular Bottom Navigation](https://github.com/imaNNeoFighT/circular_bottom_navigation) [616⭐] - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
 - [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) [983⭐] - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
-kotlin.Unit
 - [Google Nav Bar](https://github.com/sooxt98/google_nav_bar) [685⭐] - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98)
 
 #### Bottom Sheets
@@ -211,15 +200,12 @@ kotlin.Unit
 
 #### Sliders
 
-kotlin.Unit
-kotlin.Unit
 - [Flutter Xlider](https://github.com/Ali-Azmoud/flutter_xlider) [486⭐] - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud)
 
 #### UI Helpers
 
 - [Reorderables](https://github.com/hanshengchiu/reorderables) [714⭐] - Drag&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) [1213⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
-kotlin.Unit
 - [Offline](https://github.com/jogboms/flutter_offline) [993⭐] - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 - [Scroll To Index](https://github.com/quire-io/scroll-to-index) [481⭐] - Scroll to specified child element with given index for SliverList/ListView by [Jerry Chen](https://github.com/jerrywell/).
 - [In View Notifier List](https://github.com/rvamsikrishna/inview_notifier_list) - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/rvamsikrishna).
@@ -229,18 +215,15 @@ kotlin.Unit
 
 #### Material Design
 
-kotlin.Unit
 - [Slidable](https://github.com/letsar/flutter_slidable) [2604⭐] - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar)
 - [Backdrop](https://github.com/fluttercommunity/backdrop) [307⭐] - [Backdrop](https://material.io/design/components/backdrop.html) implementation for flutter.
 
 #### Cupertino Design
 
-kotlin.Unit
 
 #### Effect
 
 - [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) - Render effect by [Collin Jackson](http://www.collinjackson.com)
-kotlin.Unit
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) [1739⭐] - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
 - [Wave](https://github.com/i-protoss/wave) [1053⭐] - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
 - [Liquid Swipe](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
@@ -250,7 +233,6 @@ kotlin.Unit
 
 #### Calendar
 
-kotlin.Unit
 - [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab](https://github.com/dooboolab/flutter_calendar_carousel)
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) [1710⭐] - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
 - [Time Planner](https://github.com/Jamalianpour/time_planner) [209⭐] - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour)
@@ -284,18 +266,12 @@ kotlin.Unit
 
 ### Map
 
-kotlin.Unit
 - [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) [185⭐] - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com)
-kotlin.Unit
 - [AMap](https://github.com/fluttify-project/amap_map_fluttify) [539⭐] - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project)
 - [Map](https://github.com/xclud/flutter_map) [127⭐] - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by [Mahdi K. Fard](https://github.com/xclud/)
 
 ### Charts
 
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
 - [FL Chart](https://github.com/imaNNeoFighT/fl_chart) [6367⭐] - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
 - [Bezier Chart](https://github.com/aeyrium/bezier-chart) [445⭐] - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
 - [Echarts](https://github.com/entronad/flutter_echarts) [723⭐] - Large collection of advanced reactives charts by [LIN Chen](https://github.com/entronad)
@@ -304,22 +280,15 @@ kotlin.Unit
 ### Navigation
 
 - [Fluro](https://github.com/goposse/fluro) [3655⭐] - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
-kotlin.Unit
-kotlin.Unit
 - [Get](https://github.com/jonataslaw/get) [9801⭐] - Navigate between screens & display snackbars/dialogs/bottomSheets without context by [Jonny Borges](https://github.com/jonataslaw)
 - [Beamer](https://github.com/slovnicki/beamer) [573⭐] - Route through guarded page stacks and URLs using the Navigator 2.0 API effortlessly by [Sandro Lovnički](https://github.com/slovnicki)
-kotlin.Unit
 - [auto_route](https://github.com/Milad-Akarie/auto_route_library) [1473⭐] - AutoRoute is a declarative routing solution, where everything needed for navigation is automatically generated for you. [Milad_Akarie](https://github.com/Milad-Akarie).
 
 ### Auth
 
 - [Local Auth](https://github.com/flutter/packages/tree/main/packages/local_auth) - Touch ID, lock code, fingerprint auth on iOS and Android
-kotlin.Unit
 - [Google Sign-In](https://github.com/flutter/packages/tree/main/packages/google_sign_in) - Google OAuth
 - [Firebase Auth](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth) - Firebase OAuth
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
 - [Firebase Phone Auth](https://medium.com/@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b)  - Phone number auth via SMS by [Gildásio Filho](https://github.com/gildaswise)
 - [SimpleAuth](https://github.com/Clancey/simple_auth) [350⭐] - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey)
 - [Flutter AppAuth](https://github.com/MaikuB/flutter_appauth) [267⭐] - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by [Michael Bui](https://github.com/MaikuB)
@@ -341,7 +310,6 @@ kotlin.Unit
 
 - [Usage](https://github.com/dart-lang/usage) [144⭐] - Google Analytics wrapper for command-line, web, and Flutter apps
 - [Firebase Analytics](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API
-kotlin.Unit
 
 ### Internationalization
 
@@ -352,8 +320,6 @@ kotlin.Unit
 
 ### Styling
 
-kotlin.Unit
-kotlin.Unit
 
 ### Media
 
@@ -400,29 +366,15 @@ kotlin.Unit
 
 ## Templates
 
-kotlin.Unit
 - [Mates](https://github.com/CodemateLtd/FlutterMates) [575⭐] - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
 - [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) [6171⭐] - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan)
-kotlin.Unit
 - [The Gorgeous Login](https://github.com/huextrat/TheGorgeousLogin) [1721⭐] - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat)
 - [Liquid Pay Payment App](https://github.com/longhoang2984/flutter_payment_app_ui) [303⭐] - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
-kotlin.Unit
 - [Starter Kit](https://github.com/KingWu/flutter_starter_kit) [776⭐] - App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by [King Wu](https://github.com/KingWu)
-kotlin.Unit
-kotlin.Unit
 - [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) [1503⭐] - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
 - [Flutter Samples](https://github.com/diegoveloper/flutter-samples) [2997⭐] - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
 - [ActingWeb First_App](https://github.com/gregertw/actingweb_firstapp) [450⭐] - Starter app with basic elements for a team-developed production-quality app by [Greger Wedel](https://github.com/gregertw)
 - [Smart Washing Machine](https://github.com/pawlik92/flutter_whirlpool) [862⭐] - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
-kotlin.Unit
 
 ### Clone
 
@@ -431,13 +383,10 @@ kotlin.Unit
 
 ### Machine Learning
 
-kotlin.Unit
 - [m2cgen](https://github.com/BayesWitnesses/m2cgen) [2703⭐] - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses)
 
 ### Vision
 
-kotlin.Unit
-kotlin.Unit
 
 #### Augmented Reality
 
@@ -455,7 +404,7 @@ kotlin.Unit
 - [Location](https://github.com/Lyokone/flutterlocation) [1060⭐] - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone)
 - [Proximity Sensor Plugin](https://pub.dev/packages/proximity_plugin) - A plugin to access the proximity sensor of your device by [Manoj NB](https://github.com/Samaritan1011001)
 - [Geolocation](https://github.com/loup-v/geolocation) [226⭐] - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
-- [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) [2378⭐] - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
+- [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) [2379⭐] - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
 - [Device Calendar](https://github.com/builttoroam/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com)
 - [Badger](https://github.com/g123k/flutter_app_badger) [293⭐] - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
 - [UDID](https://github.com/GigaDroid/flutter_udid) [229⭐] - Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
@@ -471,13 +420,10 @@ kotlin.Unit
 
 #### Scanner
 
-kotlin.Unit
-kotlin.Unit
 
 #### Bluetooth / NFC / Beacon
 
 - [Blue](https://github.com/pauldemarco/flutter_blue) [2343⭐] - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
-kotlin.Unit
 - [NFC Reader](https://github.com/matteocrippa/flutter-nfc-reader) [376⭐] - NFC reader plugin for iOS and Android by [Matteo Crippa](https://github.com/matteocrippa)
 - [Beacon broadcast](https://github.com/pszklarska/beacon_broadcast) [82⭐] - Library for turning your phone into a beacon by [Paulina Szklarska](https://github.com/pszklarska/)
 - [Reactive Ble](https://github.com/PhilipsHue/flutter_reactive_ble) [635⭐] - Handles BLE operations for multiple devices by [Philips Hue](https://github.com/PhilipsHue)
@@ -491,10 +437,7 @@ Simon Binder](https://github.com/simolus3)
 
 ### Services
 
-kotlin.Unit
 - [OneSignal](https://github.com/OneSignal/OneSignal-Flutter-SDK) [604⭐] - Push notification service by [OneSignal](https://github.com/OneSignal)
-kotlin.Unit
-kotlin.Unit
 - [In App Review](https://github.com/britannio/in_app_review) [273⭐] - Requesting and Writing Reviews for Android, iOS and MacOS by [Britannio Jarrett](https://github.com/britannio)
 
 
@@ -513,12 +456,8 @@ kotlin.Unit
 
 #### Redux / ELM / Dependency Injection
 
-kotlin.Unit
 - [Redux.dart](https://github.com/johnpryan/redux.dart) [513⭐] - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects)
 - [Redux](https://github.com/brianegan/flutter_redux) [1648⭐] - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
 - [Async Redux](https://pub.dev/packages/async_redux) [227⭐] - Redux without boilerplate. Allows for both sync and async reducers by [Marcelo Glasberg](https://github.com/marcglasberg/)
 
 ### Widgets
@@ -548,7 +487,6 @@ kotlin.Unit
 - [AnimatedTextKit](https://github.com/aagarwal1012/Animated-Text-Kit) [1617⭐] - A collection of cool text animations by [Ayush Agarwal](https://github.com/aagarwal1012/)
 - [Drawing Animation](https://github.com/biocarl/drawing_animation) [479⭐] - Create drawing line animations based on SVG path data by [Carl Hauck](https://twitter.com/cahaucks)
 - [Simple Animations](https://github.com/felixblaschke/simple_animations) - Create awesome custom animations easily by [Felix Blaschke](https://github.com/felixblaschke)
-kotlin.Unit
 - [Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) [1505⭐] - Easily add staggered animations to your ListView, GridView, Column and Row by [mobiten](https://mobiten.com/)
 - [Animate Do](https://pub.dev/packages/animate_do) - Animation package inspired in Animate.css by [Fernando Herrera](https://twitter.com/Fernando_Her85).
 - [Funvas](https://github.com/creativecreatorormaybenot/funvas) [510⭐] - Create fun *time based canvas animations* by [creativecreatorormaybenot](https://twitter.com/creativemaybeno).
@@ -585,14 +523,9 @@ This section contains libraries that take an experimental or unorthodox approach
 #### Open source games
 
 - [Flip](https://github.com/RedBrogdon/flutterflip) [264⭐] - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon)
-kotlin.Unit
 - [TRex](https://github.com/renancaraujo/trex-flame) [6⭐] - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo)
 - [Crush](https://github.com/boeledi/flutter_crush) [552⭐] - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com)
-kotlin.Unit
 - [Tetris](https://github.com/boyan01/flutter-tetris) [1559⭐] - Tetris game by [YangBin](https://github.com/boyan01)
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
 
 #### Game Engine resources
 
@@ -603,39 +536,24 @@ kotlin.Unit
 
 ### Premium
 
-kotlin.Unit
-kotlin.Unit
 - [AppFlowy](https://github.com/AppFlowy-IO/appflowy) [48481⭐] - Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by [AppFlowy team](https://www.appflowy.io/)
-- [RustDesk](https://github.com/rustdesk/rustdesk) [62433⭐] - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by [RustDesk team](https://www.rustdesk.com/).
+- [RustDesk](https://github.com/rustdesk/rustdesk) [62435⭐] - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by [RustDesk team](https://www.rustdesk.com/).
 - [Spotube](https://github.com/KRTirtho/spotube) - Open source Spotify client for desktop and mobile by [Kingkor Roy Tirtho](https://github.com/KRTirtho)
 
 ### Top
 
-- [Flutter Team Samples](https://github.com/flutter/samples) [16543⭐] - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people)
+- [Flutter Team Samples](https://github.com/flutter/samples) [16544⭐] - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people)
 - [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app) [23562⭐] - Collection of official widgets demos & docs in chinese to help developers learn quickly by [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend)
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) [1675⭐] - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
 - [WhatTodo](https://github.com/burhanrashid52/WhatTodo) [1132⭐] - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
 - [FlutterGram](https://github.com/mdanics/fluttergram) [2284⭐] - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics)
-kotlin.Unit
-kotlin.Unit
-kotlin.Unit
 - [Trace](https://github.com/trentpiercy/trace) [1085⭐] - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy)
 - [Taskist](https://github.com/huextrat/Taskist) [959⭐] - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat)
-kotlin.Unit
 - [Linwood Butterfly](https://github.com/LinwoodCloud/Butterfly) [794⭐] - Powerful note taking app and an alternative to OneNote by [CodeDoctorDE](https://github.com/CodeDoctorDE)
 - [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) [615⭐] - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
 - [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)
-kotlin.Unit
 - [TailorMade](https://github.com/jogboms/tailor_made) [326⭐] - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by [Jeremiah Ogbomo](https://twitter.com/jogboms)
-kotlin.Unit
 - [Spacex-Go](https://github.com/jesusrp98/spacex-go) [834⭐] - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
-kotlin.Unit
-kotlin.Unit
 - [Enigma](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki)
 - [Chillify](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
 - [Pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
@@ -645,7 +563,7 @@ kotlin.Unit
 - [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) [3650⭐] - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc)
 - [Harpy](https://github.com/robertodoering/harpy) [2036⭐] - Feature rich Twitter client by [Roberto Doering](https://github.com/robertodoering)
 - [Mooltik](https://github.com/ruskakimov/mooltik) [194⭐] - Animation app for making cartoons by [Rustem Kakimov](https://github.com/ruskakimov)
-- [Spotube](https://github.com/KRTirtho/spotube) [24082⭐] - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho)
+- [Spotube](https://github.com/KRTirtho/spotube) [24083⭐] - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho)
 - [Let's Draw](https://github.com/JideGuru/flutter_drawing_board) [240⭐] - A simple drawing app made by [JideGuru](https://github.com/JideGuru)
 - [Openreads](https://github.com/mateusz-bak/openreads-android) [725⭐] - A simple privacy oriented mobile books tracker using Open Library API by [mateusz-bak](https://github.com/mateusz-bak)
 
@@ -756,7 +674,7 @@ kotlin.Unit
 - Twitter [Flutter Sydney](https://twitter.com/FlutterSydney)
 
 ### Bangladesh
- - [Facebook Group](https://www.facebook.com/groups/flutter.bangladesh/)
+- [Facebook Group](https://www.facebook.com/groups/flutter.bangladesh/)
 
 ### 🇧🇷 Brazil
 - Slack [Flutter Brasil](https://flutterbr.slack.com)
@@ -809,8 +727,8 @@ kotlin.Unit
 - Slack [Flutter GR](https://join.slack.com/t/fluttergr/shared_invite/enQtNzQwODM2NzIxOTg0LWFjNWYxYzkyMTdmYWQ4ZWYyMWI2YjcyOTI4YzAzYjY2Nzk3OWNkMTkwZGRjNjRiMGFlNzgyOGRhMmEyZTQ3MmM)
 
 ### 🇮🇹 Italy
- - Telegram [Flutter Italia Developers](https://t.me/flutteritdevs)
- - Website [flutteritalia.dev](https://flutteritalia.dev)
+- Telegram [Flutter Italia Developers](https://t.me/flutteritdevs)
+- Website [flutteritalia.dev](https://flutteritalia.dev)
 
 ### 🇮🇳 India
 - Telegram [Flutter India 🇮🇳](https://t.me/flutterindia)
@@ -933,7 +851,7 @@ kotlin.Unit
 - [Twitter](https://twitter.com/flutterNorway)
 
 ### 🇺🇿 Uzbekistan
- - [Telegram](https://t.me/dartdevuz)
+- [Telegram](https://t.me/dartdevuz)
 
 ## License
 

@@ -165,7 +165,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Stepper Touch](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
 - [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) <!--stargazers:AbdulRahmanAlHamali/flutter_typeahead--> - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali)
 - [Snaplist](https://github.com/ariedov/flutter_snaplist) <!--stargazers:ariedov/flutter_snaplist--> - Create snappable list views by [David Leibovych](https://github.com/ariedov)
-- [Pin Code](https://github.com/LiewJunTung/pin_code_text_field) <!--stargazers:LiewJunTung/pin_code_text_field--> - Animated & customisable Pin code for login and OTP by [Liew Jun Tung](https://github.com/liewjuntung)
 - [Folding Cell](https://github.com/faob-dev/folding_cell) <!--stargazers:faob-dev/folding_cell--> - Fold your widget by [Faob](https://github.com/faob-dev)
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) <!--stargazers:aagarwal1012/Liquid-Pull-To-Refresh--> - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Slide Container](https://pub.dev/packages/slide_container) Slide vertically and horizontally with a smooth dampened motion by [Quentin Le Guennec](https://github.com/quentinleguennec).
@@ -185,7 +184,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Rounded Loading Button](https://github.com/chrisedg87/flutter_rounded_loading_button) <!--stargazers:chrisedg87/flutter_rounded_loading_button--> - Button with a loading indicator, complete with success and error animations by [Chris Edgington](https://twitter.com/ChrisTheEdg)
 - [PlutoGrid](https://github.com/bosskmk/pluto_grid) <!--stargazers:bosskmk/pluto_grid--> - Web and desktop datagrid that can be controlled by the keyboard by [bosskmk](https://github.com/bosskmk).
 - [Flyer Chat](https://github.com/flyerhq/flutter_chat_ui) <!--stargazers:flyerhq/flutter_chat_ui--> - Community-driven chat UI implementation by the [Flyer Chat team](https://github.com/flyerhq)
-- [smooth_page_indicator](https://github.com/Milad-Akarie/smooth_page_indicator) <!--stargazers:Milad-Akarie/smooth_page_indicator--> - Customizable animated page indicator with a set of built-in effects. [Milad Akarie](https://github.com/Milad-Akarie)
+- [Smooth Page Indicator](https://github.com/Milad-Akarie/smooth_page_indicator) <!--stargazers:Milad-Akarie/smooth_page_indicator--> - Customizable animated page indicator with a set of built-in effects. [Milad Akarie](https://github.com/Milad-Akarie)
+- [Super Editor](https://github.com/superlistapp/super_editor/) <!--stargazers:superlistapp/ssuper_editor--> - Advanced toolkit for building document editors and readers by [Flutter Bounty Hunters]([https://github.com/Milad-Akarie](https://flutterbountyhunters.com)
+
 #### Sticky Headers
 
 - [Sticky Infinite List](https://github.com/TatsuUkraine/flutter_sticky_infinite_list) <!--stargazers:TatsuUkraine/flutter_sticky_infinite_list--> - Highly configurable multi directional infinite list with Sticky Headers by [TatsuUkraine](https://github.com/TatsuUkraine)

@@ -360,6 +360,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Audio
 
+- [Audio Players Plugin](https://github.com/luanpotter/audioplayers) <!--stargazers:luanpotter/audioplayers--> - Play multiple audio files simultaneously (Android/iOS) by [Luan Nico](https://github.com/luanpotter).
 - [Flutter Audio Recorder](https://github.com/shadow-app/flutter_audio_recorder) - Provides full controls and access to recording details such as level metering by [Wenyan Li](https://github.com/nikli2009).
 - [Flutter Sound](https://github.com/dooboolab/flutter_sound) <!--stargazers:dooboolab/flutter_sound--> - Flutter audio recorder and player at one hand by [dooboolab](https://github.com/dooboolab)
 - [AssetsAudioPlayer](https://github.com/florent37/Flutter-AssetsAudioPlayer) <!--stargazers:florent37/Flutter-AssetsAudioPlayer-->  Simultaneous playback of audio from assets/network/file and displaying notifications [android / ios / web / macos]

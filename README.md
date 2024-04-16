@@ -158,8 +158,7 @@ Meteo
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) [409⭐] - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
 - [Flushbar](https://github.com/AndreHaueisen/flushbar) [984⭐] - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) [1213⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
-- [Slide Container](https://pub.dev/packages/slide_container) Slide vertically and horizontally with a smooth dampened motion by [Quentin Le Guennec](https://github.com/quentinleguennec).
-- [Direct Select](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
+- [Direct Select](https://github.com/LanarsInc/direct-select-flutter) [725⭐] - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 - [Before After](https://github.com/xsahil03x/before_after) [870⭐] - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
 - [Scratcher](https://github.com/vintage/scratcher) [525⭐] - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
 - [Beautiful_Popup](https://github.com/jaweii/Flutter_beautiful_popup) [660⭐] - Beautify your app popup by [jaweii](https://github.com/jaweii).
@@ -182,10 +181,6 @@ Meteo
 - [PlutoGrid](https://github.com/bosskmk/pluto_grid) [620⭐] - Web and desktop datagrid that can be controlled by the keyboard by [bosskmk](https://github.com/bosskmk).
 - [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) [781⭐] - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali)
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) [3037⭐] - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar)
-
-#### Sticky Headers
-
-- [Sticky Header](https://github.com/letsar/flutter_sticky_header) [876⭐] - Sliver based sticky headers by [Romain Rastel](https://github.com/letsar)
 - [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) [1053⭐] - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/)
 
 #### Drawers
@@ -211,19 +206,15 @@ Meteo
 #### UI Helpers
 
 - [Offline](https://github.com/jogboms/flutter_offline) [993⭐] - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
-- [Scroll To Index](https://github.com/quire-io/scroll-to-index) [481⭐] - Scroll to specified child element with given index for SliverList/ListView by [Jerry Chen](https://github.com/jerrywell/).
-- [In View Notifier List](https://github.com/rvamsikrishna/inview_notifier_list) - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/rvamsikrishna).
 - [ShowCaseView](https://github.com/simformsolutions/flutter_showcaseview) [1378⭐] - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
 - [Mix](https://github.com/leoafarias/mix) [344⭐] - An expressive way to effortlessly build design systems by [Leo Farias](https://github.com/leoafarias).
+- [Blurhash](https://github.com/fluttercommunity/flutter_blurhash) [486⭐] - Compact representation of a placeholder for an image. Encode a blurry image under 30 caracters by [Robert Felker](https://www.linkedin.com/in/robert-felker/)
 
 
 #### Material Design
 
 - [Slidable](https://github.com/letsar/flutter_slidable) [2604⭐] - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar)
 - [Backdrop](https://github.com/fluttercommunity/backdrop) [307⭐] - [Backdrop](https://material.io/design/components/backdrop.html) implementation for flutter.
-
-#### Cupertino Design
-
 
 #### Effect
 
@@ -240,11 +231,6 @@ Meteo
 - [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab](https://github.com/dooboolab/flutter_calendar_carousel)
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) [1710⭐] - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
 - [Time Planner](https://github.com/Jamalianpour/time_planner) [209⭐] - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour)
-
-
-#### Login
-
-- [Flutter Login](https://github.com/NearHuscarl/flutter_login) - Login widget with slick animation from start to finish by [NearHuscarl](https://github.com/NearHuscarl)
 
 #### Backend-Driven
 
@@ -450,11 +436,12 @@ Simon Binder](https://github.com/simolus3)
 #### Standard
 
 - [Bloc](https://github.com/felangel/bloc) [11371⭐] - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel)
-- [MobX](https://github.com/mobxjs/mobx.dart) [2361⭐] - Supercharge the state-management in your apps with Transparent Functional Reactive Programming (TFRP). Port of MobX from the Js/React land.
 - [Provider](https://github.com/rrousselGit/provider) [5022⭐] - State-management library for Flutter by [Remi Rousselet](https://github.com/rrousselGit)
 - [RiverPod](https://github.com/rrousselGit/river_pod) [5740⭐] - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit)
-- [GetX](https://github.com/jonataslaw/getx) <!--jonataslaw/getx--> - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw)
-- [Binder](https://github.com/letsar/binder) [177⭐] -  A lightweight, yet powerful way to bind your application state with your business logic, by [Romain Rastel](https://github.com/letsar).
+- [GetX](https://github.com/jonataslaw/getx) [9801⭐] - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw)
+- [MobX](https://github.com/mobxjs/mobx.dart) [2361⭐] - Supercharge the state-management in your apps with Transparent Functional Reactive Programming (TFRP). Port of MobX from the Js/React land.
+- [Signals](https://github.com/rodydavis/signals.dart) [329⭐] - Reactive programming made simple. Port of Signals pattern by [Rody Davis](https://github.com/rodydavis)
+
 
 #### Redux / ELM / Dependency Injection
 
@@ -606,7 +593,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Fluent UI](https://github.com/bdlukaa/fluent_ui) [2692⭐] - Microsoft's Fluent Design System in Flutter by [Bruno D'Luka](https://twitter.com/bdlukaadev)
 - [MacOS UI](https://github.com/GroovinChip/macos_ui) [1696⭐] - Widgets and themes implementing the current macOS design language by [Groovin Chip](https://twitter.com/GroovinChip)
 - [Ubuntu Yaru](https://github.com/ubuntu/yaru.dart) [169⭐] - Distinct look and feel of the Ubuntu Desktop by [Ubuntu](https://github.com/ubuntu)
-- [Awesome Flutter Desktop](https://github.com/leanflutter/awesome-flutter-desktop) [1453⭐] - A curated list of awesome things related to Flutter desktop by [LeanFlutter](https://github.com/leanflutter)
+- [Awesome Flutter Desktop](https://github.com/leanflutter/awesome-flutter-desktop) [1454⭐] - A curated list of awesome things related to Flutter desktop by [LeanFlutter](https://github.com/leanflutter)
 
 ## Podcasts
 

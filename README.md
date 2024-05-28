@@ -17,12 +17,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Demonstrations
 <div style="text-align: center"><table><tr>
-<td style="text-align: center, width: 180">
-
-[with Stream!](https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome)
-
-
-</td>
 <td style="text-align: center">
 <img width="180" alt="BMW" src="https://user-images.githubusercontent.com/1295961/160239273-ce881c0c-c3de-4953-9448-dfd12d7ffe30.png">
 

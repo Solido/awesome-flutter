@@ -712,6 +712,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 - [Interview Questions](https://github.com/whatsupcoders/Flutter-Interview-Questions) - List of helpful questions you can use to interview potential candidates by [Whatsupcoders](https://github.com/whatsupcoders/Whatsupcoders-flutter)
 - [The International Flutter Starter Kit](https://medium.com/flutter-community/intl-flutter-starter-kit-18415e739fb6) - Guide by the experts by [Beyza Sunay Guler](https://twitter.com/BeyzaSunayGler1) & [Nawal Alhamwi](https://twitter.com/__nawalhmw)
+- [Roadmap.sh/flutter](https://roadmap.sh/flutter) - A community curated flutter developer learning roadmap from the 6th most starred GitHub project.
 
 
 ## Community

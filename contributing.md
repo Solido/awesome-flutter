@@ -11,7 +11,7 @@ Please note that this project is released with a [Contributor Code of Conduct](h
 - Remember the team is giving its own time to help the community. This is not a paid job yet it take a lot of time to curate and review.
 
 When your contribution is accepted you can add the Awesome Flutter Badge to your repository
-thus signaling the quality of your work and linking to others authors Awesome projets
+this signaling the quality of your work and linking to others authors Awesome projets
 
  <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
   <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />

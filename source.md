@@ -651,6 +651,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Flutter Sidekick](https://github.com/leoafarias/sidekick)  <!--stargazers:leoafarias/sidekick--> - Simple app to make Flutter development more delightful by [Leo Farias](https://github.com/leoafarias)
 - [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) <!--stargazers:dart-code-checker/dart-code-metrics--> - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
 - [Melos](https://github.com/invertase/melos) <!--stargazers:invertase/melos--> - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase)
+- [Git Stamp](https://github.com/arononak/git_stamp) <!--stargazers:arononak/git_stamp--> - Build-Time Git History Integration in Your Flutter App by [Aron Onak](https://github.com/arononak)
 
 ### VSCode
 

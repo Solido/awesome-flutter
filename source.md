@@ -812,6 +812,9 @@ This section contains libraries that take an experimental or unorthodox approach
 ### 🇮🇩 Indonesia
 - Telegram [Flutter Indonesia](https://t.me/flutter_id)
 
+### 🇮🇷 Iran
+- Telegram [Persian Flutter](https://t.me/persian_flutter)
+
 ### 🇯🇵 Japan
 
 - Meetup [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)

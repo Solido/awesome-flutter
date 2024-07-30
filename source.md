@@ -476,6 +476,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Drift](https://github.com/simolus3/drift) - Drift is an easy to use, reactive, typesafe persistence library for Dart & Flutter by [
 Simon Binder](https://github.com/simolus3)
 - [ObjectBox](https://github.com/objectbox/objectbox-dart) - On-device database for fast cross-platform Dart object persistence by [ObjectBox](https://github.com/objectbox)
+- [Isar](https://github.com/isar/isar) <!--stargazers:isar/isar--> - Isar is a NoSQL Database for Flutter, easy to use, no config, has a rich set of features and is multiplatform by [Isar](https://github.com/isar)
 
 ### Services
 

@@ -195,6 +195,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) <!--stargazers:RafaelBarbosatec/hidden_drawer_menu--> - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
 - [Flutter Inner Drawer](https://github.com/Dn-a/flutter_inner_drawer) <!--stargazers:Dn-a/flutter_inner_drawer--> - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
+[Flutter slider drawer](https://github.com/NikhilVadoliya/Flutter_slider_drawer) <!--stargazers:NikhilVadoliya/Flutter_slider_drawer--> - A Flutter package with a custom implementation of the Sliding Drawer Menu with Left/Right/Top direction option by [Nikhil Vadoliya](https://github.com/NikhilVadoliya).
 
 #### Bottom bars
 

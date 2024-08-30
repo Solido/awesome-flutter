@@ -553,6 +553,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Spotube](https://github.com/KRTirtho/spotube) [26279⭐] - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho)
 - [Let's Draw](https://github.com/JideGuru/flutter_drawing_board) [257⭐] - A simple drawing app made by [JideGuru](https://github.com/JideGuru)
 - [Openreads](https://github.com/mateusz-bak/openreads-android) [786⭐] - A simple privacy oriented mobile books tracker using Open Library API by [mateusz-bak](https://github.com/mateusz-bak)
+- [Ozan](https://github.com/imrofayel/Ozan) - A markdown based personal knowledge base, offering a minimalist open-source alternative to Obsidian by [Naveed Azhar](https://github.com/imrofayel)
 
 ## Utilities
 

@@ -554,6 +554,10 @@ Simon Binder](https://github.com/simolus3)
 
 - [Responsive Framework](https://github.com/Codelessly/ResponsiveFramework) <!--stargazers:Codelessly/ResponsiveFramework--> - Automatically adapt UI to different screen sizes. Responsiveness made simple by [Codelessly](https://codelessly.com)
 
+### App Architecture
+
+- [Flood](https://github.com/JLogical-Apps/flood) <!--stargazers:JLogical-Apps/flood--> - A holistic toolkit with modules for type-safe navigation, data-modeling, state management, forms, styling, debugging, and more by [JLogical](https://www.jlogical.com/)
+
 ## Experimental
 
 This section contains libraries that take an experimental or unorthodox approach.

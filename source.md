@@ -182,7 +182,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 #### Libraries
 
 - [Forui](https://github.com/forus-labs/forui) <!--stargazers:forus-labs/forui--> - Minimalistic UI library heavily inspired by shadcn/ui by [Forus Labs](https://github.com/forus-labs).
-- [Shadcn](https://github.com/nank1ro/flutter-shadcn-ui) <!--stargazers:forus-labs/forui--> - Shadcn-ui port. Fully customizable UI components.
+- [Shadcn](https://github.com/nank1ro/flutter-shadcn-ui) <!--stargazers:nank1ro/flutter-shadcn-ui--> - Shadcn-ui port. Fully customizable UI components.
   
 #### List
 

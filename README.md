@@ -15,8 +15,10 @@
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
 <a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
-<img src="https://user-images.githubusercontent.com/1295961/160238710-1b5a987a-478e-41b4-b11c-37be8670a8c9.png"/>
+<img src="assets/images/stream-logo.png" width="350" alt="Stream Chat" style="margin: 8px" />
 </a>
+
+> Stream helps developers build engaging apps that scale to millions with performant and flexible Chat, Video, Voice, Feeds, and Moderation APIs and SDKs powered by a global edge network and enterprise-grade infrastructure.
 
 
 #### Demonstrations

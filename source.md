@@ -184,6 +184,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flyer Chat](https://github.com/flyerhq/flutter_chat_ui) <!--stargazers:flyerhq/flutter_chat_ui--> - Community-driven chat UI implementation by the [Flyer Chat team](https://github.com/flyerhq)
 - [Smooth Page Indicator](https://github.com/Milad-Akarie/smooth_page_indicator) <!--stargazers:Milad-Akarie/smooth_page_indicator--> - Customizable animated page indicator with a set of built-in effects. [Milad Akarie](https://github.com/Milad-Akarie)
 - [Super Editor](https://github.com/superlistapp/super_editor/) <!--stargazers:superlistapp/ssuper_editor--> - Advanced toolkit for building document editors and readers by [Flutter Bounty Hunters](https://flutterbountyhunters.com).
+- [ecom_login_flutter](https://github.com/gowtham-dd/ecom_login_flutter) - Prebuilt login/signup screens and bottom navigation UI designed for Flutter e-commerce apps.
 
 #### Libraries
 

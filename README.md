@@ -394,6 +394,10 @@ Meteo
 
 - [Pub packages](https://pub.dev/flutter/packages) - Packages filter in Dart Pub Repository.
 - [Plugins](https://github.com/flutter/packages/tree/main/packages) - Official Flutter Team Plugins
+## Plugins
+- Certificate Transparency Plugin - Verify Certificate Transparency (CT) compliance of HTTPS URLs on Android.
+- [Certificate Transparency Plugin](https://pub.dev/packages/certificate_transparency_plugin) - Verify Certificate Transparency (CT) compliance of HTTPS URLs on Android. [Repository](https://github.com/shubhamprakashrai/certificatetransparency.git)
+
 
 ### Device
 

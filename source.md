@@ -650,6 +650,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Spotube](https://github.com/KRTirtho/spotube) <!--stargazers:KRTirtho/spotube--> - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho)
 - [Let's Draw](https://github.com/JideGuru/flutter_drawing_board) <!--stargazers:JideGuru/flutter_drawing_board--> - A simple drawing app made by [JideGuru](https://github.com/JideGuru)
 - [Openreads](https://github.com/mateusz-bak/openreads-android) <!--stargazers:mateusz-bak/openreads-android--> - A simple privacy oriented mobile books tracker using Open Library API by [mateusz-bak](https://github.com/mateusz-bak)
+- [Brisk](https://github.com/BrisklyDev/brisk) <!--stargazers:BrisklyDev/brisk--> - Fast, modern download manager by [AminBhst](https://github.com/AminBhst)
 
 ## Utilities
 

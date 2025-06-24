@@ -372,6 +372,7 @@ Meteo
 - [Flutter Samples](https://github.com/diegoveloper/flutter-samples) [3083⭐] - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
 - [ActingWeb First_App](https://github.com/gregertw/actingweb_firstapp) [476⭐] - Starter app with basic elements for a team-developed production-quality app by [Greger Wedel](https://github.com/gregertw)
 - [Smart Washing Machine](https://github.com/pawlik92/flutter_whirlpool) [880⭐] - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
+- [Flutter-Starter-App](https://github.com/girish54321/Flutter-Starter-App) [0⭐] - The boilerplate includes a preconfigured project structure, authentication flow, state management using Provider, localization support, and a set of commonly used UI components. [Girish Parate](https://github.com/girish54321)
 
 ### Clone
 

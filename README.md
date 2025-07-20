@@ -10,6 +10,10 @@
 </a>
 </p>
 
+<p align="center">
+<a href="https://trendshift.io/repositories/9391" target="_blank"><img src="https://trendshift.io/api/badge/repositories/9391" alt="Solido%2Fawesome-flutter | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</p>
+
 
 <a href="https://flutter.dev/">Flutter</a> is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏

@@ -855,6 +855,11 @@ This section contains libraries that take an experimental or unorthodox approach
 ### 🇺🇿 Uzbekistan
 - [Telegram](https://t.me/dartdevuz)
 
+### 🇪🇬 Egypt
+- [Facebook](https://www.facebook.com/groups/FlutterEgypt/)
+- Meetup [flutteregypt](https://www.meetup.com/flutter-nyc/)
+- [X](https://x.com/flutteregypt)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

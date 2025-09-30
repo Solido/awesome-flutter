@@ -547,6 +547,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [FlutterGram](https://github.com/mdanics/fluttergram) [2314⭐] - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics)
 - [Trace](https://github.com/trentpiercy/trace) [1108⭐] - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy)
 - [Taskist](https://github.com/huextrat/Taskist) [998⭐] - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat)
+- [Canvas Editor](https://github.com/arinagrawal05/editnest_editor) [10⭐] -Fast, lightweight, open-source Flutter canvas editor. Customize text, colors & positions with full undo/redo support by the [Arin Agrawal](https://github.com/arinagrawal05)
 - [Linwood Butterfly](https://github.com/LinwoodCloud/Butterfly) [972⭐] - Powerful note taking app and an alternative to OneNote by [CodeDoctorDE](https://github.com/CodeDoctorDE)
 - [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) [617⭐] - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
 - [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)

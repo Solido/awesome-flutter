@@ -45,19 +45,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
   </td>
    <td style="text-align: center">
-    <img width="180" alt="BMW" src="https://user-images.githubusercontent.com/1295961/160239273-ce881c0c-c3de-4953-9448-dfd12d7ffe30.png">
-  
-    BMW
-    Connect
-
-  </td>
-  <td style="text-align: center">
-    <img width="180" alt="BlueAquilae Twitter Meteo" src="https://user-images.githubusercontent.com/1295961/160238906-540a4a0d-b721-4c73-8b58-58b96b5e6414.png">
-  
-
-    Calendar 
-    Meteo
-
+    <img width="480" alt="Heroine" src="https://github.com/whynotmake-it/rivership/raw/main/packages/heroine/doc/main.gif">
   </td>
 
 

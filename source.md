@@ -193,7 +193,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Forui](https://github.com/forus-labs/forui) <!--stargazers:forus-labs/forui--> - Minimalistic UI library heavily inspired by shadcn/ui by [Forus Labs](https://github.com/forus-labs).
 - [Shadcn](https://github.com/nank1ro/flutter-shadcn-ui) <!--stargazers:nank1ro/flutter-shadcn-ui--> - Shadcn-ui port. Fully customizable UI components.
-  
+- [TDesign Flutter](https://github.com/Tencent/tdesign-flutter) <!--stargazers:Tencent/tdesign-flutter--> - A useful UI component library matches the TDesign style by [Tencent](https://github.com/Tencent).
+
 #### List
 
 - [Super List](https://github.com/superlistapp/super_sliver_list) <!--stargazers:superlistapp/super_sliver_list--> - Drop-in replacement for SliverList and ListView that can handle large amount of items with variable extents by [Matej Knopp](https://github.com/knopp)

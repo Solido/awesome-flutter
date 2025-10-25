@@ -435,6 +435,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [ARKit Plugin](https://github.com/olexale/arkit_flutter_plugin) [830⭐] - Wrapper for ARKit - Apple's augmented reality platform for iOS by [Olexandr Leuschenko](https://github.com/olexale).
 - [ARCore Plugin](https://github.com/giandifra/arcore_flutter_plugin) [446⭐] - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
+- [Augen]([https://github.com/AminMemariani/augen) - Augen is a comprehensive Flutter plugin that enables pure Dart AR (Augmented Reality) development for both Android and iOS platforms. by [Amin Memariani](https://github.com/AminMemariani).
 
 ## Plugins
 

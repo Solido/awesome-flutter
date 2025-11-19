@@ -31,7 +31,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 <br>
 
 <p align="center">
-  <a href="https://requestly.com/awesome">
+  <a href="https://requestly.com?utm_source=github&utm_medium=awesomeflutter&utm_campaign=awesomeflutter">
     <img alt="Requestly sponsorship" width="350" src="https://github.com/user-attachments/assets/24670320-997d-4d62-9bca-955c59fe883d">
       <br><b>Requestly - Free & Open-Source alternative to Postman</b>
       <br><sup>All-in-one platform to Test, Mock and Intercept APIs.</sup>

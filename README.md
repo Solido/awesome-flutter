@@ -28,6 +28,16 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   Stream helps developers build engaging apps that scale to millions with performant and flexible Chat, Video, Voice, Feeds, and Moderation APIs and SDKs powered by a global edge network and enterprise-grade infrastructure.
 </p>
 
+<br>
+
+<p align="center">
+  <a href="https://requestly.com/awesome">
+    <img alt="Requestly sponsorship" width="350" src="https://github.com/user-attachments/assets/24670320-997d-4d62-9bca-955c59fe883d">
+      <br><b>Requestly - Free & Open-Source alternative to Postman</b>
+      <br><sup>All-in-one platform to Test, Mock and Intercept APIs.</sup>
+  </a>
+</p>
+
 
 #### Demonstrations
 <div style="text-align: center"><table><tr>

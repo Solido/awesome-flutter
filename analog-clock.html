@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>아날로그 시계</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-family: 'Arial', sans-serif;
+        }
+
+        .clock-container {
+            position: relative;
+            width: 400px;
+            height: 400px;
+            background: white;
+            border-radius: 50%;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3),
+                        inset 0 0 20px rgba(0, 0, 0, 0.1);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .clock-container::before {
+            content: '';
+            position: absolute;
+            width: 15px;
+            height: 15px;
+            background: #333;
+            border-radius: 50%;
+            z-index: 10;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+        }
+
+        .number {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .number span {
+            display: inline-block;
+            position: absolute;
+            transform: translate(-50%, -50%);
+        }
+
+        .hour-hand,
+        .minute-hand,
+        .second-hand {
+            position: absolute;
+            bottom: 50%;
+            transform-origin: bottom center;
+            border-radius: 10px;
+            transition: transform 0.3s cubic-bezier(0.4, 0.0, 0.2, 1);
+        }
+
+        .hour-hand {
+            width: 8px;
+            height: 100px;
+            background: linear-gradient(to bottom, #333, #555);
+            z-index: 3;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        .minute-hand {
+            width: 6px;
+            height: 140px;
+            background: linear-gradient(to bottom, #444, #666);
+            z-index: 4;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .second-hand {
+            width: 3px;
+            height: 160px;
+            background: linear-gradient(to bottom, #e74c3c, #c0392b);
+            z-index: 5;
+            box-shadow: 0 2px 5px rgba(231, 76, 60, 0.5);
+        }
+
+        .hour-markers {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+        }
+
+        .hour-marker {
+            position: absolute;
+            width: 4px;
+            height: 15px;
+            background: #333;
+            left: 50%;
+            top: 10px;
+            transform-origin: 50% 190px;
+            border-radius: 2px;
+        }
+
+        .minute-marker {
+            position: absolute;
+            width: 2px;
+            height: 8px;
+            background: #999;
+            left: 50%;
+            top: 14px;
+            transform-origin: 50% 186px;
+            border-radius: 1px;
+        }
+
+        .digital-time {
+            position: absolute;
+            bottom: 80px;
+            font-size: 18px;
+            color: #667eea;
+            font-weight: bold;
+            background: rgba(255, 255, 255, 0.8);
+            padding: 8px 16px;
+            border-radius: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        @keyframes tick {
+            0% { transform: rotate(var(--rotation)) scale(1); }
+            50% { transform: rotate(var(--rotation)) scale(1.02); }
+            100% { transform: rotate(var(--rotation)) scale(1); }
+        }
+    </style>
+</head>
+<body>
+    <div class="clock-container">
+        <div class="number" id="numbers"></div>
+        <div class="hour-markers" id="markers"></div>
+        <div class="digital-time" id="digital-time"></div>
+        <div class="hour-hand" id="hour"></div>
+        <div class="minute-hand" id="minute"></div>
+        <div class="second-hand" id="second"></div>
+    </div>
+
+    <script>
+        const hourHand = document.getElementById('hour');
+        const minuteHand = document.getElementById('minute');
+        const secondHand = document.getElementById('second');
+        const digitalTime = document.getElementById('digital-time');
+        const markersContainer = document.getElementById('markers');
+        const numbersContainer = document.getElementById('numbers');
+
+        // 시간 숫자 표시
+        const numbers = [12, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
+        numbers.forEach((num, index) => {
+            const span = document.createElement('span');
+            span.textContent = num;
+            const angle = (index * 30 - 90) * (Math.PI / 180);
+            const radius = 160;
+            const x = 200 + radius * Math.cos(angle);
+            const y = 200 + radius * Math.sin(angle);
+            span.style.left = x + 'px';
+            span.style.top = y + 'px';
+            numbersContainer.appendChild(span);
+        });
+
+        // 시간 마커 생성
+        for (let i = 0; i < 60; i++) {
+            const marker = document.createElement('div');
+            if (i % 5 === 0) {
+                marker.className = 'hour-marker';
+            } else {
+                marker.className = 'minute-marker';
+            }
+            marker.style.transform = `rotate(${i * 6}deg)`;
+            markersContainer.appendChild(marker);
+        }
+
+        function updateClock() {
+            const now = new Date();
+            const hours = now.getHours();
+            const minutes = now.getMinutes();
+            const seconds = now.getSeconds();
+            const milliseconds = now.getMilliseconds();
+
+            // 부드러운 초침 움직임
+            const secondRotation = (seconds + milliseconds / 1000) * 6;
+            const minuteRotation = (minutes + seconds / 60) * 6;
+            const hourRotation = (hours % 12 + minutes / 60) * 30;
+
+            secondHand.style.transform = `rotate(${secondRotation}deg)`;
+            minuteHand.style.transform = `rotate(${minuteRotation}deg)`;
+            hourHand.style.transform = `rotate(${hourRotation}deg)`;
+
+            // 디지털 시간 표시
+            const formattedHours = hours.toString().padStart(2, '0');
+            const formattedMinutes = minutes.toString().padStart(2, '0');
+            const formattedSeconds = seconds.toString().padStart(2, '0');
+            digitalTime.textContent = `${formattedHours}:${formattedMinutes}:${formattedSeconds}`;
+        }
+
+        // 초기 실행
+        updateClock();
+
+        // 60fps로 업데이트 (부드러운 초침 움직임을 위해)
+        setInterval(updateClock, 16);
+    </script>
+</body>
+</html>

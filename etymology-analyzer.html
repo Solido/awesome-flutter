@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>영어 단어 어원 분석기</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .search-box {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            margin-bottom: 30px;
+        }
+
+        .input-group {
+            display: flex;
+            gap: 10px;
+        }
+
+        input[type="text"] {
+            flex: 1;
+            padding: 15px 20px;
+            font-size: 1.1em;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+
+        input[type="text"]:focus {
+            border-color: #667eea;
+        }
+
+        button {
+            padding: 15px 30px;
+            font-size: 1.1em;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            font-weight: bold;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+        }
+
+        button:active {
+            transform: translateY(0);
+        }
+
+        .result-container {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            display: none;
+        }
+
+        .result-container.active {
+            display: block;
+            animation: slideIn 0.3s ease-out;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .word-title {
+            font-size: 2em;
+            color: #333;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 3px solid #667eea;
+        }
+
+        .breakdown {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 25px;
+        }
+
+        .breakdown-title {
+            font-size: 1.3em;
+            color: #667eea;
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+
+        .breakdown-parts {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+        .part {
+            background: white;
+            padding: 8px 15px;
+            border-radius: 8px;
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #333;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .prefix { border-left: 4px solid #e74c3c; }
+        .root { border-left: 4px solid #3498db; }
+        .suffix { border-left: 4px solid #2ecc71; }
+
+        .component {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            border-left: 4px solid #667eea;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+        }
+
+        .component-header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+
+        .component-type {
+            display: inline-block;
+            padding: 5px 12px;
+            border-radius: 5px;
+            font-size: 0.85em;
+            font-weight: bold;
+            color: white;
+        }
+
+        .component-type.prefix { background: #e74c3c; }
+        .component-type.root { background: #3498db; }
+        .component-type.suffix { background: #2ecc71; }
+
+        .component-word {
+            font-size: 1.3em;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .component-meaning {
+            color: #555;
+            margin-bottom: 8px;
+            line-height: 1.6;
+        }
+
+        .component-origin {
+            color: #777;
+            font-style: italic;
+            font-size: 0.95em;
+        }
+
+        .related-words {
+            background: #f0f7ff;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 25px;
+        }
+
+        .related-title {
+            font-size: 1.2em;
+            color: #667eea;
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+
+        .word-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .word-tag {
+            background: white;
+            padding: 8px 15px;
+            border-radius: 8px;
+            color: #667eea;
+            font-weight: 500;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .word-tag:hover {
+            background: #667eea;
+            color: white;
+            transform: translateY(-2px);
+        }
+
+        .error-message {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            color: #856404;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .examples {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+
+        .examples-title {
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+
+        .example-words {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .example-word {
+            background: white;
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 0.9em;
+            color: #555;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📚 영어 단어 어원 분석기</h1>
+            <p>단어의 어근, 접두사, 접미사를 분석하여 어원을 탐구해보세요</p>
+        </div>
+
+        <div class="search-box">
+            <div class="input-group">
+                <input type="text" id="wordInput" placeholder="영어 단어를 입력하세요 (예: transportation, biology, unhappy)">
+                <button onclick="analyzeWord()">분석하기</button>
+            </div>
+            <div class="examples">
+                <div class="examples-title">예시 단어를 클릭해보세요:</div>
+                <div class="example-words">
+                    <span class="example-word" onclick="setWord('transportation')">transportation</span>
+                    <span class="example-word" onclick="setWord('biology')">biology</span>
+                    <span class="example-word" onclick="setWord('unhappy')">unhappy</span>
+                    <span class="example-word" onclick="setWord('submarine')">submarine</span>
+                    <span class="example-word" onclick="setWord('incredible')">incredible</span>
+                    <span class="example-word" onclick="setWord('psychology')">psychology</span>
+                    <span class="example-word" onclick="setWord('prediction')">prediction</span>
+                    <span class="example-word" onclick="setWord('telephone')">telephone</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="result-container" id="resultContainer"></div>
+    </div>
+
+    <script>
+        // 어원 데이터베이스
+        const etymologyDB = {
+            // 접두사
+            prefixes: {
+                'trans': { meaning: 'across, beyond', origin: 'Latin', translation: '건너서, 넘어서', examples: ['transport', 'transfer', 'translate', 'transmit'] },
+                'un': { meaning: 'not, opposite of', origin: 'Old English', translation: '~이 아닌, 반대의', examples: ['unhappy', 'unable', 'unclear', 'unfair'] },
+                'pre': { meaning: 'before', origin: 'Latin', translation: '~이전의', examples: ['predict', 'preview', 'prepare', 'prehistoric'] },
+                'post': { meaning: 'after', origin: 'Latin', translation: '~이후의', examples: ['postpone', 'postwar', 'postgraduate'] },
+                'sub': { meaning: 'under, below', origin: 'Latin', translation: '아래에, 하위의', examples: ['submarine', 'subway', 'subtract', 'submarine'] },
+                're': { meaning: 'again, back', origin: 'Latin', translation: '다시, 되돌아', examples: ['return', 'review', 'rebuild', 'replay'] },
+                'in': { meaning: 'not, in', origin: 'Latin', translation: '~이 아닌, 안에', examples: ['incredible', 'invisible', 'inactive', 'inside'] },
+                'dis': { meaning: 'not, opposite', origin: 'Latin', translation: '~이 아닌, 반대의', examples: ['disagree', 'disappear', 'disconnect'] },
+                'ex': { meaning: 'out, former', origin: 'Latin', translation: '밖으로, 이전의', examples: ['export', 'exit', 'exclude', 'extract'] },
+                'auto': { meaning: 'self', origin: 'Greek', translation: '스스로, 자동의', examples: ['automobile', 'automatic', 'autobiography'] },
+                'bio': { meaning: 'life', origin: 'Greek', translation: '생명', examples: ['biology', 'biography', 'biochemistry'] },
+                'tele': { meaning: 'far, distant', origin: 'Greek', translation: '멀리', examples: ['telephone', 'television', 'telescope', 'telegram'] },
+                'micro': { meaning: 'small', origin: 'Greek', translation: '작은', examples: ['microscope', 'microphone', 'microwave'] },
+                'anti': { meaning: 'against', origin: 'Greek', translation: '반대하는', examples: ['antibiotic', 'antisocial', 'antivirus'] },
+                'co': { meaning: 'together, with', origin: 'Latin', translation: '함께', examples: ['cooperate', 'coexist', 'coworker'] },
+                'de': { meaning: 'down, away', origin: 'Latin', translation: '아래로, 떨어져', examples: ['descend', 'decrease', 'depart'] },
+                'inter': { meaning: 'between', origin: 'Latin', translation: '~사이에', examples: ['international', 'interact', 'internet'] },
+                'over': { meaning: 'too much, above', origin: 'Old English', translation: '너무, 위에', examples: ['overflow', 'overlook', 'overcome'] },
+                'super': { meaning: 'above, beyond', origin: 'Latin', translation: '위에, 초월한', examples: ['superhero', 'supernatural', 'superior'] },
+            },
+
+            // 어근
+            roots: {
+                'port': { meaning: 'carry', origin: 'Latin portare', translation: '나르다, 운반하다', examples: ['transport', 'portable', 'export', 'import', 'support'] },
+                'bio': { meaning: 'life', origin: 'Greek bios', translation: '생명', examples: ['biology', 'biography', 'biosphere', 'antibiotic'] },
+                'log': { meaning: 'word, study', origin: 'Greek logos', translation: '말, 학문', examples: ['biology', 'psychology', 'logic', 'dialogue'] },
+                'dict': { meaning: 'say, speak', origin: 'Latin dictus', translation: '말하다', examples: ['predict', 'dictionary', 'dictate', 'verdict'] },
+                'scrib/script': { meaning: 'write', origin: 'Latin scribere', translation: '쓰다', examples: ['describe', 'manuscript', 'inscription', 'prescription'] },
+                'cred': { meaning: 'believe', origin: 'Latin credere', translation: '믿다', examples: ['incredible', 'credible', 'credit', 'credentials'] },
+                'graph': { meaning: 'write, draw', origin: 'Greek graphein', translation: '쓰다, 그리다', examples: ['biography', 'photograph', 'autograph', 'graphic'] },
+                'phon': { meaning: 'sound', origin: 'Greek phone', translation: '소리', examples: ['telephone', 'microphone', 'symphony', 'phonics'] },
+                'vis/vid': { meaning: 'see', origin: 'Latin videre', translation: '보다', examples: ['invisible', 'video', 'vision', 'television'] },
+                'mar': { meaning: 'sea', origin: 'Latin mare', translation: '바다', examples: ['marine', 'submarine', 'maritime'] },
+                'psych': { meaning: 'mind, soul', origin: 'Greek psyche', translation: '마음, 영혼', examples: ['psychology', 'psychic', 'psychiatry'] },
+                'ject': { meaning: 'throw', origin: 'Latin jactus', translation: '던지다', examples: ['project', 'reject', 'inject', 'eject'] },
+                'spect': { meaning: 'look, see', origin: 'Latin spectare', translation: '보다', examples: ['inspect', 'respect', 'spectator', 'perspective'] },
+                'struct': { meaning: 'build', origin: 'Latin struere', translation: '짓다, 건설하다', examples: ['construct', 'structure', 'destruct', 'instruct'] },
+                'duct': { meaning: 'lead', origin: 'Latin ducere', translation: '이끌다', examples: ['conduct', 'reduce', 'produce', 'introduce'] },
+            },
+
+            // 접미사
+            suffixes: {
+                'ation': { meaning: 'action, process, state', origin: 'Latin', translation: '행위, 과정, 상태', examples: ['transportation', 'education', 'information', 'creation'] },
+                'able': { meaning: 'capable of, able to', origin: 'Latin', translation: '~할 수 있는', examples: ['portable', 'readable', 'breakable', 'comfortable'] },
+                'ible': { meaning: 'capable of, able to', origin: 'Latin', translation: '~할 수 있는', examples: ['incredible', 'visible', 'possible', 'terrible'] },
+                'ly': { meaning: 'in a manner', origin: 'Old English', translation: '~하게', examples: ['quickly', 'happily', 'carefully', 'slowly'] },
+                'ology': { meaning: 'study of', origin: 'Greek logos', translation: '~학', examples: ['biology', 'psychology', 'geology', 'technology'] },
+                'ion': { meaning: 'action, state', origin: 'Latin', translation: '행위, 상태', examples: ['prediction', 'action', 'creation', 'vision'] },
+                'er': { meaning: 'one who, that which', origin: 'Old English', translation: '~하는 사람/것', examples: ['teacher', 'worker', 'computer', 'speaker'] },
+                'ness': { meaning: 'state, quality', origin: 'Old English', translation: '상태, 성질', examples: ['happiness', 'darkness', 'kindness', 'weakness'] },
+                'ist': { meaning: 'one who practices', origin: 'Greek', translation: '~하는 사람', examples: ['biologist', 'artist', 'scientist', 'pianist'] },
+                'ment': { meaning: 'action, result', origin: 'Latin', translation: '행위, 결과', examples: ['movement', 'development', 'agreement', 'payment'] },
+                'ful': { meaning: 'full of', origin: 'Old English', translation: '~로 가득한', examples: ['beautiful', 'helpful', 'wonderful', 'grateful'] },
+                'less': { meaning: 'without', origin: 'Old English', translation: '~이 없는', examples: ['helpless', 'endless', 'fearless', 'harmless'] },
+                'ive': { meaning: 'having the nature of', origin: 'Latin', translation: '~의 성질을 가진', examples: ['active', 'creative', 'relative', 'positive'] },
+                'y': { meaning: 'characterized by', origin: 'Old English', translation: '~한 특징의', examples: ['happy', 'sunny', 'cloudy', 'lucky'] },
+            },
+
+            // 완전한 단어 분석 (미리 정의된 단어들)
+            words: {
+                'transportation': {
+                    parts: [
+                        { type: 'prefix', text: 'trans-', key: 'trans' },
+                        { type: 'root', text: '-port-', key: 'port' },
+                        { type: 'suffix', text: '-ation', key: 'ation' }
+                    ],
+                    meaning: '운송, 교통'
+                },
+                'biology': {
+                    parts: [
+                        { type: 'prefix', text: 'bio-', key: 'bio' },
+                        { type: 'suffix', text: '-logy', key: 'ology' }
+                    ],
+                    meaning: '생물학'
+                },
+                'unhappy': {
+                    parts: [
+                        { type: 'prefix', text: 'un-', key: 'un' },
+                        { type: 'root', text: '-happ-', key: 'happ', meaning: 'luck, fortune', origin: 'Old English', translation: '행운', examples: ['happy', 'happiness', 'unhappy', 'happily'] }
+                    ],
+                    meaning: '불행한'
+                },
+                'submarine': {
+                    parts: [
+                        { type: 'prefix', text: 'sub-', key: 'sub' },
+                        { type: 'root', text: '-mar-', key: 'mar' },
+                        { type: 'suffix', text: '-ine', key: 'ine', meaning: 'of, related to', origin: 'Latin', translation: '~의, ~와 관련된', examples: ['marine', 'divine', 'feminine'] }
+                    ],
+                    meaning: '잠수함'
+                },
+                'incredible': {
+                    parts: [
+                        { type: 'prefix', text: 'in-', key: 'in' },
+                        { type: 'root', text: '-cred-', key: 'cred' },
+                        { type: 'suffix', text: '-ible', key: 'ible' }
+                    ],
+                    meaning: '믿을 수 없는, 놀라운'
+                },
+                'psychology': {
+                    parts: [
+                        { type: 'root', text: 'psych-', key: 'psych' },
+                        { type: 'suffix', text: '-ology', key: 'ology' }
+                    ],
+                    meaning: '심리학'
+                },
+                'prediction': {
+                    parts: [
+                        { type: 'prefix', text: 'pre-', key: 'pre' },
+                        { type: 'root', text: '-dict-', key: 'dict' },
+                        { type: 'suffix', text: '-ion', key: 'ion' }
+                    ],
+                    meaning: '예측, 예언'
+                },
+                'telephone': {
+                    parts: [
+                        { type: 'prefix', text: 'tele-', key: 'tele' },
+                        { type: 'root', text: '-phon-', key: 'phon' },
+                        { type: 'suffix', text: '-e', key: 'e', meaning: 'noun marker', origin: 'Greek', translation: '명사 표시', examples: [] }
+                    ],
+                    meaning: '전화'
+                }
+            }
+        };
+
+        function setWord(word) {
+            document.getElementById('wordInput').value = word;
+            analyzeWord();
+        }
+
+        function analyzeWord() {
+            const input = document.getElementById('wordInput').value.trim().toLowerCase();
+
+            if (!input) {
+                alert('단어를 입력해주세요!');
+                return;
+            }
+
+            const analysis = etymologyDB.words[input];
+
+            if (!analysis) {
+                showError(input);
+                return;
+            }
+
+            displayResult(input, analysis);
+        }
+
+        function displayResult(word, analysis) {
+            const container = document.getElementById('resultContainer');
+
+            let partsHTML = '';
+            let componentsHTML = '';
+            let allRelatedWords = new Set();
+
+            // 단어 분해 표시
+            analysis.parts.forEach(part => {
+                partsHTML += `<span class="part ${part.type}">${part.text}</span>`;
+            });
+
+            // 각 구성 요소 설명
+            analysis.parts.forEach(part => {
+                let data;
+                if (part.key === 'happ' || part.key === 'ine' || part.key === 'e') {
+                    data = part; // 커스텀 데이터 사용
+                } else {
+                    data = etymologyDB.prefixes[part.key] ||
+                           etymologyDB.roots[part.key] ||
+                           etymologyDB.suffixes[part.key];
+                }
+
+                if (data) {
+                    const typeLabel = part.type === 'prefix' ? '접두사' :
+                                    part.type === 'root' ? '어근' : '접미사';
+
+                    componentsHTML += `
+                        <div class="component">
+                            <div class="component-header">
+                                <span class="component-type ${part.type}">${typeLabel}</span>
+                                <span class="component-word">${part.text}</span>
+                            </div>
+                            <div class="component-meaning">
+                                <strong>의미:</strong> ${data.meaning} (${data.translation})
+                            </div>
+                            <div class="component-origin">
+                                <strong>어원:</strong> ${data.origin}
+                            </div>
+                        </div>
+                    `;
+
+                    // 관련 단어 수집
+                    if (data.examples && data.examples.length > 0) {
+                        data.examples.forEach(ex => allRelatedWords.add(ex));
+                    }
+                }
+            });
+
+            // 관련 단어 HTML
+            allRelatedWords.delete(word); // 현재 단어 제외
+            const relatedWordsArray = Array.from(allRelatedWords);
+            const relatedWordsHTML = relatedWordsArray.length > 0 ? `
+                <div class="related-words">
+                    <div class="related-title">🔗 비슷한 어근을 가진 단어들</div>
+                    <div class="word-list">
+                        ${relatedWordsArray.map(w => `<span class="word-tag" onclick="setWord('${w}')">${w}</span>`).join('')}
+                    </div>
+                </div>
+            ` : '';
+
+            container.innerHTML = `
+                <div class="word-title">${word}</div>
+                <div class="breakdown">
+                    <div class="breakdown-title">📖 단어 구성 요소</div>
+                    <div class="breakdown-parts">${partsHTML}</div>
+                    <p style="color: #666; margin-top: 10px;">
+                        <strong>전체 의미:</strong> ${analysis.meaning}
+                    </p>
+                </div>
+                <div style="margin-bottom: 20px;">
+                    ${componentsHTML}
+                </div>
+                ${relatedWordsHTML}
+            `;
+
+            container.classList.add('active');
+        }
+
+        function showError(word) {
+            const container = document.getElementById('resultContainer');
+            container.innerHTML = `
+                <div class="error-message">
+                    <strong>⚠️ 죄송합니다!</strong><br>
+                    "<strong>${word}</strong>" 단어는 아직 데이터베이스에 없습니다.<br><br>
+                    위의 예시 단어들을 시도해보세요:
+                    <div style="margin-top: 10px;">
+                        <strong>transportation, biology, unhappy, submarine, incredible, psychology, prediction, telephone</strong>
+                    </div>
+                </div>
+            `;
+            container.classList.add('active');
+        }
+
+        // Enter 키로 검색
+        document.getElementById('wordInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                analyzeWord();
+            }
+        });
+
+        // 페이지 로드 시 첫 예시 표시
+        window.addEventListener('load', function() {
+            setWord('transportation');
+        });
+    </script>
+</body>
+</html>

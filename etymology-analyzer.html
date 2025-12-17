@@ -275,6 +275,110 @@
             color: #555;
             box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
         }
+
+        .api-settings {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            margin-bottom: 20px;
+        }
+
+        .api-settings h3 {
+            color: #667eea;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .api-input-group {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+
+        .api-input-group input {
+            flex: 1;
+            padding: 10px 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 0.95em;
+        }
+
+        .api-input-group button {
+            padding: 10px 20px;
+            font-size: 0.95em;
+        }
+
+        .api-status {
+            padding: 10px;
+            border-radius: 8px;
+            font-size: 0.9em;
+            margin-top: 10px;
+        }
+
+        .api-status.success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+
+        .api-status.error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+
+        .api-status.info {
+            background: #d1ecf1;
+            color: #0c5460;
+            border: 1px solid #bee5eb;
+        }
+
+        .toggle-api {
+            cursor: pointer;
+            color: #667eea;
+            text-decoration: underline;
+            font-size: 0.9em;
+            margin-top: 10px;
+            display: inline-block;
+        }
+
+        .loading {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #667eea;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .loading-container {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 20px;
+            color: #667eea;
+            font-weight: bold;
+        }
+
+        .ai-badge {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 3px 8px;
+            border-radius: 5px;
+            font-size: 0.75em;
+            margin-left: 10px;
+            font-weight: bold;
+        }
     </style>
 </head>
 <body>
@@ -282,6 +386,24 @@
         <div class="header">
             <h1>📚 영어 단어 어원 분석기</h1>
             <p>단어의 어근, 접두사, 접미사를 분석하여 어원을 탐구해보세요</p>
+        </div>
+
+        <div class="api-settings" id="apiSettings" style="display: none;">
+            <h3>🤖 AI 분석 설정 (선택사항)</h3>
+            <p style="color: #666; margin-bottom: 15px; font-size: 0.9em;">
+                Hugging Face API 키를 입력하면 모든 영어 단어를 AI로 분석할 수 있습니다.<br>
+                <a href="https://huggingface.co/settings/tokens" target="_blank" style="color: #667eea;">무료 API 키 발급받기 →</a>
+            </p>
+            <div class="api-input-group">
+                <input type="password" id="apiKeyInput" placeholder="Hugging Face API 키 입력 (예: hf_...)">
+                <button onclick="saveApiKey()">저장</button>
+                <button onclick="testApiKey()" style="background: #28a745;">테스트</button>
+            </div>
+            <div id="apiStatus"></div>
+        </div>
+
+        <div style="text-align: center; margin-bottom: 15px;">
+            <span class="toggle-api" onclick="toggleApiSettings()">⚙️ AI 분석 설정 (선택사항)</span>
         </div>
 
         <div class="search-box">
@@ -308,6 +430,178 @@
     </div>
 
     <script>
+        // API 키 관리
+        let apiKey = localStorage.getItem('hf_api_key') || '';
+
+        // API 설정 토글
+        function toggleApiSettings() {
+            const settings = document.getElementById('apiSettings');
+            if (settings.style.display === 'none') {
+                settings.style.display = 'block';
+                document.getElementById('apiKeyInput').value = apiKey;
+            } else {
+                settings.style.display = 'none';
+            }
+        }
+
+        // API 키 저장
+        function saveApiKey() {
+            const input = document.getElementById('apiKeyInput').value.trim();
+            if (input) {
+                apiKey = input;
+                localStorage.setItem('hf_api_key', apiKey);
+                showApiStatus('API 키가 저장되었습니다!', 'success');
+            } else {
+                showApiStatus('API 키를 입력해주세요.', 'error');
+            }
+        }
+
+        // API 키 테스트
+        async function testApiKey() {
+            const input = document.getElementById('apiKeyInput').value.trim();
+            if (!input) {
+                showApiStatus('API 키를 입력해주세요.', 'error');
+                return;
+            }
+
+            showApiStatus('API 연결 테스트 중...', 'info');
+
+            try {
+                const response = await fetch('https://api-inference.huggingface.co/models/meta-llama/Llama-3.2-3B-Instruct', {
+                    method: 'POST',
+                    headers: {
+                        'Authorization': `Bearer ${input}`,
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        inputs: 'test',
+                        parameters: { max_new_tokens: 10 }
+                    })
+                });
+
+                if (response.ok) {
+                    apiKey = input;
+                    localStorage.setItem('hf_api_key', apiKey);
+                    showApiStatus('✅ API 연결 성공! 이제 모든 단어를 AI로 분석할 수 있습니다.', 'success');
+                } else {
+                    showApiStatus('❌ API 키가 유효하지 않습니다. 다시 확인해주세요.', 'error');
+                }
+            } catch (error) {
+                showApiStatus('❌ 연결 실패. 인터넷 연결을 확인해주세요.', 'error');
+            }
+        }
+
+        // API 상태 메시지 표시
+        function showApiStatus(message, type) {
+            const status = document.getElementById('apiStatus');
+            status.className = `api-status ${type}`;
+            status.textContent = message;
+            status.style.display = 'block';
+        }
+
+        // AI로 단어 분석
+        async function analyzeWithAI(word) {
+            if (!apiKey) {
+                return null;
+            }
+
+            const prompt = `Analyze the English word "${word}" etymologically. Provide:
+1. Break down into prefix, root, and suffix (if applicable)
+2. Meaning and origin of each component
+3. Related words with similar roots
+
+Format your response as JSON:
+{
+  "word": "${word}",
+  "meaning": "overall meaning in Korean",
+  "parts": [
+    {
+      "type": "prefix/root/suffix",
+      "text": "the part",
+      "meaning": "meaning in English",
+      "translation": "meaning in Korean",
+      "origin": "origin (e.g., Latin, Greek)",
+      "examples": ["word1", "word2", "word3"]
+    }
+  ]
+}
+
+Be precise and concise. Only include actual prefix, root, or suffix components.`;
+
+            try {
+                const response = await fetch('https://api-inference.huggingface.co/models/meta-llama/Llama-3.2-3B-Instruct', {
+                    method: 'POST',
+                    headers: {
+                        'Authorization': `Bearer ${apiKey}`,
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        inputs: prompt,
+                        parameters: {
+                            max_new_tokens: 1000,
+                            temperature: 0.3,
+                            return_full_text: false
+                        }
+                    })
+                });
+
+                if (!response.ok) {
+                    throw new Error('API request failed');
+                }
+
+                const data = await response.json();
+                if (data && data[0] && data[0].generated_text) {
+                    const text = data[0].generated_text;
+
+                    // JSON 추출 시도
+                    const jsonMatch = text.match(/\{[\s\S]*\}/);
+                    if (jsonMatch) {
+                        const parsed = JSON.parse(jsonMatch[0]);
+                        return parsed;
+                    }
+
+                    // JSON 파싱 실패 시 텍스트 파싱
+                    return parseAIResponse(word, text);
+                }
+
+                return null;
+            } catch (error) {
+                console.error('AI analysis error:', error);
+                return null;
+            }
+        }
+
+        // AI 응답 텍스트 파싱 (JSON 실패 시)
+        function parseAIResponse(word, text) {
+            // 간단한 파싱 로직
+            return {
+                word: word,
+                meaning: `AI 분석 결과`,
+                parts: [{
+                    type: 'root',
+                    text: word,
+                    meaning: 'AI generated analysis',
+                    translation: 'AI 분석',
+                    origin: 'Various',
+                    examples: []
+                }],
+                aiGenerated: true,
+                rawText: text
+            };
+        }
+
+        // 로딩 표시
+        function showLoading() {
+            const container = document.getElementById('resultContainer');
+            container.innerHTML = `
+                <div class="loading-container">
+                    <div class="loading"></div>
+                    <span>AI가 단어를 분석하는 중입니다...</span>
+                </div>
+            `;
+            container.classList.add('active');
+        }
+
         // 어원 데이터베이스
         const etymologyDB = {
             // 접두사
@@ -441,7 +735,7 @@
             analyzeWord();
         }
 
-        function analyzeWord() {
+        async function analyzeWord() {
             const input = document.getElementById('wordInput').value.trim().toLowerCase();
 
             if (!input) {
@@ -449,64 +743,106 @@
                 return;
             }
 
-            const analysis = etymologyDB.words[input];
+            // 1. 먼저 데이터베이스에서 찾기
+            const dbAnalysis = etymologyDB.words[input];
 
-            if (!analysis) {
-                showError(input);
+            // 2. API 키가 있으면 AI 분석 시도
+            if (apiKey && !dbAnalysis) {
+                showLoading();
+                const aiAnalysis = await analyzeWithAI(input);
+
+                if (aiAnalysis) {
+                    displayResult(input, aiAnalysis, true);
+                    return;
+                }
+            }
+
+            // 3. 데이터베이스 결과가 있으면 표시
+            if (dbAnalysis) {
+                displayResult(input, dbAnalysis, false);
                 return;
             }
 
-            displayResult(input, analysis);
+            // 4. 모두 실패하면 에러 표시
+            showError(input);
         }
 
-        function displayResult(word, analysis) {
+        function displayResult(word, analysis, isAI = false) {
             const container = document.getElementById('resultContainer');
 
             let partsHTML = '';
             let componentsHTML = '';
             let allRelatedWords = new Set();
 
+            // AI 배지
+            const aiBadge = isAI ? '<span class="ai-badge">AI 분석</span>' : '';
+
+            // AI 분석의 경우 rawText가 있으면 표시
+            if (analysis.rawText) {
+                container.innerHTML = `
+                    <div class="word-title">${word}${aiBadge}</div>
+                    <div class="breakdown">
+                        <div class="breakdown-title">📖 AI 분석 결과</div>
+                        <div style="white-space: pre-wrap; line-height: 1.6; color: #333;">
+                            ${analysis.rawText}
+                        </div>
+                    </div>
+                `;
+                container.classList.add('active');
+                return;
+            }
+
             // 단어 분해 표시
-            analysis.parts.forEach(part => {
-                partsHTML += `<span class="part ${part.type}">${part.text}</span>`;
-            });
+            if (analysis.parts && analysis.parts.length > 0) {
+                analysis.parts.forEach(part => {
+                    partsHTML += `<span class="part ${part.type}">${part.text}</span>`;
+                });
+            }
 
             // 각 구성 요소 설명
-            analysis.parts.forEach(part => {
-                let data;
-                if (part.key === 'happ' || part.key === 'ine' || part.key === 'e') {
-                    data = part; // 커스텀 데이터 사용
-                } else {
-                    data = etymologyDB.prefixes[part.key] ||
-                           etymologyDB.roots[part.key] ||
-                           etymologyDB.suffixes[part.key];
-                }
-
-                if (data) {
-                    const typeLabel = part.type === 'prefix' ? '접두사' :
-                                    part.type === 'root' ? '어근' : '접미사';
-
-                    componentsHTML += `
-                        <div class="component">
-                            <div class="component-header">
-                                <span class="component-type ${part.type}">${typeLabel}</span>
-                                <span class="component-word">${part.text}</span>
-                            </div>
-                            <div class="component-meaning">
-                                <strong>의미:</strong> ${data.meaning} (${data.translation})
-                            </div>
-                            <div class="component-origin">
-                                <strong>어원:</strong> ${data.origin}
-                            </div>
-                        </div>
-                    `;
-
-                    // 관련 단어 수집
-                    if (data.examples && data.examples.length > 0) {
-                        data.examples.forEach(ex => allRelatedWords.add(ex));
+            if (analysis.parts && analysis.parts.length > 0) {
+                analysis.parts.forEach(part => {
+                    let data;
+                    if (isAI) {
+                        // AI 분석 결과는 part 자체에 모든 데이터가 있음
+                        data = part;
+                    } else {
+                        // 데이터베이스 분석
+                        if (part.key === 'happ' || part.key === 'ine' || part.key === 'e') {
+                            data = part;
+                        } else {
+                            data = etymologyDB.prefixes[part.key] ||
+                                   etymologyDB.roots[part.key] ||
+                                   etymologyDB.suffixes[part.key];
+                        }
                     }
-                }
-            });
+
+                    if (data) {
+                        const typeLabel = part.type === 'prefix' ? '접두사' :
+                                        part.type === 'root' ? '어근' : '접미사';
+
+                        componentsHTML += `
+                            <div class="component">
+                                <div class="component-header">
+                                    <span class="component-type ${part.type}">${typeLabel}</span>
+                                    <span class="component-word">${part.text}</span>
+                                </div>
+                                <div class="component-meaning">
+                                    <strong>의미:</strong> ${data.meaning} ${data.translation ? `(${data.translation})` : ''}
+                                </div>
+                                <div class="component-origin">
+                                    <strong>어원:</strong> ${data.origin}
+                                </div>
+                            </div>
+                        `;
+
+                        // 관련 단어 수집
+                        if (data.examples && data.examples.length > 0) {
+                            data.examples.forEach(ex => allRelatedWords.add(ex));
+                        }
+                    }
+                });
+            }
 
             // 관련 단어 HTML
             allRelatedWords.delete(word); // 현재 단어 제외
@@ -520,13 +856,15 @@
                 </div>
             ` : '';
 
+            const meaningText = analysis.meaning || '단어 분석';
+
             container.innerHTML = `
-                <div class="word-title">${word}</div>
+                <div class="word-title">${word}${aiBadge}</div>
                 <div class="breakdown">
                     <div class="breakdown-title">📖 단어 구성 요소</div>
-                    <div class="breakdown-parts">${partsHTML}</div>
+                    ${partsHTML ? `<div class="breakdown-parts">${partsHTML}</div>` : ''}
                     <p style="color: #666; margin-top: 10px;">
-                        <strong>전체 의미:</strong> ${analysis.meaning}
+                        <strong>전체 의미:</strong> ${meaningText}
                     </p>
                 </div>
                 <div style="margin-bottom: 20px;">
@@ -540,6 +878,19 @@
 
         function showError(word) {
             const container = document.getElementById('resultContainer');
+            const apiKeyMsg = !apiKey ? `
+                <div style="margin-top: 15px; padding: 15px; background: #e3f2fd; border-radius: 8px;">
+                    <strong>💡 모든 단어를 분석하고 싶으신가요?</strong><br>
+                    위의 "⚙️ AI 분석 설정"을 클릭하여 무료 Hugging Face API 키를 설정하세요!<br>
+                    설정 후 모든 영어 단어를 AI로 분석할 수 있습니다.
+                </div>
+            ` : `
+                <div style="margin-top: 15px; padding: 15px; background: #fff3cd; border-radius: 8px; color: #856404;">
+                    <strong>⚠️ AI 분석 실패</strong><br>
+                    API 연결에 실패했습니다. 잠시 후 다시 시도해주세요.
+                </div>
+            `;
+
             container.innerHTML = `
                 <div class="error-message">
                     <strong>⚠️ 죄송합니다!</strong><br>
@@ -548,6 +899,7 @@
                     <div style="margin-top: 10px;">
                         <strong>transportation, biology, unhappy, submarine, incredible, psychology, prediction, telephone</strong>
                     </div>
+                    ${apiKeyMsg}
                 </div>
             `;
             container.classList.add('active');

@@ -337,6 +337,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya)
 - [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) <!--stargazers:hillelcoren/flutter-redux-starter--> - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren)
+- [Nocterm](https://github.com/Norbert515/nocterm) <!--stargazers:Norbert515/nocterm--> - TUI framework for Dart with Flutter-like patterns (StatefulComponent, setState, Row, Column) and hot reload by [Norbert Kozsir](https://github.com/Norbert515)
 
 ## Bonus
 

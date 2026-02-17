@@ -394,6 +394,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Speech Recognition](https://github.com/rxlabz/speech_recognition) <!--stargazers:rxlabz/speech_recognition--> - Speech to text by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [OK Google](https://marcinszalek.pl/flutter/ok-google-flutter/) - Integrate google assistant by [Marcin Szalek](https://marcinszalek.pl/)
 
+#### Media Library
+
+- [Freak-Flix](https://github.com/Freaks-Empire/Freak-Flix) <!--stargazers:Freaks-Empire/Freak-Flix--> - Netflix-style media library manager with cloud streaming. Auto-metadata from TMDB/AniList. by [Freaks Empire](https://github.com/Freaks-Empire)
+
 ### Storage
 
 - [Firebase Storage](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_storage) - Firebase as data storage

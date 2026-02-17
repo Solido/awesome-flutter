@@ -141,6 +141,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [From Mobile to Desktop](https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e) - Building applications for smartphones and desktops by [Marcelo Henrique Neppel](https://neppel.com.br)
 - [Accessibility widgets](https://medium.com/flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc) <!--claps:flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc--> - Deep dive information about all aspects of accessibility by [Muhammed Salih Güler](https://twitter.com/salihgueler)
 - [Profiling w/ Timeline](https://medium.com/flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3) <!--claps:flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3--> - Using the Timeline allows you to find and address specific performance issues in your application by [Chinmay Garde](https://medium.com/@chinmaygarde)
+- [Offline-first Instagram Clone](https://ezit.vercel.app/projects/instagram-clone) - Ultimate offline-first Instagram clone with comprehensive 23-hour tutorial.
 
 ## Advanced graphics rendering
 
@@ -668,6 +669,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Spotube](https://github.com/KRTirtho/spotube) <!--stargazers:KRTirtho/spotube--> - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho)
 - [Let's Draw](https://github.com/JideGuru/flutter_drawing_board) <!--stargazers:JideGuru/flutter_drawing_board--> - A simple drawing app made by [JideGuru](https://github.com/JideGuru)
 - [Openreads](https://github.com/mateusz-bak/openreads-android) <!--stargazers:mateusz-bak/openreads-android--> - A simple privacy oriented mobile books tracker using Open Library API by [mateusz-bak](https://github.com/mateusz-bak)
+- [Offline-first Instagram Clone](https://github.com/itsezlife/flutter-instagram-offline-first-clone) <!--stargazers:itsezlife/flutter-instagram-offline-first-clone--> - Ultimate offline-first Instagram clone, including comprehensive 23-hour step-by-step tutorial by [Emil Zulufov](https://github.com/itsezlife)
 
 ## Utilities
 

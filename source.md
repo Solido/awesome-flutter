@@ -482,6 +482,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Permission Handler](https://github.com/baseflow/flutter-permission-handler) <!--stargazers:baseflow/flutter-permission-handler--> - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
 - [WidgetKit](https://github.com/fasky-software/flutter_widgetkit) <!--stargazers:baseflow/fasky-software/flutter_widgetkit--> - A plugins which allows you to create a Widget-Extention for iOS by [Thomas Leiter](https://github.com/tomLadder)
 - [Live Activities](https://github.com/istornz/live_activities) <!--stargazers:istornz/live_activities--> - A plugin to use iOS live activities & Dynamic Island features by [Dimitri Dessus](https://github.com/istornz)
+- [NobodyWho](https://github.com/nobodywho-ooo) <!--stargazers:nobodywho-ooo/nobodywho--> - Inference engine powered by Vulkan & Metal that lets you run LLMs locally and efficiently on any device by [NobodyWho](https://nobodywho.ooo/)
 
 #### Scanner
 

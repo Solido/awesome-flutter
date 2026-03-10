@@ -709,6 +709,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [MacOS UI](https://github.com/GroovinChip/macos_ui) <!--stargazers:GroovinChip/macos_ui--> - Widgets and themes implementing the current macOS design language by [Groovin Chip](https://twitter.com/GroovinChip)
 - [Ubuntu Yaru](https://github.com/ubuntu/yaru.dart) <!--stargazers:ubuntu/yaru.dart--> - Distinct look and feel of the Ubuntu Desktop by [Ubuntu](https://github.com/ubuntu)
 - [Awesome Flutter Desktop](https://github.com/leanflutter/awesome-flutter-desktop) <!--stargazers:leanflutter/awesome-flutter-desktop--> - A curated list of awesome things related to Flutter desktop by [LeanFlutter](https://github.com/leanflutter)
+- [openhare](https://github.com/sjjian/openhare) <!--stargazers:sjjian/openhare--> - AI-powered desktop SQL client by [sjjian](https://github.com/sjjian).
 
 ## Podcasts
 

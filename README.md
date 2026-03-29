@@ -627,6 +627,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Taskist](https://github.com/huextrat/Taskist) [1051⭐] - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat).
 - [Tourism](https://github.com/bluemix/tourism-demo) [305⭐] - Tourism app based on redux w/ animations & i18n by [blueMix](https://github.com/bluemix/tourism-demo).
 - [Linwood Butterfly](https://github.com/LinwoodCloud/Butterfly) [1463⭐] - Powerful note taking app and an alternative to OneNote by [CodeDoctorDE](https://github.com/CodeDoctorDE).
+- [MiniWiki](https://github.com/wellsa-ai/miniwiki) [1⭐] - Privacy-first personal wiki, 100% offline, E2E encrypted (ChaCha20-Poly1305), wikilinks, FTS5 full-text search by [wellsa-ai](https://github.com/wellsa-ai).
 - [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) [618⭐] - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
 - [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT).
 - [Deer](https://github.com/aleksanderwozniak/deer) [459⭐] - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak).

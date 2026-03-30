@@ -668,6 +668,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Spotube](https://github.com/KRTirtho/spotube) <!--stargazers:KRTirtho/spotube--> - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho)
 - [Let's Draw](https://github.com/JideGuru/flutter_drawing_board) <!--stargazers:JideGuru/flutter_drawing_board--> - A simple drawing app made by [JideGuru](https://github.com/JideGuru)
 - [Openreads](https://github.com/mateusz-bak/openreads-android) <!--stargazers:mateusz-bak/openreads-android--> - A simple privacy oriented mobile books tracker using Open Library API by [mateusz-bak](https://github.com/mateusz-bak)
+- [Memex](https://github.com/memex-lab/memex) <!--stargazers:memex-lab/memex--> - A local-first, AI-native personal knowledge management app. Capture thoughts through text, photos, and voice — a multi-agent system automatically organizes, extracts knowledge, and surfaces insights. All data stays on your device by [Memex Lab](https://github.com/memex-lab)
 
 ## Utilities
 

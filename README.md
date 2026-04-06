@@ -595,6 +595,7 @@ This section contains libraries that take an experimental or unorthodox approach
 #### Game Engine resources
 
 - [Awesome Flame](https://github.com/flame-engine/awesome-flame) [1248⭐] - Curated list of the best Flame games, projects, libraries, tools, tutorials, articles and more by [Flame Engine](https://github.com/flame-engine).
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Flutter/Dart development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 
 
 ## Open Source Apps

@@ -490,6 +490,7 @@ Simon Binder](https://github.com/simolus3)
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) [44⭐] - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish).
 - [App Review](https://github.com/AppleEducate/app_review) [40⭐] - Requesting and Writing Reviews for Android and iOS by [Rody Davis](https://rodydavis.com).
 - [In App Review](https://github.com/britannio/in_app_review) [360⭐] - Requesting and Writing Reviews for Android, iOS and MacOS by [Britannio Jarrett](https://github.com/britannio).
+- [Rollgate](https://pub.dev/packages/rollgate) - Feature flag management client with gradual rollouts, A/B testing, user targeting and real-time SSE updates. Backend: [Rollgate](https://rollgate.io).
 
 
 ## Frameworks

@@ -511,7 +511,7 @@ Simon Binder](https://github.com/simolus3)
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
 - [App Review](https://github.com/AppleEducate/app_review) <!--stargazers:AppleEducate/app_review--> - Requesting and Writing Reviews for Android and iOS by [Rody Davis](https://rodydavis.com)
 - [In App Review](https://github.com/britannio/in_app_review) <!--stargazers:britannio/in_app_review--> - Requesting and Writing Reviews for Android, iOS and MacOS by [Britannio Jarrett](https://github.com/britannio)
-
+- [flutter_colab](https://pub.dev/packages/flutter_colab) - Dart/Flutter client for Google Colab to execute code, manage files and control runtimes from desktop apps by [Chinmay Nagar](https://github.com/NagarChinmay)
 
 ## Frameworks
 
@@ -683,13 +683,15 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) <!--stargazers:dart-code-checker/dart-code-metrics--> - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
 - [Appainter](https://github.com/zeshuaro/appainter) <!--stargazers:zeshuaro/appainter--> - A material theme editor and generator for Flutter by [Joshua Tang](https://github.com/zeshuaro)
 - [Melos](https://github.com/invertase/melos) <!--stargazers:invertase/melos--> - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase)
-
+- [flextrix](https://pub.dev/packages/flextrix) - Adaptive UI helpers and responsive layout utilities extending Flutter's layout package by [Chinmay Nagar](https://github.com/NagarChinmay)
+- [unzipx](https://pub.dev/packages/unzipx) - Lightweight package to extract ZIP files from assets and save them to app support directory by [Chinmay Nagar](https://github.com/NagarChinmay)
 
 ### VSCode
 
 - [Awesome Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Collection of commonly used classes and methods by [Nash](https://twitter.com/Nash0x7E2)
 - [Flutter Files](https://marketplace.visualstudio.com/items?itemName=gornivv.vscode-flutter-files) - Quick generation for BLoC templates files by context menu by [Gorniv](https://github.com/gorniv).
 - [Flutter Intl](https://marketplace.visualstudio.com/items?itemName=localizely.flutter-intl) - i18n binding from arb files by [Localizely](https://twitter.com/localizely)
+- [Flutter Quick Runner](https://marketplace.visualstudio.com/items?itemName=ChipNexa.flutter-quick-runner) - Run Flutter apps from any file with smart project detection, Command Hub, one-click pub get, build runner and custom commands by [Chinmay Nagar](https://github.com/NagarChinmay)
 
 
 ### IntelliJ / Android Studio
@@ -709,6 +711,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [MacOS UI](https://github.com/GroovinChip/macos_ui) <!--stargazers:GroovinChip/macos_ui--> - Widgets and themes implementing the current macOS design language by [Groovin Chip](https://twitter.com/GroovinChip)
 - [Ubuntu Yaru](https://github.com/ubuntu/yaru.dart) <!--stargazers:ubuntu/yaru.dart--> - Distinct look and feel of the Ubuntu Desktop by [Ubuntu](https://github.com/ubuntu)
 - [Awesome Flutter Desktop](https://github.com/leanflutter/awesome-flutter-desktop) <!--stargazers:leanflutter/awesome-flutter-desktop--> - A curated list of awesome things related to Flutter desktop by [LeanFlutter](https://github.com/leanflutter)
+- [PyEngine Desktop](https://pub.dev/packages/py_engine_desktop) - Embedded Python runtime plugin for Flutter desktop — execute scripts, interactive REPL, pip package management and virtual environments on Windows/macOS/Linux by [Chinmay Nagar](https://github.com/NagarChinmay)
 
 ## Podcasts
 

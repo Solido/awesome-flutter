@@ -528,7 +528,6 @@ Simon Binder](https://github.com/simolus3)
 - [GeoFlutterFire](https://github.com/DarshanGowda0/GeoFlutterFire) [306⭐] - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/).
 - [Ferry](https://github.com/gql-dart/ferry) [627⭐] - Powerful & Extensible GraphQL Client by [Sat Mandir Khalsa](https://github.com/smkhalsa).
 
-
 ### Backend
 
 - [Serverpod](https://github.com/serverpod/serverpod) - Write your server-side code and API in Dart.
@@ -650,6 +649,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ## Utilities
 
+- [Publish CLI](https://pub.dev/packages/publish) [41⭐] - The ultimate Flutter CLI tool. Automate app configuration, multi-environment profiles, asset generation (icons/splash), and release workflows by [Mubashar Dev](https://github.com/mubashardev)
 - [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva).
 - [FlutterIcon](http://fluttericon.com/) [438⭐] - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots).
 - [FVM](https://github.com/leoafarias/fvm) [5191⭐] - Flutter Version Management: A simple cli to manage Flutter SDK versions.

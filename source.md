@@ -671,6 +671,10 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Openreads](https://github.com/mateusz-bak/openreads-android) <!--stargazers:mateusz-bak/openreads-android--> - A simple privacy oriented mobile books tracker using Open Library API by [mateusz-bak](https://github.com/mateusz-bak)
 - [Table Habit](https://github.com/FriesI23/mhabit)  <!--stargazers:FriesI23/mhabit--> - A simple micro habit tracker made by [FriesI23](https://github.com/FriesI23)
 
+### Media Library
+
+- [Tonkatsu Box](https://github.com/hacan359/tonkatsu_box) <!--stargazers:hacan359/tonkatsu_box--> - Collection manager for games, movies, TV shows, anime, visual novels, and manga with visual boards, tier lists, and multi-source import by [hacan359](https://github.com/hacan359)
+
 ## Utilities
 
 - [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)

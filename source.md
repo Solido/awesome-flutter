@@ -670,6 +670,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Let's Draw](https://github.com/JideGuru/flutter_drawing_board) <!--stargazers:JideGuru/flutter_drawing_board--> - A simple drawing app made by [JideGuru](https://github.com/JideGuru)
 - [Openreads](https://github.com/mateusz-bak/openreads-android) <!--stargazers:mateusz-bak/openreads-android--> - A simple privacy oriented mobile books tracker using Open Library API by [mateusz-bak](https://github.com/mateusz-bak)
 - [Table Habit](https://github.com/FriesI23/mhabit)  <!--stargazers:FriesI23/mhabit--> - A simple micro habit tracker made by [FriesI23](https://github.com/FriesI23)
+- [Memex](https://github.com/memex-lab/memex) <!--stargazers:memex-lab/memex--> - Open-source, local-first AI journal with multi-agent organization that auto-generates timeline cards and insights from text, photos, and voice by [Memex Lab](https://github.com/memex-lab)
 
 ## Utilities
 

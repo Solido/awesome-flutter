@@ -500,6 +500,7 @@ Simon Binder](https://github.com/simolus3)
 
 - [Bloc](https://github.com/felangel/bloc) [12288⭐] - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel).
 - [Provider](https://github.com/rrousselGit/provider) [5230⭐] - State-management library for Flutter by [Remi Rousselet](https://github.com/rrousselGit).
+- [Riverpod](https://github.com/rrousselGit/riverpod) - Reactive caching and state-management framework.
 - [RiverPod](https://github.com/rrousselGit/river_pod) [6922⭐] - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit).
 - [Get It](https://github.com/fluttercommunity/get_it) [1426⭐] - Simple direct Service Locator that allows to decouple the interface from a concrete implementation by [Thomas Burkhartb](https://twitter.com/Thomasburkhartb).
 - [GetX](https://github.com/jonataslaw/getx) [11002⭐] - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw).

@@ -577,6 +577,7 @@ Simon Binder](https://github.com/simolus3)
 ### Testing
 
 - [flutter_convenient_test](https://github.com/fzyzcjy/flutter_convenient_test) <!--stargazers:fzyzcjy/flutter_convenient_test--> - Tests with action history, time travelling, screenshots, rapid re-execution, video recordings, interactive mode by [fzyzcjy](https://github.com/fzyzcjy)
+- [FlutterProbe](https://github.com/AlphaWaveSystems/flutter-probe) <!--stargazers:AlphaWaveSystems/flutter-probe--> - High-performance E2E testing framework with natural language syntax and sub-50ms widget-tree access by [Alpha Wave Systems](https://github.com/AlphaWaveSystems)
 - [Patrol](https://github.com/leancodepl/patrol) <!--stargazers:leancodepl/patrol--> - Easy-to-learn, powerful UI testing framework eliminating limitations of `flutter_test`, `integration_test`, and `flutter_driver` by [LeanCode](https://leancode.co)
 
 ### Web

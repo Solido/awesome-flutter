@@ -896,6 +896,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### 🇪🇸 Spain
 
+* [Ano](https://ano.chat) - A collaborative shell with built-in AI integration (Claude Code) and custom CLI/MCP automations designed for elite devs.
 - [Madrid Community](https://flutter.madrid)
 - [Madrid Meetup](https://www.meetup.com/es-ES/Flutter-Madrid)
 - [Madrid Twitter](https://twitter.com/FlutterMadrid)

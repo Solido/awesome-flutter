@@ -110,6 +110,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Awesome Flutter tips](https://github.com/erluxman/awesomefluttertips/) - Tips to help developers increase productivity by [erluxman](https://twitter.com/erluxman/).
 - [Flutter4Fun](http://flutter4fun.com) - UI Challenge implementation blog by [Iman Khoshabi](https://github.com/imaNNeoFighT).
 - [Flutter Stack Weekly](https://blog.canopas.com/tagged/canopas-flutter-weekly) - Weekly newsletter on new development and updates curated by [Jimmy Sanghani](https://twitter.com/jimmys0251)
+- [FlutterTrends](https://fluttertrends.dev/) - Daily download trends, rankings, repository health and maintainer responsiveness across 20k+ pub.dev packages by [@flutter_trends](https://x.com/flutter_trends)
 
 
 ### Tutorial

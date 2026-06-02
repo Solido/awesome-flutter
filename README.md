@@ -175,6 +175,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Timeline Tile](https://github.com/JHBitencourt/timeline_tile) [783⭐] - Tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 - [Rounded Loading Button](https://github.com/chrisedg87/flutter_rounded_loading_button) [358⭐] - Button with a loading indicator, complete with success and error animations by [Chris Edgington](https://twitter.com/ChrisTheEdg).
 - [Flyer Chat](https://github.com/flyerhq/flutter_chat_ui) [2070⭐] - Community-driven chat UI implementation by the [Flyer Chat team](https://github.com/flyerhq).
+- [agent_kit](https://github.com/jayu1023/agent_kit) [⭐] - Drop-in widgets for the non-text parts of AI agent UIs: tool-call cards with state icons and JSON args, thinking bubbles, Perplexity-style citation chips, multi-step plan progress with nested children. Backend-agnostic, Material 3 themed, by [Jayu Limbani](https://github.com/jayu1023).
 - [Smooth Page Indicator](https://github.com/Milad-Akarie/smooth_page_indicator) [1383⭐] - Customizable animated page indicator with a set of built-in effects. [Milad Akarie](https://github.com/Milad-Akarie).
 - [Super Editor](https://github.com/superlistapp/super_editor/) [?⭐] - Advanced toolkit for building document editors and readers by [Flutter Bounty Hunters](https://flutterbountyhunters.com).
 
@@ -335,6 +336,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Usage](https://github.com/dart-lang/usage) [147⭐] - Google Analytics wrapper for command-line, web, and Flutter apps.
 - [Firebase Analytics](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API.
 - [Pure Mixpanel](https://github.com/seenickcode/pure_mixpanel) [25⭐] - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode).
+- [llm_meter](https://github.com/jayu1023/llm_meter) [⭐] - Per-request token cost, latency, and cache-hit observability HUD for any Flutter LLM app. Drop-in wrapper, live dev HUD, silent telemetry sink in prod. Built-in pricing for 31 hosted models (GPT-5, Claude 4.7, Gemini 2.5, Llama 3.3, etc.) by [Jayu Limbani](https://github.com/jayu1023).
 
 ### Internationalization
 

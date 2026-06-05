@@ -670,6 +670,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Let's Draw](https://github.com/JideGuru/flutter_drawing_board) <!--stargazers:JideGuru/flutter_drawing_board--> - A simple drawing app made by [JideGuru](https://github.com/JideGuru)
 - [Openreads](https://github.com/mateusz-bak/openreads-android) <!--stargazers:mateusz-bak/openreads-android--> - A simple privacy oriented mobile books tracker using Open Library API by [mateusz-bak](https://github.com/mateusz-bak)
 - [Table Habit](https://github.com/FriesI23/mhabit)  <!--stargazers:FriesI23/mhabit--> - A simple micro habit tracker made by [FriesI23](https://github.com/FriesI23)
+- [Treasure](https://github.com/Rebort-a/treasure) <!--stargazers:Rebort-a/treasure--> - Cross-platform multiplayer game collection with a pure Dart 3D voxel engine, 16 games, and zero-config LAN play by [Rebort](https://github.com/Rebort-a)
 
 ## Utilities
 

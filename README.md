@@ -347,6 +347,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Flutterial](https://github.com/rxlabz/flutterial) [1753⭐] - Flutter Material Theme explorer by [Erick Ghaumez](https://twitter.com/rxlabz).
 - [Pigment](https://github.com/bregydoc/pigment) [216⭐] - Simple but useful package for use colors in flutter.
+- [liquid_glass_hig](https://github.com/jayu1023/liquid_glass_hig) - iOS 26 Liquid Glass UI primitives — containers, sheets, nav bars, controls, pixel-matched to Apple's HIG, with Material 3 fallback on Android by [Jay Limbani](https://github.com/jayu1023).
 
 ### Media
 

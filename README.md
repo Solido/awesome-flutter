@@ -660,6 +660,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Very Good Cli](https://github.com/VeryGoodOpenSource/very_good_cli) [2304⭐] - Very Good Command Line Interface for Dart created by  [Very Good Ventures](https://github.com/VeryGoodOpenSource).
 - [Flutter Sidekick](https://github.com/leoafarias/sidekick)  [1673⭐] - Simple app to make Flutter development more delightful by [Leo Farias](https://github.com/leoafarias).
 - [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) [863⭐] - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
+- [flutter_lighthouse](https://github.com/jayu1023/flutter_lighthouse) - One-tap performance audit: auto-walks routes, scores 0–100 Chrome-Lighthouse-style, and emits actionable findings (rebuild storms, oversized images, jank) by [Jay Limbani](https://github.com/jayu1023).
 - [Appainter](https://github.com/zeshuaro/appainter) [721⭐] - A material theme editor and generator for Flutter by [Joshua Tang](https://github.com/zeshuaro).
 - [Melos](https://github.com/invertase/melos) [1382⭐] - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase).
 

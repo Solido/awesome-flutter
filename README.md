@@ -555,6 +555,7 @@ Simon Binder](https://github.com/simolus3)
 
 ### Testing
 
+- [attest](https://github.com/sahland/attest) - Accessibility auditing from a widget test with WCAG and EN 301 549 mapping, real contrast and text-overflow checks, and a CI gate by [sahland](https://github.com/sahland).
 - [flutter_convenient_test](https://github.com/fzyzcjy/flutter_convenient_test) [556⭐] - Tests with action history, time travelling, screenshots, rapid re-execution, video recordings, interactive mode by [fzyzcjy](https://github.com/fzyzcjy).
 - [Patrol](https://github.com/leancodepl/patrol) [1131⭐] - Easy-to-learn, powerful UI testing framework eliminating limitations of `flutter_test`, `integration_test`, and `flutter_driver` by [LeanCode](https://leancode.co).
 

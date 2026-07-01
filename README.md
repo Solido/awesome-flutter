@@ -424,6 +424,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Machine Learning
 
+- [liter-llm](https://github.com/xberg-io/liter-llm) [220⭐] - Universal LLM API client for 142+ providers with a unified interface and streaming, via a Dart/Flutter binding over a Rust core, by [Kreuzberg, Inc.](https://github.com/xberg-io).
 - [MLKit](https://github.com/azihsoyn/flutter_mlkit) [388⭐] - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn).
 - [m2cgen](https://github.com/BayesWitnesses/m2cgen) [2915⭐] - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses).
 

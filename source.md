@@ -247,6 +247,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [ShowCaseView](https://github.com/simformsolutions/flutter_showcaseview) <!--stargazers:simformsolutions/flutter_showcaseview--> - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
 - [Mix](https://github.com/leoafarias/mix) <!--stargazers:leoafarias/mix--> - An expressive way to effortlessly build design systems by [Leo Farias](https://github.com/leoafarias).
 - [Blurhash](https://github.com/fluttercommunity/flutter_blurhash) <!--stargazers:fluttercommunity/flutter_blurhash--> - Compact representation of a placeholder for an image. Encode a blurry image under 30 caracters by [Robert Felker](https://www.linkedin.com/in/robert-felker/)
+- [Wcag Vision](https://github.com/Fatimamostafa/wcag_vision) <!--stargazers:Fatimamostafa/wcag_vision--> - Check color contrast, simulate color blindness, and extract dominant colors from images by [Fatima Mostafa](https://github.com/Fatimamostafa).
 
 
 #### Material Design

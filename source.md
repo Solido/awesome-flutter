@@ -346,6 +346,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Parsed Text](https://github.com/fayeed/flutter_parsed_text) <!--stargazers:fayeed/flutter_parsed_text--> - Interactive text based on content recognition, also supports Regex by [Fayeed Pawaskar](https://github.com/fayeed/)
 - [TeX](https://github.com/shah-xad/flutter_tex) <!--stargazers:shah-xad/flutter_tex--> - Render Mathematics Equations with full HTML and JavaScript support by [Shahzad Akram](https://github.com/shah-xad)
 - [Code Field](https://github.com/BertrandBev/code_field) - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev)
+- [Dart PDF](https://github.com/ben-milanko/dart-pdf) <!--stargazers:ben-milanko/dart-pdf--> - Pure-Dart PDF viewer and editor with annotations, form filling, digital signatures, redaction, and text editing, no native bindings by [Ben Milanko](https://github.com/ben-milanko)
 
 ### Forms
 - [Form Builder](https://github.com/danvick/flutter_form_builder) <!--stargazers:danvick/flutter_form_builder--> - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by [Danvick Miller](https://github.com/danvick)

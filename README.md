@@ -606,6 +606,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [AppFlowy](https://github.com/AppFlowy-IO/appflowy) [65821⭐] - Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by [AppFlowy team](https://www.appflowy.io/).
 - [RustDesk](https://github.com/rustdesk/rustdesk) [99332⭐] - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by [RustDesk team](https://www.rustdesk.com/).
 - [Spotube](https://github.com/KRTirtho/spotube) - Open source Spotify client for desktop and mobile by [Kingkor Roy Tirtho](https://github.com/KRTirtho).
+- [OpenChord](https://github.com/furkanava/openchord_synth) - Open-source pocket synthesizer & chord workstation built with Flutter by [furkanava](https://github.com/furkanava).
 
 ### Top
 

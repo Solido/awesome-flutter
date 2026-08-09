@@ -204,6 +204,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Forui](https://github.com/forus-labs/forui) <!--stargazers:forus-labs/forui--> - Minimalistic UI library heavily inspired by shadcn/ui by [Forus Labs](https://github.com/forus-labs).
 - [Shadcn](https://github.com/nank1ro/flutter-shadcn-ui) <!--stargazers:nank1ro/flutter-shadcn-ui--> - Shadcn-ui port. Fully customizable UI components.
 - [TDesign Flutter](https://github.com/Tencent/tdesign-flutter) <!--stargazers:Tencent/tdesign-flutter--> - A useful UI component library matches the TDesign style by [Tencent](https://github.com/Tencent).
+- [Fossui](https://github.com/fossui/fossui) <!--stargazers:fossui/fossui--> - Minimal, framework-agnostic component set themed from a single token source, one dependency and about 384 KB with every component imported, by [Narayan](https://github.com/narayann7).
 
 #### List
 

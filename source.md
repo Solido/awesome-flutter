@@ -612,6 +612,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Party Charades](https://github.com/vintage/party_flutter) <!--stargazers:vintage/party_flutter--> - Party charades by [Kamil Rykowski](https://github.com/vintage)
 - [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) <!--stargazers:Float-like-a-dash-Sting-like-a-dart/GhostRigger--> - Ghost Rigger is a cyberpunk inspired puzzle game by [Iain Smith](https://github.com/b099l3) and [Julio Ernesto Rodríguez Cabañas](https://github.com/ernestoyaquello).
 - [Space Empires](https://github.com/satyamx64/space_empires) <!--stargazers:satyamx64/space_empires--> - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
+- [Puzzle Games](https://github.com/sidhant947/puzzle) <!--stargazers:sidhant947/puzzle--> - A collection of 200+ minimalist puzzle games by [Sidhant](https://github.com/sidhant947)
 
 #### Game Engine resources
 

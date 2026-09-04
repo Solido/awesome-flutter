@@ -362,6 +362,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [GenLang](https://github.com/KingWu/gen_lang) <!--stargazers:KingWu/gen_lang--> - Code generator for Internationalization by [King Wu](https://github.com/KingWu)
 - [Flutter Translate](https://github.com/bratan/flutter_translate) <!--stargazers:bratan/flutter_translate--> - Internationalization (i18n) library by [Florin Bratan](http://bratan.me)
 - [attranslate](https://github.com/fkirc/attranslate) - Semi-automated translation of ARB or JSON files by [fkirc](https://github.com/fkirc)
+- [doloc](https://doloc.io/getting-started/frameworks/flutter/) - API first, context aware translations
 
 
 ### Styling

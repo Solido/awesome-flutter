@@ -662,6 +662,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) [863⭐] - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
 - [Appainter](https://github.com/zeshuaro/appainter) [721⭐] - A material theme editor and generator for Flutter by [Joshua Tang](https://github.com/zeshuaro).
 - [Melos](https://github.com/invertase/melos) [1382⭐] - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase).
+- [KMEP](https://github.com/dipodev20/kmep) [1⭐] - YouTube extraction in pure Dart: streams up to 4K, search, shorts, channels, playlists, comments; on-device player.js + BotGuard PO tokens, no backend server by [dipodev20](https://github.com/dipodev20).
 
 
 ### VSCode

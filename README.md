@@ -416,6 +416,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [ActingWeb First_App](https://github.com/gregertw/actingweb_firstapp) [517⭐] - Starter app with basic elements for a team-developed production-quality app by [Greger Wedel](https://github.com/gregertw).
 - [Smart Washing Machine](https://github.com/pawlik92/flutter_whirlpool) [903⭐] - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92).
 - [Beautiful Timelines](https://github.com/JHBitencourt/beautiful_timelines) [330⭐] - A set of beautiful timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+- [FitCal Lite](https://github.com/Kishan324/fitcal-flutter-ui-kit-boilerplate) - Decoupled Material 3 frontend app boilerplate for fitness and calorie tracking managed via reactive GetX state bindings.
 
 ### Clone
 

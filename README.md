@@ -183,6 +183,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Forui](https://github.com/forus-labs/forui) [1379⭐] - Minimalistic UI library heavily inspired by shadcn/ui by [Forus Labs](https://github.com/forus-labs).
 - [Shadcn](https://github.com/nank1ro/flutter-shadcn-ui) [2276⭐] - Shadcn-ui port. Fully customizable UI components.
 - [TDesign Flutter](https://github.com/Tencent/tdesign-flutter) [951⭐] - A useful UI component library matches the TDesign style by [Tencent](https://github.com/Tencent).
+- [Riverpod](https://github.com/rrousselGit/riverpod) [7.7k⭐] - A modern, compile-safe, reactive state-management library for Flutter by [Remi Rousselet](https://github.com/rrousselGit).
+
 
 #### List
 

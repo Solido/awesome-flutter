@@ -367,6 +367,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Video Trimmer](https://github.com/sbis04/video_trimmer) [477⭐] - Visualise and trim videos by [Souvik Biswas](https://github.com/sbis04).
 - [CamerAwesome](https://github.com/Apparence-io/camera_awesome) [1117⭐] - Community camera plugin rework by [Apparence.io studio](https://apparence.io).
 - [Video Editor](https://github.com/LeGoffMael/video_editor) [472⭐] - Edit (crop, trim, rotate) a video and its cover by [Maël Le Goff](https://github.com/LeGoffMael).
+- [Omni Video Player](https://github.com/leonardmatasel/omni_video_player) - One widget and one controller for YouTube, Vimeo, HLS and local video, with automatic WebView fallback by [Leonard Matasel](https://github.com/leonardmatasel).
 
 #### Voice
 

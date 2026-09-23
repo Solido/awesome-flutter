@@ -447,6 +447,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [MLKit](https://github.com/azihsoyn/flutter_mlkit) <!--stargazers:azihsoyn/flutter_mlkit--> - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn)
 - [m2cgen](https://github.com/BayesWitnesses/m2cgen) <!--stargazers:BayesWitnesses/m2cgen--> - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses)
+- [NobodyWho](https://github.com/nobodywho-ooo/nobodywho) <!--stargazers:nobodywho-ooo/nobodywho--> - On-device LLM inference engine for offline text generation, embeddings and speech-to-text by [NobodyWho](https://github.com/nobodywho-ooo)
 
 ### Vision
 

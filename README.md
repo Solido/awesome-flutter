@@ -248,7 +248,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 #### Calendar
 
 - [Calendar Widget](https://github.com/pinkfish/flutter_calendar) [243⭐] - Calendar widget by [David Bennett](https://github.com/pinkfish).
-- [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab](https://github.com/dooboolab/flutter_calendar_carousel)
+- [Calendar Carousel Widget](https://github.com/hyochan/flutter_calendar_carousel) <!-- stargazers:hyochan/flutter_calendar_carousel--> - Calendar carousel by [hyochan](https://github.com/hyochan/flutter_calendar_carousel)
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) [1937⭐] - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
 - [Time Planner](https://github.com/Jamalianpour/time_planner) [238⭐] - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour).
 
@@ -386,7 +386,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Admob](https://pub.dev/packages/admob) - GoogleAdmob supports interstitial ads in both iOS and Android by Brett Nesbitt.
 - [Firebase AdMob](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_admob) - Ad integration using Firebase.
-- [Inapp Purchase](https://github.com/dooboolab/flutter_inapp_purchase) [573⭐] - Features set of 'in app purchase' derived from [react-native-iap](https://github.com/dooboolab/react-native-iap) by [dooboolab](https://github.com/dooboolab).
+- [Flutter Inapp Purchase](https://github.com/hyochan/flutter_inapp_purchase) [595⭐] - In-app purchase plugin for iOS and Android, now maintained in the [OpenIAP monorepo](https://github.com/hyodotdev/openiap/tree/main/libraries/flutter_inapp_purchase) and compliant with the [OpenIAP protocol](https://openiap.dev) by [hyodotdev](https://github.com/hyodotdev). Published on [pub.dev](https://pub.dev/packages/flutter_inapp_purchase).
 - [Admob Flutter](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
 - [Facebook Audience Network](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & native ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
 - [Square In-App Payments SDK](https://github.com/square/in-app-payments-flutter-plugin) [342⭐] - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square).

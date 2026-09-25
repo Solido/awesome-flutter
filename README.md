@@ -248,7 +248,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 #### Calendar
 
 - [Calendar Widget](https://github.com/pinkfish/flutter_calendar) [243⭐] - Calendar widget by [David Bennett](https://github.com/pinkfish).
-- [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab](https://github.com/dooboolab/flutter_calendar_carousel)
+- [Calendar Carousel Widget](https://github.com/hyochan/flutter_calendar_carousel) <!-- stargazers:hyochan/flutter_calendar_carousel--> - Calendar carousel by [hyochan](https://github.com/hyochan/flutter_calendar_carousel)
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) [1937⭐] - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
 - [Time Planner](https://github.com/Jamalianpour/time_planner) [238⭐] - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour).
 

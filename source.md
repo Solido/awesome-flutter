@@ -368,6 +368,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Flutterial](https://github.com/rxlabz/flutterial) <!--stargazers:rxlabz/flutterial--> - Flutter Material Theme explorer by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Pigment](https://github.com/bregydoc/pigment) <!--stargazers:bregydoc/pigment--> - Simple but useful package for use colors in flutter
+- [Wind](https://github.com/fluttersdk/wind) <!--stargazers:fluttersdk/wind--> - Tailwind CSS utility classes like `flex p-4 dark:bg-gray-800` that compose into widget trees, with responsive breakpoints, dark mode and hover states by [FlutterSDK](https://github.com/fluttersdk)
 
 ### Media
 

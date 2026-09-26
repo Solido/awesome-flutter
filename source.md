@@ -578,6 +578,7 @@ Simon Binder](https://github.com/simolus3)
 
 - [flutter_convenient_test](https://github.com/fzyzcjy/flutter_convenient_test) <!--stargazers:fzyzcjy/flutter_convenient_test--> - Tests with action history, time travelling, screenshots, rapid re-execution, video recordings, interactive mode by [fzyzcjy](https://github.com/fzyzcjy)
 - [Patrol](https://github.com/leancodepl/patrol) <!--stargazers:leancodepl/patrol--> - Easy-to-learn, powerful UI testing framework eliminating limitations of `flutter_test`, `integration_test`, and `flutter_driver` by [LeanCode](https://leancode.co)
+- [Dusk](https://github.com/fluttersdk/dusk) <!--stargazers:fluttersdk/dusk--> - E2E driver for AI agents and CI that taps, types, scrolls and screenshots a running app over VM Service and MCP, with no test harness by [FlutterSDK](https://github.com/fluttersdk)
 
 ### Web
 

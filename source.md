@@ -657,6 +657,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [StoryPad](https://github.com/theachoem/storypad) <!--stargazers:theachoem/storypad--> - Privacy-first open-source journal & diary app, offering a DayOne/MyDiary alternative by [theachoem](https://github.com/theachoem).
 - [Superhero Interaction](https://github.com/pinkeshdarji/SuperHeroInteraction) <!--stargazers:pinkeshdarji/SuperHeroInteraction--> - Cool Superhero interaction animation by [Pinkesh Darji](https://github.com/pinkeshdarji)
 - [Reply](https://github.com/flschweiger/reply) <!--stargazers:flschweiger/reply--> - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger)
+- [RexOne Mobile](https://github.com/rex-9/rexone_mobile) - Offline-first Flutter app with Drift SQLite, dynamic localization, and ActionCable sync by [Htet Naing](https://github.com/rex-9).
 - [Enigma](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki)
 - [Chillify](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
 - [Pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)

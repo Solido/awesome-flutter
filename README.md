@@ -491,6 +491,7 @@ Simon Binder](https://github.com/simolus3)
 - [App Review](https://github.com/AppleEducate/app_review) [40⭐] - Requesting and Writing Reviews for Android and iOS by [Rody Davis](https://rodydavis.com).
 - [In App Review](https://github.com/britannio/in_app_review) [360⭐] - Requesting and Writing Reviews for Android, iOS and MacOS by [Britannio Jarrett](https://github.com/britannio).
 
+- [ShipForge](https://shipforgeai.dev) - Free launch readiness tool for Flutter apps: 15-question App Store rejection audit, 40-item launch checklist, and 21 in-depth guides by [Nei Cescon](https://github.com/vogueversevbe).
 
 ## Frameworks
 

@@ -671,6 +671,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Openreads](https://github.com/mateusz-bak/openreads-android) <!--stargazers:mateusz-bak/openreads-android--> - A simple privacy oriented mobile books tracker using Open Library API by [mateusz-bak](https://github.com/mateusz-bak)
 - [Table Habit](https://github.com/FriesI23/mhabit)  <!--stargazers:FriesI23/mhabit--> - A simple micro habit tracker made by [FriesI23](https://github.com/FriesI23)
 - [FluxDown](https://github.com/zerx-lab/FluxDown) <!--stargazers:zerx-lab/FluxDown--> - Multi-protocol download manager and free IDM alternative, powered by a Rust engine by [zerx-lab](https://github.com/zerx-lab)
+- [Lotti](https://github.com/matthiasn/lotti) <!--stargazers:matthiasn/lotti--> - Private logbook for tasks, time tracking, journaling and habits, with end-to-end encrypted sync and optional AI agents, on desktop and mobile by [Matthias Nehlsen](https://github.com/matthiasn)
 
 ## Utilities
 

@@ -572,6 +572,7 @@ Simon Binder](https://github.com/simolus3)
 - [Animate Do](https://pub.dev/packages/animate_do) - Animation package inspired in Animate.css by [Fernando Herrera](https://twitter.com/Fernando_Her85).
 - [Funvas](https://github.com/creativecreatorormaybenot/funvas) <!--stargazers:creativecreatorormaybenot/funvas--> - Create fun *time based canvas animations* by [creativecreatorormaybenot](https://twitter.com/creativemaybeno).
 - [Flutter Animate](https://pub.dev/packages/flutter_animate) <!--stargazers:gskinner/flutter_animate--> - A performant library that makes it simple to add almost any kind of animated effect by [gskinner](https://gskinner.com/)
+- [SVG Animate](https://github.com/Treamz/svg_animate) <!--stargazers:Treamz/svg_animate--> - Plays SVGs that declare their own animation, in SMIL or CSS keyframes, without bundling a second renderer by [Treamz](https://github.com/Treamz)
 
 
 ### Testing

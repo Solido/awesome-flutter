@@ -93,8 +93,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Tutorial
 
-- [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs by Google Code Labs.
-- [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase integration by Google Code Labs.
+- [Your first Flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first) - Official Flutter codelab by Google.
+- [Get to know Firebase for Flutter](https://firebase.google.com/codelabs/firebase-get-to-know-flutter) - Firebase integration by Google Code Labs.
 - [Flutter and Dart development](https://suragch.medium.com/flutter-and-dart-development-articles-981be9ef7b23) - Articles and tutorials by [Suragch](https://twitter.com/Suragch1).
 
 ### Beginner

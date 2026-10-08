@@ -671,7 +671,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Openreads](https://github.com/mateusz-bak/openreads-android) <!--stargazers:mateusz-bak/openreads-android--> - A simple privacy oriented mobile books tracker using Open Library API by [mateusz-bak](https://github.com/mateusz-bak)
 - [Table Habit](https://github.com/FriesI23/mhabit)  <!--stargazers:FriesI23/mhabit--> - A simple micro habit tracker made by [FriesI23](https://github.com/FriesI23)
 - [FluxDown](https://github.com/zerx-lab/FluxDown) <!--stargazers:zerx-lab/FluxDown--> - Multi-protocol download manager and free IDM alternative, powered by a Rust engine by [zerx-lab](https://github.com/zerx-lab)
-* [ShareCLIP](https://github.com/NovaMindLab/AIShare-Grabber) - High-speed P2P Wi-Fi photo & video sync with WebRTC DataChannel and on-device AI search by [@NovaMindLab](https://github.com/NovaMindLab).
+- [ShareCLIP](https://github.com/NovaMindLab/AIShare-Grabber) <!--stargazers:NovaMindLab/AIShare-Grabber--> - High-speed P2P Wi-Fi photo & video sync with WebRTC DataChannel and on-device AI search by [NovaMindLab](https://github.com/NovaMindLab).
 
 ## Utilities
 

@@ -362,6 +362,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Video
 
+- [Better Player](https://github.com/jhomlala/betterplayer) - Advanced video player with HLS, DASH, DRM, caching, background playback, and desktop/web support by [Jakub Homlala](https://github.com/jhomlala).
 - [WebRTC](https://github.com/cloudwebrtc/flutter-webrtc) [4386⭐] - WebRTC plugin for iOS/Android by [CloudWebRtc](https://github.com/cloudwebrtc).
 - [Chewie](https://github.com/brianegan/chewie) [2034⭐] - Provides low-level access to video playback by [Brian Egan](https://github.com/brianegan).
 - [Video Trimmer](https://github.com/sbis04/video_trimmer) [477⭐] - Visualise and trim videos by [Souvik Biswas](https://github.com/sbis04).

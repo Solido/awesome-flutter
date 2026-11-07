@@ -662,7 +662,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) [863⭐] - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
 - [Appainter](https://github.com/zeshuaro/appainter) [721⭐] - A material theme editor and generator for Flutter by [Joshua Tang](https://github.com/zeshuaro).
 - [Melos](https://github.com/invertase/melos) [1382⭐] - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase).
-
+- [debug_bubble](https://github.com/Satyam-Gawali/debug_bubble) - In-app floating bubble and real-time log inspector for Flutter on physical devices by [Satyam Gawali](https://github.com/Satyam-Gawali).
 
 ### VSCode
 

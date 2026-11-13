@@ -13,6 +13,8 @@ Please note that this project is released with a [Contributor Code of Conduct](h
 When your contribution is accepted you can add the Awesome Flutter Badge to your repository
 thus signaling the quality of your work and linking to others authors Awesome projets
 
+- [techpro_test](https://github.com/techprosubh/techpro_test) <!--stargazers:techprosubh/techpro_test--> - Self-driving app explorer that finds crashes and UI bugs with their root cause, 
+  plus concise widget tests and native automation on Android and iOS by [Techprosubh](https://www.linkedin.com/company/104617664/)
  <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
   <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
  </a>

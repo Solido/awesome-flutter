@@ -272,6 +272,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab](https://github.com/dooboolab/flutter_calendar_carousel)
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) <!--stargazers:aleksanderwozniak/table_calendar--> - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
 - [Time Planner](https://github.com/Jamalianpour/time_planner) <!--stargazers:Jamalianpour/time_planner--> - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour)
+- [Infinite Calendar View](https://github.com/pickywawa/infinite_calendar_view) <!--stargazers:pickywawa/infinite_calendar_view--> - Infinite scrolling calendar views (planner, day, multi-day, month and events list) with drag and drop, pinch to zoom and multi-column support by [pickywawa](https://github.com/pickywawa)
 
 #### Backend-Driven
 

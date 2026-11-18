@@ -578,6 +578,7 @@ Simon Binder](https://github.com/simolus3)
 
 - [flutter_convenient_test](https://github.com/fzyzcjy/flutter_convenient_test) <!--stargazers:fzyzcjy/flutter_convenient_test--> - Tests with action history, time travelling, screenshots, rapid re-execution, video recordings, interactive mode by [fzyzcjy](https://github.com/fzyzcjy)
 - [Patrol](https://github.com/leancodepl/patrol) <!--stargazers:leancodepl/patrol--> - Easy-to-learn, powerful UI testing framework eliminating limitations of `flutter_test`, `integration_test`, and `flutter_driver` by [LeanCode](https://leancode.co)
+- [Mobile Agent Testers](https://github.com/pierridotite/mobile-agent-testers) <!--stargazers:pierridotite/mobile-agent-testers--> - AI agents that use your app like new users, each on its own Android emulator or iOS Simulator (language, text size, dark mode, tablet), and report the bugs with screenshots by [Pierre Raffalli](https://github.com/pierridotite)
 
 ### Web
 

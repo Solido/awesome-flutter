@@ -556,6 +556,7 @@ Simon Binder](https://github.com/simolus3)
 - [Nitric](https://github.com/nitrictech/nitric) <!--stargazers:nitrictech/nitric--> - Open source framework with pluggable deployment by [Nitric](https://nitric.io/). 
 - [Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) <!--stargazers:dengyin2000/dynamic_widget--> - Build your dynamic UI with json, and the json format is very similar with flutter widget code by [Denny Deng](https://github.com/dengyin2000).
 - [Parse for Flutter](https://github.com/parse-community/Parse-SDK-Flutter/tree/master/packages/flutter) <!--stargazers:parse-community/Parse-SDK-Flutter--> Open source backend framework by [ParsePlatform](https://parseplatform.org/).
+- [Terradart](https://github.com/nozomi-koborinai/terradart) <!--stargazers:nozomi-koborinai/terradart--> - Type-safe infrastructure as code that synthesizes Terraform JSON and generates a typed reader the app can import by [Nozomi Koborinai](https://github.com/nozomi-koborinai).
 
 
 ### Animation
